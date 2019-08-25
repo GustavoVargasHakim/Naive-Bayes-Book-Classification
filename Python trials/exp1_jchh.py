@@ -3,7 +3,7 @@ import string
 from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
 
-book = "../Management books/Busi_1.txt"
+book = "../Management books/Busi_14.txt"
 
 Busi_1 = open(book, encoding="utf-8").read()
 
@@ -29,4 +29,8 @@ single_character = ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 
 
 filtered_book = [w for w in filtered_book if not w in single_character]
 
-print(filtered_book)
+filtered_book_dist = nltk.FreqDist(w.lower() for w in filtered_book)
+most_common_words = filtered_book_dist.most_common(2200)
+
+print(filtered_book, '\n')
+print(most_common_words)
