@@ -37,9 +37,15 @@ for linea in fileinput.input(archivos, openhook=fileinput.hook_encoded("utf-8"))
                       'Ξ', 'Λ', 'Θ', 'Δ', 'Γ', 'aβ', 'aβj', 'βj', 'gf', 'pn', 'bp', 'zp', 
                       'bch', '1', '2', '3', '4', '5', '6', '7', '8', '9', '|', '°', '¬', '!', '#', 
                       '$', '%', '&', '/', '(', ')', '=', '?', '¡', '¿', ',', ';', ':', '.', '-', '_',
-                      '*', '+', '{', '}', '[', ']')
+                      '*', '+', '{', '}', '[', ']', '◦', '→', '➨', '∑')
 
         filtered_book = [w for w in filtered_book if not w in single_character]
 
         print(" -------- LIBRO -------- ")
-        print(filtered_book)
+        file = open("archivoEj.txt", "w", encoding="utf-8")
+        #file.write(filtered_book)
+        
+        for item in filtered_book:
+            file.write('\r%s' % item)
+
+        file.close()
