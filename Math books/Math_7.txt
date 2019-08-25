@@ -1,0 +1,10677 @@
+College Algebra
+
+On the cover:
+A colored version of the Flammarion Engraving. The black and white version of this engraving was included in the 1888 book by Camille Flammarion L’Atmosphère - Météorologie Populaire, which was a book
+for general audiences on meteorology. The original engraving was captioned: “Un missionaire du moyen
+âge raconte qu’il avait trouvé le point où le ciel et la Terre se touche...” This translates as “A missionary
+of the Middle Ages told of how he found the point where the sky and the earth touch...”
+The Flammarion Engraving is often interpreted as representing the human quest to discover the inner
+workings of the universe. This colored version is from the Wikimedia Commons and is credited to Hugo
+Heikenwaelder.
+
+C OLLEGE A LGEBRA
+Richard W. Beveridge
+September 2, 2018
+
+c 2018 Richard W. Beveridge
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
+License. The essence of the license is that
+You are free:
+• to Share to copy, distribute and transmit the work
+• to Remix to adapt the work
+Under the following conditions:
+• Attribution You must attribute the work in the manner specified by the author (but not in
+any way that suggests that they endorse you or your use of the work). Please contact the author
+at rbeveridge@clatsopcc.edu to determine how best to make any attribution.
+• Noncommercial You may not use this work for commercial purposes.
+• Share Alike If you alter, transform, or build upon this work, you may distribute the resulting
+work only under the same or similar license to this one.
+With the understanding that:
+• Waiver Any of the above conditions can be waived if you get permission from the copyright
+holder.
+• Public Domain Where the work or any of its elements is in the public domain under applicable
+law, that status is in no way affected by the license.
+• Other Rights In no way are any of the following rights affected by the license:
+ Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
+ The author’s moral rights;
+ Rights other persons may have either in the work itself or in how the work is used, such as
+publicity or privacy rights.
+• Notice For any reuse or distribution, you must make clear to others the license terms of this
+work. The best way to do this is with a link to the web page below.
+To view a full copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ or send a letter
+to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+2
+
+Contents
+
+1
+
+2
+
+Algebra Review
+
+5
+
+1.1
+
+Algebraic Simplification . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5
+
+1.2
+
+Factoring . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+10
+
+1.3
+
+Quadratic Equations . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+25
+
+1.4
+
+Complex Numbers . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+34
+
+1.5
+
+Quadratic Equations with Complex Roots . . . . . . . . . . . . . . .
+
+43
+
+1.6
+
+Multiplying and Dividing Rational Expressions . . . . . . . . . . .
+
+50
+
+1.7
+
+Adding and Subtracting Rational Expressions . . . . . . . . . . . .
+
+58
+
+1.8
+
+Complex Fractions . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+64
+
+1.9
+
+Rational Equations . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+67
+
+Polynomial and Rational Functions
+
+83
+
+2.1
+
+Representing Intervals . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+83
+
+2.2
+
+Solution by Graphing . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+88
+
+2.3
+
+Solution of Polynomial Inequalities by Graphing . . . . . . . . . . .
+
+92
+
+3
+
+4
+
+3
+
+CONTENTS
+2.4
+
+Solution of Rational Inequalities by Graphing . . . . . . . . . . . . . 100
+
+2.5
+
+Finding Factors from Roots . . . . . . . . . . . . . . . . . . . . . . . 108
+
+2.6
+
+Polynomial Long Division . . . . . . . . . . . . . . . . . . . . . . . . 111
+
+2.7
+
+Synthetic Division . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
+
+2.8
+
+Roots and Factorization of Polynomials . . . . . . . . . . . . . . . . 128
+
+Exponents and Logarithms
+
+135
+
+3.1
+
+Exponential and Logistic Applications . . . . . . . . . . . . . . . . . 135
+
+3.2
+
+Logarithmic Notation . . . . . . . . . . . . . . . . . . . . . . . . . . . 157
+
+3.3
+
+Solving Exponential Equations . . . . . . . . . . . . . . . . . . . . . 161
+
+3.4
+
+Solving Logarithmic Equations . . . . . . . . . . . . . . . . . . . . . 168
+
+3.5
+
+Applications of the Negative Exponential Function . . . . . . . . . 175
+
+Answer Key
+
+185
+
+Chapter 1
+Algebra Review
+This College Algebra text will cover a combination of classical algebra and analytic geometry, with an introduction to the transcendental exponential and logarithmic functions. If mathematics is the language of science, then algebra is the
+grammar of that language. Like grammar, algebra provides a structure to mathematical notation, in addition to its uses in problem solving and its ability to
+change the appearance of an expression without changing the value.
+
+1.1
+
+Algebraic Simplification
+
+When algebraic techniques are presented as skills in isolation, they are much simpler to understand and practice. However the problem solving process in any
+context involves deciding which skills to use when. Most College Algebra students will have practiced problems in the form:
+(x + 7)(x − 2) =?
+or
+(2x + 1)2 =?
+The problems in this section deal with a combination of these processes which
+are often encountered as parts of more complex problems.
+5
+
+6
+
+CHAPTER 1. ALGEBRA REVIEW
+
+Examples
+Simplify:
+
+3(x − 1)(2x + 5) − (x + 4)2
+In this example, the simplification involves two expressions: 3(x − 1)(2x + 5) and
+(x + 4)2 . The (x + 4)2 is preceded by a negative (or subtraction) sign. This textbook will often treat −x and +(−x) as equivalent statements, since subtraction is
+defined as the addition of a negative.
+We will simplify each expression separately and then look to combine like terms.
+3(x − 1)(2x + 5) − (x + 4)2 = 3(2x2 + 3x − 5) − (x2 + 8x + 16)
+Notice that the results of both multiplications remain inside of parentheses. This
+is because each one has something that must be distributed.
+In the case of (2x2 + 3x − 5), there is a 3 which must be distributed, resulting in
+6x2 + 9x − 15. In the case of (x2 + 8x + 16) there is a negative sign or −1 which
+must be distributed, resulting in −x2 − 8x − 16. It is important in these situations
+that the negative sign be distributed to all terms in the parentheses.
+So:
+3(x − 1)(2x + 5) − (x + 4)2 = 3(2x2 + 3x − 5) − (x2 + 8x + 16)
+= 6x2 + 9x − 15 − x2 − 8x − 16
+= 5x2 + x − 31
+Simplify:
+
+2(x + 3)2 − 4(3x − 1)(x + 2)
+This example shows some of the same processes as the previous example. There
+are again two expressions that must be simplified, each of which has a coefficient
+that must be distributed. It is often helpful to wait until after multiplying the
+binomials before distributing the coefficient. However, as is often true in math-
+
+1.1. ALGEBRAIC SIMPLIFICATION
+
+7
+
+ematics, there are several different approaches that may be taken in simplifying
+this problem.
+If someone prefers to first distribute the coefficient before multiplying the binomials, then the coefficient must only be distributed to ONE of the binomials, but
+not both. For example, in multiplying 3∗2∗5 = 30, we can first multiply 2∗5 = 10
+and then 3 ∗ 10 = 30. Each factor is multiplied only once.
+In the example above we can proceed as we did with the previous example:
+
+2(x + 3)2 − 4(3x − 1)(x + 2) = 2(x2 + 6x + 9) − 4(3x2 + 5x − 2)
+= 2x2 + 12x + 18 − 12x2 − 20x + 8
+= −10x2 − 8x + 26
+
+Or, we can choose to distribute the 4 first:
+
+2(x + 3)2 − 4(3x − 1)(x + 2) = 2(x2 + 6x + 9) − (12x − 4)(x + 2)
+= 2x2 + 12x + 18 − (12x2 + 20x − 8)
+= 2x2 + 12x + 18 − 12x2 − 20x + 8
+= −10x2 − 8x + 26
+
+Or, we can distribute the 4 as a negative. If we do this, then the sign in front of
+the parentheses will be positive:
+
+2(x + 3)2 − 4(3x − 1)(x + 2) = 2(x2 + 6x + 9) + (−12x + 4)(x + 2)
+= 2x2 + 12x + 18 + (−12x2 − 20x + 8)
+= −10x2 − 8x + 26
+
+Distributing the 2 in front of the squared binomial must also be handled carefully
+if you choose to do this. If you distribute the 2 before squaring the (x + 3), then
+the 2 will be squared as well. If you choose to distribute the 2, the (x + 3)2 must
+be written out as (x + 3)(x + 3):
+
+8
+
+CHAPTER 1. ALGEBRA REVIEW
+2(x + 3)2 − 4(3x − 1)(x + 2) = 2(x + 3)(x + 3) − 4(3x − 1)(x + 2)
+= (2x + 6)(x + 3) − 4(3x2 + 5x − 2)
+= 2x2 + 12x + 18 − 12x2 − 20x + 8
+= −10x2 − 8x + 26
+
+Most examples in this text will distribute the coefficients as the last step before
+combining like terms for a final answer.
+
+Simplify:
+
+3x[5 − (2x + 7)] + (3x − 2)2 − (x − 5)(x + 4)
+
+This example has three expressions that should be simplified separately before
+combining like terms. In the first expression 3x[5 − (2x + 7)], we should simplify
+inside the brackets before distributing the 3x.
+3x[5 − (2x + 7)] + (3x − 2)2 − (x − 5)(x + 4)
+= 3x[5 − 2x − 7] + (3x − 2)2 − (x − 5)(x + 4)
+= 3x[−2x − 2] + (3x − 2)(3x − 2) − (x2 − x − 20)
+= −6x2 − 6x + (9x2 − 12x + 4) − x2 + x + 20
+= −6x2 − 6x + 9x2 − 12x + 4 − x2 + x + 20
+= 2x2 − 17x + 24
+
+1.1. ALGEBRAIC SIMPLIFICATION
+
+Exercises 1.1
+Simplify each expression.
+
+1)
+
+(x − 2)[2x − 2(3 + x)] − (x + 5)2
+
+2)
+
+3x2 − [7x − 2(2x − 1)(3 − x)]
+
+3)
+
+(a + b)2 − (a + b)(a − b) − [a(2b − 2) − (b2 − 2a)]
+
+4)
+
+5x − 3(x − 2)(x + 7) + 3(x − 2)2
+
+5)
+
+(m + 3)(m − 1) − (m − 2)2 + 4
+
+6)
+
+(a − 1)(a − 2) − (a − 2)(a − 3) + (a − 3)(a − 4)
+
+7)
+
+2a2 − 3(a + 1)(a − 2) − [7 − (a − 1)]2
+
+8)
+
+2(x − 5)(3x + 1) − (2x − 1)2
+
+9)
+
+6y + (3y + 1)(y + 2) − (y − 3)(y − 8)
+
+10)
+
+6x − 4(x + 10)(x − 1) + (x + 1)2
+
+9
+
+10
+
+1.2
+
+CHAPTER 1. ALGEBRA REVIEW
+
+Factoring
+
+This section will review three of the most common types of factoring - factoring
+out a Greatest Common Factor, Trinomial Factoring and factoring a Difference of
+Squares.
+
+Greatest Common Factor
+Factoring out a greatest common factor essentially undoes the distributive multiplication that often occurs in mathematical expressions. This factor may be monomial or polynomial, but in these examples, we will explore monomial common
+factors.
+In multiplying 3xy 2 (5x−2y) = 15x2 y 2 −6xy 3 the monomial term 3xy 2 is multiplied
+or distributed to both terms inside the parentheses. The process of factorization
+undoes this multiplication.
+
+Example:
+
+Factor 7x2 + 14x
+
+This expression has two terms. The coefficients share a common factor of 7 and
+the only variable involved in this expression is x. The highest power of the variable that is shared by both terms is x1 , so this is the power of x that can be factored
+out of both terms. The greatest common factor is 7x.
+7x2 + 14x = 7x(x + 2)
+It isn’t necessary to find the greatest common factor right away. In more complicated problems, the factoring can be accomplished in pieces, similar in fashion to
+reducing fractions.
+
+1.2. FACTORING
+
+11
+
+Example:
+
+Factor 42x2 y 6 + 98xy 3 − 210x3 y 2
+
+This expression has three terms. It’s not immediately clear what the greatest
+common factor of the coefficients is, but they’re all even numbers, so we could at
+least divide them all by 2. The 98xy 3 term has an x1 , which means that this is the
+hightest power of x that we could factor out of all the terms. The 210x3 y 2 has a
+y 2 , which is the highest power of y that can be factored out of all the terms. So we
+can at least proceed with these factors:
+42x2 y 6 + 98xy 3 − 210x3 y 2 = 2xy 2 ∗ 21xy 4 + 2xy 2 ∗ 49y − 2xy 2 ∗ 105x2
+= 2xy 2 (21xy 4 + 49y − 105x2 )
+Now, we didn’t try very hard to find the greatest common factor in the beginning
+of this problem, so it’s important that we continue to question whether or not
+there are any remaining common factors. The 21 and 49 clearly share a common
+factor of 7, so it would make sense to see if 105 is divisible by 7 as well. If we
+divide 105 by 7, we see that 105 = 7*15. So, we can also factor out a common
+factor of 7 from the remaining terms in the parentheses.
+2xy 2 (21xy 4 + 49y − 105x2 ) = 2xy 2 (7 ∗ 3xy 4 + 7 ∗ 7y − 7 ∗ 15x2 )
+= 7 ∗ 2xy 2 (3xy 4 + 7y − 15x2 )
+= 14xy 2 (3xy 4 + 7y − 15x2 )
+
+12
+
+CHAPTER 1. ALGEBRA REVIEW
+
+Trinomial Factoring (a = 1)
+Trinomial factoring undoes the multiplication of two binomials, and it comes in
+two flavors - simple and complex. The simplest form of trinomial factoring involves a trinomial expression in the form ax2 + bx + c in which the value of a is 1.
+This makes the task of factorization simpler than if the value of a is not 1.
+
+Example
+
+Factor x2 + 7x + 10
+
+In this example, the value of a is 1, which makes this type of trinomial factoring
+a little less difficult that it would otherwise be. Whether or not the value of a is 1,
+the fundamental issue that governs this type of factoring is the + or − sign of the
+constant term. In this problem, the constant term is positive. That means that we
+need to find factors of 10 that add up to 7. This is relatively straightforward:
+x2 + 7x + 10 = (x + 2)(x + 5)
+A companion problem to this one is x2 − 7x + 10. Notice that, in this case, the
+sign of the constant term is still positive, which means that we still need factors
+of 10 that add up to 7. This means we still need to use 2 and 5. However, in
+this case, instead of the +10 being produced from a multiplication of (+2)(+5),
+it is the result of multiplying (−2)(−5). This is what makes the 7 in the second
+example negative:
+x2 − 7x + 10 = (x − 2)(x − 5)
+Example
+
+Factor x2 + 3x − 10
+
+In this case, the sign of the constant term is negative. That means that we need to
+find factors of 10 that have a difference of 3. This is still 5 and 2.
+
+1.2. FACTORING
+
+13
+x2 + 3x − 10 = (x − 2)(x + 5)
+
+The multiplication of the (−2) and the (+5) produce the (−10) and the fact that
+the 2 and 5 have opposite signs creates the difference that gives us (+3). A companion problem to this one is x2 − 3x − 10. In this case, the sign of the constant
+term is still negative, which means that we still need factors of 10 that have a
+difference of 3. This means we still need to use 2 and 5. However in this case,
+instead of the (+3) as the coefficient of the middle term, we’ll need a (−3). To do
+this we simply reverse the signs of the 2 and 5 from the previous problem:
+x2 − 3x − 10 = (x + 2)(x − 5)
+Now the (+2)(−5) gives us (−10), but the +2x − 5x gives us (−3x) instead of
+(+3x).
+Example
+Factor x2 + 11x − 42
+
+In this problem, the sign of the constant term is negative. That means that we
+need factors of 42 that have a difference of 11. A systematic exploration of all the
+factor pairs of 42 can help us to find the correct pair:
+
+1
+
+42
+
+2
+
+21
+
+3
+
+14
+
+6
+
+7
+
+14
+
+CHAPTER 1. ALGEBRA REVIEW
+
+Here, we can see that the factors 3 and 14 have a difference of 11. This means that
+we will use these factors in our answer: (x
+3)(x
+14). In determining how
+to place the + and − signs in the parentheses, we can refer back to the original
+problem: x2 + 11x − 42. If we want a difference of (+11x), then we’ll need to have
+a (+14) and a (−3):
+x2 + 11x − 42 = (x − 3)(x + 14)
+Example
+Factor x2 + 28x + 96
+
+In this problem, the sign of the constant term is positive. That means that we
+need factors of 96 that add up to 28. A systematic exploration of all the factor
+pairs of 96 can help us to find the correct pair:
+
+1
+
+96
+
+2
+
+48
+
+3
+
+32
+
+4
+
+24
+
+6
+
+16
+
+8
+
+12
+
+Here, we can see that the factors 4 and 24 add up to 28. This means that we will
+use these factors in our answer: (x
+4)(x
+24). In determining how to place
+the + and − signs in the parentheses, we can refer back to the original problem:
+x2 + 28x + 96. If we want 4 and 24 to add up to (+28), then they should both be
+positive:
+x2 + 28x + 96 = (x + 4)(x + 24)
+
+1.2. FACTORING
+
+15
+
+In building the charts of factor pairs in the previous two problems, nothing more
+difficult than dividing the constant term by the numbers 1, 2, 3, 4, 5, 6, ... and so
+on can help you to find the full list of factor pairs. If you don’t get a whole number when dividing - for instance 96 ÷ 5 = 19.2, then this number is not included
+in the list of factor pairs.
+
+Trinomial Factoring (a 6= 1)
+If the value of a is not 1, this means that, if the trinomial is factorable, at least one
+of its binomial factors also has a coefficient other than 1. For instance:
+(2x + 7)(x − 3) = 2x2 + 1x − 21
+If we were to try undo this multiplication through the process of trinomial factoring, we should look to the sign of the constant term. In this example, the sign
+is negative. This still means that we will need to find factor pairs that produce
+a difference of (+1x) as the middle term. However, in this scenario, it is not just
+the factors of 21 that are involved in producing the (+1x), but the combination
+of the factors of 21 and the factors of the leading coefficient 2. The middle term
+(+1x) comes from the multiplication of the (2x)(−3) and the multiplication of
+(+7)(+1x):
+(2x + 7)(x − 3)
+
+(2x + 7)(x − 3) = 2x2 − 6x + 7x − 21
+= 2x2 + x − 21
+In trying to factor a trinomial like 2x2 + x − 21, we need to take this into consideration. For example, if we were to factor 3x2 − 10x + 8, we should first still look
+to the sign of the constant term, which, in this case, is positive. That means we
+want factor pairs that will add up to 10. But we have to take into consideration
+the interaction of the factors of the 3 with the factors of the 8. The 3 is a prime
+number, which means that we don’t have a choice - it can only be split up into
+3 ∗ 1, so we can start:
+Factor 3x2 + 10x + 8
+
+16
+
+CHAPTER 1. ALGEBRA REVIEW
+(3x
+
+?)(x
+
+?)
+
+Our options for filling in the question marks will come from the factors of 8, either
+8 ∗ 1 or 4 ∗ 2. The process is by trial and error:
+(3x
+
+8)(x
+
+1)
+
+(3x
+
+3x + 8x = 11x
+
+(3x
+
+4)(x
+
+1)(x
+
+8)
+
+24x + 1x = 25x
+
+2)
+
+(3x
+
+6x + 4x = 10x
+
+2)(x
+
+4)
+
+12x + 2x = 14x
+
+We can see that the choice above:
+(3x
+
+4)(x
+
+2)
+
+gives us the required 10x as the middle term. Since the original problem was
+3x2 + 10x + 8 we’ll want to fill in the signs as both positive:
+3x2 + 10x + 8 = (3x + 4)(x + 2)
+
+A second method for handling this type of factoring depends on how the factors
+of the leading coefficient and constant term interact with each other to produce
+the middle term. In this process, given the problem 3x2 + 10 + 8, we can multiply
+the first and last coefficient and then look at the factor pairs of the product:
+3 ∗ 8 = 24
+
+1.2. FACTORING
+
+17
+
+1
+
+24
+
+2
+
+12
+
+3
+
+8
+
+4
+
+6
+
+We can see that the factor pair of 24 that adds up to 10 is 6 ∗ 4. We proceed by
+splitting the 10x into 6x + 4x and then factor by grouping. If you are uncomfortable with factoring by grouping, then this is probably not a good method to
+try. However, if you are comfortable with factoring by grouping, the rest of the
+process is relatively straightforward:
+3x2 + 10x + 8 = 3x2 + 6x + 4x + 8
+We then factor a common factor from the first two terms and the last two terms
+separately, and then factor out the common binomial factor of (x + 2):
+3x2 + 10x + 8 = 3x2 + 6x + 4x + 8
+= 3x(x + 2) + 4(x + 2)
+= (x + 2)(3x + 4)
+Example
+
+Factor 7x2 − 5x − 18
+
+In this example, the sign of the constant term is negative, which means that we’ll
+need factor pairs that produce a difference of 5. The leading coefficient is 7, which
+is prime, so, again, the only way to split up the 7 is 7 ∗ 1.
+(7x
+
+?)(x
+
+?)
+
+The options for filling in the question marks come from the factors of 18, for
+
+18
+
+CHAPTER 1. ALGEBRA REVIEW
+
+which there are three possibilities: 18 ∗ 1, 9 ∗ 2, or 6 ∗ 3. We’ll try each of these
+factor pairs in place of the question marks:
+(7x
+
+18)(x
+
+1)
+
+(7x
+
+1)(x
+
+18)
+
+18x − 7x = 11x
+
+126x − 1x = 125x
+
+(7x
+
+(7x
+
+9)(x
+
+2)
+
+14x − 9x = 5x
+
+(7x
+
+6)(x
+
+2)(x
+
+9)
+
+63x − 2x = 61x
+
+3)
+
+(7x
+
+21x − 6x = 15x
+
+3)(x
+
+6)
+
+42x − 3x = 39x
+
+The choice above:
+(7x
+
+9)(x
+
+2)
+
+gives us the required 5x as the middle term. Since we’re looking for a (−5x), we’ll
+make the 14 negative and the 9 positive: −14x + 9x = −5x.
+7x2 − 5x − 18 = (7x + 9)(x − 2)
+
+1.2. FACTORING
+
+19
+
+If we want to try the other method for factoring 7x2 − 5x − 18, we would multiply
+7 ∗ 18 = 126, and then work to find factor pairs of 126 that have a difference of 5:
+
+1
+
+126
+
+2
+
+63
+
+3
+
+42
+
+6
+
+21
+
+7
+
+18
+
+9
+
+14
+
+Here, the last factor pair, 9 ∗ 14, has a difference of 5. So then we proceed to factor
+by grouping:
+7x2 − 5x − 18 = 7x2 + 9x − 14x − 18
+= x(7x + 9) − 2(7x + 9)
+= (7x + 9)(x − 2)
+Notice that when the −2 was factored out from the last two terms −14x − 18, we
+ended up with −2(7x + 9), because (−2) ∗ (+9) = −18. This is also important because in order to factor out the common binomial factor of (7x + 9), this binomial
+must be exactly the same in both terms.
+
+20
+
+CHAPTER 1. ALGEBRA REVIEW
+
+Difference of Squares
+Factoring a difference of squares is actually a special form of trinomial factoring.
+If we consider a trinomial of the form ax2 + bx + c, where c is a perfect square and
+negative, we will find something interesting about the possible values of b that
+make the trinomial factorable.
+
+Example
+Consider x2 + bx − 36
+For this expression to be factorable, the middle coefficient b would need to be
+equal to the difference of any of the factor pairs of 36. If we look at the possible
+factor pairs, we see the following:
+
+1
+
+36
+
+2
+
+18
+
+3
+
+12
+
+4
+
+9
+
+6
+
+6
+
+This means that the possible values for b that would make this expression factorable are:
+36 − 1 = 35 → x2 + 35x − 36 = (x + 36)(x − 1)
+18 − 2 = 16 → x2 + 16x − 36 = (x + 18)(x − 2)
+12 − 3 = 9 → x2 + 9x − 36 = (x + 12)(x − 3)
+9 − 4 = 5 → x2 + 5x − 36 = (x + 9)(x − 4)
+6 − 6 = 0 → x2 + 0x − 36 = x2 − 36 = (x + 6)(x − 6)
+
+1.2. FACTORING
+
+21
+
+As we see, factoring x2 − 36 means that the factors of the perfect square 36 = 6 ∗ 6
+will cancel each other out leaving 0x in the middle. If there is a perfect square as
+the leading coefficient, then this number should be square rooted as well:
+16x2 − 25 = (4x + 5)(4x − 5)
+In the example above, the +20x and −20x as the middle terms cancel each other
+out leaving just 16x2 − 25.
+These three types of factoring can also be combined with each other as we see in
+the following examples.
+Example
+Factor 2x2 − 50
+This is not a trinomial because it doesn’t have three terms. It is also not a difference of squares because 2 and 50 are not perfect squares. However, there is a
+common factor of 2 which we can factor out:
+2x2 − 50 = 2(x2 − 25)
+The expression inside the parentheses is a difference of squares and should be
+factored:
+2x2 − 50 = 2(x2 − 25) = 2(x + 5)(x − 5)
+Example
+Factor 24 − 2x − x2
+Here the sign of the x2 term is negative. For this problem we can factor out
+a −1 and proceed as we did with the previous problems in which the leading
+coefficient was positive or we can factor it as it is:
+24 − 2x − x2 = −(x2 + 2x − 24) = −(x + 6)(x − 4)
+
+22
+
+CHAPTER 1. ALGEBRA REVIEW
+
+If we want to factor it as it is, we should be aware that the constant term is positive
+and the quadratic term is negative, which means that we will want the factors of
+24 to have a difference of 2.
+24 − 2x − x2 = (6 + x)(4 − x)
+Example
+Factor 6x2 + 12x + 6
+First, we notice that this expression has a common factor of 6. If we factor out the
+6, then we should be left with an easier problem:
+6x2 + 12x + 6 = 6(x2 + 2x + 1) = 6(x + 1)(x + 1) = 6(x + 1)2
+
+1.2. FACTORING
+
+23
+
+Exercises 1.2
+Factor each expression completely.
+1)
+
+8a2 b3 + 24a2 b2
+
+2)
+
+19x2 y − 38x2 y 3
+
+3)
+
+13t8 + 26t4 − 39t2
+
+4)
+
+5y 5 + 25y 4 − 20y 3
+
+5)
+
+45m4 n5 + 36mn6 + 81m2 n3
+
+6)
+
+125x3 y 5 + 60x4 y 4 − 85x5 y 2
+
+Factor each trinomial into the product of two binomials.
+7)
+
+10)
+
+a2 + 3a + 2
+
+t2 − 13t + 42
+
+y 2 − 8y − 48
+
+8)
+
+11)
+
+m2 + 3m − 54
+
+9)
+
+12)
+
+x2 − 6x − 27
+
+x2 + 11x + 24
+
+Factor completely. Remember to look first for a common factor. If the polynomial
+is prime, state this.
+13)
+
+a2 − 9
+
+14)
+
+y 2 − 121
+
+15)
+
+−49 + k 2
+
+16)
+
+−64 + t2
+
+17)
+
+6x2 − 54
+
+18)
+
+25y 2 − 4
+
+19)
+
+200 − 2a2
+
+20)
+
+3m2 − 12
+
+21)
+
+98 − 8k 2
+
+22)
+
+−80w2 + 45
+
+23)
+
+5y 2 − 80
+
+24)
+
+−4a2 + 64
+
+24
+25)
+
+CHAPTER 1. ALGEBRA REVIEW
+8y 2 − 98
+
+26)
+
+24a2 − 54
+
+28)
+
+16y − 81y 3
+
+27)
+
+36k − 49k 3
+
+Factor each trinomial completely. Remember to look first for a common factor. If
+the polynomial is prime, state this.
+29)
+
+3y 2 − 15y + 16
+
+30)
+
+8a2 − 14a + 3
+
+31)
+
+9x2 − 18x + 8
+
+32)
+
+6a2 − 17a + 12
+
+33)
+
+2x2 + 7x + 6
+
+34)
+
+2m2 + 13m − 18
+
+35)
+
+20y 2 + 22y + 6
+
+36)
+
+36x2 + 81x + 45
+
+37)
+
+24a2 − 42a + 9
+
+38)
+
+48x2 − 74x − 10
+
+Factor each expression completely.
+39)
+
+30 + 7y − y 2
+
+40)
+
+45 + 4a − a2
+
+41)
+
+24 − 10x − x2
+
+42)
+
+36 − 9x − x2
+
+43)
+
+84 − 8x − x2
+
+44)
+
+72 − 6a − a2
+
+45)
+
+6y 2 + 24y + 15
+
+46)
+
+10y 2 − 75y + 35
+
+47)
+
+20ax2 − 36ax − 8a
+
+1.3. QUADRATIC EQUATIONS
+
+1.3
+
+25
+
+Quadratic Equations
+
+Quadratic equations are equations of the second degree. The solution of quadratic
+equations has a long history in mathematics going back several thousand years
+to the geometric solutions produced by the Babylonian culture. The Indian mathematician Brahmagupta used ”rhetorical algebra” (algebra written out in words)
+in the 7th century to produce solutions to quadratic equations and Arab mathematicians of 9th and 10th centuries followed simlar methods. Leonardo of Pisa,
+also known as Fibonacci included information on the Arab approach to solving
+quadratic equations in his book Liber Abaci, published in 1202.
+The quadratic formula is generally used to solve quadratic equations in standard
+form: ax2 + bx + c = 0. The solutions for this are:
+√
+−b ± b2 − 4ac
+x=
+2a
+Now, the question is - why does this formula give solutions to the standard
+quadratic equation? We can proceed as we normally do in solving linear equations - that is, by getting the x by itself. The only problem here is that instead of
+just x, there are also terms involving x2 . This is where the process of completing
+the square comes in handy.
+We can begin with the quadratic equation in standard form:
+ax2 + bx + c = 0
+Just as it is easier to factor a quadratic trinomial if the leading coefficient is 1, this
+process of completing the square is also easier if the leading coefficient is 1. So,
+next we will divide through on both sides of this equation by a.
+0
+ax2 + bx + c
+=
+a
+a
+ax2 bx c
+0
++
++ =
+a
+a
+a
+a
+x2 + ab x +
+
+c
+a
+
+=0
+
+26
+
+CHAPTER 1. ALGEBRA REVIEW
+
+c
+Then, we will move the to the other side of the equation to clear out some room
+a
+for completing the square:
+b
+c
+x2 + x + = 0
+a
+a
+c
+c
+− =−
+a
+a
+b
+x2 + x
+a
+
+=−
+
+c
+a
+
+Now we need to complete the square. If you are already familiar with this process, you may wish to skip the following explanation.
+If we look at what happens when we square a binomial like (x+3)2 , we will begin
+to notice a pattern.
+(x + 3)2 = (x + 3)(x + 3) = x2 + 6x + 9
+(x + 4)2 = (x + 4)(x + 4) = x2 + 8x + 16
+(x + 5)2 = (x + 5)(x + 5) = x2 + 10x + 25
+(x + 6)2 = (x + 6)(x + 6) = x2 + 12x + 36
+Our goal in the derivation of the Quadratic Formula is to rewrite the expression
+)2 . The reason that we want to do
+x2 + ab x as a perfect square in the form (x+
+this is that writing an expression as a binomial squared eliminates the problem of
+having both an x and an x2 , which was preventing us from getting the x by itself
+in the standard quadratic equation.
+If we can figure out what should take the place of the blanks in the statement:
+x2 + ab x+
+
+= (x+
+
+)2
+
+then we will be well on our way to deriving the quadratic formula.
+
+1.3. QUADRATIC EQUATIONS
+
+27
+
+If we re-examine the sample perfect binomial squares from the previous page, we
+note a useful pattern. This is that the blank in the parentheses (x+
+)2 is filled
+by a number that is one-half the value of the linear coefficient - or the coefficient
+of the x1 term. Notice that in x2 + 6x + 9 = (x + 3)2 , 3 is half of 6, in x2 + 8x + 16 =
+as a perfect
+(x + 4)2 , the 4 is half of 8, and so on. If we want to write x2 + ab x+
+2
+square in the form (x+
+) , the blank in the parentheses should be filled by:
+
+b
+Now, it’s not true that x2 + x+
+a
+
+1 b
+b
+∗ =
+2 a
+2a
+
+2
+b
+= x+
+2a
+
+We’re missing the constant term on the left. However, if we return to our perfect
+square examples, we can see that the constant term is always the square of the
+term inside inside the parentheses. So, we can restate our problem now as:
+
+b
+x + x+
+a
+2
+
+
+
+b
+2a
+
+2
+
+b
+x+
+2a
+
+2
+
+
+
+b
+x+
+2a
+
+2
+
+=
+
+b
+b2
+x + x+ 2 =
+a
+4a
+2
+
+
+
+So, if we return to our originial problem, we were saying that:
+b
+c
+x2 + x + = 0
+a
+a
+c
+c
+− =−
+a
+a
+b
+x2 + x
+a
+
+=−
+
+c
+a
+
+28
+
+CHAPTER 1. ALGEBRA REVIEW
+
+b2
+We can add 2 to both sides of this equation and then restate the left hand side
+4a
+as a perfect square of a binomial:
+b
+x2 + x
+a
+
+=−
+
+c
+a
+
+b2
+b2
++ 2 =+ 2
+4a
+4a
+b
+b2
+c
+b2
+x + x+ 2 =− + 2
+a
+4a
+a 4a
+2
+
+
+2
+b2
+b
+c
+x+
+=− + 2
+2a
+a 4a
+The last tricky bit of this derivation is adding the two fractions on the right hand
+side. The common denominator for these fractions is 4a2 , so we’ll need to multic
+4a
+4ac
+b2 − 4ac
+ply the − by
+to get − 2 . Then the right hand side will be
+:
+a
+4a
+4a
+4a2
+2
+
+b2 − 4ac
+b
+=
+x+
+2a
+4a2
+Then, we can take the square root of both sides and get the x by itself:
+s
+
+b
+x+
+2a
+
+2
+
+r
+=±
+
+b2 − 4ac
+4a2
+
+√
+b
+± b2 − 4ac
+√
+x+
+=
+2a
+4a2
+√
+b
+± b2 − 4ac
+x+
+=
+2a
+2a
+
+1.3. QUADRATIC EQUATIONS
+
+29
+
+b
+from both sides is easy since we already have a common denomSubtracting
+2a
+inator:
+√
+b
+± b2 − 4ac
+x+
+=
+2a
+2a
+−
+
+b
+b
+=−
+2a
+2a
+
+x=
+
+−b ±
+
+√
+
+b2 − 4ac
+2a
+
+At the college algebra level, it is often useful to program the quadratic formula
+onto a graphing calculator both for easy use and also to learn a little bit about
+programming. The following program is a simple example of this for the TI84 series of graphing calculators. Graphing calculators also often have built-in
+polynomial solver feature that can be used to solve quadratics.
+Press the ”prgm” key in the top middle of the calculator keypad. This will bring
+up a screen that shows EXEC
+EDIT
+NEW across the top. Arrow over across
+the top to ”NEW,” and then select 1: Create New.
+This will bring up a screen asking you to name the program. You should see
+PROGRAM and then underneath it, ”Name=”. The alpha lock is on automatically, so any key you press will type the letter associated with it. Name your
+program and press ENTER. You should see PROGRAM: Name, with whatever
+name you’ve chosen for your program. Underneath this you will se a colon :.
+This is where you will enter the commands for the program.
+First we need to enter the values for A, B and C from the quadratic equation into
+the calculator. To do this, press the ”prgm” key again. Across the top of the screen
+you should see CTL
+I/O
+COLOR
+EXEC.
+Arrow over to I/O. This is the ”input/output” menu. Choose number 2:Prompt.
+This will return you to the program screen where you will see :Prompt under the
+name of the program. After :Prompt, type A, B, C. You’ll need to use the ”alpha”
+key to access the letters and the comma is right above the 7 key.
+
+30
+
+CHAPTER 1. ALGEBRA REVIEW
+
+PROGRAM: Name (whatever name you’ve chosen should show here)
+:Prompt A, B, C
+On the next line of the program, we will take the values of A, B and C and use
+them to calculate the values of the roots of the equation. Type in the following:
+PROGRAM: Name
+:Promptp
+A, B, C
+:(−B + p(B 2 − 4AC))/(2A) → R
+:(−B − (B 2 − 4AC))/(2A) → S
+
+In typing these two lines it’s important that when you type −B, you use the negative key next to the decimal point, rather than the subtraction key. The calculator
+is very picky about this. When you’re typing the B 2 − 4AC, you’ll need to use the
+subtraction key on the far right of the keypad.
+Also notice the double parentheses - one set for the numerator of the fraction
+and one set for the square root. If you don’t type this in correctly it will produce
+wrong answers. The arrow in the formula stores the values of the answer in the
+variables R and S, and the arrow is produced by the ”sto→” key just above the
+ON button in the lower left of the keyboard.
+Now that we’ve given the calculator the values for A, B and C and then had
+the calculator find the roots of the eqatiuon, we need to display the answers. If
+you press the prgm key and arrow over to the I/O menu again, you can choose
+3:Disp. This will Display the answers that we’ve stored as R and S.
+PROGRAM: Name
+:Prompt√A, B, C
+:(−B + √B 2 − 4AC))/(2A) → R
+:(−B − B 2 − 4AC))/(2A) → S
+:Disp R,S
+Now we can test the program with some simple equations. To run the program,
+press the program key and choose the program you’ve created either by selecting
+it and pressing enter, or by pressing the number for the program in the list. This
+should bring you back to the calculation screen, where you can run the program
+by pressing enter. The calculator should then ask you for the values of A, B and
+C.
+
+1.3. QUADRATIC EQUATIONS
+Solve for x:
+
+31
+
+2x2 − x − 1 = 0
+
+In this example the values for A, B and C are:
+A=2
+B = −1
+C = −1
+Again, it’s important that you use the negative sign key next to the decimal point
+for the values of any negative coefficients and not the subtraction key. The calculator should return values of 1 and −0.5 as the solutions.
+Solve for x:
+
+x2 + x + 1 = 0
+
+In this example the values for A, B and C are:
+A=1
+B=1
+C=1
+The calculator should return values of −0.5 ± 0.8660254038i as solutions.
+If you get an error message saying ”NONREAL ANSWERS,” you’ll need to adjust the calculator setting to allow for complex valued answers. You can do this
+by presing the ”mode” key in the top left of the keypad and arrowing down to the
+line that reads ”REAL
+a+bi
+reˆ(θi).” You can then arrow over to ”a+bi” and
+press enter. This will allow the calculator to compute complex valued answers.
+Something very important to remember about the quadratic formula is that the
+equation must be in standard form in order to identify the values of A, B and C
+to use in the formula. For example in the equation:
+3x2 − 7 = 2x
+it is important to understand that the values of A, B and C come from the standard form of the equation and not the present form of the equation. There are
+several pitfalls to watch out for in this equation. First of all, the 2x is on the opposite side of the equation from the other terms. That means that the value of B
+IS NOT +2. Also, if we were to move the 2x to the other side to put the equation
+in standard form, it is not the order of the terms, but degree of the variable that
+determines whether a coefficient is identified as A, B or C.
+
+32
+
+CHAPTER 1. ALGEBRA REVIEW
+
+In moving the 2x to the other side of the equation, I have seen students put the
+term they’re adding to that side as the last term. There is nothing wrong about
+this, but if you do that, you must be careful about identifying the values of A, B
+and C.
+3x2 − 7 = 2x
+−2x = −2x
+3x2 − 7 − 2x = 0
+There is nothing wrong about the way the equation above is written depsite the
+fact that it is not in ”standard form.” The important thing to remember is that ”A”
+is not the coefficient of whichever term is listed first. It is the coefficient of the
+quradratic, or x2 term. Likewise, ”B” is not the coefficient of the second term, but
+rather the coefficient of the linear, or x1 term. And ”C” is not whichever number
+comes last, but rather the value of the constant term. So in the equation above,
+however it is written, the value of A is +3, B is −2 and C is −7.
+
+1.3. QUADRATIC EQUATIONS
+
+33
+
+Exercises 1.3
+Solve for x in each equation. Round any irrational values to the nearest 1000th.
+1)
+
+x2 + 7x = 2
+
+2)
+
+5x2 − 3x = 4
+
+3)
+
+3 2
+x
+4
+
+4)
+
+2 2
+x
+3
+
+5)
+
+√
+2x2 + ( 5)x − 3 = 0
+
+6)
+
+3x2 + x −
+
+7)
+
+2.58x2 − 3.75x − 2.83 = 0
+
+8)
+
+3.73x2 + 9.74x + 2.34 = 0
+
+9)
+
+5.3x2 + 7.08x + 1.02 − 0
+
+10)
+
+3.04x2 + 1.35x + 1.234 = 0
+
+12)
+
+5x(x − 1) − 7 = 4x(x − 2)
+
+11)
+
+= 78 x +
+
+1
+2
+
+7x(x + 2) + 5 = 3x(x + 1)
+
+13)
+
+14(x − 4) − (x + 2) = (x + 2)(x − 4)
+
+14)
+
+11(x − 2) + (x − 5) = (x + 2)(x − 6)
+
+−
+
+1
+3
+
+=
+
+5
+9
+
+√
+
+2=0
+
+34
+
+1.4
+
+CHAPTER 1. ALGEBRA REVIEW
+
+Complex Numbers
+
+Our number system can be subdivided in many different ways. The most basic
+form of mathematics is counting and almost all human cultures have words to
+represent numbers (the Pirahã of South America are a notable exception). Thus
+the most basic set of numbers is the set of counting numbers represented by the
+double barred N: N = {1, 2, 3, 4, 5, 6, 7, . . . } (we will set aside the debate as to
+whether or not zero should be included in this set).
+If we try to subtract a larger counting number from a smaller counting number
+we find that there are no members in the set of counting numbers to represent
+the answer in this situation. This extends the set of natural numbers to the set of
+integers: Z = {. . . , −3, −2, −1, 0, 1, 2, 3, . . . }. The integers are represneted by the
+double barred Z, for the German word for numbers - ”zahlen.” In the earliest appearances of negative numbers in the Chinese and Indian mathematical systems,
+negative values were often used to represent debt. Because Greek mathematics
+was based on Geometry, they did not use negative numbers.
+Moving to multiplication and division, if we question the value of 8 ÷ 2 = 4 versus 8 ÷ 3 =?, we once again must expand our conception of numbers to allow
+for an answer to the second question 8 ÷ 3 =?. Understanding ratios of whole
+numbers or Rational numbers allows solutions to such problems. The set of Rational numbers isrepresented by the double barred Q, to represent a quotient:
+a
+: a, b ∈ Z .
+Q=
+b
+The Greek understanding of numbers mostly stopped here. They felt that all
+quantities could be represented as the ratio of whole numbers. The length of
+the diagonal of a square whose sides are of length 1 produced considerable consternation among the Pythagoreans as a result of this. Using the Pythagorean
+Theorem for the diagonal of a square whose sides
+√ are of length 1 shows that the
+2
+2
+2
+diagonal would be c = 1 + 1 = 2, thus c = 2. This number cannot be represented as a ratio of whole numbers. This new class of numbers adds the set
+of irrational numbers to the existing set of rational numbers to create the Real
+numbers, represented with a double barred R: R.
+
+1.4. COMPLEX NUMBERS
+
+35
+
+This hierarchy of numbers is often represented in the following diagram:
+
+R
+Q
+
+Z
+N
+One of the best ways to conceptualize the Real number system is on the number
+line - every point on the number line corresponds to a unique Real number and
+every Real number corresponds to a unique position on the Real number line.
+-4
+
+-3
+
+-2
+
+-1
+
+0
+
+2
+
+1
+√
+
+3
+
+4
+
+2
+
+After the development of the printing press in the 15th century, Fibonacci’s Liber
+Abaci was translated into Italian from Latin and read throughout Italy. As a result,
+Italy became a thriving center of mathematics until the 17th century, when the
+center of European mathematics moved north to France, Germany and England.
+Throughout the 1500’s Italian mathematicians such as Girolamo Cardano, Raphael
+Bombelli and Niccolo Fontana Tartaglia worked to extend the ideas in Fibonacci’s
+book. They produced formulas to solve cubic (x3 ), and quartic (x4 ) degree equations. In solving some of these equations they found that their formulas sometimes produced negative values under a square root. None of the known number
+systems could accomodate this possibility. In Cardano’s book on algebra Ars
+Magna, he encounters a problem which involves the square root of a negative
+number. He says, ”It is clear that this case is impossible. Nevertheless we will
+work thus...” and he proceeds to compute a valid complex solution
+to the prob√
+lem. Mathematicians eventually defined the complex unit −1 = i and then
+
+36
+
+CHAPTER 1. ALGEBRA REVIEW
+
+devised a system in which all complex numbers are a combination of a Real part
+(a) and an ”imaginary” part (bi).
+The complex numbers are a two dimensional number system represented by the
+double√barred C: C = {a + bi : a, b ∈ R}, where i is the complex unit defined
+as i = −1. Throughout the late 1700’s and early 1800’s mathematicians gradually moved towards a geometrical interpretation of the two-dimensional complex
+numbers. What is today known as the ”Argand diagram” represents the real valued portion of a complex number along a horizontal axis and the multiple of the
+complex unit along the vertical axis.
+5i
+−1 + 4i
+
+Im
+
+4i
+3i
+3 + 2i
+
+2i
+1i
+
+R
+−5
+
+−4
+
+−3
+
+−2
+
+−1
+−1i
+−2i
+−3i
+−4i
+−5i
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1.4. COMPLEX NUMBERS
+
+37
+
+Expressing square roots of negative numbers
+Square roots of negative quantities are generally expressed as a multiple of i.
+Examples
+√
+
+√
+
+√
+
+−4 = 2i.
+
+−25 = 5i
+
+−7 ≈ 2.646i
+
+Adding, subtracting and multiplying with complex numbers
+Calculating with complex numbers has many similarities to working with variables. The real part and imginary part are treated separately for addition and
+subtraction, but can be multiplied and divided.
+Examples
+Compute the following:
+(6 − 4i) + (−2 + 7i) = 4 + 3i
+
+(−9 + 2i) − (−4 + 6i) = −9 + 2i + 4 − 6i = −5 − 4i
+
+3(10 + i) = 30 + 3i
+
+−7i(−5 + 8i) = 35i − 56i2
+Now we encounter an interesting fact about
+complex numbers and, in particular,
+√
+the complex unit i. By definition, i = −1. Therefore, if we square i we should
+get −1. In the last example problem above, we can replace the i2 with −1 to finish
+the problem.
+
+38
+
+CHAPTER 1. ALGEBRA REVIEW
+−7i(−5 + 8i) = 35i − 56i2
+= 35i − 56(−1)
+= 35i + 56
+= 56 + 35i
+
+Examples
+Compute the following:
+(8 − 5i)(1 − 4i) = 8 − 32i − 5i + 20i2
+= 8 − 37i + 20(−1)
+= 8 − 37i − 20
+= −12 − 37i
+(9 + 2i)2 = (9 + 2i)(9 + 2i)
+= 81 + 18i + 18i + 4i2
+= 81 + 36i + 4(−1)
+= 81 + 36i − 4
+= 77 + 36i
+
+1.4. COMPLEX NUMBERS
+
+39
+
+Powers of i
+The powers of i follow an interesting pattern based on the definition that i2 = −1.
+We can see that i1 = i and that i2 = −1, as a result, i3 = i2 ∗ i1 = −1 ∗ i = −i.
+In a similar fashion, i4 = i2 ∗ i2 = (−1)(−1) = 1.
+This means that i5 = i4 ∗ i = 1 ∗ i = i.
+If we put all of this information together we get the following:
+i1 = i
+i2 = −1
+i3 = −i
+i4 = 1
+i5 = i1 = i
+i6 = i2 = −1
+i7 = i3 = −i
+i8 = i4 = 1
+In other words, every power of i is equivalent to either i, −1, −i, or 1. To determine which of these values a power of i is equivalent to, we need to find the
+remainder of the exponent when it is divided by 4.
+Example
+Simplify i38
+Since every i4 = 1, then i38 = i36 ∗ i2 = (i4 )9 ∗ i2 = 19 ∗ i2 = i2 = −1
+Since 38 is 2 more than a multiple of 4, then i38 = i2 = −1.
+
+40
+
+CHAPTER 1. ALGEBRA REVIEW
+
+Exercises 1.4
+Im
+
+10i
+9i
+8i
+7i
+6i
+5i
+4i
+3i
+2i
+1i
+
+−10−9 −8 −7 −6 −5 −4 −3 −2 −1
+−1i
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+R
+
+9 10
+
+−2i
+−3i
+−4i
+−5i
+−6i
+−7i
+−8i
+−9i
+−10i
+
+Graph the following complex numbers.
+1)
+
+2 + 5i
+
+2)
+
+4 − 3i
+
+3)
+
+−2 + 6i
+
+4)
+
+−3 − 5i
+
+5)
+
+4
+
+6)
+
+−2i
+
+7)
+
+7−i
+
+8)
+
+−1 + i
+
+9)
+
+−8 + 4i
+
+10)
+
+11)
+
+7i
+
+12)
+
+8 + 3i
+
+−5 − 9i
+
+1.4. COMPLEX NUMBERS
+
+41
+
+Express each quantity in terms of i. Round irrational values to the nearest 1000th.
+13)
+
+17)
+
+21)
+
+√
+
+√
+
+√
+
+−36
+
+14)
+
+−4
+
+18)
+
+−10
+
+22)
+
+√
+
+√
+
+√
+
+−81
+
+15)
+
+−25
+
+19)
+
+−31
+
+23)
+
+√
+
+√
+
+√
+
+−100
+
+16)
+
+−2
+
+20)
+
+−5
+
+24)
+
+√
+
+√
+
+√
+
+Perform the indicated operation and simplify.
+25)
+
+(6 + 7i) + (5 + 3i)
+
+26)
+
+(4 − 5i) + (3 + 9i)
+
+27)
+
+(9 + 8i) − (1 − 2i)
+
+28)
+
+(2 + i) − (6 − 4i)
+
+29)
+
+(7 − 4i) − (5 − 3i)
+
+30)
+
+(8 + i) − (4 + 3i)
+
+31)
+
+(7i)(6i)
+
+32)
+
+(4i)(−8i)
+
+33)
+
+(−2i)(5i)
+
+34)
+
+(12i)(3i)
+
+35)
+
+(1 + i)(3 + 2i)
+
+36)
+
+(1 + 5i)(4 + 3i)
+
+37)
+
+(6 − 5i)(2 − 3i)
+
+38)
+
+(8 − 3i)(2 + i)
+
+39)
+
+(−3 + 4i)(−1 − 2i)
+
+40)
+
+(−7 − i)(3 − 5i)
+
+41)
+
+(4 − 2i)2
+
+42)
+
+(−5 + i)2
+
+−49
+
+−6
+
+−3
+
+42
+
+CHAPTER 1. ALGEBRA REVIEW
+
+43)
+
+(3 + i)(3 − i)
+
+44)
+
+(2 + 6i)(2 − 6i)
+
+45)
+
+(9 − 4i)(9 + 4i)
+
+46)
+
+(5 + 2i)(5 − 2i)
+
+Express as either i, −1, −i, or 1.
+47)
+
+i3
+
+48)
+
+i7
+
+49)
+
+i21
+
+50)
+
+i13
+
+51)
+
+i29
+
+52)
+
+i56
+
+53)
+
+i72
+
+54)
+
+i35
+
+55)
+
+i66
+
+56)
+
+i103
+
+57)
+
+i16
+
+58)
+
+i53
+
+59)
+
+i11
+
+60)
+
+i42
+
+61)
+
+i70
+
+62)
+
+i9
+
+1.5. QUADRATIC EQUATIONS WITH COMPLEX ROOTS
+
+1.5
+
+43
+
+Quadratic Equations with Complex Roots
+
+In Section 1.3, we considered the solution of quadratic equations that had two
+real-valued roots. This was due to the fact that in calculating the roots for each
+equation, the portion of the quadratic formula that is square rooted (b2 −4ac, often
+called the discriminant) was always a positive number.
+For example, in using the quadratic formula to calculate the the roots of the equation x2 − 6x + 3 = 0, the discriminant is positive and we will end up with two
+real-valued roots:
+x2 − 6x + 3 = 0
+a = 1, b = −6, c = 3
+
+x=
+
+=
+
+=
+
+≈
+
+≈
+
+−(−6) ±
+
+6±
+
+6±
+
+10.899
+2
+
+≈ 5.449
+
+√
+
+36 − 12
+2
+24
+
+2
+6 ± 4.899
+2
+
+6 + 4.899
+2
+
+≈
+
+√
+
+p
+(−6)2 − 4(1)(3)
+2∗1
+
+≈
+
+6 − 4.899
+2
+
+≈
+
+1.101
+2
+
+≈ 0.551
+
+44
+
+CHAPTER 1. ALGEBRA REVIEW
+
+When we added and subtracted the square root of 24 to 6 in the quadratic formula, this created two answers, and they were real-valued because the square
+root of 24 is real-valued.
+Another way to see this is graphically. If we graph y = x2 − 6x + 3 and find the x
+values that make y = 0 , these will appear along the x-axis, and will be the same
+values that solve the equation x2 − 6x + 3 = 0.
+10
+
+5
+
+x ≈ 5.499
+
+x ≈ 0.551
+
+2
+
+4
+
+6
+
+−5
+
+If we consider a related, but slightly different equation to start with, these relationships between the roots, the discriminant and the graphical intersections will
+be slightly different.
+x2 − 6x + 9 = 0
+a = 1, b = −6, c = 9
+
+1.5. QUADRATIC EQUATIONS WITH COMPLEX ROOTS
+x=
+
+=
+
+−(−6) ±
+
+6±
+
+√
+
+45
+
+p
+
+(−6)2 − 4(1)(9)
+2∗1
+
+36 − 36
+2
+
+√
+6± 0
+=
+2
+=
+
+6
+=3
+2
+
+Because the discriminant was 0 in this problem, we only get one real-valued answer.
+Graphically, the additional 6 that was added to the original equation to change it
+from x2 − 6x + 3 to x2 − 6x + 9 shifts every y value on the graph up 6 units.
+15
+10
+y = x2 − 6x + 9
+
+5
+
+x ≈ 5.499
+
+x=3
+x ≈ 0.551
+
+−5
+
+2
+
+4
+
+6
+y = x2 − 6x + 3
+
+46
+
+CHAPTER 1. ALGEBRA REVIEW
+
+If we add an additional three units to the constant term of this quadratic equation,
+we encounter a third possibility.
+x2 − 6x + 12 = 0
+a = 1, b = −6, c = 12
+
+x=
+
+=
+
+=
+
+−(−6) ±
+
+6±
+
+6±
+
+√
+
+√
+
+p
+(−6)2 − 4(1)(12)
+2∗1
+
+36 − 48
+2
+−12
+
+2
+
+√
+6 ± i 12
+=
+2
+≈
+
+6 ± 3.464i
+2
+
+=
+
+6 3.464i
+±
+2
+2
+
+≈ 3 ± 1.732i
+Here the discriminant is negative, which leads to two complex-valued answers.
+If the equation has real-valued coefficients, the complex roots will always come
+in conjugate pairs. Complex conjugates share the same real-valued part and have
+opposite signs in their complex-valued (or imaginary) parts: a ± bi
+Graphically, the previous problem was one step away from not intersecting the
+x-axis at all and the additional three units that we added on to get y = x2 −
+6x + 12 moves the graph entirely away from the x-axis. Because the roots are
+complex-valued, we don’t see any roots on the x-axis. The x-axis contains only
+real numbers.
+
+1.5. QUADRATIC EQUATIONS WITH COMPLEX ROOTS
+
+47
+
+15
+y = x2 − 6x + 12
+
+10
+5
+
+2
+
+4
+
+6
+
+−5
+Since the calculator has been programmed for the quadratic formula, the focus of
+the problems in this section will be on putting them into standard form.
+Example
+Solve for x.
+(2x + 1)(x + 5) − 2x(x + 7) = 5(x + 3)2
+2x2 + 11x + 5 − 2x2 − 14x = 5(x + 3)(x + 3)
+−3x + 5 = 5(x2 + 6x + 9)
+−3x + 5 = 5x2 + 30x + 45
+0 = 5x2 + 33x + 40
+
+a = 5, b = 33, c = 40
+x = −5, −1.6
+
+48
+
+CHAPTER 1. ALGEBRA REVIEW
+
+The fact that the roots of this equation were rational numbers means that the
+equation could have been solved by factoring.
+0 = 5x2 + 33x + 40
+0 = (5x + 8)(x + 5)
+
+5x + 8 = 0
+
+x+5=0
+
+5x = −8
+
+x = −5
+
+x = −1.6
+Example
+Solve for x.
+(x − 2)2 + 3(4x − 1)(x + 1) = 7(x + 1)(x − 1)
+x2 − 4x + 4 + 3(4x2 + 3x − 1) = 7(x2 − 1)
+x2 − 4x + 4 + 12x2 + 9x − 3 = 7x2 − 7
+13x2 + 5x + 1 = 7x2 − 7
+6x2 + 5x + 8 = 0
+
+a = 6, b = 5, c = 8
+5
+± 1.077i
+x ≈ −0.416 ± 1.077i ≈ − 12
+
+1.5. QUADRATIC EQUATIONS WITH COMPLEX ROOTS
+
+49
+
+Exercises 1.5
+Solve for x in each equation. Round any irrational values to the nearest 1000th.
+1)
+
+3x2 − 3x = 4
+
+2)
+
+4x2 − 2x = 7
+
+3)
+
+5x2 = 3 − 7x
+
+4)
+
+3x2 = 21 = 14x
+
+5)
+
+6x2 + 1 = 2x
+
+6)
+
+5x − 3x2 = 17
+
+7)
+
+(5x − 1)(2x + 3) = 3x − 20
+
+8)
+
+(x + 4)(3x − 1) = 9x − 5
+
+9)
+
+(x − 2)2 = 8x(x − 1) + 10
+
+10)
+
+(2x − 3)2 = 2x − 7x2
+
+12)
+
+(3x − 4)(x + 2) = (2x − 5)(x + 5)
+
+11)
+
+(x + 5)(x − 6) = (2x − 1)(x − 4)
+
+50
+
+1.6
+
+CHAPTER 1. ALGEBRA REVIEW
+
+Multiplying and Dividing Rational Expressions
+
+Reducing Rational Expressions
+A rational expression is simply an algebraic fraction, and our first consideration
+will be to reduce these expressions to lowest terms in the same way that we re2
+6
+to by canceling
+duce numerical fractions to lowest terms. When we reduce
+15
+5
+the common factor of three, we are removing a redundant factor of 1 in the form
+3
+of .
+3
+6
+3∗2
+3 2
+=
+= ∗
+15
+3∗5
+3 5
+=1∗
+
+=
+
+2
+5
+
+2
+5
+
+Similarly, if there is a common factor that can be factored out of an algebraic
+fraction, this also can be canceled.
+7(3x + 2)
+21x + 14
+=
+7x + 7
+7(x + 1)
+
+=
+
+7 3x + 2
+∗
+7 x+1
+
+=1∗
+
+=
+
+3x + 2
+x+1
+
+3x + 2
+x+1
+
+It’s important to remeber that only common factors can be canceled. This means
+
+1.6. MULTIPLYING AND DIVIDING RATIONAL EXPRESSIONS
+
+51
+
+that the first priority in each problem will be to identify the factors of the numerator and denominator to see if they share any common factors.
+Example
+Reduce to lowest terms.
+x2 + 4x − 12
+x2 − 4
+x2 + 4x − 12
+(x + 6)(x − 2)
+=
+x2 − 4
+(x + 2)(x − 2)
+
+=
+
+
+(x + 6)
+(x−2)
+
+(x + 2)
+(x−2)
+
+=
+
+x+6
+x+2
+
+Notice that we can’t cancel the 6 and the 2 in the final answer because they aren’t
+factors. The plus signs in the numerator and denominator prevent us from cancelling the 6 and the 2.
+In the previous examples, we saw that cancelling out common factors in the numerator and denominator was actually a process of eliminating a redundant factor of 1. In the following example, we’ll see a slightly different form of cancelling.
+Example
+Reduce to lowest terms.
+16 − x2
+x2 + x − 20
+16 − x2
+(4 + x)(4 − x)
+=
+2
+x + x − 20
+(x + 5)(x − 4)
+In this problem, there are no common factors, but we can do some cancelling. We
+can see that (4 − x) and (x − 4) are not the same expression. In the first binomial,
+
+52
+
+CHAPTER 1. ALGEBRA REVIEW
+
+the 4 is positive and the x is negative, whereas in the second binomial, the 4 is
+4−x
+negative and the x is positive. So, we know that
+6= 1. However, if we factor
+x−4
+a (−1) out of the numerator, we will see an interesting phenomenon:
+4−x
+−1(−4 + x)
+=
+x−4
+x−4
+=
+
+−1(x − 4)
+x−4
+
+= −1 ∗
+
+x−4
+x−4
+
+= −1 ∗ 1 = −1
+4−x
+4−x
+6= 1, we can say that
+= −1. This will allow us to
+x−4
+x−4
+cancel (4 − x) and (x − 4) and replace them with (−1).
+
+Therefore, although
+
+16 − x2
+(4 + x)(4 − x)
+=
+x2 + x − 20
+(x + 5)(x − 4)
+
+=
+
+
+(4 + x)
+(4−x)
+
+(x + 5)
+(x−4)(−1)
+
+In the final answer, the (−1) can be placed in the denominator or the numerator,
+but not both. It can also be placed in front of the fraction.
+4+x
+−1(4 + x)
+=
+−1(x + 5)
+x+5
+
+=−
+
+4+x
+x+5
+
+1.6. MULTIPLYING AND DIVIDING RATIONAL EXPRESSIONS
+
+53
+
+Multiplying and Dividing Rational Expressions
+In multiplying and dividing rational expressions, it is often easier to identify and
+cancel out common factors before multiplying rather than afterwards. Multiplying rational expressions works the same way that multiplying numerical fractions does - multiply straight across the top and straight across the bottom. As a
+result, any factor in either numerator of the problem will end up in the numerator of the answer. Likewise, any factor in either denominator of the problem will
+end up in the denominator of the answer. Thus, any factor in either numerator
+can be cancelled with any factor in either denominator.
+Example
+Multiply. Express your answer in simplest form.
+x2 + 5x + 6 x2 − 2x − 15
+∗ 2
+25 − x2
+x + 6x + 9
+(x + 2)(x + 3) (x − 5)(x + 3)
+x2 + 5x + 6 x2 − 2x − 15
+∗ 2
+=
+∗
+2
+25 − x
+x + 6x + 9
+(5 + x)(5 − x) (x + 3)(x + 3)
+ 
+
+(x + 2)
+(x+3)
+(x−5)
+(x + 3)
+
+
+=
+∗
+
+
+
+
+
+(x+3)
+(5 + x)
+(5− x)(−1) 
+(x+ 3)
+
+=−
+
+x+2
+x+5
+
+Dividing rational expressions works in much the same way that dividing numerical fractions does. We multiply by the reciprocal. There are several ways to
+demonstrate that this is a valid definition for dividing. First, it is important to
+understand that the fraction bar is the same as a “divided by” symbol:
+8
+= 8 ÷ 2 = 4.
+2
+
+54
+
+CHAPTER 1. ALGEBRA REVIEW
+
+The same is true for dividing fractions:
+1
+3
+.
+2
+5
+
+
+
+1 2
+÷ =
+3 5
+1
+3
+2
+5
+
+
+
+We can take the complex fraction
+value:
+
+and multiply it by 1 without changing its
+
+1 2
+÷ =
+3 5
+
+1
+3
+2
+5
+
+=
+
+1
+3
+2
+5
+
+
+∗1
+
+
+
+We can multiply by any form of 1 we want to and not change the value of the
+result.
+1
+3
+2
+5
+
+∗1=
+
+1
+3
+2
+5
+
+1
+3
+2
+5
+
+9
+∗ =
+9
+
+1
+3
+2
+5
+
+12
+∗
+=
+12
+
+1
+3
+2
+5
+
+
+
+
+
+1
+3
+2
+5
+
+
+
+
+
+
+
+
+
+With a carefully chosen form of 1, we can transform the division problem into a
+multiplication problem.
+
+1.6. MULTIPLYING AND DIVIDING RATIONAL EXPRESSIONS
+1
+3
+2
+5
+
+5
+2
+5
+2
+
+
+
+
+
+∗
+
+=
+
+=
+
+1
+3
+2
+5
+
+∗
+∗
+
+5
+2
+5
+2
+
+1
+3
+
+∗
+1
+
+5
+2
+
+=
+
+1 5
+∗
+3 2
+
+=
+
+5
+6
+
+In this way, we can redefine division as multiplication by a reciprocal.
+Example
+Divide the expressions. Express your answer in lowest form.
+2x2 − x − 3 x2 + 5x + 4
+÷
+x2 − x − 12
+16 − x2
+2x2 − x − 3 x2 + 5x + 4
+2x2 − x − 3
+16 − x2
+÷
+=
+∗
+x2 − x − 12
+16 − x2
+x2 − x − 12 x2 + 5x + 4
+=
+
+(2x − 3)(x + 1) (4 + x)(4 − x)
+∗
+(x − 4)(x + 3) (x + 1)(x + 4)
+
+=
+
+
+ 
+(2x − 3)
+(4+x)
+(4 − x)(−1)
+(x+1)
+
+
+∗
+
+ 
+
+
+(x+ 1)
+(x + 4)
+(x− 4)(x + 3)
+
+
+
+
+=−
+
+2x − 3
+x+3
+
+55
+
+56
+
+CHAPTER 1. ALGEBRA REVIEW
+
+Exercises 1.6
+Reduce each expression to lowest terms.
+1)
+
+3x + 9
+x2 − 9
+
+2)
+
+4x2 + 8x
+12x + 24
+
+3)
+
+x2 − 2x
+6 − 3x
+
+4)
+
+15x2 + 24x
+3x2
+
+5)
+
+24x2
+12x2 − 6x
+
+6)
+
+x2 + 4x + 4
+x2 − 4
+
+7)
+
+25 − y 2
+2y 2 − 8y − 10
+
+8)
+
+3y 2 − y − 2
+3y 2 + 5y + 2
+
+9)
+
+x2 + 4x − 5
+x2 − 2x + 1
+
+10)
+
+x − x2
+x2 + x − 2
+
+12)
+
+2x2 + 5x − 3
+1 − 2x
+
+11)
+
+x2 + 5x − 14
+2−x
+
+1.6. MULTIPLYING AND DIVIDING RATIONAL EXPRESSIONS
+
+57
+
+Multiply or divide the expressions in each problem.
+Express your answers in lowest terms.
+13)
+
+3x + 6
+x
+∗ 2
+2
+5x
+x −4
+
+14)
+
+4x2
+7x − 28
+∗
+2
+x − 16
+6x
+
+15)
+
+2a2 − 7a + 6 4a2 + 12a + 9
+∗
+4a2 − 9
+a2 − a − 2
+
+16)
+
+4a2 − 4a − 3
+16a2
+∗
+8a + 4a2
+4a2 − 6a
+
+17)
+
+x2 − y 2 (x + y)2
+∗
+(x + y)3 (x − y)2
+
+18)
+
+2x2 + x − 3
+2x − 2
+∗ 2
+2
+x −1
+2x + 5x + 3
+
+19)
+
+3x − 9
+6x
+÷
+2
+x − 4 2x + 4
+
+20)
+
+12x
+4x2
+÷ 2
+5x + 20 x − 16
+
+21)
+
+9x2 + 3x − 2 3x + 2
+÷
+6x2 − 2x
+6x2
+
+22)
+
+2a2 − 5a − 3 2a + 1
+÷
+4a2 + 2a
+4a
+
+23)
+
+x2 + 7x + 6 x2 + 5x − 6
+÷ 2
+x2 + x − 6
+x + 5x + 6
+
+24)
+
+x2 + 7x + 10 3x2 + 7x + 2
+÷
+x2 − x − 30
+9x2 − 1
+
+25)
+
+2x2 − x − 28 4x2 + 16x + 7
+÷ 2
+3x2 − x − 2
+3x + 11x + 6
+
+26)
+
+9x2 + 3x − 2
+9x2 − 6x + 1
+÷
+12x2 + 5x − 2 8x2 − 10x − 3
+
+58
+
+1.7
+
+CHAPTER 1. ALGEBRA REVIEW
+
+Adding and Subtracting Rational Expressions
+
+Just as we do with numerical fractions, we will need to have common denomina1 1
+tors in order to add or subtract algebraic fractions. When we add + , we make
+2 3
+a common denominator of 6 so that we can add them together.
+1 1
+1 3 1 2
++ = ∗ + ∗
+2 3
+2 3 3 2
+=
+
+3 2
++
+6 6
+
+=
+
+5
+6
+
+Because the denominators, 2 and 3, are prime and don’t share any common factors, the common denominator is simply 3 ∗ 2 = 6. We can see a similar result in
+adding algebraic fractions.
+Example
+Add the fractions. Express your answer in lowest terms.
+x
+2
++
+x x−3
+2
+x
+2 x−3
+x
+x
++
+= ∗
++
+∗
+x x−3
+x x−3 x−3 x
+=
+
+2(x − 3)
+x∗x
++
+x(x − 3) x(x − 3)
+
+2x − 6 + x2
+x2 + 2x − 6
+=
+=
+x(x − 3)
+x(x − 3)
+
+1.7. ADDING AND SUBTRACTING RATIONAL EXPRESSIONS
+
+59
+
+It’s important to be aware that in subtraction, the negative sign representing subtraction must be distributed to all terms in the second numerator.
+Example
+Subtract the given expressions. Express your answer in lowest terms.
+6
+x+5
+−
+x+1 x−2
+x+5
+6
+x−2 x+5 x+1
+6
+−
+=
+∗
+−
+∗
+x+1 x−2
+x+1 x−2 x−2 x+1
+=
+
+6(x − 2) − (x + 5)(x + 1)
+(x + 1)(x − 2)
+
+=
+
+6x − 12 − (x2 + 6x + 5)
+(x + 1)(x − 2)
+
+=
+
+6x − 12 − x2 − 6x − 5
+(x + 1)(x − 2)
+
+=
+
+−x2 − 17
+(x + 1)(x − 2)
+
+In other situations, the denominators may share a common factor. In this case,
+we can turn one of the denominators into the other one:
+Example
+Add the given fractions.
+
+x2
+
+7
+2
++
++ 8x + 15 x + 3
+
+60
+
+CHAPTER 1. ALGEBRA REVIEW
+
+x2
+
+7
+2
+7
+2
++
+=
++
++ 8x + 15 x + 3
+(x + 3)(x + 5) x + 3
+
+We can turn (x + 3) into x2 + 8x + 15 by multiplying by (x + 5)
+
+2
+7
+2
+x+5
+7
++
+=
++
+∗
+(x + 3)(x + 5) x + 3
+(x + 3)(x + 5) x + 3 x + 5
+
+=
+
+7
+2(x + 5)
++
+(x + 3)(x + 5) (x + 3)(x + 5)
+
+=
+
+7 + 2x + 10
+(x + 3)(x + 5)
+
+=
+
+2x + 17
+(x + 3)(x + 5)
+
+Sometimes, the answer we end up with is not in lowest terms:
+Example
+Add the fractions.
+8
+x
++ 2
+x + 2 x + 8x + 12
+x
+8
+x
+8
++ 2
+=
++
+x + 2 x + 8x + 12
+x + 2 (x + 2)(x + 6)
+
+=
+
+x
+x+6
+8
+∗
++
+x + 2 x + 6 (x + 2)(x + 6)
+
+=
+
+x(x + 6)
+8
+x(x + 6) + 8
++
+=
+(x + 2)(x + 6) (x + 2)(x + 6)
+(x + 2)(x + 6)
+
+1.7. ADDING AND SUBTRACTING RATIONAL EXPRESSIONS
+x(x + 6) + 8
+x2 + 6x + 8
+=
+(x + 2)(x + 6)
+(x + 2)(x + 6)
+
+The numerator is factorable:
+
+(x + 2)(x + 4)
+x2 + 6x + 8
+=
+(x + 2)(x + 6)
+(x + 2)(x + 6)
+
+=
+
+
+(x+2)(x
++ 4)
+
+
+
+(x+ 2)(x + 6)
+
+
+=
+
+x+4
+x+6
+
+61
+
+62
+
+CHAPTER 1. ALGEBRA REVIEW
+
+Exercises 1.7
+Add or subtract the given expressions.
+1)
+
+1
+1
+−
+x−1 x
+
+2)
+
+3
+1
+−
+y−6 y
+
+3)
+
+2
+4
++
+x−3 x+3
+
+4)
+
+3
+4
+−
+x+4 x−2
+
+5)
+
+3
+k−4
+−
+k+2 k+5
+
+6)
+
+a+1
+a
+−
+a
+a+1
+
+7)
+
+2y
+y
+−
+y 2 − 25 y − 5
+
+8)
+
+x
+4
++
+x2 − 1 x + 1
+
+9)
+
+x
+1
++
+x−3 x+1
+
+10)
+
+9y
+y+1
+−
+y−4 y+5
+
+Add or subtract the given expressions. Express your answers in lowest terms.
+11)
+
+13)
+
+15)
+
+b
+b+1
+−
+b + 1 2b + 2
+
+a2
+
+2
+1
++
++ 4a + 3 a + 3
+
+x+1
+x2
+−
+2x + 4 2x2 − 8
+
+12)
+
+4x + 1
+x−3
++
+8x − 12 2x − 3
+
+14)
+
+1
+4
+− 2
+y + 6 y + 8y + 12
+
+16)
+
+x+1
+x2 + 1
+−
+x + 2 x2 − x − 6
+
+1.7. ADDING AND SUBTRACTING RATIONAL EXPRESSIONS
+
+63
+
+2x
+2x
+x
++
+−
+− 3x + 2 x − 1 x − 2
+
+18)
+
+19)
+
+3a
+4a
+4a
+−
++ 2
+a − 2 a − 3 a − 5a + 6
+
+20)
+
+2
+8 − 4y
+− 2
+y − 3 y − 8y + 15
+
+21)
+
+3x
+x+3
+2x
++
+− 2
+x−1 x+1 x −1
+
+22)
+
+a
+2
+3(a − 2)
+−
++ 2
+a−1 a+2 a +a−2
+
+23)
+
+x
+x+7
+x−2
++ 2
+−
+x−1 x −1 x+1
+
+24)
+
+2y + 5
+y−9
+− 2
+2
+y − 16 y − y − 12
+
+17)
+
+x2
+
+3x + 3
+1
++
+− x − 1 2x + 1
+
+2x2
+
+64
+
+1.8
+
+CHAPTER 1. ALGEBRA REVIEW
+
+Complex Fractions
+
+Complex fractions involve simplifying a rational expression which has a complicated numerator and/or denominator.
+Example
+Simplify.
+3+
+1−
+
+x
+x+2
+x+3
+x−1
+
+There are a variety of ways to approach this problem. One of the most straightforward ways to simplify the expression above is to create common denominators
+for the numerator and the denominator so that each one is a single fractional
+expression:
+
+3+
+1−
+
+x
+x+2
+x+3
+x−1
+
+=
+
+3
+1
+1
+1
+
+∗
+∗
+
+x+2
+x+2
+x−1
+x−1
+
++
+−
+
+x
+x+2
+x+3
+x−1
+
+ 3x + 6 + x 
+x+2
+
+=
+
+x − 1 − (x + 3)
+x−1
+
+ 4x + 6 
+x+2
+=  −4 
+
+(Now this is a division problem)
+
+x−1
+
+=
+
+4x + 6 x − 1
+2(2x + 3) x − 1
+∗
+=
+∗
+x+2
+−4
+x+2
+−4
+
+=
+
+2 (2x + 3)
+x−1
+(2x + 3)(x − 1)
+∗ 
+=
+x+2
+−4(−2)
+−2(x + 2)
+
+
+1.8. COMPLEX FRACTIONS
+
+65
+
+Simplifying complex fractions uses all of the previous concepts about rational
+expressions which we’ve covered in this chapter.
+Example
+Simplify.
+x
+x+3
+2
+1+
+x
+
+x−
+
+x
+x+3
+2
+1+
+x
+
+x−
+
+=
+
+x
+1
+
+∗
+
+x+3
+x+3
+1 x
+∗
+1 x
+
+−
++
+
+x
+x+3
+2
+x
+
+creating common denominators
+
+ x(x + 3) − x 
+=
+
+3
+ xx +
+
++2
+x
+
+ x2 + 3x − x 
+=
+
++3
+
+ xx +
+2
+
+ x2 + 2x 
+x+3
+= x + 2
+
+x
+
+dividing fractions
+
+x
+
+=
+
+x2 + 2x
+x
+x(x + 2)
+x
+∗
+=
+∗
+x+3
+x+2
+x+3
+x+2
+
+=
+
+
+(x+2)
+x
+x
+∗ 
+x+3
+x+2
+
+
+=
+
+x2
+x+3
+
+factor and cancel to reduce to lowest terms
+
+66
+
+CHAPTER 1. ALGEBRA REVIEW
+
+Exercises 1.8
+Simplify each complex fraction. Express your answer in lowest terms.
+1
+1)
+
+1
+
+
+x+
+
+1
+4)
+
+ 1x
+x2
+
+−
+−
+
+
+7)
+
+x−
+
+1−
+
+
+10)
+
+
+
+y
+2
+
+1
+y
+
+1
+y2
+
+b
+a −
+2
+
+
+
+4+
+
+16 −
+
++
+
+−
+
+−
++
+
+1
+y
+
+x
+y
+
+
+
+
+3)
+
+x−y
+x+y
+
+x−y
+x+y
+
+8)
+
+3
+a+b
+
+4
+b+a
+
+11)
+
+
+
+1
+x+1
+
+1
+(x + 1)2
+
+ 1
+y+2
+
+
+
+9)
+
+−
+
+12)
+
+
+x−2
+2+
+1 − x2
+
+
+3
+2−
+x+1
+
+3
+a
+
+
+
+ a3 + 1 1 
++
+a−1
+
+4
+x+
+x+4
+
+
+4x + 4
+x−
+x+4
+
+
+
+
+1
+1−
+x+1
+
+
+1
+1+
+
+5
+n+2−
+n−2
+
+
+1
+1−
+(n − 2)2
+
+
+
+
+15)
+
+
+17)
+
+−
+
+x−1
+
+
+
+1
+y−2
+
+
+
+
+
+
+
+3
+y2 − 4
+
+m
+n
+
+n2
+m2
+
+
+
+1
+ x + 2 1x − 3 
+1+ 2
+x −x−6
+
+−
+
+1−
+
+a
+
+
+
+
+14)
+
+6)
+
+1
+1
+−
+2x − 2
+x
+
+2
+1
+−
+x
+x−1
+
+ 1
+
+
+
+1+
+
+ 7
+
+
+
+
+
+
+
+−
+
+ yy
+x
+
+x+6
+x+2
+
+4x + 15
+x+2
+
+b−a
+
+16)
+
+5)
+
+
+
+x−
+
+
+
+x
+
+
+
+1
+2x + 1
+
+2
+2x + 1
+
+x−
+
+ yx
+x
+
+ 1
+13)
+
+2)
+
+
+
++
+
+
+18)
+
+
+
+1
+2x − 1
+
+
+
+−
+
+4−
+
+1
+2x + 1
+
+1
+x2
+
+
+
+1.9. RATIONAL EQUATIONS
+
+1.9
+
+67
+
+Rational Equations
+
+We can also use the skills we have covered in previous sections to solve equations
+involving rational expressions. There are three main methods of solution that will
+be explored in this section - multiplying on both sides to clear a denominator,
+cross-multiplying, and making common denominators. Each of these techniques
+is actually the same process, but approached from a slightly different perspective.
+
+Clearing a denominator
+Often, if the denominator is a single variable, it can be easy and striaghtforward
+to multiply on both sides by the denominator to cancel it out.
+Example
+Solve for x.
+x+
+
+4
+=7
+x
+
+If we multiply on both sides by x, it will clear the variable from the denominator:
+
+x+
+
+4
+=7
+x
+
+
+4
+x∗ x+
+= (7) ∗ x
+x
+x∗x+x∗
+
+4
+= 7x
+x
+
+Multiply on both sides by x
+
+Distribute the x
+
+x2 + 4 = 7x
+x2 − 7x + 4 = 0
+x ≈ 0.628, 6.372
+
+Standard form
+
+68
+
+CHAPTER 1. ALGEBRA REVIEW
+
+If a problem is stated simply as the equality of two fractions, cross-multiplying
+can be a useful method of solution.
+Example
+Solve for x.
+x
+7
+=
+2x + 3
+x−4
+7
+x
+=
+2x + 3
+x−4
+x(x − 4) = 7(2x + 3)
+x2 − 4x = 14x + 21
+x2 − 18x − 21 = 0
+x ≈ 19.100, −1.100
+Cross-multiplying is really just a short-cut method of clearing out the denominators by multiplying on both sides by both denominators:
+7
+x
+=
+2x + 3
+x−4
+(x − 4)(2x + 3) ∗
+
+7
+x
+=
+∗ (x − 4)(2x + 3)
+2x + 3
+x−4
+
+(x − 4)
+(2x
++
+3) ∗
+
+
+x
+7
+
+=
+∗
+(x−4)(2x
++ 3)
+
+
+
+2x+ 3 
+x −
+4
+
+
+
+
+x(x − 4) = 7(2x + 3)
+Then the equation is ready to be solved as shown above - but by just crossmulitiplying, we skip directly to the solution portion of the problem.
+
+1.9. RATIONAL EQUATIONS
+
+69
+
+Sometimes, it is helpful to create a common denominator in order to set up a
+situation where cross-multiplying can be used.
+Example
+Solve for x.
+1
+4
+3
++
+=
+x+6 x−2
+x+1
+4
+3
+1
++
+=
+x+6 x−2
+x+1
+x−2
+4
+x+6
+3
+1
+∗
++
+∗
+=
+x+6 x−2 x−2 x+6
+x+1
+3
+1(x − 2) + 4(x + 6)
+=
+(x + 6)(x − 2)
+x+1
+x − 2 + 4x + 24
+3
+=
+(x + 6)(x − 2)
+x+1
+5x + 22
+3
+=
+(x + 6)(x − 2)
+x+1
+(5x + 22)(x + 1) = 3(x + 6)(x − 2) = 3(x2 + 4x − 12)
+5x2 + 27x + 22 = 3x2 + 12x − 36
+2x2 + 15x + 58 = 0
+x ≈ −3.75 ± 3.865i
+
+70
+
+CHAPTER 1. ALGEBRA REVIEW
+
+Example
+Solve for x.
+2
+x
++
+=4
+x − 2 2x − 1
+x
+2
++
+=4
+x − 2 2x − 1
+2
+2x − 1
+x
+x−2
+∗
++
+∗
+=4
+x − 2 2x − 1 2x − 1 x − 2
+2(2x − 1) + x(x − 2)
+=4
+(x − 2)(2x − 1)
+4x − 2 + x2 − 2x
+=4
+(x − 2)(2x − 1)
+x2 + 2x − 2
+4
+=
+(x − 2)(2x − 1)
+1
+1(x2 − 2x − 2) = 4(x − 2)(2x − 1) = 4(2x2 − 5x + 2)
+x2 − 2x − 2 = 8x2 − 20x + 8
+0 = 7x2 − 18x + 10
+x ≈ 1.760, 0.812
+
+1.9. RATIONAL EQUATIONS
+
+71
+
+In some situations, we can create a single common denominator for every fraction
+in the problem and then clear them all at once.
+Example
+Solve for x.
+2
+4
+x
+−
+= 2
+x + 3 3x − 1
+3x + 8x − 3
+4
+x
+2
+−
+= 2
+x + 3 3x − 1
+3x + 8x − 3
+2
+3x − 1
+4
+x+3
+x
+∗
+−
+∗
+= 2
+x + 3 3x − 1 3x − 1 x + 3
+3x + 8x − 3
+x
+2(3x − 1) − 4(x + 3)
+=
+(x + 3)(3x − 1)
+(x + 3)(3x − 1)
+2(3x − 1) − 4(x + 3) = x
+The missing step above is the clearing of both denominators:
+
+(x + 3)(3x − 1) ∗
+
+2(3x − 1) − 4(x + 3)
+x
+=
+∗ (x + 3)(3x − 1)
+(x + 3)(3x − 1)
+(x + 3)(3x − 1)
+
+
+
+(x+3)
+(3x
+−
+1) ∗
+
+
+
+
+2(3x − 1) − 4(x + 3)
+x
+
+
+=
+(x+3)
+(3x
+−
+1)
+
+
+ ∗
+
+
+
+
+
+
+
+
+
+
+
+(x
++
+3)
+(3x
+−
+1)
+(x
++
+3)
+(3x
+−
+1)
+
+
+
+
+
+
+2(3x − 1) − 4(x + 3) = x
+
+72
+
+CHAPTER 1. ALGEBRA REVIEW
+
+As is true in the process of cross-multiplying, it isn’t necessary to actually cancel
+out the denominators in completing the problem.
+2
+4
+x
+−
+= 2
+x + 3 3x − 1
+3x + 8x − 3
+2
+3x − 1
+4
+x+3
+x
+∗
+−
+∗
+= 2
+x + 3 3x − 1 3x − 1 x + 3
+3x + 8x − 3
+2(3x − 1) − 4(x + 3)
+x
+=
+(x + 3)(3x − 1)
+(x + 3)(3x − 1)
+2(3x − 1) − 4(x + 3) = x
+6x − 2 − 4x − 12 = x
+2x − 14 = x
+x = 14
+
+1.9. RATIONAL EQUATIONS
+
+73
+
+Exercises 1.9
+6
+= −7
+x
+
+1)
+
+x+
+
+5
+= −6
+x
+
+2)
+
+x+
+
+3)
+
+y−
+
+5
+=2
+y
+
+4)
+
+7
++1=a
+a
+
+5)
+
+9
+3
+=
+2y + 4
+y
+
+6)
+
+4
+1
+=
+3n + 7
+2
+
+7)
+
+8
+x
+=
+x+3
+x+6
+
+8)
+
+y−2
+5
+=
+2
+y−5
+
+9)
+
+2
+n
+=
+n
+5n + 12
+
+10)
+
+x
+2
+=
+4−x
+x
+
+11)
+
+1
+5x
+=
+14x + 3
+x
+
+12)
+
+a
+1
+=
+8a + 3
+3a
+
+13)
+
+9
+2
+1
+−
+=
+x−1 x+4
+x+2
+
+14)
+
+1
+4
+1
++
+=
+x−2 x+5
+x−3
+
+15)
+
+5
+1
+3
++
+=
+3x + 2 x − 1
+x+2
+
+16)
+
+1
+4
+6
+−
+=
+y − 2 2y + 5
+y−1
+
+74
+
+CHAPTER 1. ALGEBRA REVIEW
+
+17)
+
+5
+1
++
+=3
+x+1 x+2
+
+18)
+
+1
+2
+−
+=1
+2x − 1 x + 7
+
+19)
+
+1
+6
+−
+=3
+y−4 y+2
+
+20)
+
+10
+3
++
+=2
+a+1 a−2
+
+21)
+
+a2
+
+3a
+a
+2a
+−
+=
+− 2a − 15 a + 3
+a−5
+
+22)
+
+u2 + 2
+3u
+−2u − 1
+−
+=
+2
+u +u−2 u+2
+u−1
+
+23)
+
+4
+2
+5
++
+= 2
+2x − 1 x + 3
+2x + 5x − 3
+
+24)
+
+5
+2
+2
+− 2
+=
+x + 5 x + 2x − 15
+x−3
+
+25)
+
+5
+3
+4
+−
+= 2
+y − 2 2y − 1
+2y − 5y + 2
+
+1.9. RATIONAL EQUATIONS
+26)
+
+x+2 x+4
+2x + 1
++
+= 2
+x−1
+x
+x −x
+
+27)
+
+x+1
+5
+x
++ 2
+=
+x + 2 x − 7x − 18
+x−9
+
+28)
+
+2a
+a
+5
+−
+= 2
+a+7 a+3
+a + 10a + 21
+
+29)
+
+2x − 3
+3
+x−1
+−
+= 2
+2x + 1
+x+3
+2x + 7x + 3
+
+30)
+
+y
+6
+y2 + 4
++
+= 2
+y+4 y+1
+y + 5y + 4
+
+75
+
+76
+
+CHAPTER 1. ALGEBRA REVIEW
+
+Addendum - Word Problems
+Following are a selection of word problems - some from ancient times, some from
+the Renaissance and Enlightenment, and some from the 19th and 20th century.
+1)
+A teacher agreed to work 9 months for $562.50 and board. At the end of
+the term, on account of two months absence caused by illness, he received only
+$409.50 for his seven months work. If the teacher used all nine months of his
+board during the term, what was his board per month? (American 1892)
+
+2)
+A servant is promised $100 plus a cloak as wages for a year. After seven
+months, he leaves and receives $20 plus the cloak. How much is the cloak worth?
+(Clavius, German 1608)
+1
+of their value. A certain man buys 42 gar3)
+The sales tax on garments is 20
+ments, paying in copper coins. Two garments and 10 copper coins are paid as
+tax. What is the price of a garment, O learned one? (Ancient India)
+
+4)
+Two wine merchants enter Paris, one of them with 64 casks of wine, the
+other with 20 casks (all of the same value). Since they do not have enough money
+to pay the customs duties, the first pays 5 casks of wine and 40 francs, and the
+second pays 2 casks of wine and receives 40 francs change. What is the price of
+each cask of wine and what is the duty on each cask? (Chuquet, French 1484)
+
+5)
+One of two men had 12 fish and the other had 13 fish, and all of the fish
+were of the same price. From the first man, a customs agent took away 1 fish and
+12 denarii for payment. From the other man he took 2 fish and gave him back 7
+denarii as change. Find the customs fee and the price of each fish.
+(Fibonacci, Italian 1202)
+
+6)
+Two traders transporting sheepskins approach their country’s border. The
+first trader has 100 sheepskins and the border guard takes 10 sheepskins plus $25
+as a tariff. The second trader has 42 sheepskins and for a tariff, the border guard
+takes 7 sheepskins but returns $14 change. What is the tariff per sheepskin and
+what is the value of each sheepskin?
+
+1.9. RATIONAL EQUATIONS
+
+77
+
+7)
+Two people have a certain amount of money. The first says to the second,
+“If you give me 5 denarii, I will have 7 times what you have left.” The second
+says to the first, “If you give me 7 denarii, I will have 5 times what you have left.”
+How much money does each have? Round to the nearest 10th.
+(Leonardo, Italian c. 1500)
+
+8)
+
+Two different scenarios from Ancient Greece:
+
+Two friends were walking. One said to the other, “If I had 10 more coins, I would
+have 3 times as much money as you.” The other said, “If I had 10 more coins, I
+would have five times as much as you.” How many coins does each have?
+
+Two friends were walking. One said to the other, “If you give me 10 of your coins,
+I would have 3 times as much money as you.” The other said, “If you give me 10
+of your coins, I would have five times as much as you.” How many coins does
+each have?
+
+9)
+Andy and Betty together have $6 less than Christine. If Betty gives $5 to
+Andy, then Andy will have half as much as Christine. If, instead, Andy gives $5
+to Betty, then Andy will have one-third as much as Betty. How much does each
+person have to begin with?
+
+10)
+Three friends (A, B and C) each have a certain amount of money. A says,
+“I have as much as B plus one-third as much as C.” B says, “I have as much as C
+plus one-third as much as A.” C says, “I have 10 more than one-third of B.” How
+much does each person have? (Ancient Greece)
+
+11)
+On a test, 39 more pupils passed than failed. On the next test, 7 who passed
+the first test failed and one-third of those who failed the first test passed the second. As a result, 31 more passed the second test than failed it. What was the
+record of passing and failing on the first test?
+
+78
+
+CHAPTER 1. ALGEBRA REVIEW
+
+12)
+At two stations, A and B, six miles apart on the railway, the prices of coal
+are $20 per ton and $24 per ton respectively. The rates of cartage of coal are $2.00
+per ton per mile from A and $3.00 per ton per mile from B. At a certain customer’s
+home, on the railroad from A to B, the cost of coal is the same whether delivered
+from A or B. Find the distance to this home from A.
+
+13)
+There were three-fourths as many women as there were men on the train.
+At the next station six men and eight women got off the train, and twelve men
+and five women got on. There were then three-fifths as many women as men on
+the train. How many men and how many women were originally on the train?
+
+14)
+If a theater could put 5 more seats in a row, it would need 20 rows less,
+but if each row had 3 fewer seats, it would take 20 rows more to seat the same
+number. How many people will it seat?
+
+15)
+An audience of 450 people is seated in rows, with the same number of people in each row. It would take 5 rows less if 3 more people were seated in each
+row. In how many rows are the people seated?
+
+16)
+If evergreens are planted 4 feet closer together it will take 44 more trees for
+a certain piece of road, but if they are planted 6 feet farther apart, it will take 44
+fewer trees for the same length of road. How many miles is the piece of road?
+(use 5280 feet = 1 mile)
+
+17)
+A movie theater owner found that by raising the price of each ticket by
+$1.00, 200 fewer people attened and she broke even, but that if she lowered the
+price by $1.00 per person, 550 people attended and she increased her receipts by
+$1000. What is the usual rate per person?
+
+18)
+The brine pipes in an 84-foot width artificial hockey rink are equally spaced.
+If the space between each pair of pipes were increased by 1 inch, then 84 fewer
+lengths of pipe would be needed. What is the distance between the pipes now?
+
+1.9. RATIONAL EQUATIONS
+
+79
+
+19)
+A living room shelf is 36 inches long and contains a certain number of
+books of uniform width. If each book were one-half inch narrower, the shelf
+would hold six more books. How many books of the wider variety does it hold?
+
+20)
+I am a brazen lion; my spouts are my two eyes, my mouth and flat of my
+right foot. My right eye fills a jar in two days, my left eye in three and my foot
+in four. My mouth is capable of filling it in six hours. Tell me how long all four
+together will take to fill it. (Ancient Greece)
+
+21)
+A man wishes to have 500 rubii of grain ground. He goes to a mill that has
+five stones. The first stone grinds 7 rubii of grain in an hour, the second grinds
+5 rubii in an hour, the third 4 rubii in an hour, the fourth grinds 3 rubii per hour
+and the fifth grinds 1 rubii per hour. In how long will the grain be ground and
+how much is done by each stone? (Clavius, German 1583)
+
+22)
+If two men and three boys can plow an acre in one-sixth of a day, how long
+would it require three men and two boys to plow it?
+(Edward Brooks, American 1873)
+
+23)
+A cobbler can cut leather for ten pairs of shoes in one day. He can finish 5
+pairs of shoes in one day. How many pairs of shoes can he both cut and finish in
+one day? (Ancient Egypt)
+
+24)
+Four waterspouts are filling a tank. Of the four spouts, one can fill the tank
+in one day, the second takes two days, the third takes three days and the fourth
+takes four days. How long will it take all four spouts working together to fill the
+tank? (Ancient Greece)
+
+25)
+If, in one day, a person can make 30 arrows or fletch [put feathers on] 20
+arrows, how many arrows can this person both make and fletch in one day? (Ancient China)
+
+80
+
+CHAPTER 1. ALGEBRA REVIEW
+
+26)
+One military horse and one ordinary horse can pull a load of 40 dan. Two
+ordinary horses and one inferior horse can pull the same load of 40 dan as can
+three inferior horses and one military horse. How much can each horse pull individually? (Ancient China)
+
+27)
+A barrel of water has several holes in it. The first hole empties the full barrel in 3 days. The second hole empties the full barrel in 5 days. The third hole
+empties the full barrel in 20 hours and the last hole empties the full barrel in 12
+hours. With all the holes open, how long will it take to empty the barrel?
+(Levi ben Gershon, French 1321)
+
+28)
+A certain lion could eat a sheep in 4 hours; a leopard could do so in 5 hours;
+and a bear in 6 hours. How many hours would it take for all three animals to devour a sheep if it were thrown in among them? (Fibonacci, Italian 1202)
+
+29)
+Two ships are some distance apart, which journey the first can complete in
+5 days and the other in 7 days - it is sought in how many days they will meet if
+they begin the journey at the same time. (Fibonacci, Italian 1202)
+
+30)
+Sarah, alone, can paint the garage in 24 hours, her sister Jenny, alone, can
+paint the same garage in 12 hours. With the aid of their mother, the three together
+can paint the garage in 4 hours. How long would it take their mother, working
+alone, to paint the garage?
+
+31)
+It required 75 workers 38 days to build an embankment to be used for flood
+control. Had 18 workers been removed to another job at the very start of operations, how much longer would it have taken to build the embankment?
+
+32)
+Mark, alone, requires 6 hours to paint a fence; however, his younger brother,
+who alone could do it in 9 hours, helps him. If they start work at 8:30am, at what
+time should they finish the work?
+
+1.9. RATIONAL EQUATIONS
+
+81
+
+33)
+A group decides to build a cabin together. The job can be done by 3 skilled
+workers in 4 days or by 5 amateurs in 6 days. How long would it take if they all
+work together?
+
+34)
+If it requires 18 workers 50 days to build a piece of road, how many days
+sooner would it be done if 7 more workers were hired at the beginning of operations?
+
+35)
+A contractor estimated that a certain piece of work would be done by 9
+carpenters in 8 hours or by 16 amateurs in 9 hours. The contractor wishes to get
+the job done as quickly as possible and uses both professional carpenters and
+amateurs on the same job. Four carpenters and 4 amateurs begin work at 6am.
+Allowing 45 minuntes for lunch, at what time should they finish the job?
+
+36)
+Mrs. Ellis alone can do a piece of work in 6 days. Her oldest daughter
+takes 2 days longer; her youngest daughter takes twice as long as her mother.
+How long will it take to complete the job if all three work together?
+
+37)
+If 5 men and 2 boys work together, a piece of work can be completed in
+one day and if 3 men and 6 boys work together, it can be completed in one day.
+How long would it take a boy to do the work alone?
+
+38)
+A coal company can fill a certain order from one mine in 3 weeks and from
+a second mine in 5 weeks. How many weeks would be required to fill the order
+if both mines were used?
+
+39)
+If 25 skilled workers work for 8 days, they can complete the construction
+of a concrete dam; 12 skilled workers and 15 untrained workers together can
+complete the dam in 10 days. How long would it take an untrained worker alone
+to complete the work on the dam?
+
+82
+
+CHAPTER 1. ALGEBRA REVIEW
+
+40)
+A and B working togehter can complete a piece of work in 30 days. After
+they have both worked 18 days, however, A leaves and B finishes the work alone
+in 20 more days. Find the time in which each can do the work alone.
+
+41)
+A dump cart can haul enough gravel to fill a pit in 6 days. A truck can do
+the same work in 2 days. How long would it take two dump carts and one truck
+working together to fill the pit?
+
+Chapter 2
+Polynomial and Rational Functions
+This chapter will explore the solution of equations and inequalities involving
+both polynomial and rational functions, primarily through the examination of
+their graphical representations. We will also explore the use of polynomial long
+division and synthetic division in breaking down polynomials into their prime
+factors and the relationship between factors and roots.
+
+2.1
+
+Representing Intervals
+
+Many of the problems in this chapter will have solutions that must be expressed
+as an interval. This means a range of x values that will satisfy the original problem. In this section, we will introduce the translation of graphical intervals into
+algebraic notation.
+For example, in the diagram below, we would represent the interval shown on
+the graph as x < −3.
+−5
+
+−4
+
+−3
+
+−2
+
+−1
+
+0
+
+83
+
+1
+
+2
+
+3
+
+4
+
+5
+
+84
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+In this diagram, we would represent the interval shown on the graph as
+1 ≤ x < 7.
+−1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+In the next diagram, we have two separate intervals to represent - and we will
+need two separate statements to represent them.
+−10
+
+−8
+
+−6
+
+−4
+
+−2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+These intervals would be represented as x < −4 OR x ≥ 6.
+Sometimes students try to represent the intervals above as 6 ≤ x < −4, however,
+this expression would represent a single interval where x is both less than −4
+and, at the same time, greater than or equal to +6. This is simply not possible, and
+would result in the empty set, which is the reason that the OR portion is needed
+in the correct answer.
+Example
+Represent the intervals indicated on the graph below:
+−20 −15 −10
+
+−5
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+On this graph, there is one interval beginning at −5 and ending at +5 and another beginning at 30 and continuing to infinity. Thus, these intervals would be
+represented as −5 < x ≤ 5 OR x ≥ 30.
+Students familiar with another form of interval notation may wish to represent
+this interval as (−5, 5]∪[30, ∞). Both forms of notation accomplish the same goal.
+
+2.1. REPRESENTING INTERVALS
+
+85
+
+Exercises 2.1
+In each problem below, represent the intervals indicated on the graph.
+1)
+−7
+
+−4
+
+0
+
+5
+
+2)
+−5
+
+−1
+
+8
+
+12
+
+3)
+−1
+
+2
+
+4)
+−4
+
+6
+
+5)
+−8
+
+−6
+
+3
+
+6)
+−5
+
+−2
+
+7
+
+86
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+7)
+−10
+
+−4
+
+1
+
+−6
+
+−2
+
+2
+
+6
+
+8)
+15
+
+9)
+−12
+
+−7
+
+5
+
+10)
+−6
+
+−2
+
+3
+
+11)
+0
+
+4
+
+12)
+0
+
+2.1. REPRESENTING INTERVALS
+
+87
+
+13)
+−5
+
+−3
+
+−1
+
+4
+
+14)
+−2
+
+5
+
+7
+
+88
+
+2.2
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+Solution by Graphing
+
+In previous courses the solution of linear equations is covered, generally by separating the variables and constants on opposite sides of the equation to isolate the
+variable. In the previous chapter we examined the solution of quadratic equations, in which the variable is isolated using the technique of completing the
+square. The major difference between these methods of solution is that, in the
+solving of quadratic equations, we must contend with several different powers
+of the variable which makes it considerably more difficult to isolate the variable.
+There are formulas like the quadratic formula available to solve cubic (x3 ) and
+quartic (x4 ) equations, however these formulas are somewhat cumbersome and
+archaic. The primary method for solving eqautions of degree higher than 2 is
+solution by graphing or by algorithm.
+Solution by algorithm is a very interesting process as there are many different
+algorithms available. Which algorithm is most appropriate often depends on the
+types of equations being solved and the technology available to solve them. Two
+major types of algorithms that rely on the graphincal representation of an equation are called “Double False Position” and “The Newton-Raphson Method.”
+Many commonly available pieces of techonolgy use one of these methods. Since
+we have graphing calculators available to us, we will focus on solution by graphing.
+Whether using a TI (Texas Instruments) or Casio graphing calculator, or a software based graphing ustility such as Graph or Desmos, the solution of these
+equations focuses on finding the x-intercepts of the graph since this is where
+the y value is 0. The specific processes for solving equations using each of these
+different tools will be covered in class.
+Example
+Solve for x.
+x3 − 3x2 = 2x − 7
+The first step is to move all terms to one side of the equation and set them equal
+to zero.
+x3 − 3x2 − 2x + 7 = 0
+
+2.2. SOLUTION BY GRAPHING
+
+89
+
+Then we graph the function and look for which x values will make the y value
+equal to 0.
+6
+
+y = x3 − 3x2 − 2x + 7
+
+4
+2
+−1
+
+1
+
+2
+
+3
+
+−2
+−4
+In this graph, we can see three roots, or x-intercepts, where the graph crosses the
+x-axis. These are the x-values that make the y-value equal to 0. We can use the
+available technology to find these x-values.
+6
+
+y = x3 − 3x2 − 2x + 7
+
+4
+2
+x ≈ 2.834
+
+x ≈ −1.491
+
+−1
+
+1
+
+−2
+
+x ≈ 1.657
+
+2
+
+3
+
+−4
+So, we can see that the solutions to the eqaution x3 − 3x2 − 2x + 7 = 0 are
+x ≈ −1.491, 1.657, 2.834.
+We can check these answers by plugging them back into the original equation.
+
+90
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+(−1.491)3 − 3 ∗ (−1.491)2 − 2 ∗ (−1.491) + 7 = −3.3146 − 3 ∗ 2.223 + 2.982 + 7
+= −3.3146 − 6.669 + 2.982 + 7
+= −0.0016
+The result is not exactly 0 since our answers have been rounded off to the 1000th
+place. If we wanted greater accuracy, then we should include greater accuracy in
+the value of our answers.
+(1.657)3 − 3 ∗ (1.657)2 − 2 ∗ (1.657) + 7 = 4.5495 − 3 ∗ 2.7456 − 3.314 + 7
+= 4.5495 − 8.2368 − 3.314 + 7
+= −0.0013
+and
+(2.834)3 − 3 ∗ (2.834)2 − 2 ∗ (2.834) + 7 = 22.7614 − 3 ∗ 8.03155 − 5.668 + 7
+= 22.7614 − 24.09465 − 5.668 + 7
+= −0.00125
+
+2.2. SOLUTION BY GRAPHING
+
+91
+
+Exercises 2.2
+Solve for x.
+
+1)
+
+3x3 − 7x2 − x + 1 = 0
+
+2)
+
+24x4 + 5x2 − 13x + 3 = 0
+
+3)
+
+2x3 − 2x2 − 28x + 51 = 0
+
+4)
+
+2x3 + 5x2 − 15x + 7 = 0
+
+5)
+
+x4 − 4x3 + x2 + 6x + 1 = 0
+
+6)
+
+x4 + 2x3 + x2 − x − 6 = 0
+
+7)
+
+x4 − 5x3 − 3x2 + 17x − 9 = 0
+
+8)
+
+2x3 − 5x − 3 = 0
+
+9)
+
+x4 − 4x3 − 7x2 − 36x − 18 = 0
+
+10)
+
+6x3 − 25x2 + 21x + 10 = 0
+
+11)
+
+2x4 − 5x3 + x2 + 4x − 2 = 0
+
+12)
+
+x4 + x3 − 5x2 + x − 4 = 0
+
+92
+
+2.3
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+Solution of Polynomial Inequalities by Graphing
+
+In this section, we will combine the concepts of the previous two sections to solve
+polynomial inequalities. In Section 2.2, we solved equations by graphing and
+finding the x-values which made y = 0. In solving an inequality, we will be
+concerned with finding the range of x values that make y either greater than or
+less than 0, depending on the given problem.
+Example
+Solve the given inequality.
+2x3 + 8x2 + 5x − 3 ≥ 0
+First, we graph the function:
+10
+y = 2x3 + 8x2 + 5x − 3
+
+−3
+
+−2
+
+5
+
+−1
+
+1
+−5
+
+Then we identify the intervals of x-values that make the y value greater than or
+equal to zero, as indicated in the problem.
+
+2.3. SOLUTION OF POLYNOMIAL INEQUALITIES BY GRAPHING
+
+93
+
+10
+5
+
+y≥0
+
+−3
+
+y≥0
+
+B
+
+A
+−2
+
+−1
+
+C 1
+−5
+
+The indicated roots of the function (A, B and C) are the x-values that make y
+equal to zero. These points divide the graph between the regions where y is
+greater than zero and the regions where y is less than zero. The solution to the
+given inequlaity 2x3 + 8x2 + 5x − 3 ≥ 0 are A≤ x ≤B OR x ≥C.
+When we find the values of A, B and C: A= −3, B≈ −1.366 and C≈ 0.366, we can
+complete the solution to the problem.
+2x3 + 8x2 + 5x − 3 ≥ 0
+−3 ≤ x ≤ −1.366 OR x ≥ 0.366
+
+Example
+Solve the given inequality.
+x4 − 2x3 − 5x2 + 8x + 3 ≤ 0
+First, we graph the function:
+
+94
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+5
+
+−2
+
+−1
+
+1
+
+2
+
+y = x4 − 2x3 − 5x2 + 8x + 3
+
+−5
+
+In this problem, we’re looking for the intervals of x values that make y less than
+or equal to zero. First, we identify the roots of the function:
+
+5
+
+x ≈ 1.806
+
+x ≈ −2.034
+
+−3
+
+−2
+
+−1
+
+x ≈ −0.320
+
+1
+
+2
+
+3
+
+x ≈ 2.549
+
+−5
+
+Next, we’ll identify the intervals where the y values are less than zero:
+
+2.3. SOLUTION OF POLYNOMIAL INEQUALITIES BY GRAPHING
+
+95
+
+5
+
+−2
+
+−1
+
+1
+
+y≤0
+
+2
+y≤0
+
+−5
+
+So, the solution to the original inequality is:
+x4 − 2x3 − 5x2 + 8x + 3 ≤ 0
+−2.034 ≤ x ≤ −0.320 OR 1.806 ≤ x ≤ 2.549
+
+In the next example we’ll be looking to identify both the intervals where y is
+greater than zero, and the intervals where y is less than zero.
+
+Example
+Determine the interval(s) for which x3 + 5x2 + 5x + 1 ≥ 0
+Determine the interval(s) for which x3 + 5x2 + 5x + 1 < 0
+Once again, we’ll start by graphing the function to find the roots:
+
+96
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+6
+4
+2
+x = −1
+
+−4
+
+−3
+
+−2
+
+x ≈ −3.732
+
+x ≈ −0.268
+
+−1
+
+1
+
+2
+
+3
+
+−2
+
+Now that we’ve indentified the roots, we can determine where the y values are
+greater than zero and where they’re less than zero.
+For y ≥ 0, we can see that this corresponds to: −3.732 ≤ x ≤ −1 OR x ≥ −0.268
+For y < 0, we can see that this corresponds to: x < −3.732 OR −1 < x < −0.268
+
+2.3. SOLUTION OF POLYNOMIAL INEQUALITIES BY GRAPHING
+
+Exercises 2.3
+1)
+
+Determine the interval(s) for which x3 − 4x2 + 2x + 3 ≥ 0
+
+Determine the interval(s) for which x3 − 4x2 + 2x + 3 < 0
+
+2)
+
+Determine the interval(s) for which 4x3 − 4x2 − 19x + 10 ≥ 0
+
+Determine the interval(s) for which 4x3 − 4x2 − 19x + 10 < 0
+
+3)
+
+Determine the interval(s) for which x3 − 2.5x2 − 7x − 1.5 ≥ 0
+
+Determine the interval(s) for which x3 − 2.5x2 − 7x − 1.5 < 0
+
+4)
+
+Determine the interval(s) for which x3 − 3.5x2 + 0.5x + 5 ≥ 0
+
+Determine the interval(s) for which x3 − 3.5x2 + 0.5x + 5 < 0
+
+97
+
+98
+5)
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+Determine the interval(s) for which 6x4 − 13x3 + 2x2 − 4x + 15 ≥ 0
+
+Determine the interval(s) for which 6x4 − 13x3 + 2x2 − 4x + 15 < 0
+
+6)
+
+Determine the interval(s) for which x4 − x3 − x2 + 3x − 5 ≥ 0
+
+Determine the interval(s) for which x4 − x3 − x2 + 3x − 5 < 0
+
+7)
+
+Determine the interval(s) for which 3x4 + 3x3 − 14x2 − x + 3 ≥ 0
+
+Determine the interval(s) for which 3x4 + 3x3 − 14x2 − x + 3 < 0
+
+8)
+
+Determine the interval(s) for which 4x4 − 4x3 − 7x2 + 4x + 3 ≥ 0
+
+Determine the interval(s) for which 4x4 − 4x3 − 7x2 + 4x + 3 < 0
+
+2.3. SOLUTION OF POLYNOMIAL INEQUALITIES BY GRAPHING
+
+99
+
+Determine the interval(s) that satisfy each inequality.
+9)
+
+x3 + x2 − 5x + 3 ≤ 0
+
+10)
+
+x3 − 7x + 6 > 0
+
+11)
+
+x3 − 13x + 12 > 0
+
+12)
+
+x4 − 10x2 + 9 < 0
+
+13)
+
+6x4 − 9x2 − 4x + 12 ≥ 0
+
+14)
+
+x4 − 5x3 + 20x − 16 > 0
+
+15)
+
+x3 − 2x2 − 7x + 6 ≤ 0
+
+16)
+
+x4 − 6x3 + 2x2 − 5x + 2 ≤ 0
+
+17)
+
+2x4 + 3x3 − 2x2 − 4x + 2 > 0
+
+18)
+
+x5 + 5x4 − 4x3 + 3x2 − 2 ≤ 0
+
+100
+
+2.4
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+Solution of Rational Inequalities by Graphing
+
+In the previous section, we saw how to solve polynomial inequalities by graphing. In this section, we will use similar methods to solve rational inequalities.
+Rational inequalities involve ratios of polynomials or fractions. Because these
+types of problems involve fractions, the graphs of the functions that we work
+with will have what are known as asymptotes. This word comes from a Greek
+root having to do with two lines that come very close to each other but never
+meet.
+The vertical asymptotes of a graph will appear at places where the original expression has a zero denominator. This means that the function is not defined at
+those x values and so, rather than having a y value at that point, the graph has an
+asymptote.
+Example
+Below is a graph of the function y =
+
+x+2
+x−1
+
+5
+
+−8 −6 −4 −2
+
+2
+
+4
+
+6
+
+8
+
+−5
+
+Rather than having a y value at the point where x = 1, the dotted line indicates
+the asymptote where the function is not defined. In the previous section, we were
+interested in finding the roots of the function because these are the places where
+y = 0, and can be the dividing points between where the y values are greater than
+zero (y > 0) and the where the y values are less than zero (y < 0).
+
+2.4. SOLUTION OF RATIONAL INEQUALITIES BY GRAPHING
+
+101
+
+The importance of the asymptotes in analyzing rational functions is that, like the
+roots, these represent x values that can be the dividing points between where
+y > 0 and where y < 0.
+Example
+Solve the given inequality.
+2
+>0
+x−3
+First we examine the graph:
+
+5
+
+−8 −6 −4 −2
+
+2
+
+4
+
+6
+
+8
+
+−5
+
+Notice that the asymptote for this graph occurs at the value x = 3, because this is
+the x value that creates a zero denominator. Also notice that the y values switch
+from being negative to being positive across the asymptote.
+There are no roots for this function because there are no x values that make y = 0.
+For a fraction to be zero, the numerator must equal zero. In this example the
+numerator is 2 and no value of x will make it equal zero. Therefore the only
+possible dividing point on the graph is x = 3, and the solution to the inequality
+is x > 3.
+
+102
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+Example
+Solve the given inequality.
+x−2
+>0
+x−3
+
+5
+
+−8 −6 −4 −2
+
+2
+
+4
+
+6
+
+8
+
+−5
+
+In this inequality, there is again an asymptote at x = 3, but there is also a root at
+0
+2−2
+=
+= 0. So we have two
+the value x = 2, because when x = 2. y =
+2−3
+−1
+dividing points to consider, x = 2 and x = 3. We can see from the graph that
+y > 0 for x < 2 or x > 3, so that is the solution to the given inequality.
+Example
+Solve the given inequality.
+x2 − 2
+>0
+x−3
+In this problem, we have the same asymptote as the previous two problems: x =
+3. However, in this inequality, there are two roots, because there are two x values
+that make the numerator equal zero.
+√
+x2 − 2 = 0 means that x2 = 2 and x = ± 2 ≈ ±1.414
+We can see these roots on the graph.
+
+2.4. SOLUTION OF RATIONAL INEQUALITIES BY GRAPHING
+
+103
+
+15
+10
+5
+
+−8 −6 −4 −2
+
+2
+
+4
+
+6
+
+8
+
+−5
+
+In the graph above, we can see the asymptote at x = 3 and the two roots at
+x ≈ 1.414, −1.414.
+The x values that make y > 0 are −1.414 < x < 1.414 OR x > 3.
+Example
+Solve the given inequality.
+x−2
+>0
+x2 − 3
+
+5
+
+−8 −6 −4 −2
+
+2
+
+4
+
+6
+
+8
+
+−5
+
+The roots for this function are the x values that make the numerator equal zero:
+x − 2 = 0, therefore x = 2, and we can see this root on the graph.
+
+104
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+The asymptotes for the function are the x values that make the denominator equal
+zero:
+√
+x2 − 3 = 0 means that x2 = 3 and x = ± 3 ≈ ±1.732
+
+5
+
+−8 −6 −4 −2
+
+2
+
+4
+
+6
+
+8
+
+4
+
+6
+
+8
+
+−5
+
+Therefore the solution for the given inequality is:
+−1.732 < x < 1.732 OR x > 2
+Example
+Solve the given inequality.
+5x + 1
+<0
+x2 + 3x − 4
+
+5
+
+−8 −6 −4 −2
+−5
+
+2
+
+2.4. SOLUTION OF RATIONAL INEQUALITIES BY GRAPHING
+
+105
+
+Roots
+5x + 1 = 0
+5x = −1
+x = −0.2 = − 15
+Asymptotes
+x2 + 3x − 4 = 0
+(x + 4)(x − 1) = 0
+x = −4, 1
+
+5
+
+−8 −6 −4 −2
+
+2
+
+4
+
+6
+
+8
+
+−5
+
+If we combine the algebraic analysis above with what we see in the graph, then
+we know that the dividing points important to the solution of this inequality are
+at x = −4, −0.2, 1. The intervals where the y values are less than zero are x < −4
+OR −0.2 < x < 1.
+
+106
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+Example
+x2 + 2x − 1
+≤0
+x2 + 7x + 5
+
+5
+
+−8 −6 −4 −2
+
+2
+
+4
+
+6
+
+8
+
+−5
+
+Roots
+x2 + 2x − 1 = 0
+x ≈ −2.414, 0.414
+Asymptotes
+x2 + 7x + 5 = 0
+x ≈ −6.193, −0.807
+We can see that the dividing points important to the solution of the inequality are
+x ≈ −6.193, −2.414, −0.807, 0.414. The intervals where the y values are less than
+or equal to zero are −6.193 ≤ x ≤ −2.414 OR −0.807 ≤ x ≤ 0.414.
+
+2.4. SOLUTION OF RATIONAL INEQUALITIES BY GRAPHING
+
+Exercises 2.4
+Solve each inequality.
+1)
+
+x2
+
+x+4
+>0
+− 8x + 12
+
+2)
+
+x2
+
+2x + 3
+<0
+− 2x − 35
+
+3)
+
+x2 − 5x − 14
+<0
+x2 + 3x − 10
+
+4)
+
+2x2 − x − 3
+>0
+x2 + 10x + 16
+
+5)
+
+3x + 2
+<0
+x2 + x − 5
+
+6)
+
+x2 + 2x + 5
+>0
+x2 − 3x − 7
+
+7)
+
+x3 + 9
+>0
+x2 + x − 1
+
+8)
+
+x3 + 9
+>0
+x2 + x + 1
+
+Solve each inequality.
+9)
+
+x2 − 2x − 9
+>0
+3x + 11
+
+11)
+
+x2 + x − 5
+>0
+x2 − x − 6
+
+10)
+
+x2 + 4x + 3
+<0
+2x + 1
+
+12)
+
+x3 + 2
+>0
+x2 − 2
+
+13)
+
+x2 + 2x − 7
+<0
+x2 + 3x − 6
+
+14)
+
+2x − x2
+<0
+x2 − 4x + 6
+
+15)
+
+x2 − 7
+<0
+x2 + 5x − 1
+
+16)
+
+x−5
+>0
+3x2 − 2x − 3
+
+107
+
+108
+
+2.5
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+Finding Factors from Roots
+
+One method of solving equations involves finding the factors of the polynomial
+expression in the equation and then setting each factor equal to zero.
+x2 + 8x + 15 = 0
+(x + 5)(x + 3) = 0
+x+5=0
+
+x+3=0
+
+x = −5
+
+x = −3
+
+In this process, the reasoning is that if (x + 5) times (x + 3) equals zero, then one
+of those expressions must be equal to zero. In setting them equal to zero, we find
+the solutions of x = −5, −3. Plugging them back into the factored expression we
+see the following:
+(−5 + 5)(−5 + 3) = 0 ∗ −2 = 0
+and
+(−3 + 5)(−3 + 3) = 2 ∗ 0 = 0
+This process works in reverse as well. In other words, if we know a root of the
+function, we can find factors for the expression.
+Example
+Find a quadratic equation that has roots of −2 and +3.
+x = −2
+x+2=0
+
+x=3
+x−3=0
+
+(x + 2)(x − 3) = 0
+x2 − x + 6 = 0
+
+2.5. FINDING FACTORS FROM ROOTS
+
+109
+
+Roots that are fractions are a little trickier, but really no more difficult:
+Example
+Find a quadratic equation that has roots of −5 and 23 .
+2
+3
+
+x = −5
+
+x=
+
+x+5=0
+
+3x = 2
+
+x+5=0
+
+3x − 2 = 0
+
+(x + 5)(3x − 2) = 0
+3x2 + 13x − 10 = 0
+
+110
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+Exercises 2.5
+Find a quadratic equation that has the indicated roots.
+1)
+
+4, −1
+
+2)
+
+−2, 7
+
+3)
+
+3
+,1
+2
+
+4)
+
+− 15 , 23
+
+5)
+
+1
+,3
+3
+
+6)
+
+−4, 25
+
+7)
+
+1
+, − 72
+2
+
+8)
+
+−1, 53
+
+9)
+
+− 23 , −3
+
+10)
+
+− 23 , − 34
+
+11)
+
+− 52 , 3
+
+12)
+
+−6, −2
+
+2.6. POLYNOMIAL LONG DIVISION
+
+2.6
+
+111
+
+Polynomial Long Division
+
+Polynomial long division has many similarities to numerical long division, so it
+is important that we understand how and why numerical long division works
+the way it does before discussing polynomial long division. First the HOW?
+Given the numerical problem 87, 462÷38, the first step is to determine the highest
+place value in the answer.
+2
+38)87, 462
+Often the first step in numerical long division is to say “Does 38 divide into 8?”
+“No.” “Does 38 divide into 87?” “Yes.” This tells us that the first digit in the
+answer will be over the 7 in 87,462, and consequently will be in the thousands
+place. Once we know that the first digit in the answer will be in the thousands
+place, the next question is “How many thousands?” We can determine that 2 ∗
+38 = 76 but 3∗38 = 114 (too big), so we know that the first digit in the answer will
+be 2. Then we subtract, include the 4 and examine what is left over to continue.
+2
+38)87, 462
+−76
+114
+Here, we see that 114 ÷ 38 = 3, so we know that the next digit in the answer will
+be 3.
+23
+38)87, 462
+−76
+114
+−114
+0006
+After including the 6, we can see that 38 does not divide evenly into 6, so we put
+a zero as the next digit in our answer and proceed:
+
+112
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+2 30
+38)87, 462
+−76
+114
+−114
+0006
+0
+00062
+
+Now that we have included all the digits from our original number 87,462, the
+last step is to divide 38 into 62. This goes one time with 24 left over.
+2 301
+38)87, 462
+−76
+114
+−114
+0006
+−0
+00062
+−38
+00024
+So, now we have the solution to the original problem 87, 462 ÷ 38 = 2, 301 R24 or
+24
+.
+2, 301 38
+The WHY? of the long division algorithm is somewhat hidden by the HOW? In
+the first step, we are determining which place value will hold the first digit of our
+answer. When we determine that 38 does divide into 87, this indicates that the
+first digit in our answer will be the thousands place. Dividing 38 into 87 tells us
+how many thousands there will be. Then we subtract:
+87, 462
+−76, 000
+11, 462
+
+2.6. POLYNOMIAL LONG DIVISION
+
+113
+
+Now we need to determine how many times 38 will divide into 11,462. We decided on 300 ∗ 38 = 11, 400, then we subtract to see how much is left over:
+11, 462
+−11, 400
+00, 062
+We can see that we won’t need any tens in our answer, and that 38 divides into 62
+one time with 24 left over, thus the answer is 2 thousands, 3 hundreds, no tens, 1
+and a remainder of 24. To check the answer, we multiply 38 ∗ 2301 and add 24:
+2, 301
+×38
+18408
+6903
+87438
++24
+87462
+Polynomial long division works in much the same way that numerical long division does. Given a problem A ÷ B, the goal is to find a quotient Q and remainder
+R so that A = B ∗ Q + R.
+Let’s look at this with the example 2x4 + 7x3 + 4x2 − 2x − 1 ÷ x2 + 3x + 1 or:
+2x4 + 7x3 + 4x2 − 2x − 1
+x2 + 3x + 1
+So, we are looking to answer the question:
+A
+
+=
+
+B
+
+∗
+
+Q
+
++R
+
+2x4 + 7x3 + 4x2 − 2x − 1 = (x2 + 3x + 1) ∗ (?+?+?)+?
+If we want to mulitply x2 + 3x + 1 times something and end up with 2x4 + 7x3 +
+4x2 − 2x − 1, then what we multiply by is going to have to start with 2x2 , because
+x2 ∗ 2x2 = 2x4 .
+
+114
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+Now we’re working with this:
+A
+
+=
+
+B
+
+∗
+
+Q
+
++R
+
+2x4 + 7x3 + 4x2 − 2x − 1 = (x2 + 3x + 1) ∗ (2x2 +?+?)+?
+But the 2x2 doesn’t just get multiplied by the x2 , it will also get multiplied by the
+3x and the 1. So now we have:
+A
+
+=
+
+B
+
+∗
+
+Q
+
++R
+
+2x4 + 7x3 + 4x2 − 2x − 1 = (x2 + 3x + 1) ∗ (2x2 +?+?)+?
+= 2x4 + 6x3 + 2x2 +?????
+The issue this raises is that the next multiplication (? ∗ x2 +? ∗ 3x+? ∗ 1) needs to
+add only 1x3 to our answer, because we need 7x3 and we already have 6x3 from
+the previous multiplication. That means we’re going to want to multiply next by
+1x:
+
+A
+
+=
+
+B
+
+∗
+
+Q
+
++R
+
+2x4 + 7x3 + 4x2 − 2x − 1 = (x2 + 3x + 1) ∗ (2x2 + 1x+?)+?
+= 2x4 + 6x3 + 2x2
+=
+
+1x3 + 3x2 + x
+
+= 2x4 + 7x3 + 5x2 + 1x+???
+In the next round of mutiplication, we’re going to want to bring the 5x2 down to
+4x2 , so we’ll need to multiply by −1.
+
+2.6. POLYNOMIAL LONG DIVISION
+A
+
+=
+
+115
+B
+
+∗
+
+Q
+
++R
+
+2x4 + 7x3 + 4x2 − 2x − 1 = (x2 + 3x + 1) ∗ (2x2 + 1x − 1) + 0
+= 2x4 + 6x3 + 2x2
+=
+=
+
+1x3 + 3x2 + x
+−1x2 − 3x − 1
+
+= 2x4 + 7x3 + 5x2 − 2x − 1
+Now we also know that the remainder is zero, because x2 + 3x + 1 divides evenly
+into 2x4 + 7x3 + 4x2 − 2x − 1 and so:
+2x4 + 7x3 + 4x2 − 2x − 1 = (x2 + 3x + 1) ∗ (2x2 + 1x − 1)
+This method makes the reasoning behind dividing polynomials somewhat more
+apparent than the long division process, but it is more cumbersome. The way
+that polynomial long division is usually approached is as follows:
+
+x2 + 3x + 1
+
+
+
+2x4 + 7x3 + 4x2 − 2x − 1
+
+Then, just as we did in the other method, we question “What should we multiply
+x2 by to get 2x4 ?” Answer: “2x2 ” This is the first term in our answer:
+
+x2 + 3x + 1
+
+
+
+2x2
+2x4 + 7x3 + 4x2 − 2x − 1
+
+Then we multiply 2x2 (x2 + 3x + 1) and change all the signs to see what we’ll be
+left with:
+2x2
+x2 + 3x + 1
+2x4 + 7x3 + 4x2 − 2x − 1
+− 2x4 − 6x3 − 2x2
+
+
+116
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+This indicates that we’ll have the 2x4 we’ll need in our answer, as well six of the
+seven x3 ’s and two of the four x2 ’s. We’ll now need 1x3 next:
+2x2
+x2 + 3x + 1
+2x4 + 7x3 + 4x2 − 2x − 1
+− 2x4 − 6x3 − 2x2
+x3 + 2x2 − 2x
+
+
+This means we’ll need to multiply by 1x:
+2x2 + x
+x2 + 3x + 1
+2x4 + 7x3 + 4x2 − 2x − 1
+− 2x4 − 6x3 − 2x2
+x3 + 2x2 − 2x
+− x3 − 3x2 − x
+− x2 − 3x − 1
+
+
+Here, we still need to pick up a −1x2 , which means that our next multiplication
+will be with −1:
+2x2 + x − 1
+x2 + 3x + 1
+2x4 + 7x3 + 4x2 − 2x − 1
+− 2x4 − 6x3 − 2x2
+x3 + 2x2 − 2x
+− x3 − 3x2 − x
+− x2 − 3x − 1
+x2 + 3x + 1
+0
+
+
+Because x2 + 3x + 1 divides evenly into 2x4 + 7x3 + 4x2 − 2x − 1 we have a zero
+remainder. In the next example there will be a non-zero remainder:
+Example
+Divide:
+3x4 − 8x3 + 19x2 − 15x + 10
+x2 − x + 4
+
+2.6. POLYNOMIAL LONG DIVISION
+
+117
+
+First, we set up the problem:
+
+x2 − x + 4
+
+
+
+3x4 − 8x3 + 19x2 − 15x + 10
+
+Then, we question: “What do we need to multiply x2 by to get 3x4 ?” Answer:
+“3x2 ”
+
+x2 − x + 4
+
+
+
+3x2
+3x4 − 8x3 + 19x2 − 15x + 10
+
+Then, we multiply, change signs (subtract) and combine like terms:
+3x2
+x2 − x + 4
+3x4 − 8x3 + 19x2 − 15x + 10
+− 3x4 + 3x3 − 12x2
+− 5x3 + 7x2 − 15x
+
+
+Now we’ll need to multiply by −5x, change signs and combine like terms:
+3x2 − 5x
+
+x2 − x + 4
+3x4 − 8x3 + 19x2 − 15x + 10
+− 3x4 + 3x3 − 12x2
+− 5x3 + 7x2 − 15x
+5x3 − 5x2 + 20x
+2x2 + 5x + 10
+We need 2x2 so we’ll need to multiply by 2, change signs and combine like terms:
+3x2 − 5x + 2
+x2 − x + 4
+3x4 − 8x3 + 19x2 − 15x + 10
+− 3x4 + 3x3 − 12x2
+− 5x3 + 7x2 − 15x
+5x3 − 5x2 + 20x
+2x2 + 5x + 10
+− 2x2 + 2x − 8
+7x + 2
+
+
+118
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+Because there is no positive power of x that we can multiply x2 by to get 7x, then
+this is our remainder: 7x + 2.
+So:
+A
+
+=
+
+B
+
+∗
+
+Q
+
++
+
+R
+
+3x4 − 8x3 + 19x2 − 15x + 10 = (x2 − x + 4) ∗ (3x2 − 5x + 2) + (7x + 2)
+
+2.6. POLYNOMIAL LONG DIVISION
+
+119
+
+Exercises 2.6
+Find the quotient in each problem.
+
+1)
+
+y 3 − 4y 2 + 6y − 4
+y−2
+
+2)
+
+x3 − 5x2 + x + 15
+x−3
+
+3)
+
+x3 − 4x2 − 3x − 10
+x2 + x + 2
+
+4)
+
+2x3 − 3x2 + 7x − 3
+x2 − x + 3
+
+5)
+
+x4 + 2x3 − x2 + x + 6
+x+2
+
+6)
+
+x4 + x3 + 5x2 + 3x + 6
+x2 + x − 1
+
+7)
+
+2z 3 + 5z + 8
+z+1
+
+8)
+
+x5 + 3x + 2
+x3 + 2x + 1
+
+9)
+
+x4 + 2x3 + 4x2 + 3x + 2
+x2 + x + 2
+
+10)
+
+2x4 + 3x3 + 3x2 − 5x − 3
+2x2 − x − 1
+
+11)
+
+2y 5 − 3y 4 − y 2 + y + 4
+y2 + 1
+
+12)
+
+3x5 − 4x3 + 3x2 + 12x − 10
+x2 + 2x − 1
+
+13)
+
+5x4 − 3x2 + 2
+x2 − 3x + 5
+
+14)
+
+3y 3 − 4y 2 − 3
+y 2 + 5y + 2
+
+120
+
+2.7
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+Synthetic Division
+
+The process for polynomial long division (like the process for numerical long
+division) has been separated somewhat from its logical underpinnings for a more
+efficient method to arrive at an answer. For particular types of polynomial long
+division, we can even take this abstraction one step further. Synthetic Division is
+a handy shortcut for polynomial long division problems in which we are dividing
+by a linear polynomial. This means that the highest power of x we are dividing by
+needs to be x1 . This limits the usefulness of Synthetic Division, but it will serve
+us well for certain purposes. Let’s examine where the coefficients in our answer
+come from when we divide by a linear polynomial:
+
+
+x−5
+
+2x3
+2x4 − 6x3 − 23x2 + 16x − 5
+− 2x4 + 10x3
+4x3 − 23x2
+
+Notice that the first coefficient in the answer is the same as the first coefficient in
+the polynomial we’re dividing into. This is because we’re dividing by a polynomial in the form 1x1 − a. This also makes the power of the first term in the answer
+one less than the power of the polynomial we are dividing into. Let’s see where
+the subsequent coefficients in the answer come from:
+
+
+x−5
+
+2x3 + 4x2
+2x4 − 6x3 − 23x2 + 16x − 5
+− 2x4 + 10x3
+4x3 − 23x2
+− 4x3 + 20x2
+− 3x2 + 16x
+
+The next coefficient in the answer (4) comes from the combination of the −6 and
+the +10. The +10 came from multiplying the 2 in the answer by the 5 in the
+divisor x − 5. The next coefficient in the answer will be −3, which comes from
+multiplying the 4 (in the answer) by the 5 (in the divisor) and combining it with
+the −23 in the polynomial we’re dividing into:
+
+2.7. SYNTHETIC DIVISION
+
+121
+
+
+x−5
+
+2x3 + 4x2 − 3x
+2x4 − 6x3 − 23x2 + 16x − 5
+− 2x4 + 10x3
+4x3 − 23x2
+− 4x3 + 20x2
+− 3x2 + 16x
+3x2 − 15x
+
+The last part of our answer will come from multiplying the −3 in the answer
+times the 5 in the divisor (making −15) and combining this with the +16 in the
+polynomial we’re dividing into:
+
+
+x−5
+
+2x3 + 4x2 − 3x + 1
+2x4 − 6x3 − 23x2 + 16x − 5
+− 2x4 + 10x3
+4x3 − 23x2
+− 4x3 + 20x2
+− 3x2 + 16x
+3x2 − 15x
+1x − 5
+−x+5
+0
+
+The process of Synthetic Division uses these relationships as a shortcut to finding
+the answer. The set-up for a Synthetic Division problem is shown below:
+5
+
+2 −6 −23
+
+16 −5
+
+122
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+This set-up allows us to complete the division problem
+5 2
+
+−6 −23
+
+2x4 − 6x3 − 23x2 + 16x − 5
+.
+x−5
+
+16 −5
+
+The first coefficient in the answer is the same as the first coefficient in the polynomial we’re dividing into:
+5
+
+2
+↓
+2
+
+−6
+
+−23
+
+16 −5
+
+To get the next coefficient, we multiply the 2 by the 5 to get +10 and flll this in
+under the −6:
+5
+
+2 −6 −23
+↓ +10
+2
+
+16 −5
+
+Then, −6 + 10 = +4, which is the next coefficient in the answer:
+5
+
+2 −6 −23
+↓ +10
+2
+4
+
+16 −5
+
+Then, we continue this process, multiplying the 4 by the 5 to get 20 and combining this with the −23: −23 + 20 = −3:
+5
+
+2 −6 −23
+↓ +10 +20
+2
+4
+−3
+
+16 −5
+
+Next, multiply the −3 by the 5 and combine the resulting −15 with the 16:
+5
+
+2
+↓
+2
+
+−6 −23 16 −5
++10 +20 −15
+4
+−3
+1
+
+2.7. SYNTHETIC DIVISION
+
+123
+
+In the last step, multiply the 1 times the 5 and combine the result with the −5 in
+the problem to get zero:
+5
+
+2
+↓
+2
+
+−6 −23
++10 +20
+4
+−3
+
+16 −5
+−15 5
+1
+0
+
+This last coefficient represents the remainder - in this case 0. The other numerals
+in the answer represent the coefficients for the powers of x in the answer. On the
+far right is the remainder, then the constant (x0 ) term, then the linear (x1 ) term
+and so on:
+5
+
+−6 −23
++10 +20
+4x2 −3x1
+
+2
+↓
+2x3
+
+16 −5
+−15 5
+1x0
+0
+
+2x4 − 6x3 − 23x2 + 16x − 5
+= 2x3 + 4x2 − 3x + 1
+x−5
+Let’s look at another example:
+Example
+Use Synthetic Division to divide:
+3x3 + 5x2 − 9x + 9
+x+3
+Since Synthetic Division is set up to divide by x − a, if we’re dividing by x + 3
+we’ll need to use a −3 in the Synthetic Division:
+−3
+
+3 5
+↓
+3
+
+−9
+
+9
+
+Then, 3 ∗ −3 = −9:
+−3
+
+3
+↓
+3
+
+5 −9
+−9
+−4
+
+9
+
+124
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+Next, −4 ∗ −3 = +12:
+−3
+
+3 5 −9
+↓ −9 12
+3 −4 3
+
+9
+
+And this example also has a zero remainder:
+−3
+
+3
+↓
+3
+
+5 −9 9
+−9 12 −9
+−4 3
+0
+
+The answer here is 3x2 − 4x + 3:
+3x3 + 5x2 − 9x + 9
+= 3x2 − 4x + 3
+x+3
+and
+3x3 + 5x2 − 9x + 9 = (x + 3)(3x2 − 4x + 3)
+Let’s look at an example that is a little bit different.
+Example
+Use Synthetic Division to divide:
+6x4 + x3 + 9x2 + x − 2
+2x + 1
+Synthetic Division is set up to handle problems in which we are dividing by
+1x − a. Clearly, this is not the case in this example, however we can work around
+this. Another way of looking at setting up the synthetic division is that we use
+the number that is the solution to x − a = 0. When we divided by x − 5, we used
++5. When we were dividing by x + 3, we used −3. So, if we’re going to divide by
+2x + 1, we’ll use − 12 in the Synthetic Division:
+− 12
+
+6 1
+↓
+6
+
+9
+
+1
+
+−2
+
+2.7. SYNTHETIC DIVISION
+
+125
+
+Then, we proceed as usual:
+− 21
+
+6
+↓
+6
+
+1
+−3
+−2
+
+9
+1 −2
+1 −5 2
+10 −4 0
+
+Notice that, again, we have a zero remainder. Also, notice that each coefficient
+in our answer has a common factor of 2, which was the coefficient of the x in
+2x + 1, which we orginally were going to divide by. What we’ve done here is not
+division by 2x + 1, but division by x + 21 .
+So, in the end, our work tells us that:
+6x4 + x3 + 9x2 + x − 2
+= 6x3 − 2x2 + 10x − 4
+x + 12
+and
+
+
+1
+4
+3
+2
+6x + x + 9x + x − 2 = x +
+(6x3 − 2x2 + 10x − 4)
+2
+Notice that if we factor out the common factor of 2 from our answer, we can
+multiply it back into the x + 21 and get an answer for our original problem:
+
+4
+
+3
+
+2
+
+
+
+6x + x + 9x + x − 2 =
+
+
+1
+2(3x3 − x2 + 5x − 2)
+x+
+2
+
+= (2x + 1)(3x3 − x2 + 5x − 2)
+This means that:
+6x4 + x3 + 9x2 + x − 2
+= 3x3 − x2 + 5x − 2
+2x + 1
+
+126
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+Another thing to understand about Synthetic Division is that if there is a missing
+power of x, then you should include a zero as the coefficient of that power.
+Example
+Use Synthetic Division to divide:
+x3 + 4x − 6
+x−2
+Since there is no x2 term in the polynomial we’re divding into, we’ll enter a zero
+as the coefficient for that term:
+2
+
+1 0
+↓
+1
+
+4
+
+−6
+
+2
+
+1 0 4
+↓ 2 4
+1 2 8
+
+−6
+16
+10
+
+And then proceed as usual:
+
+So the answer for this problem is x2 + 2x + 8
+
+R : 10.
+
+2.7. SYNTHETIC DIVISION
+
+127
+
+Exercises 2.7
+Use synthetic division to find the quotient in each problem.
+
+1)
+
+x3 − 8x2 + 5x + 50
+x−5
+
+2)
+
+x3 + 5x2 − x − 14
+x+2
+
+3)
+
+x3 + 12x2 + 34x − 7
+x+7
+
+4)
+
+x3 − 10x2 + 23x − 6
+x−3
+
+5)
+
+x4 − 15x2 + 10x + 24
+x+4
+
+6)
+
+x4 − 3x3 + 4x2 − 36
+x−3
+
+7)
+
+x4 − 2x3 − x + 10
+x−2
+
+8)
+
+x4 − 16x2 − 5x − 24
+x+4
+
+9)
+
+2x4 − x3 + 2x − 1
+2x − 1
+
+10)
+
+3x4 + x3 − 3x + 1
+3x + 1
+
+11)
+
+3x4 − 8x3 + 9x2 − 2x − 2
+3x + 1
+
+12)
+
+6x4 − 7x3 + 5x2 − 17x + 10
+3x − 2
+
+13)
+
+2x3 + 7x2 + 6x − 5
+2x − 1
+
+14)
+
+3x4 − x3 − 21x2 − 11x + 6
+3x − 1
+
+128
+
+2.8
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+Roots and Factorization of Polynomials
+
+In this section we will use some of the skills we have seen in previous sections
+in order to find all the roots of a polynomial function (both real and complex)
+and also factor the polynomial as the product of prime factors with integer coefficients.
+Example
+Find all real and complex roots for the given equation. Express the given polynomial as the product of prime factors with integer coefficients.
+2x3 − 3x2 + 2x − 8 = 0
+First we’ll graph the polynomial to see if we can find any real roots from the
+graph:
+20
+10
+x=2
+−4
+
+−2
+
+2
+
+4
+
+−10
+−20
+We can see that there is a root at x = 2. This means that the polynomial will
+have a factor of (x − 2). We can use Synthetic Division to find any other factors.
+Because x = 2 is a root, we should get a zero remainder:
+2
+
+2
+↓
+2
+
+−3
+4
+1
+
+2 −8
+2 8
+4 0
+
+2.8. ROOTS AND FACTORIZATION OF POLYNOMIALS
+
+129
+
+So, now we know that 2x3 − 3x2 + 2x − 8 = (x − 2)(2x2 + x + 4). To finish the
+problem, we can set each factor equal to zero and find the roots:
+2x3 − 32 + 2x − 8 = 0
+(x − 2)(2x2 + x + 4) = 0
+2x2 + x + 4 = 0
+
+x−2=0
+
+x ≈ −0.25 ± 1.392i
+
+x=2
+
+Let’s look at an example that has more than one real root:
+Example
+Find all real and complex roots for the given equation. Express the given polynomial as the product of prime factors with integer coefficients.
+3x4 + 5x3 − 45x2 + 19x − 30 = 0
+First we’ll graph the polynomial to see if we can find any real roots from the
+graph:
+400
+200
+x = −5
+−8 −6 −4 −2
+−200
+−400
+
+x=3
+2
+
+4
+
+6
+
+8
+
+130
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+We can see roots at x = −5, 3, which means that (x+5) and (x−3) are both factors
+of this polynomial. We’ll need to divide by both of these factors to break down
+the polynomial. First, we divide by (x − 3):
+3
+
+3 5
+↓ 9
+3 14
+
+−45 19 −30
+42 −9 30
+−3 10
+0
+
+And then by (x + 5):
+3
+
+3
+↓
+−5 3
+↓
+3
+
+5
+9
+14
+−15
+−1
+
+−45 19 −30
+42
+−9
+30
+−3
+10
+0
+5
+−10
+2
+0
+
+Now we know that 3x4 + 5x3 − 45x2 + 19x − 30 = (x + 5)(x − 3)(3x2 − x + 2) and
+so, to finish the problem:
+3x4 + 5x3 − 45x2 + 19x − 30 = 0
+(x + 5)(x − 3)(3x2 − x + 2) = 0
+
+x+5=0
+x = −5
+
+x−3=0
+x=3
+
+3x2 − x + 2 = 0
+x≈
+
+1
+6
+
+± 0.799i
+
+Next, let’s look at an example where there is a root that is not a whole number:
+Example
+Find all real and complex roots for the given equation. Express the given polynomial as the product of prime factors with integer coefficients.
+3x3 + x2 + 17x + 28 = 0
+
+2.8. ROOTS AND FACTORIZATION OF POLYNOMIALS
+
+131
+
+First we’ll graph the polynomial to see if we can find any real roots from the
+graph:
+40
+20
+x = −1.3
+−4
+
+−2
+
+2
+
+4
+
+−20
+−40
+We can see in the graph that this polynomial has a root at x = − 43 . That means
+that the polynomial must have a factor of 3x + 4. We can use Synthetic Division
+to find the other factor for this polynomial. Because we know that x = − 34 is a
+root, we should get a zero remainder:
+− 34
+
+3
+↓
+3
+
+1
+−4
+−3
+
+17 28
+4 −28
+21
+0
+
+Notice that, because the root we used was a fraction, there is a common factor of
+3 in the answer to our Synthetic Division. We should factor this out to obtain the
+answer:
+(x + 43 )(3x2 − 3x + 21) = (3x + 4)(x2 − x + 7)
+So, this means that:
+3x3 + x2 + 17x + 28 = 0
+(3x + 4)(x2 − x + 7) = 0
+3x + 4 = 0
+x=−
+
+4
+3
+
+x2 − x + 7 = 0
+x ≈ 0.5 ± 2.598i
+
+132
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+Exercises 2.8
+Find all real and complex roots for the given equation. Express the given polynomial as the product of prime factors with integer coefficients.
+Set #1
+1)
+
+x4 − 3x3 + 5x2 − x − 10 = 0
+
+2)
+
+3x3 − 5x2 + 2x − 8 = 0
+
+3)
+
+2x4 − 5x3 + x2 + 4x − 4 = 0
+
+4)
+
+x4 + x3 − 3x2 − 17x − 30 = 0
+
+5)
+
+x4 − 9x3 + 21x2 + 21x − 130 = 0
+
+6)
+
+x4 − 7x3 + 14x2 − 38x − 60 = 0
+
+7)
+
+x5 − 9x4 + 31x3 − 49x2 + 36x − 10 = 0
+
+8)
+
+x4 + 4x3 + 2x2 + 12x + 45 = 0
+
+2.8. ROOTS AND FACTORIZATION OF POLYNOMIALS
+9)
+
+x4 − 6x3 + 12x2 − 10x + 3 = 0
+
+10)
+
+x4 − 6x3 + 13x2 − 24x + 36 = 0
+
+11)
+
+x5 − 3x4 + 12x3 − 28x2 + 27x − 9 = 0
+
+12)
+
+x5 + 2x4 − 3x3 − 3x2 + 2x + 1 = 0
+
+Set #2
+
+13)
+
+15x3 − 7x2 + 13x + 3 = 0
+
+14)
+
+x4 − 5x3 + 3x2 − 11x − 20 = 0
+
+15)
+
+6x3 + 13x2 + 12x + 4 = 0
+
+16)
+
+6x3 − 5x2 + 5x − 2 = 0
+
+17)
+
+4x4 + 20x3 + 29x2 + 10x − 15 = 0
+
+133
+
+134
+
+CHAPTER 2. POLYNOMIAL AND RATIONAL FUNCTIONS
+
+18)
+
+3x4 − 4x3 + 10x2 + 12x − 5 = 0
+
+19)
+
+2x4 − 3x3 − 6x2 − 8x − 3 = 0
+
+20)
+
+12x4 − 53x3 − 31x2 − 19x − 5 = 0
+
+21)
+
+12x4 + 4x3 + x2 − 3x − 2 = 0
+
+22)
+
+3x4 + 13x3 − 26x − 40 = 0
+
+Chapter 3
+Exponents and Logarithms
+In this chapter, we will examine concepts that are related to exponential, logarithmic and logistic relationships. In the first section, we will look at how to approach
+these problems from a graphical perspective. In the subsequent sections, we will
+examine the methods necessary to work with these problems algebraically.
+
+3.1
+
+Exponential and Logistic Applications
+
+There are a variety of different types of mathematical relationships. The simplest
+mathematical relationship is the additive relationship. This is a situation in which
+the value of one quantity is always a certain amount more (or less) than another
+quantity. A good example of an additive relationship is an age relationship. In
+an age relationship, the age of the older person is always the same amount more
+than the age of the younger person. If the older person is five years older, then
+the age of the older person (y) will always be equal to the age of the younger
+person (x) plus five: y = x + 5.
+Another type of additive relationship is seen where two quantities add up to a
+constant value. Let’s say there is a board whose length is 20 inches. If we cut
+it into two pieces, with one piece being 6 inches, then the other piece will be 14
+inches. If one piece is 9 inches, then the other will be 11 inches. If one piece is x
+inches, then the other piece (y) will be 20 − x: y = 20 − x or x + y = 20.
+
+135
+
+136
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+The next type of mathematical relationshp is a multiplicative relationship. This
+represents a situation in which one quantity is always a multiple of the other
+quantity. This is commonly seen in proportional relationships. If a recipe for a
+cake calls for 2 cups of flour, then, if we want to make 3 cakes, we’ll need 6 cups
+of flour. The amount of flour (y) is always two times the number of cakes we
+want to make (x): y = 2x.
+If a recipe for a batch of cookies (with 20 cookies per batch) calls for 1.5 cups
+of sugar, then three batches would require 4.5 cups of sugar. The amount of
+sugar required (y) is always the number of batches (x) times 1.5: y = 1.5x. If we
+wanted to represent this relationship based on the number of cookies instead of
+the number of batches, we would need to adjust the formula. Given that there are
+20 cookies per batch, we could adjust our formula so that we first calculate the
+number of batches from the number of cookies and then multiply by 1.5. If the
+3
+x
+or y = 40
+x.
+number of cookies is x and the amount of sugar is y, then y = 1.5 ∗ 20
+The next type of mathematical relationship is the polynomial relationship. In this
+type of relationship, one quantity is related to a power of another quantity. A
+good example of this type of relationship involves gravity. As Galileo discovered in the 16th century, the distance that an object falls after it is dropped is not
+proportional to the time that it has been falling. Rather, it is proportional to the
+square of the time. The table below shows this type of relationship.
+
+t
+
+d
+
+1
+
+16
+
+2
+
+64
+
+3
+
+144
+
+4
+
+256
+
+After one second, it looks like the distance will always be sixteen times the time
+the object has been falling. However, after two seconds, we can see that this
+relationship no longer is true. That’s because this relationship is a polynomial
+relationship in which the distance an object has fallen (d) is proportional to the
+square of the time it has been falling (t): d = 16t2 .
+
+3.1. EXPONENTIAL AND LOGISTIC APPLICATIONS
+
+137
+
+Exponential Relationships
+The next type of relationship is the focus of this chapter - the exponential relationship. In this situation, the rate of change of a quantity is proportional to the size
+of that quantity. This relationship can be explored in more depth in an integral
+calculus course, but we will discuss the basics here.
+In a linear or proportional relationship, the slope, or rate of change, is constant.
+For example, in the equation y = 3x + 1, the slope is always three, no matter what
+the values of x and y are. In an exponential relationship, the rate of change (also
+called ”y prime” or y 0 ) is proportional to the value of y. In this case, we say that
+y 0 = k ∗ y.
+This is what is known as a differential equation. This is an equation in which the
+variable and its rate of change are related. Through the processes of differential
+and integral calculus, we can solve the equation above y 0 = k ∗ y as:
+y = Aekt
+In the equation above, A is the value of y at time t = 0, k is a constant that
+determines how fast the quantity y increases or decreases and t plays the role
+of the independent variable (as x often does) and represents the time that has
+passed. If k is positive, then the quantity y is growing because its rate of change
+is positive. If k is negative, then the quantity y is decreasing because the rate of
+change is negative.
+The quantity represented by e in the above equation is a mathematical constant
+(like π) that is often used to represent exponential relationships. The best way to
+understand the value of e and what it represents is directly related to fundamental questions from differential and integral calculus.
+Differential Calculus is concerned primarily with the question of slopes. We discussed earlier that a linear relationship has a constant slope. Polynomial and exponential relationships have slopes that depend on the value of x and/or y. This
+is what makes them curves rather than lines. If we consider the slopes of some
+different exponential relationships, we can see one aspect of where the value for
+e comes from.
+
+138
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+Consider the graphs of the following relationships:
+y = 1.5x
+y = 2x
+y = 3x
+y = 10x
+Let’s look at the graphs for these functions:
+20
+
+20
+
+15
+
+15
+
+10
+
+y = 1.5x
+
+10
+
+5
+
+−4
+
+−2
+
+5
+
+2
+
+4
+
+−4
+
+−2
+
+2
+
+−5
+
+−5
+
+20
+
+20
+
+15
+
+15
+y = 3x
+
+10
+
+10
+
+−2
+
+2
+−5
+
+4
+
+y = 10x
+
+5
+
+5
+
+−4
+
+y = 2x
+
+4
+
+−4
+
+−2
+
+2
+
+4
+
+−5
+
+We can see that these graphs demonstrate slightly different behavior and different x and y values. One thing that they all have in common is that they all pass
+
+3.1. EXPONENTIAL AND LOGISTIC APPLICATIONS
+
+139
+
+through the point (0, 1) on the graph. This is because 1.50 = 1, 20 = 1, 30 = 1 and
+100 = 1. Therefore the point where x is 0 and y is 1 is on all four of the graphs.
+Although all four of the graphs pass through the point (0, 1), they each do this
+in a different way. Let’s look at the slope of a line tangent to each curve at the
+point (0, 1). This is the straight line that touches the curve at the point (0, 1), but
+nowhere else:
+20
+
+20
+
+15
+
+15
+
+10
+
+y = 1.5x
+
+10
+
+5
+
+−4
+
+−2
+
+5
+
+2
+
+4
+
+−4
+
+−2
+
+2
+
+−5
+
+−5
+
+20
+
+20
+
+15
+
+15
+y = 3x
+
+10
+
+10
+
+−2
+
+2
+−5
+
+4
+
+y = 10x
+
+5
+
+5
+
+−4
+
+y = 2x
+
+4
+
+−4
+
+−2
+
+2
+
+4
+
+−5
+
+We can see that the slopes of these tangent lines are all different. In the case of
+y = 2x , the slope of the tangent line at (0, 1) is about 0.7, while for the graph of
+y = 3x , the slope of the tangent line at (0, 1) is about 1.1.
+
+140
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+As mathematicians examined these graphs during the 17th and 18th centuries,
+they began to question what the value of the base ”b” should be in the equation
+y = bx so that the slope of the tangent line at the point (0, 1) would be equal to
+exactly 1. The answer was e ≈ 2.71828.
+Another way to derive the value of e uses Integral Calculus. Integral Calculus is
+often concerned with finding the area under a curve. This process can then be
+generalized and used to make many other types of calculations that are similar
+to finding area.
+Consider the graph of the curve y =
+
+1
+:
+x
+
+2
+
+y=
+
+1
+
+−1
+
+1
+
+2
+
+1
+x
+
+3
+
+4
+
+5
+
+−1
+We can delineate borders on the x values and determine the area of the resulting
+region using the techniques of calculus:
+y=
+
+1
+
+1
+x
+
+1
+
+0.8
+
+0.8
+
+0.6
+
+0.6
+A ≈ 0.693
+
+0.4
+
+A ≈ 1.0986
+
+0.2
+0.6 0.8
+
+1
+
+1.2 1.4 1.6 1.8
+
+1
+x
+
+0.4
+
+0.2
+
+−0.2
+
+y=
+
+2
+
+1
+−0.2
+
+1.5
+
+2
+
+2.5
+
+3
+
+3.1. EXPONENTIAL AND LOGISTIC APPLICATIONS
+
+141
+
+These values for the area under the curve are actually the same values as those
+for the slope of the tangent line in the previous graphs. If you ask the question,
+”Where should you draw the second vertical line so that the area under the curve
+is equal to exactly 1?” then just like the slope question, the answer is e ≈ 2.71828.
+This is how the value of e was determined and why it is used to represent these
+exponential relationships.
+
+Logistic Relationships
+Let’s consider the graph of y = 2x :
+20
+15
+10
+5
+
+−4
+
+−2
+
+2
+
+4
+
+−5
+
+If we extend the x-axis out further past x = 4, we would see that the y values for
+this relationship will grow very quickly, as they continue doubling.
+1,000
+800
+600
+400
+200
+−4 −2
+
+2
+
+4
+
+6
+
+8
+
+10
+
+142
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+Some phenomena in the natural world exhibit behavior similar to the growth
+of this function. However, in the natural world, few, if any, things can grow
+unconstrained. Most growth of any kind is limited by the resources that fuel
+the growth. Populations often grow exponentially for a period of time, however,
+populations are dependent on natural resources to continue growing. As a result,
+the simple exponential function is only useful for modeling real-world behavior
+if the x-values are limited.
+It was this problem with the simple exponential function that led French mathematician Pierre Verhulst to slightly adjust the differential equation that gives rise
+to the exponential function to make it more realistic.
+The original differential equation said:
+y0 = k ∗ y
+This says that the rate of growth of y is always directly proportional to the value
+of y. In other words the larger a population gets, the faster it will grow - forever.
+Verhulst changed this to say:
+y 0 = k ∗ y(1 −
+
+y
+)
+N
+
+This is the defining relationship for the Logistic function. Notice that when values
+of y are small, this is essentially the same as the simple exponential. If y is small,
+then the (1− Ny ) term will be very close to 1 and will produce behavior very much
+like the simple exponential.
+The N in the formula is a theoretical “maximum population.” As the value of y
+approaches this maximum value, Ny will approach 1 and (1 − Ny ) will get smaller
+and smaller. As it gets smaller, the factor of (1 − Ny ) will slow down the growth
+of the function to model the pressure that is put on the resources that are driving
+the growth.
+The solution of the Logistic equation is quite complicated and results in a standard form of:
+y=
+
+N
+1 + be−kt
+
+3.1. EXPONENTIAL AND LOGISTIC APPLICATIONS
+
+143
+
+The graph for a sample logistic relationship is shown below:
+1
+0.8
+0.6
+0.4
+
+y=
+
+1
+1 + e−0.1t
+
+0.2
+−40
+
+−20
+
+20
+
+40
+
+The “lazy-s” shape is characteristic of the logistic function. In the early stages,
+the relationship shows growth very similar to the simple exponential function,
+but, as the function grows larger, the growth decreases and the function values
+stabilize. The maximum y value of N is always the horizontal asymptote for the
+logistic function.
+
+Negative Exponential Relationships
+The Logistic function is very useful for modeling phenomena from the natural
+world. Although the simple exponential function is somewhat limited in modeling natural phenomena, the negative exponential is quite useful. Looking back to
+the graph of y = 2x :
+20
+15
+
+y = 2x
+
+10
+5
+
+−4
+
+−2
+
+2
+−5
+
+4
+
+144
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+If we turn the graph around by changing x to −x in the formula, then we will be
+working with the decaying tail of the graph:
+20
+15
+y = 2−x
+
+10
+5
+
+−4
+
+−2
+
+2
+
+4
+
+−5
+Let’s zoom in on the portion of the graph in the Quadrant I:
+1.5
+1
+y = 2−x
+0.5
+
+−1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+−0.5
+The behavior shown in the graph is quite useful for modeling radioactive decay,
+processes of heating and cooling, and assimilation of medication in the bloodstream. Let’s look at an example.
+
+3.1. EXPONENTIAL AND LOGISTIC APPLICATIONS
+
+145
+
+Example
+If a patient is injected with 150 micrograms of medication, the amount of medication still in the bloodstream after t hours is given by the function:
+A(t) = 150e−0.12t
+a)
+
+Find the amount of medication in the bloodstream after 3 hours.
+Round your answer to the nearest 100th.
+
+b)
+
+How long will it take for the amount of medication to reach 60 micrograms?
+Round your answer to the nearest 10th of an hour.
+
+In this section we will focus on solving these problems using the graphing calculator. In later sections, we will cover processes that can be used to solve these
+problems algebraically. It is helpful to understand both methods of solution.
+First, let’s graph the function given in the problem:
+150
+
+100
+
+50
+y = 150e−0.12x
+5
+
+10
+
+15
+
+20
+
+We can directly calculate the answer for part (a) by plugging the value of 3 for t
+or we can use the table in the graphing calculator to find this value:
+
+146
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+x
+
+y
+
+0
+
+150
+
+1
+
+133.04
+
+2
+
+117.99
+
+3
+
+104.65
+
+We can see that after 3 hours there are approximately 104.65 micrograms of medication in the patient’s bloodstream.
+To answer part (b) graphically, we’ll graph the original function along with the
+horizontal line y = 60. When we find the intersection of these two graphs, we’ll
+know how long it takes for there to be 60 micrograms of medication in the patient’s bloodstream:
+150
+
+100
+(7.636, 60)
+50
+
+5
+
+10
+
+15
+
+20
+
+Here, we can see that it would take about 7.6 hours (or about 7 hours 36 minutes),
+for there to be 60 micrograms of medication in the patient’s bloodstream.
+
+3.1. EXPONENTIAL AND LOGISTIC APPLICATIONS
+
+147
+
+Example
+The deer population on a nature preserve can be modeled using the equation:
+y=
+
+8000
+1 + 9e−0.2t
+
+y indicates the number of deer living in the nature preserve and t represents the
+number of years that have passed since the initial population of deer were established there.
+a)
+
+How many deer were in the initial population?
+
+b)
+
+What is the deer population after 10 years?
+Round your answer to the nearest whole number.
+
+c)
+
+How long does it take for the population to reach 5,000?
+Round your answer to the nearest 10th of a year.
+
+Parts (a) and (b) can both be answered from a table of values for the function.
+Before we look at the table, let’s consider the question in Part (a). The problem is
+asking what the initial population of deer was. The means that we’re looking to
+find out what y is when t = 0.
+Let’s see what happens when we plug zero in for t in the formula:
+
+y=
+
+=
+
+8000
+8000
+=
+−0.2∗0
+1 + 9e
+1 + 9e0
+8000
+8000
+=
+1+9∗1
+10
+
+= 800
+
+148
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+Let’s look at the table of values:
+t
+
+y
+
+0
+
+800
+
+5
+
+1855.8
+
+10
+
+3606.8
+
+To the nearest whole number, the deer population after 10 years is 3,607.
+In Part (c), we’ll need to graph a horizontal line at y = 5, 000 and find the intersection.
+8,000
+6,000
+(13.54, 5000)
+
+4,000
+2,000
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+To the nearest 10th, it takes about 13.5 years for the deer population to reach
+5,000.
+
+3.1. EXPONENTIAL AND LOGISTIC APPLICATIONS
+
+149
+
+Exercises 3.1
+1)
+
+Medication in the bloodstream
+
+The function A(t) = 200e−0.014t gives the amount of medication, in milligrams, in
+a patient’s bloodstream t minutes after the medication has been injected.
+a)
+
+Find the amount of medication in the bloodstream after 45 minutes.
+Round your answer to the nearest milligram.
+
+b)
+
+How long will it take for the amount of medication to reach 50 milligrams?
+Round your answer to the nearest minute.
+
+2)
+
+Medication in the bloodstream
+
+The function D(t) = 50e−0.2t gives the amount of medication, in milligrams, in a
+patient’s bloodstream t hours after the medication has been injected.
+a)
+
+Find the amount of medication in the bloodstream after 3 hours.
+Round your answer to the nearest milligram.
+
+b)
+
+How long will it take for the amount of medication to reach 10 milligrams?
+Round your answer to the nearest minute.
+
+150
+3)
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+Fish Population
+
+The number of bass in a lake can be modeled using the given equation:
+P (t) =
+
+3600
+1 + 7e−0.05t
+
+where t is the number of months that have passed since the lake was stocked with
+bass. In each question below, round your answer to the nearest whole number.
+a)
+
+How many bass were in the lake immediately after it was stocked?
+
+b)
+
+How many bass were in the lake 1 year after it was stocked?
+
+4)
+
+Bird Population
+
+The population of a certain species of bird is limited by the type of habitat required for nesting. The population can be modeled using the following equation:
+P (t) =
+
+5600
+0.5 + 27.5e−0.044t
+
+where t is the number of years. In each question below, round your answer to the
+nearest whole number.
+a)
+
+Find the initial bird population.
+
+b)
+
+What is the population 100 years later?
+
+3.1. EXPONENTIAL AND LOGISTIC APPLICATIONS
+5)
+
+151
+
+A Temperature Model
+
+A cup of coffee is heated to 180◦ F and placed in a room that maintains a temperature of 65◦ F . The temperature of the coffee after t minutes have passed is given
+by:
+F (t) = 65 + 115e−0.042t
+a)
+
+Find the temperature of the coffee 10 minutes after it is placed in the room.
+Round your answer to the nearest degree.
+
+b)
+
+When will the temperature of the coffee be 100◦ F ?
+Round your answer to the nearest tenth of a minute.
+
+6)
+
+A Temperature Model
+
+Soup at a temperature of 170◦ F is poured into a bowl in a room that maintains
+a constant temperature. The temperature of the soup decreases according to the
+model given by:
+F (t) = 75 + 95e−0.12t
+where t is the number of minutes that have passed since the soup was poured.
+a)
+
+What is the temperature of the soup after 2 minutes?
+Round your answer to the nearest 10th of a degree.
+
+b)
+
+A certain customer prefers that the soup be cooled to 110◦ F .
+How long will this take?
+Round your answer to the nearest 10th of a minute.
+
+152
+7)
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+Radioactive Decay
+
+A radioactive substance decays in such a way that the amount of mass remaining
+after t days is given by the equation:
+m(t) = 13e−0.015t
+where the amount is measured in kilograms.
+a)
+
+Find the mass at time t = 0.
+
+b)
+
+How much of the mass remains after 45 days?
+
+c)
+
+How long does it take for there to be 5 kg. left?
+
+8)
+
+Radioactive Decay
+
+Radioactive iodine is used by doctors as a tracer in diagnosing certain thyroid
+gland disorders. This type of iodine decays in such a way that the mass remaining
+after t days is given by:
+m(t) = 6e−0.087t
+where the amount is measured in grams.
+a)
+
+Find the mass at time t = 0.
+
+b)
+
+How much remains after 20 days?
+
+c)
+
+How long does it take for there to be 2 grams left?
+Round your answer to the nearest tenth of a day.
+
+3.1. EXPONENTIAL AND LOGISTIC APPLICATIONS
+9)
+
+153
+
+Fish population
+
+The function:
+P (t) =
+
+12
+1 + e−t
+
+gives the size of a fish population in thousands at time t, measured in years.
+a)
+
+Find the initial population of fish at time t = 0.
+Find the population of fish after 2 years, time t = 2 .
+
+b)
+
+How long will it take for the population to be 10,000?
+What appears to be the maximum population for this particular model?
+
+10)
+
+Fish population
+
+The function:
+P (t) =
+
+70
+1 + 2e−t
+
+gives the size of a fish population in thousands at time t, measured in years.
+a)
+
+Find the initial population of fish at time t = 0.
+Find the population of fish after 1.5 years, t = 1.5.
+
+b)
+
+How long will it take for the population to be 50,000?
+What appears to be the maximum population for this particular model?
+
+154
+11)
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+Fish population
+
+The function:
+P (t) =
+
+20
+1 − 0.4e−0.35t
+
+gives the size of a fish population in thousands at time t, measured in years.
+a)
+
+Find the initial population of fish at time t = 0.
+Find the population of fish after 5 years, time t = 5.
+
+b)
+
+How long will it take for the population to be 25,000?
+What happens to this population over time?
+
+12)
+
+Fish population
+
+The function:
+P (t) =
+
+10
+1 − 0.73e−0.08t
+
+gives the size of a fish population in thousands at time t, measured in years.
+a)
+
+Find the initial population of fish at time t = 0.
+Find the population of fish after 5 years, time t = 5.
+
+b)
+
+How long will it take for the population to be 25,000?
+What happens to this population over time?
+
+3.1. EXPONENTIAL AND LOGISTIC APPLICATIONS
+13)
+
+155
+
+Continuous Mixing
+
+A 100 gallon tank of pure water has salt water with 0.5 lb per gallon added to
+it at a rate of 2 gallons per minute. The brine solution is mixed thoroughly and
+drained at rate of 2 gallons per minute.
+The equation for how many pounds of salt are in the tank at time t is given by:
+y = 50 − 50e−0.02t
+where y is measured in pounds and t is measured in minutes.
+a)
+
+How many pounds of salt are in the tank after 20 minutes?
+
+b)
+
+How long does it take for there to be 30 lbs of salt in the tank?
+Round your answer to the nearest tenth of a minute.
+
+14)
+
+Continuous Mixing
+
+A 20 gallon tank of pure water has salt water with 0.4 lb per gallon of salt added
+to it at a rate of 3 gallons per minute. The brine solution is mixed thoroughly and
+drained at rate of 3 gallons per minute.
+The equation for how many pounds of salt are in the tank at time t is given by:
+y = 8 − 8e−0.15t
+where y is measured in pounds and t is measured in minutes.
+a)
+
+How many pounds of salt are in the tank after 15 minutes?
+
+b)
+
+How long does it take for there to be 6 lbs of salt in the tank?
+Round your answer to the nearest tenth of a minute.
+
+156
+15)
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+Continuous Mixing
+
+A tank contains 200 gallons of a 2% solution of HCl. A 5% solution of HCl is
+added at 5 gallons per minute. The well mixed solution is being drained at 5
+gallons per minute.
+The amount of HCl in the tank at any given time t in minutes is:
+y = 10 − 6e−0.025t
+a)
+
+How many gallons of HCl are in the tank at t = 25 minutes?
+
+b)
+
+When does the concentration of HCl in the solution reach 4%?
+
+16)
+
+Continuous Mixing
+
+A tank contains 100 gallons of salt water which contains a total of 25 lbs of salt.
+Salt water containing 0.4 lbs per gallon is added to the tank at a rate of 5 gallons
+per minute and the well-mixed solution is drained at the same rate.
+The amount of salt in pounds in the tank at any given time t in minutes is:
+y = 40 − 15e−0.05t
+a)
+
+How many pounds of salt are in the tank at t = 20 minutes?
+
+b)
+
+How long does it take for there to be 30 lbs of salt in the tank?
+
+3.2. LOGARITHMIC NOTATION
+
+3.2
+
+157
+
+Logarithmic Notation
+
+A Logarithm is an exponent. In the early 1600’s, the Scottish mathematician John
+Napier devised a method of expressing numbers in terms of their powers of ten
+in order simplify calculation. Since the advent of digital calculators, the methods
+of calculation using logarithms have become obsolete, however the concept of
+logarithms continues to be used in many area of mathematics.
+The fundamental idea of logarithmic notation is that it is simply a restatement of
+an exponential relationship. The definition of a logarithm says:
+logb N = x → bx = N
+The notation above would be read as ”log to the base b of N equals x means that
+b to the x power equals N .” In this section we will focus mainly on becoming
+familiar with this notation. In later sections, we will learn to use this process to
+solve equations.
+Example
+Express the given statement using exponential notation:
+log2 32 = 5
+If log2 32 = 5, then 25 = 32.
+
+Example
+Express the given statement using exponential notation:
+log7 4 ≈ 0.7124
+If log7 4 ≈ 0.7124, then 70.7124 ≈ 4
+
+If the logarithm notation appears without a base, it is usually assumed that the
+base should be 10.
+
+158
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+Example
+Express the given statement using exponential notation:
+log 100 = 2
+If log 100 = 2, then 102 = 100
+
+The notation ln N = x is typically used to indicate a logrithm to the base e. This
+means that:
+ln N = x → ex = N
+Example
+Express the given statement using exponential notation:
+ln 15 ≈ 2.708
+If ln 15 ≈ 2.708, then e2.708 ≈ 15
+
+In some cases, we would want to change an exponential statement into a logarithmic statement.
+
+Exmple
+Express the given statement using logarithmic notation:
+124 = 20, 736
+If 124 = 20, 736 then log12 20, 736 = 4
+
+3.2. LOGARITHMIC NOTATION
+Example
+Express the given statement using logarithmic notation:
+102.5 ≈ 316.23
+If 102.5 ≈ 316.23 then log 316.23 ≈ 2.5
+
+Example
+Express the given statement using logarithmic notation:
+e6 ≈ 403.4
+If e6 ≈ 403.4, then ln 403.4 ≈ 6
+
+159
+
+160
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+Exercises 3.2
+Rewrite each of the following using exponential notation.
+1)
+
+t = log5 9
+
+2)
+
+h = log7 10
+
+3)
+
+log5 25 = 2
+
+4)
+
+log6 6 = 1
+
+5)
+
+log 0.1 = −1
+
+6)
+
+log 0.01 = −2
+
+7)
+
+log 7 ≈ 0.845
+
+8)
+
+log 3 ≈ 0.4771
+
+9)
+
+log2 35 ≈ 5.13
+
+10)
+
+log12 50 ≈ 1.5743
+
+11)
+
+ln 0.25 ≈ −1.3863
+
+12)
+
+ln 0.989 ≈ −0.0111
+
+15)
+
+4−5 =
+
+Rewrite each of the following using logarithmic notation.
+1
+1024
+
+13)
+
+102 = 100
+
+14)
+
+104 = 10, 000
+
+16)
+
+5−3 =
+
+1
+125
+
+17)
+
+16 4 = 8
+
+18)
+
+83 = 2
+
+19)
+
+101.3 ≈ 20
+
+20)
+
+100.301 = 2
+
+21)
+
+e3 ≈ 20.0855
+
+22)
+
+e2 ≈ 7.3891
+
+23)
+
+e−4 ≈ 0.0183
+
+24)
+
+e−2 ≈ 0.1353
+
+3
+
+1
+
+3.3. SOLVING EXPONENTIAL EQUATIONS
+
+3.3
+
+161
+
+Solving Exponential Equations
+
+Because of the fact that logarithms are exponents, the rules for working with
+logarithms are similar to those that govern exponential expressions. One very
+helpful rule of equality for working with logarithms is related to the exponential
+rule for raising a power to a power. We recall one of the rules of exponents as:
+(bx )y = bx∗y
+in other words
+(52 )4 = (52 )(52 )(52 )(52 ) = 52∗4 = 58
+
+In logarithmic notation, this rule works out as:
+logb M p = p ∗ logb M
+
+The reason for this comes from the rule for exponents. Lets’ say that logb M = x.
+
+Then:
+logb M = x
+this means that
+bx = M
+and
+(bx )p = (M )p
+so
+bp∗x = M p
+
+162
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+Now, we come back to the question of logb M p =?. This expression (logb M p ) is
+asking the question ”What power do we raise b to in order to get an answer of
+M p ? The result on the previous page shows that:
+bpx = M p
+This means that we must raise b to the px power to get an answer of M p . Remember that x = logb M . This means that:
+bpx = M p
+so
+logb M p = px = p ∗ logb M
+This statement of equality is useful if we are trying to solve equations in which
+the variable is an exponent.
+Example
+Solve for x.
+4x = 53
+We start by taking a logarithm on both of the equation. Just as we can add to both
+sides of an equation, or multiply on both sides of an equation, or raise both sides
+of an equation to a power, we can also take the logarithm of both sides. So long
+as two quantities are equal, then their logarithms will also be equal.
+4x = 53
+log 4x = log 53
+x log 4 = log 53
+
+x=
+
+log 53
+≈ 2.864
+log 4
+
+3.3. SOLVING EXPONENTIAL EQUATIONS
+
+163
+
+Since the log base 10 and log base e are both programmed into most calculators,
+these are the most commonly used bases for logarithms.
+Example
+Solve for x.
+52x+3 = 17
+We start this problem in the same fashion, but this time we will use a logarithm
+to the base e:
+52x+3 = 17
+ln 52x+3 = ln 17
+(2x + 3) ln 5 = ln 17
+There are several possibilities for finishing the problem from this point. We will
+focus on two of them that are the most useful for solving more complex problems.
+First, we will distribute the ln 5 into the parentheses and then get the x by itself.
+(2x + 3) ln 5 = ln 17
+x ∗ 2 ln 5 + 3 ln 5 = ln 17
+−3 ln 5 = −3 ln 5
+x ∗ 2 ln 5 = ln 17 − 3 ln 5
+
+x=
+
+ln 17 − 3 ln 5
+≈ −0.620
+2 ln 5
+
+And we can check the answer by plugging it back in:
+52∗(−0.0620)+3 ≈ 51.760 ≈ 16.9897 ≈ 17
+
+164
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+We can also approximate the logarithms in the problem and solve for an approximate answer:
+(2x + 3) ln 5 = ln 17
+x ∗ 2 ln 5 + 3 ln 5 = ln 17
+3.2189x + 4.8283 ≈ 2.8332
+−4.8283 ≈ −4.8283
+3.2189x ≈ −1.9951
+x ≈ −0.620
+If you use the method of approximating, it’s important to make a good approximation. At least 4-5 decimal places are necessary for an accurate answer.
+Let’s look at an example that has variables on both sides of the equation:
+Example
+Solve for x.
+43x = 92x−1
+We’ll use log base 10 in this problem.
+43x = 92x−1
+log 43x = log 92x−1
+3x ∗ log 4 = (2x − 1) log 9
+x ∗ 3 log 4 = x ∗ 2 log 9 − log 9
+
+3.3. SOLVING EXPONENTIAL EQUATIONS
+
+165
+
+If we collect like terms, we’ll end up with:
+x ∗ 3 log 4 = x ∗ 2 log 9 − log 9
+log 9 = x ∗ 2 log 9 − x ∗ 3 log 4
+
+At this point, if we want to get the x by itself, we need to factor out the x on the
+right-hand side:
+log 9 = x ∗ 2 log 9 − x ∗ 3 log 4
+log 9 = x(2 log 9 − 3 log 4)
+
+Then divide on both sides by the coefficient in parentheses:
+((
+
+(
+((
+(2(
+log
+9−
+3 log
+4)
+x(
+log 9
+((
+=
+((
+(
+(
+(
+2 log
+2 log 9 − 3 log 4
+((9 − 3 log 4
+(
+
+log 9
+=x
+2 log 9 − 3 log 4
+9.327 ≈ x
+Again, we can check our answer by plugging it back into the equation:
+
+43∗9.327 ≈ 427.981 ≈ 7.0184 ∗ 1016
+92∗9.327−1 ≈ 917.654 ≈ 7.0177 ∗ 1016
+
+166
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+We could also have solved this equation by approximating the logarithms in the
+beginning.
+43x = 92x−1
+log 43x = log 92x−1
+3x ∗ log 4 = (2x − 1) log 9
+3x(0.60206) ≈ (2x − 1)0.95424
+1.80618x ≈ 1.9085x − 0.95424
+0.95424 ≈ 0.10232x
+9.326 ≈ x
+This answer is less accurate than the other approximation (9.326036 vs. 9.327424).
+The accuracy of an answer depends upon the original approximations for the
+logarithms.
+
+3.3. SOLVING EXPONENTIAL EQUATIONS
+
+167
+
+Exercises 3.3
+Solve for the indicated variable.
+1)
+
+2x = 5
+
+2)
+
+2x = 9
+
+3)
+
+3x = 7
+
+4)
+
+3x = 20
+
+5)
+
+2x+1 = 6
+
+6)
+
+7x+1 = 41
+
+7)
+
+5x+1 = 36
+
+8)
+
+8x−2 = 6
+
+9)
+
+42x+3 = 50
+
+10)
+
+4x+2 = 5x
+
+11)
+
+52x+1 = 9
+
+12)
+
+6x+4 = 10x
+
+13)
+
+7y+1 = 3y
+
+14)
+
+2x+1 = 3x−2
+
+15)
+
+6y+2 = 5y
+
+16)
+
+7x−3 = 3x+1
+
+17)
+
+62x+1 = 5x+2
+
+18)
+
+91−x = 12x+1
+
+19)
+
+52x−1 = 3x−3
+
+20)
+
+3x−2 = 42x+1
+
+21)
+
+83x−2 = 9x+2
+
+22)
+
+22x−3 = 5−x−1
+
+23)
+
+103x+2 = 5x+3
+
+24)
+
+53x = 3x+4
+
+25)
+
+3x+4 = 21−3x
+
+26)
+
+42x+3 = 5x−2
+
+27)
+
+32−3x = 42x+1
+
+28)
+
+22x−3 = 5x−2
+
+168
+
+3.4
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+Solving Logarithmic Equations
+
+In the previous section, we took exponential equations and used the properties of
+logarithms to restate them as logarithmic equations. In this section, we will take
+logarithmic equations and use properties of logarithms to restate them as exponential equations. In the previous section, we used the property of logarithms
+that said logb M p = p logb M . In this section, we will make use of two additional
+properties of logarithms:
+logb (M ∗ N ) = logb M + logb N
+
+and
+
+logb
+
+M
+N
+
+= logb M − logb N
+
+Just as our previous property of logarithms was simply a restatement of the rules
+of expoenents, these two properties of logarithms depend on the rules of exponents as well. Since we’re interested in logb M and logb N , let’s restate these in
+terms of exponents:
+If logb M = x then bx = M and if logb N = y then by = N
+The properties of logarithms we’re interested in justifying have to do with M ∗ N
+, so let’s look at those expressions in terms of exponents:
+and M
+N
+M ∗ N = bx ∗ by = bx+y
+and
+bx
+M
+= y = bx−y
+N
+b
+If we’re interested in logb (M ∗ N ), then we’re asking the question ”What power
+do we raise b to in order to get M ∗ N ?” We can see above that raising b to the
+x + y power gives us M ∗ N . Since x = logb M and y = logb N then x + y =
+logb M + logb N , so:
+logb (M ∗ N ) = x + y = logb M + logb N
+Likewise, if we’re interested in logb M
+, we’re asking the question ”What power
+N
+M
+do we raise b to in order to get N ?” Since raising b to the x − y power gives us M
+N
+and x − y = logb M − logb N , then:
+logb
+
+M
+N
+
+= x − y = logb M − logb N
+
+3.4. SOLVING LOGARITHMIC EQUATIONS
+
+169
+
+Let’s look at an example to see how we’ll use this to solve equations:
+Example
+Solve for x.
+log2 x + log2 (x − 4) = 2
+The first thing we can do here is to combine the two logarithmic statements
+into
+
+
+one. Since logb (M ∗ N ) = logb M + logb N , then log2 x + log2 (x − 4) = log2 x(x − 4) .
+log2 x + log2 (x − 4) = 2
+
+
+log2 x(x − 4) = 2
+Then we’ll restate the resulting logarithmic relationship as an exponential relationship:
+22 = x(x − 4)
+4 = x2 − 4x
+0 = x2 − 4x − 4
+4.828, −0.828 ≈ x
+Most textbooks reject answers that result in taking the logarithm of a negative
+number, such as would be the case for x ≈ −0.828. However, the logarithms of
+negative numbers result in complex valued answers, rather than an undefined
+quantity. For that reason, in this text, we will include all answers.
+
+170
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+If a problem involves a difference of logarithms, we can use the other property of
+logarithms introduced in this section.
+Example
+Solve for x.
+log(5x − 1) − log(x − 2) = 2
+Again, our first step is to restate the difference of logarithms using the property
+= logb M − logb N :
+logb M
+N
+log(5x − 1) − log(x − 2) = 2
+
+
+
+5x − 1
+log
+=2
+x−2
+We’re working with a logarithm in base 10 in this problem, so in our next step
+we’ll say:
+
+
+
+5x − 1
+log
+=2
+x−2
+5x − 1
+= 102
+x−2
+Then multiply on both sides by x − 2:
+
+102 =
+
+(x − 2) ∗ 100 =
+
+5x − 1
+x−2
+5x − 1
+
+(x−2)
+ ∗
+
+
+(x
+−
+2)
+
+
+3.4. SOLVING LOGARITHMIC EQUATIONS
+
+171
+
+And, solve for x
+100x − 200 = 5x − 1
+95x = 199
+
+x=
+
+199
+95
+
+In some equations, all of the terms are stated using logartihms. These equations
+often come out in a form that says logb x = logb y. If this is the case, we can then
+conclude that x = y.
+It seems reasonable that if the exponent we raise b to in order to get x is the same
+exponent that we raise b to in order to get y, then x and y are the same thing.
+Assume:
+logb x = logb y
+Let’s say that logb x = a = logb y
+then
+ba = x and ba = y
+if both x and y are equal to ba , then x = y
+Example
+Solve for x.
+log5 (4 − x) = log5 (x + 8) + log5 (2x + 13)
+
+172
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+First, let’s use the properties of logarithms to restate the equation so that there is
+only one logarithm on each side.
+log5 (4 − x) = log5 (x + 8) + log5 (2x + 13)
+
+
+log5 (4 − x) = log5 (x + 8)(2x + 13)
+Then, we’ll use the property of logarithms we just discussed:
+If logb x = logb y
+then
+x=y
+
+
+log5 (4 − x) = log5 (x + 8)(2x + 13)
+4 − x = (x + 8)(2x + 13)
+4 − x = 2x2 + 29x + 104
+0 = 2x2 + 30x + 100
+0 = 2(x + 5)(x + 10)
+−5, −10 = x
+
+3.4. SOLVING LOGARITHMIC EQUATIONS
+
+173
+
+Exercises 3.4
+Solve for the indicated variable in each equation.
+1)
+
+log3 5 + log3 x = 2
+
+2)
+
+log4 x + log4 5 = 1
+
+3)
+
+log2 x = 2 + log2 3
+
+4)
+
+log5 x = 2 + log5 3
+
+5)
+
+log3 x + log3 (x − 8) = 2
+
+6)
+
+log6 x + log6 (x − 5) = 1
+
+7)
+
+log(3x + 2) = log(x − 4) + 1
+
+8)
+
+log(x − 1) − log x = −0.5
+
+9)
+
+log2 a + log2 (a + 2) = 3
+
+10)
+
+log3 x + log3 (x − 2) = 1
+
+11)
+
+log2 y − log2 (y − 2) = 3
+
+12)
+
+log2 x − log2 (x + 3) = 2
+
+13)
+
+log3 x + log3 (x + 4) = 2
+
+14)
+
+log4 u + log4 (u + 1) = 1
+
+15)
+
+log 5 + log 5 = log 6
+
+16)
+
+ln x + ln 4 = ln 2
+
+17)
+
+log7 x − log7 12 = log7 2
+
+18)
+
+log 2 − log x = log 8
+
+174
+
+19)
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+log3 x − log3 (x − 2) = log3 4
+
+20)
+
+21)
+
+log4 x − log4 (x − 4) = log4 (x − 6)
+
+22)
+
+log9 (2x + 7) − log9 (x − 1) = log9 (x − 7)
+
+23)
+
+2 log2 x = log2 (2x − 1)
+
+24)
+
+2 log4 y = log4 (y + 2)
+
+25)
+
+2 log(x − 3) − 3 log 2 = 1
+
+26)
+
+2 log5 7 − log5 (x + 1) = log5 (2x − 5)
+
+log6 2 − log6 (x − 2) = log6 9
+
+3.5. APPLICATIONS OF THE NEGATIVE EXPONENTIAL FUNCTION
+
+3.5
+
+175
+
+Applications of the Negative Exponential Function
+
+At the beginning of Chapter 3, we worked with application problems and solved
+them using the graphing calculator. In this section, we will revisit some of these
+application problems and use the solution methods discussed in the previous
+sections to solve these problems algebraically.
+
+Radioactive Decay
+The decay of a radioactive element into its non-radioactive form occurs following
+a time line dictated by the ”half-life” of the element. The half-life is the amount
+of time that it takes for half of the existing radioactive material to decay to its
+non-radioactive form.
+Consider the equation:
+A(t) = A0 e−kt
+
+where A(t) is the amount of material left at time t, A0 is the amount present at
+t = 0, and k is a constant that can be determined based on the half-life of the
+material.
+If we know that after one half-life, there will 50% of the radioactive material remaining, then we can say that:
+0.5A0 = A0 e−kth
+
+where th is the half-life. To solve this equation for k, we would first divide on
+both sides by A0 :
+A0 e−kth
+0.5A0
+=
+A0
+A0
+0.5 = e−kth
+
+176
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+Then take the natural logarithm of both sides and bring the exponent down in
+front of the expression as a coefficient:
+0.5 = e−kth
+ln(0.5) = ln(e−kth )
+ln(0.5) = −kth ∗ ln(e)
+ln(0.5) = −kth ∗ 1
+
+−
+
+ln(0.5)
+=k
+th
+
+The value of k can then be used in the equation A(t) = A0 e−kt to determine the
+amount of material left after any time t.
+Example
+The isotope Gold-198 (198 Au) is a type of gold sometimes used in medical applications and has a half-life of 2.7 days. How much of a 65 gram sample of 198 Au
+will be left after 6 days? How long would it take for there to be 10 grams left?
+If we know the half-life, we can calculate the value of the constant k.
+
+k=−
+
+ln(0.5)
+th
+
+k=−
+
+ln(0.5)
+2.7
+
+k ≈ 0.2567
+
+3.5. APPLICATIONS OF THE NEGATIVE EXPONENTIAL FUNCTION
+
+177
+
+Now that we know the value of k, we can directly calculate the amount of 198 Au
+left after 6 days:
+A(t) = A0 e−kt
+= 65e−0.2567∗6
+≈ 13.932
+So, approximately 13.932 grams of 198 Au would be left after 6 days.
+In order to calculate how long it takes for 10 grams of 198 Au to be left, we’ll need
+to solve for t in the equation A(t) = A0 e−kt with A(t) = 10:
+A(t) = A0 e−kt
+10 = 65e−0.2567t
+First, we’ll divide on both sides by 65:
+ −0.2567t
+65e
+10 
+=
+
+65
+65
+
+
+10
+= e−0.2567t
+65
+Then, take the natural logarithm on both sides:
+
+ln
+
+10
+65
+
+
+
+= ln e−0.2567t
+
+
+
+178
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+
+We’ll calculate an approximate value for ln 10
+and restate the right hand side of
+65
+the equation using the properties of logarithms:
+−1.872 ≈ −0.2567t ∗ ln e
+−1.872 ≈ −0.2567t ∗ 1
+−1.872 ≈ −0.2567t
+7.3 ≈ t
+So, it would take about 7.3 days for the 65 grams of 198 Au to decay to 10 grams.
+
+Newton’s Law of Cooling
+Newton’s Law of Cooling states that the temperature of an object can be determined using the equation:
+T = Ta + Ce−kt
+where Ta is the ambient temperature of the surrounding environment. The values
+of the constants C and k can often be calculated from given information.
+Example
+A bottle of soda at room temperature (72◦ F) is placed in a refrigerator where the
+temperature is 44◦ F.
+After half an hour, the soda has cooled to 61◦ F. What is the temperature of the
+soda after another half hour?
+First, since the soda is placed in the refrigerator where the ambient temperature is
+44◦ F, then Ta = 44. We also know that at t = 0, T = 72, which is the temperature of
+the soda can when it is first put in the refrigerator. This will allow us to calculate
+the constant C.
+
+3.5. APPLICATIONS OF THE NEGATIVE EXPONENTIAL FUNCTION
+
+179
+
+T = Ta + Ce−kt
+72 = 44 + Ce−k∗0
+72 = 44 + Ce0 = 44 + C ∗ 1
+72 = 44 + C
+28 = C
+Now we know that Ta = 44 and C = 28. We can use the other piece of information
+from the problem to calculate the value of k. The problem states that after 30
+minutes the soda has cooled off to 61◦ F. That means that when t = 30 (or t = 0.5
+depending on which units you choose) the temperature T will be 61◦ F. We can
+then set up the equation to reflect this and calculate the vlaue of k:
+T = 44 + 28e−kt
+61 = 44 + 28e−k∗30
+First, we’ll subtract 44 on both sides and divide by 28:
+61 = 44 + 28e−k∗30
+17 = 28e−30k
+17
+= e−30k
+28
+
+180
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+Now, we’ll take the natural logarithm on both sides to bring the −30k down from
+the exponent:
+
+
+17
+28
+
+
+
+
+
+17
+28
+
+
+
+ln
+
+ln
+
+= ln e−30k
+
+
+
+= −30k ∗ ln e
+
+−0.499 ≈ −30k
+0.01663 ≈ k
+Now, we have the full formula for calculating temperature in this scenario:
+T = 44 + 28e−0.01663t
+
+To find out what happens after 60 minutes, we can simply plug in 60 for t:
+T = 44 + 28e−0.01663t
+T = 44 + 28e−0.01663∗60
+T = 44 + 28e−0.9978
+T ≈ 44 + 28 ∗ 0.3687
+T ≈ 44 + 10.3236 ≈ 54.3◦ F
+
+3.5. APPLICATIONS OF THE NEGATIVE EXPONENTIAL FUNCTION
+
+181
+
+Exercises 3.5
+1)
+If the half-life of radioactive cesium-137 is 30 years, find the value of k in the
+equation A(t) = A0 e−kt .
+a)
+Given a 10 gram sample of cesium-137, how much will remain after 80
+years?
+b)
+
+How long will it take for only 2 grams of cesium-137 to remain?
+
+2)
+The half-life for radioactive thorium-234 is about 25 days. Use this to find
+the value of k in the equation A(t) = A0 e−kt .
+a)
+
+How much of a 40 gram sample will remain after 60 days?
+
+b)
+
+After how long will only 10 grams of thorium-234 remain?
+
+3)
+Given a sample of strontium-90, it is known that after 18 years there are
+32mg remaining and after 65 years there are 10mg remaining. Use this information to find out how much strontium-90 was in the sample to begin with, and also
+determine the half-life of strontium-90.
+
+4)
+
+A 12 mg sample of radioactive polonium decays to 7.26 mg in 100 days.
+
+a)
+
+What is the half-life of polonium?
+
+b)
+
+How much of the 12 mg sample remains after 180 days?
+
+182
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+5)
+A hot bowl of soup is served at a dinner party. It starts to cool according to
+Newton’s Law of Cooling so that its temperature at time t is given by:
+y = 65 + 145e−0.05t
+where t is measured in minutes and y is measured in degrees Fahrenheit.
+a)
+
+What is the initial temperature of the soup?
+
+b)
+
+What is the temperature after 10 minutes?
+
+c)
+
+After how long will the temperature be 100◦ ?
+
+6)
+Newton’s Law of Cooling is used in homicide investigations to determine
+the time of death. The normal body temperature is 98.6◦ F. Immediately following
+death, the body begins to cool. This process uses Newton’s Law of Cooling:
+y = Ta + Ce−kt
+If the ambient temperature is 60◦ , and the body has cooled to 72◦ F after 6 hours,
+use this information to determine the value of k in the equation.
+
+7)
+The police discover the body of a murder victim. Critical to solving the
+crime is determining when the murder was committed. The coroner arrives at
+the murder scene at 12 Noon. She immediately takes the temperature of the body
+and finds it to be 94.6◦ F. She then takes the temperature 1.5 hours later and finds
+it to be 93.4◦ F. If the temperature of the room is 70◦ F, when was the murder committed?
+
+3.5. APPLICATIONS OF THE NEGATIVE EXPONENTIAL FUNCTION
+
+183
+
+8)
+A roasted turkey is taken from the oven when its temperature has reached
+◦
+185 F and is placed on a table in a room where the temperature is 75◦ F.
+a)
+If the temperature of the turkey is 150◦ F after 30 minutes, what is its temperature after 45 minutes?
+b)
+
+When will the turkey cool off to 100◦ F?
+
+9)
+A kettle full of water is brought to a boil in a room with an ambient temperature of 20◦ C. After 15 minutes, the temperature of the water has decreased from
+100◦ C to 75◦ C. Find an equation using Newton’s Law of Cooling to represent to
+temperature at time t. Find the temperature of the water after 25 minutes.
+
+10)
+A cup of coffee with a temperature of 105◦ F is placed in a freezer with a
+temperature of 0◦ F. After 5 minutes, the temperature of the coffee is 70◦ F. Find an
+equation using Newton’s Law of Cooling to represent to temperature at time t.
+What will the temperature be in 10 minutes?
+
+184
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+Answer Key
+Section 1.1
+1)
+
+−x2 − 16x − 13
+
+3)
+
+3b2
+
+7)
+
+−2a2 + 19a − 58
+
+9)
+
+2y 2 + 24y − 22
+
+5)
+
+6m − 3
+
+Section 1.2
+1)
+
+8a2 b2 (b + 3)
+
+3)
+
+13t2 (t6 + 2t2 − 3)
+
+5)
+
+9mn3 (5m3 n2 + 4n3 + 9m)
+
+7)
+
+(a + 2)(a + 1)
+
+9)
+
+(x − 9)(x + 3)
+
+11)
+
+(m + 9)(m − 6)
+
+13)
+
+(a + 3)(a − 3)
+
+15)
+
+(k + 7)(k − 7)
+
+17)
+
+6(x + 3)(x − 3)
+
+19)
+
+2(10 + a)(10 − a)
+
+21)
+
+2(7 + k)(7 − k)
+
+23)
+
+5(y + 4)(y − 4)
+
+25)
+
+2(2y + 7)(2y − 7)
+
+27)
+
+k(6 + 7k)(6 − 7k)
+
+185
+
+186
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+Section 1.2(cont.)
+29)
+
+PRIME
+
+31)
+
+(3x − 4)(3x − 2)
+
+33)
+
+(2x + 3)(x + 2)
+
+35)
+
+2(5y + 3)(2y + 1)
+
+37)
+
+3(2a − 3)(4a − 1)
+
+39)
+
+(10 − y)(3 + y)
+
+41)
+
+(12 + x)(2 − x)
+
+43)
+
+(14 + x)(6 − x)
+
+45)
+
+3(2y 2 + 8y + 5)
+
+47)
+
+4a(5x + 1)(x − 2)
+
+Section 1.3
+1)
+
+x ≈ 0.275, −7.275
+
+3)
+
+x ≈ 1.587, −0.420
+
+5)
+
+x ≈ 0.787, −1.905
+
+7)
+
+x ≈ −0.548, 2.002
+
+9)
+
+x ≈ −0.164, −1.172
+
+11)
+
+13)
+
+x = 10, 5
+
+x ≈ −0.575, −2.175
+
+3.5. APPLICATIONS OF THE NEGATIVE EXPONENTIAL FUNCTION
+
+187
+
+Section 1.4
+Im
+
+10i
+9i
+8i
+7i
+#3
+
+#11
+
+6i
+#1
+
+5i
+#9
+
+4i
+3i
+2i
+1i
+
+−10−9 −8 −7 −6 −5 −4 −3 −2 −1
+−1i
+
+#5
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+R
+
+9 10
+
+#7
+
+−2i
+−3i
+−4i
+−5i
+−6i
+−7i
+−8i
+−9i
+−10i
+
+13)
+
+6i
+
+15)
+
+10i
+
+21)
+
+3.162i
+
+23)
+
+2.236i
+
+17)
+
+2i
+
+19)
+
+1.414i
+
+188
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+Section 1.4(cont.)
+25)
+
+11 + 10i
+
+27)
+
+8 + 10i
+
+29)
+
+2−i
+
+31)
+
+−42
+
+33)
+
+10
+
+35)
+
+1 + 5i
+
+37)
+
+27 − 28i
+
+39)
+
+11 + i
+
+41)
+
+12 − 16i
+
+43)
+
+10
+
+45)
+
+97
+
+47)
+
+−i
+
+49)
+
+i
+
+51)
+
+i
+
+53)
+
+1
+
+55)
+
+−1
+
+57)
+
+1
+
+59)
+
+−i
+
+61)
+
+−1
+
+Section 1.5
+1)
+
+x ≈ 1.758, −0.758
+
+3)
+
+x ≈ 0.344, −1.744
+
+5)
+
+x ≈ 0.16 ± 0.373i
+
+7)
+
+x ≈ −0.5 ± 1.204i
+
+9)
+
+x ≈ 0.286 ± 0.881i
+
+11)
+
+x ≈ 4 ± 4.243i
+
+Section 1.6
+3)
+
+−
+
+x
+3
+
+5)
+
+y+5
+2(y + 1)
+
+9)
+
+x+5
+x−1
+
+11)
+
+−(x + 7)
+
+3
+5x(x − 2)
+
+15)
+
+17)
+
+1
+x−y
+
+1)
+
+3
+x−3
+
+7)
+
+−
+
+13)
+
+2a + 3
+a+1
+
+4x
+2x − 1
+
+3.5. APPLICATIONS OF THE NEGATIVE EXPONENTIAL FUNCTION
+
+189
+
+Section 1.6 (cont.)
+19)
+
+4x
+(x − 2)(x − 3)
+
+21)
+
+3x
+
+23)
+
+(x + 1)(x − 2)
+(x − 1)(x − 2)
+
+25)
+
+(x − 4)(x + 3)
+(x − 1)(2x + 1)
+
+Section 1.7
+−k 2 + 5k + 23
+(k + 2)(k + 5)
+
+1)
+
+1
+x(x − 1)
+
+3)
+
+6x − 6
+x2 − 9
+
+5)
+
+7)
+
+−y 2 − 3y
+y 2 − 25
+
+9)
+
+x2 − 2x + 1
+(x + 1)(x − 3)
+
+11)
+
+b−1
+2b + 2
+
+13)
+
+1
+a+1
+
+15)
+
+−1
+2x − 4
+
+17)
+
+x
+x−2
+
+19)
+
+a
+a−3
+
+21)
+
+5x + 3
+x+1
+
+23)
+
+5
+x−1
+
+Section 1.8
+1)
+
+2
+2x + y
+
+3)
+
+m2
+n(m − n)
+
+5)
+
+7)
+
+x+1
+
+9)
+
+x+2
+x−2
+
+11)
+
+x
+y
+
+x2
+
+−5
+−x−5
+
+190
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+Section 1.8 (cont.)
+13)
+
+−
+
+2b − a
+3b − a
+
+15)
+
+(n + 3)(n − 2)
+n−1
+
+17)
+
+−x
+1−x
+OR
+x
+x−1
+
+Section 1.9
+1)
+
+x = −1, −5
+
+3)
+
+y ≈ 3.449, −1.449
+
+5)
+
+7)
+
+x = 6, −4
+
+9)
+
+n = 12, −2
+
+11)
+
+x = −0.2, 3
+
+y=7
+
+13)
+
+x ≈ −2.256, −5.911
+
+15)
+
+x = 0, 16
+
+17)
+
+x ≈ 0.884, −1.884
+
+19)
+
+y ≈ 5.919, −2.253
+
+21)
+
+a = 0, 32
+
+23)
+
+x = −0.625
+
+25)
+
+y=
+
+27)
+
+x ≈ 13.659, −0.659
+
+29)
+
+x=1
+
+3
+7
+
+Section 2.1
+1)
+
+−7 < x ≤ −4 OR 0 ≤ x ≤ 5
+
+3)
+
+x ≤ −1 OR x ≥ 2
+
+5)
+
+−8 ≤ x < −6 OR x ≥ 3
+
+7)
+
+x ≤ −10 OR −4 < x < 1 OR x > 6
+
+9)
+
+−12 ≤ x < −7 OR x > 5
+
+11)
+
+13)
+
+x < −5 OR −3 < x < −1 OR x ≥ 4
+
+x = 0 OR x > 4
+
+3.5. APPLICATIONS OF THE NEGATIVE EXPONENTIAL FUNCTION
+Section 2.2
+1)
+
+x ≈ −0.4142, 2.4142, 31
+
+3)
+
+x ≈ −4.035, 2.378, 2.657
+
+5)
+
+x ≈ 2.176, 2.902, −0.902, −0.176
+
+7)
+
+x ≈ −1.984, 0.707, 1.286, 4.991
+
+9)
+
+x ≈ 6.161, −0.537
+
+11)
+
+x ≈ −0.889, 1, 0.645, 1.745
+
+Section 2.3
+1)
+
+3)
+
+5)
+
+7)
+
+9)
+
+y ≥ 0:
+
+−0.618 ≤ x ≤ 1.618 OR x ≥ 3
+
+y < 0:
+
+x < −0.618 OR 1.618 < x < 3
+
+y ≥ 0:
+
+−1.5 ≤ x ≤ −0.236 OR x ≥ 4.236
+
+y < 0:
+
+x < −1.5 OR −0.236 < x < 4.236
+
+y ≥ 0:
+
+x ≤ 1.5 OR x ≥
+
+y < 0:
+
+1.5 < x <
+
+y ≥ 0:
+
+x ≤ −2.656 OR −0.486 ≤ x ≤ 0.460 OR x ≥ 1.682
+
+y < 0:
+
+−2.656 < x < −0.486 OR 0.460 < x < 1.682
+
+5
+3
+
+5
+3
+
+x ≤ −3 OR x = 1
+
+13)
+
+All real numbers
+
+17)
+
+x < 0.5 OR x > 0.839
+
+11)
+
+x > 3 OR −4 < x < 1
+
+15)
+
+x ≤ −2.264 OR 0.756 ≤ x ≤ 3.508
+
+191
+
+192
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+Section 2.4
+1)
+
+−4 < x < 2 OR x > 6
+
+3)
+
+−5 < x < −2 OR 2 < x < 7
+
+5)
+
+− 32 < x < 1.791 OR x < −2.791
+
+7)
+
+−2.080 < x < −1.618 OR x > 0.618
+
+9)
+
+− 11
+< x < −2.162 OR x > 4.162
+3
+
+11)
+
+−2 < x < 1.791 OR x < −2.791 OR x > 3
+
+13)
+
+−4.372 < x < −3.828 OR 1.372 < x < 1.828
+
+15)
+
+−5.193 < x < −2.646 OR 0.193 < x < 2.646
+
+Section 2.5
+1)
+
+x2 + 3x − 4 = 0
+
+3)
+
+2x2 − 5x + 3 = 0
+
+5)
+
+3x2 − 10x + 3 = 0
+
+7)
+
+4x2 − 12x − 7 = 0
+
+9)
+
+3x2 + 11x + 6 = 0
+
+11)
+
+2x2 − x + 15 = 0
+
+Section 2.6
+1)
+
+y 2 − 2y + 2
+
+7)
+
+(2z 2 − 2z + 7)
+
+3)
+
+x−5
+9)
+
+R:1
+
+11)
+
+(2y 3 − 3y 2 − 2y + 2)
+
+13)
+
+(5x2 + 15x + 17)
+
+5)
+
+R : 3y + 2
+
+R : −24x − 83
+
+4x2 + x + 1
+
+x3 − x + 3
+
+3.5. APPLICATIONS OF THE NEGATIVE EXPONENTIAL FUNCTION
+
+193
+
+Section 2.7
+1)
+
+x2 − 3x − 10
+
+3)
+
+x2 + 5x − 1
+
+5)
+
+7)
+
+x3 − 1
+
+9)
+
+x3 + 1
+
+11)
+
+13)
+
+R:8
+
+x3 − 4x2 + x + 6
+
+x3 − 3x2 + 4x − 2
+
+x2 + 4x + 5
+
+Section 2.8
+1)
+
+(x + 1)(x − 2)(x2 − 2x + 5)
+
+3)
+
+x = −1, 2, 1 ± 2i
+
+5)
+
+(x − 5)(x + 2)(x2 − 6x + 13)
+
+x = −1, 2, 0.75 ± 0.661i
+
+7)
+
+x = 5, −2, 3 ± 2i
+
+9)
+
+(x − 1)3 (x − 3)
+
+(5x + 1)(3x2 − 2x + 3)
+
+11)
+
+(x + 3)(2x − 1)(2x2 + 5x + 5)
+x = −3, 21 , −1.25 ± 0.968i
+
+21)
+
+(2x + 1)(3x − 2)(2x2 + x + 1)
+
+(x − 1)3 (x2 + 9)
+x = 1, ±3i
+
+15)
+
+x = − 51 , 13 ± 0.943i
+17)
+
+(x − 1)3 (x2 − 6x + 10)
+x = 1, 3 ± i
+
+x = 1, 3
+
+13)
+
+(x + 1)(x − 2)(2x2 − 3x + 2)
+
+(3x + 2)(2x2 + 3x + 2)
+x = − 32 , −0.75 ± 0.661i
+
+19)
+
+(2x + 1)(x − 3)(x2 + x + 1)
+x = 3, − 21 , −0.5 ± 0.866i
+
+x = 23 , − 12 , −0.25 ± 0.661i
+
+194
+
+CHAPTER 3. EXPONENTS AND LOGARITHMS
+
+Section 3.1
+
+1)
+
+a)
+b)
+
+≈ 107mg
+≈ 99 minutes
+
+3)
+
+a)
+b)
+
+450 bass
+≈ 744 bass
+
+5)
+
+a)
+b)
+
+≈ 141◦ F
+≈ 28.3 minutes
+
+7)
+
+a)
+b)
+c)
+
+13 kg.
+≈ 6.62 kg.
+≈ 63.7 days
+
+9)
+
+a)
+b)
+
+6,000
+10,570
+1.6 years
+12,000
+
+11)
+
+a)
+b)
+
+33,333
+21,494
+≈ 1.98 years
+approaches 20,000
+
+15)
+
+a)
+
+6.8 gal.
+43.94 minutes
+
+13)
+
+a)
+b)
+
+16.5 lbs
+45.8 minutes
+
+Section 3.2
+
+10−1 = 0.1
+
+1)
+
+5t = 9
+
+3)
+
+52 = 25
+
+5)
+
+7)
+
+100.845 ≈ 7
+
+9)
+
+25.13 ≈ 35
+
+11)
+
+e−1.3863 ≈ 0.25
+
+1
+1024
+
+3
+4
+
+13)
+
+log 100 = 2
+
+15)
+
+log4
+
+= −5
+
+17)
+
+log16 8 =
+
+19)
+
+log 20 ≈ 1.3
+
+21)
+
+ln 20.0855 ≈ 3
+
+23)
+
+ln 0.0183 ≈ −4
+
+3.5. APPLICATIONS OF THE NEGATIVE EXPONENTIAL FUNCTION
+
+195
+
+Section 3.3
+1)
+
+≈ 2.322
+
+3)
+
+≈ 1.771
+
+9)
+
+≈ −0.089
+
+11)
+
+≈ 0.183
+
+13)
+
+≈ −2.297
+
+15)
+
+≈ −19.655
+
+17)
+
+≈ 0.723
+
+19)
+
+≈ −0.795
+
+21)
+
+≈ 2.117
+
+23)
+
+≈ 0.042
+
+25)
+
+≈ −1.165
+
+27)
+
+≈ 0.134
+
+5)
+
+≈ 1.585
+
+≈ 1.227
+
+7)
+
+Section 3.4
+x = 9, −1
+
+1)
+
+x = 1.8
+
+3)
+
+x = 12
+
+5)
+
+7)
+
+x=6
+
+9)
+
+x = 2, −4
+
+11)
+
+x=
+
+15)
+
+x = 1.2
+
+17)
+
+x = 24
+
+21)
+
+x = 3, 8
+
+23)
+
+x=1
+
+13)
+
+x ≈ 1.606, −5.606
+
+19)
+
+x=
+
+25)
+
+8
+3
+
+x ≈ 11.944, −5.944
+
+Section 3.5
+1)
+
+a)
+
+≈ 1.576g
+
+5)
+
+a)
+
+210◦ F
+
+7)
+
+7:30AM
+
+≈ 69.67 years
+
+b)
+b)
+
+≈ 152.9◦ F
+9)
+
+a)
+
+c)
+
+3)
+
+50mg
+
+≈ 28.4 minutes
+
+T = 20 + 80e−0.025t
+
+b)
+
+≈ 62.85◦ C
+
+16
+7
+
+
