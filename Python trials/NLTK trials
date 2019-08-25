@@ -24,7 +24,7 @@ Math_1 = open(book).read()
 Math1 = nltk.word_tokenize(Math_1)
 
 #Remove punctuation signs
-#This line gets rid of all non-alphanumeric words or symbols
+#This line gets rid of all non-alphabet words or symbols
 Math1=[w.lower() for w in Math1 if w.isalpha()]
 
 #Remove stopwords; frequently used words like 'the', 'and', 'in', and so on
@@ -48,8 +48,17 @@ single_character = ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 
                       'ω', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N',
                       'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Ω', 'Ψ', 'Σ', 'Π', 
                       'Ξ', 'Λ', 'Θ', 'Δ', 'Γ', 'aβ', 'aβj', 'βj', 'gf', 'pn', 'bp', 'zp', 
-                      'bch')
+                      'bch', 'gxg', 'ig', 'φp', 'yxy')
 
 filtered_book = [w for w in filtered_book if not w in single_character]
 
-print(filtered_book)
+#Find the most common words in the corpus
+#First use the FreqDist to find the distribution of words in the clean corpus
+#Then choose the 10 more frequent using most_common(10)
+filtered_book_dist = nltk.FreqDist(w.lower() for w in filtered_book)
+most_common_words = filtered_book_dist.most_common(10)
+
+#Print the clean corpus
+#Print the 10 most common words
+print(filtered_book, '\n')
+print(most_common_words)
