@@ -1,0 +1,2184 @@
+Civil Procedure:
+Pleading
+The Plaintiff's Complaint
+
+Hillel Y. Levin
+
+CALI eLangdell® Press 2011
+
+Preface
+This chapter covers the Civil Procedure topic of Pleading: The Plaintiff’s Complaint.
+The chapter takes approximately four class periods to cover in detail. The student is
+exposed to cases, presented with questions that are designed to both guide class
+discussion and to help the student focus his reading of the materials, pleadings from
+cases, and the applicable Federal Rules of Civil Procedure.
+
+Table of Contents
+1. Preface ...................................................................... 3
+2. Rule 8. General Rules of Pleading......................... 5
+3. Rule 9. Pleading Special Matters............................ 6
+4. Conley v. Gibson..................................................... 6
+5. Swierkiewicz v. Sorema N.A. ................................. 9
+6. Rule 10. Form of Pleadings.................................. 15
+7. Bell Atlantic Corp. v. Twombly........................... 15
+8. Ashcroft v. Iqbal.................................................... 31
+9. Kregler v. City of New York ............................... 45
+10. Complaint 1............................................................ 56
+11. Complaint 2............................................................ 64
+
+4
+
+Unit 1
+Goals of the Section.
+By the end of this section, you should: understand what a plaintiff must include in a
+complaint; understand how the relevant standards have changed over time; be able
+to articulate what interests are being balanced and vindicated by the Rules and the
+judicial opinions that interpret and apply them; be able to critique the doctrine; be
+able to apply the doctrine in run-of-the-mill cases as a lawyer would; have a better
+understanding of the job of the lawyer through your experience drafting and
+reviewing litigation documents.
+A court case begins with the plaintiff filing a complaint and serving the defendant.
+The material in this section focuses on the law that governs the contents of the
+plaintiff’s complaint. (For the rules concerning service, see Rule 4.) This has been
+one of the most dynamic and controversial areas in all of civil procedure in recent
+years. Rule 8(a) of the Federal Rules of Civil Procedure provides that a plaintiff’s
+complaint must include the following:
+
+Rule 8. General Rules of Pleading
+(a) Claims for Relief.
+A pleading that states a claim for relief must contain:
+(1) a short and plain statement of the grounds for the
+court’s jurisdiction, unless the court already has
+jurisdiction and the claim needs no new jurisdictional
+support;
+(2) a short and plain statement of the claim showing that
+the pleader is entitled to relief; and
+(3) a demand for the relief sought, which may include
+relief in the alternative or different types of relief.
+
+5
+
+However, Rule 9(b) provides that in some specific cases,
+the plaintiff must also include additional information:
+
+Rule 9. Pleading Special Matters
+(b) Fraud or Mistake; Condition of Mind.
+In alleging fraud or mistake, a party must state with
+particularity the circumstances constituting fraud or mistake.
+Malice, intent, knowledge, and other conditions of a person's
+mind may be alleged generally.
+In the following case, the Supreme Court explained what
+Rule 8(a)(2) requires of a plaintiff in the typical case. The
+standard adopted by Conley is often referred to as the Notice
+Pleading standard.
+
+Conley v. Gibson
+355 U.S. 41 (1957)
+MR. JUSTICE BLACK delivered the opinion of the Court.
+Once again, Negro employees are here under the Railway Labor Act asking
+that their collective bargaining agent be compelled to represent them fairly.
+In a series of cases this Court has emphatically and repeatedly ruled that an
+exclusive bargaining agent under the Railway Labor Act is obligated to
+represent all employees in the bargaining unit fairly and without
+discrimination because of race, and has held that the courts have power to
+protect employees against such invidious discrimination.
+This class suit was brought in a Federal District Court in Texas by certain
+Negro members of the Brotherhood of Railway and Steamship Clerks,
+petitioners here, on behalf of themselves and other Negro employees
+similarly situated against the Brotherhood, its Local Union No. 28 and
+certain officers of both. In summary, the complaint made the following
+allegations relevant to our decision: Petitioners were employees of the Texas
+
+6
+
+and New Orleans Railroad at its Houston Freight House. Local 28 of the
+Brotherhood was the designated bargaining agents under the Railway Labor
+Act for the bargaining unit to which petitioners belonged. A contract existed
+between the Union and the Railroad which gave the employees in the
+bargaining unit certain protection from discharge and loss of seniority. In
+May, 1954, the Railroad purported to abolish 45 jobs held by petitioners or
+other Negroes, all of whom were either discharged or demoted. In truth, the
+45 jobs were not abolished at all, but instead filled by whites as the Negroes
+were ousted, except for a few instances where Negroes were rehired to fill
+their old jobs, but with loss of seniority. Despite repeated pleas by
+petitioners, the Union, acting according to plan, did nothing to protect them
+against these discriminatory discharges and refused to give them protection
+comparable to that given white employees. The complaint then went on to
+allege that the Union had failed in general to represent Negro employees
+equally and in good faith. It charged that such discrimination constituted a
+violation of petitioners' right under the Railway Labor Act to fair
+representation from their bargaining agent. And it concluded by asking for
+relief in the nature of declaratory judgment, injunction and damages.
+The respondents appeared and moved to dismiss the complaint on several
+grounds[, including that] the complaint failed to state a claim upon which
+relief could be given.
+[W]e hold that the complaint adequately set forth a claim upon which relief
+could be granted. In appraising the sufficiency of the complaint, we follow,
+of course, the accepted rule that a complaint should not be dismissed for
+failure to state a claim unless it appears beyond doubt that the plaintiff can
+prove no set of facts in support of his claim which would entitle him to
+relief. Here, the complaint alleged, in part, that petitioners were discharged
+wrongfully by the Railroad and that the Union, acting according to plan,
+refused to protect their jobs as it did those of white employees or to help
+them with their grievances all because they were Negroes. If these allegations
+are proven, there has been a manifest breach of the Union's statutory duty to
+
+7
+
+represent fairly and without hostile discrimination all of the employees in the
+bargaining unit. This Court squarely held [previously] that discrimination in
+representation because of race is prohibited by the Railway Labor Act. The
+bargaining representative's duty not to draw "irrelevant and invidious"
+distinctions among those it represents does not come to an abrupt end, as
+the respondents seem to contend, with the making of an agreement between
+union and employer. Collective bargaining is a continuing process. Among
+other things, it involves day-to-day adjustments in the contract and other
+working rules, resolution of new problems not covered by existing
+agreements, and the protection of employee rights already secured by
+contract. The bargaining representative can no more unfairly discriminate in
+carrying out these functions than it can in negotiating a collective agreement.
+A contract may be fair and impartial on its face, yet administered in such a
+way, with the active or tacit consent of the union, as to be flagrantly
+discriminatory against some members of the bargaining unit.
+The respondents also argue that the complaint failed to set forth specific
+facts to support its general allegations of discrimination, and that its dismissal
+is therefore proper. The decisive answer to this is that the Federal Rules of
+Civil Procedure do not require a claimant to set out in detail the facts upon
+which he bases his claim. To the contrary, all the Rules require is "a short and
+plain statement of the claim" that will give the defendant fair notice of what
+the plaintiff's claim is and the grounds upon which it rests. The illustrative
+forms appended to the Rules plainly demonstrate this. Such simplified
+"notice pleading" is made possible by the liberal opportunity for discovery
+and the other pretrial procedures established by the Rules to disclose more
+precisely the basis of both claim and defense and to define more narrowly
+the disputed facts and issues. Following the simple guide of Rule 8(f) that "all
+pleadings shall be so construed as to do substantial justice," we have no
+doubt that petitioners' complaint adequately set forth a claim and gave the
+respondents fair notice of its basis. The Federal Rules reject the approach
+that pleading is a game of skill in which one misstep by counsel may be
+
+8
+
+decisive to the outcome, and accept the principle that the purpose of
+pleading is to facilitate a proper decision on the merits.
+The judgment is reversed, and the cause is remanded to the District Court
+for further proceedings not inconsistent with this opinion.
+It is so ordered.
+
+Questions
+1. What does the Conley case instruct as to the meaning of Rule(a)(2)? What
+function does the complaint serve in a lawsuit?
+2. According to Rule 8(a) and Conley, is it easy or difficult for a plaintiff to
+meet the requirements of the Rule?
+3. Who benefits from this standard? Who bears the cost of it?
+4. According to Conley, how would courts get rid of cases where the plaintiff
+produces no facts that support her claim?
+5. According to Conley, what is the relationship between pleading and
+discovery?
+6. What interests do you think are served by Rule 8(a)? What do you think the
+purpose of Rule 8(a) is?
+The Court has periodically reaffirmed its core holding in Conley, as in the following
+case.
+
+Swierkiewicz v. Sorema N.A.
+534 U.S. 506 (2002)
+JUSTICE THOMAS delivered the opinion of the Court.
+This case presents the question whether a complaint in an employment
+discrimination lawsuit must contain specific facts establishing a prima facie
+case of discrimination under the framework set forth by this Court in
+
+9
+
+McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973). We hold that an
+employment discrimination complaint need not include such facts and
+instead must contain only “a short and plain statement of the claim showing
+that the pleader is entitled to relief.” Fed. Rule Civ. Proc. 8(a)(2).
+I
+Petitioner Akos Swierkiewicz is a native of Hungary, who at the time of his
+complaint was 53 years old. In April 1989, petitioner began working for
+respondent Sorema N. A., a reinsurance company headquartered in New
+York and principally owned and controlled by a French parent corporation.
+Petitioner was initially employed in the position of senior vice president and
+chief underwriting officer (CUO). Nearly six years later, François M. Chavel,
+respondent’s Chief Executive Officer, demoted petitioner to a marketing and
+services position and transferred the bulk of his underwriting responsibilities
+to Nicholas Papadopoulo, a 32-year-old who, like Mr. Chavel, is a French
+national. About a year later, Mr. Chavel stated that he wanted to “energize”
+the underwriting department and appointed Mr. Papadopoulo as CUO.
+Petitioner claims that Mr. Papadopoulo had only one year of underwriting
+experience at the time he was promoted, and therefore was less experienced
+and less qualified to be CUO than he, since at that point he had 26 years of
+experience in the insurance industry.
+Following his demotion, petitioner contends that he “was isolated by Mr.
+Chavel . . . excluded from business decisions and meetings and denied the
+opportunity to reach his true potential at SOREMA.” Petitioner
+unsuccessfully attempted to meet with Mr. Chavel to discuss his discontent.
+Finally, in April 1997, petitioner sent a memo to Mr. Chavel outlining his
+grievances and requesting a severance package. Two weeks later,
+respondent’s general counsel presented petitioner with two options: He
+could either resign without a severance package or be dismissed. Mr. Chavel
+fired petitioner after he refused to resign.
+Petitioner filed a lawsuit alleging that he had been terminated on account of
+his national origin in violation of Title VII of the Civil Rights Act of 1964,
+
+10
+
+and on account of his age in violation of the Age Discrimination in
+Employment Act of 1967 (ADEA). The United States District Court for the
+Southern District of New York dismissed petitioner’s complaint because it
+found that he “ha[d] not adequately alleged a prima facie case, in that he
+ha[d] not adequately alleged circumstances that support an inference of
+discrimination.” The United States Court of Appeals for the Second Circuit
+affirmed the dismissal, relying on its settled precedent, which requires a
+plaintiff in an employment discrimination complaint to allege facts
+constituting a prima facie case of discrimination under the framework set
+forth by this Court in McDonnell Douglas. The Court of Appeals held that
+petitioner had failed to meet his burden because his allegations were
+“insufficient as a matter of law to raise an inference of discrimination.” We
+granted certiorari to resolve a split among the Courts of Appeals concerning
+the proper pleading standard for employment discrimination cases, and now
+reverse.
+II
+Applying Circuit precedent, the Court of Appeals required petitioner to plead
+a prima facie case of discrimination in order to survive respondent’s motion
+to dismiss. In the Court of Appeals’ view, petitioner was thus required to
+allege in his complaint: (1) membership in a protected group; (2) qualification
+for the job in question; (3) an adverse employment action; and (4)
+circumstances that support an inference of discrimination.
+The prima facie case under McDonnell Douglas, however, is an evidentiary
+standard, not a pleading requirement.
+This Court has never indicated that the requirements for establishing a prima
+facie case under McDonnell Douglas also apply to the pleading standard that
+plaintiffs must satisfy in order to survive a motion to dismiss. For instance,
+we have rejected the argument that a Title VII complaint requires greater
+“particularity,” because this would “too narrowly constric[t] the role of the
+pleadings.” Consequently, the ordinary rules for assessing the sufficiency of a
+complaint apply. See, e.g., Scheuer v. Rhodes, 416 U.S. 232, 236 (1974)
+
+11
+
+(“When a federal court reviews the sufficiency of a complaint, before the
+reception of any evidence either by affidavit or admissions, its task is
+necessarily a limited one. The issue is not whether a plaintiff will ultimately
+prevail but whether the claimant is entitled to offer evidence to support the
+claims”).
+Furthermore, imposing the Court of Appeals’ heightened pleading standard
+in employment discrimination cases conflicts with Federal Rule of Civil
+Procedure 8(a)(2), which provides that a complaint must include only “a
+short and plain statement of the claim showing that the pleader is entitled to
+relief.” Such a statement must simply “give the defendant fair notice of what
+the plaintiff’s claim is and the grounds upon which it rests.” Conley v.
+Gibson, 355 U.S. 41, 47 (1957). This simplified notice pleading standard
+relies on liberal discovery rules and summary judgment motions to define
+disputed facts and issues and to dispose of unmeritorious claims. “The
+provisions for discovery are so flexible and the provisions for pretrial
+procedure and summary judgment so effective, that attempted surprise in
+federal practice is aborted very easily, synthetic issues detected, and the
+gravamen of the dispute brought frankly into the open for the inspection of
+the court.” 5 C. Wright & A. Miller, Federal Practice and Procedure §1202, p.
+76 (2d ed. 1990).
+Rule 8(a)’s simplified pleading standard applies to all civil actions, with
+limited exceptions. Rule 9(b), for example, provides for greater particularity
+in all averments of fraud or mistake. This Court, however, has declined to
+extend such exceptions to other contexts. Thus, complaints in these cases, as
+in most others, must satisfy only the simple requirements of Rule 8(a).
+Other provisions of the Federal Rules of Civil Procedure are inextricably
+linked to Rule 8(a)’s simplified notice pleading standard. Rule 8(e)(1) states
+that “[n]o technical forms of pleading or motions are required,” and Rule 8(f)
+provides that “[a]ll pleadings shall be so construed as to do substantial
+justice.” Given the Federal Rules’ simplified standard for pleading, “[a] court
+may dismiss a complaint only if it is clear that no relief could be granted
+
+12
+
+under any set of facts that could be proved consistent with the allegations.”
+Hishon v. King & Spalding, 467 U.S. 69, 73 (1984). If a pleading fails to
+specify the allegations in a manner that provides sufficient notice, a
+defendant can move for a more definite statement under Rule 12(e) before
+responding. Moreover, claims lacking merit may be dealt with through
+summary judgment under Rule 56. The liberal notice pleading of Rule 8(a) is
+the starting point of a simplified pleading system, which was adopted to
+focus litigation on the merits of a claim.
+Applying the relevant standard, petitioner’s complaint easily satisfies the
+requirements of Rule 8(a) because it gives respondent fair notice of the basis
+for petitioner’s claims. Petitioner alleged that he had been terminated on
+account of his national origin in violation of Title VII and on account of his
+age in violation of the ADEA. His complaint detailed the events leading to
+his termination, provided relevant dates, and included the ages and
+nationalities of at least some of the relevant persons involved with his
+termination. These allegations give respondent fair notice of what petitioner’s
+claims are and the grounds upon which they rest. In addition, they state
+claims upon which relief could be granted under Title VII and the ADEA.
+Respondent argues that allowing lawsuits based on conclusory allegations of
+discrimination to go forward will burden the courts and encourage
+disgruntled employees to bring unsubstantiated suits. Whatever the practical
+merits of this argument, the Federal Rules do not contain a heightened
+pleading standard for employment discrimination suits. A requirement of
+greater specificity for particular claims is a result that “must be obtained by
+the process of amending the Federal Rules, and not by judicial
+interpretation.” Furthermore, Rule 8(a) establishes a pleading standard
+without regard to whether a claim will succeed on the merits. “Indeed it may
+appear on the face of the pleadings that a recovery is very remote and
+unlikely but that is not the test.”
+For the foregoing reasons, we hold that an employment discrimination
+plaintiff need not plead a prima facie case of discrimination and that
+
+13
+
+petitioner’s complaint is sufficient to survive respondent’s motion to dismiss.
+Accordingly, the judgment of the Court of Appeals is reversed, and the case
+is remanded for further proceedings consistent with this opinion.
+It is so ordered.
+
+Questions
+1. What had the lower court done that the Supreme Court rejected?
+2. Did the Supreme Court indicate one way or another way whether Conley’s
+Notice Pleading standard was a good rule or a bad rule, as a policy matter?
+What reasons did the Supreme Court offer for adhering to the Notice
+Pleading standard?
+3. After Swierkiewicz, what must a plaintiff in a discrimination case state in her
+complaint in order to meet the Rule 8(a)(2) standard?
+4. In the decades after Conley, many lower courts imposed heightened pleading
+standards in a wide range of cases (with the Second Circuit’s heightened
+standard in Swierkiewicz being one such example). The Supreme Court
+repeatedly reversed such cases and reaffirmed Conley. What do you think
+drove lower courts to do so despite consistent reversals from the Supreme
+Court?
+
+In-class exercise
+Based on your readings thus far, work with a partner sitting next to you to draft a
+complaint that meets the requirements of Rule 8(a) for the following fact pattern.
+Your client is Ms. Holly Branham. Ms. Branham shopped in a Dollar General store
+in Amherst County, Virginia on June 8, 2009. While shopping, she stepped on liquid
+that was on the floor and fell. She tells you that there were no signs posted around
+the liquid. She says that she has suffered a severe and permanent injury totaling
+$100,000 in medical bills and lost wages. She wants to sue the Dollar General store
+for negligence in the District Court for the Western District of Virginia. Dollar
+
+14
+
+General is based in Virginia. The plaintiff lives in Georgia. (Assume that the
+requirements for subject matter and personal jurisdiction are met by these facts.)
+Be sure that your complaint complies with Rule 10(a) and (b):
+
+Rule 10. Form of Pleadings
+(a) Caption; Names of Parties.
+Every pleading must have a caption with the court's name, a
+title, a file number, and a Rule 7(a) designation. The title of
+the complaint must name all the parties; the title of other
+pleadings, after naming the first party on each side, may refer
+generally to other parties.
+(b) Paragraphs; Separate Statements.
+A party must state its claims or defenses in numbered
+paragraphs, each limited as far as practicable to a single set of
+circumstances. A later pleading may refer by number to a
+paragraph in an earlier pleading. If doing so would promote
+clarity, each claim founded on a separate transaction or
+occurrence — and each defense other than a denial — must
+be stated in a separate count or defense.
+Recently, the Supreme Court has issued two very important
+and controversial decisions concerning Rule 8(a)(2). These
+cases may have changed the standards substantially. The first
+of these cases was Bell Atlantic Corp. v. Twombly.
+
+Bell Atlantic Corp. v. Twombly
+550 U.S. 544 (2007)
+JUSTICE SOUTER delivered the opinion of the Court.
+Liability under §1 of the Sherman Act, requires a contract, combination, or
+conspiracy, in restraint of trade or commerce. The question in this putative
+
+15
+
+class action is whether a §1 complaint can survive a motion to dismiss when
+it alleges that major telecommunications providers engaged in certain parallel
+conduct unfavorable to competition, absent some factual context suggesting
+agreement, as distinct from identical, independent action. We hold that such
+a complaint should be dismissed.
+I
+The upshot of the 1984 divestiture of the American Telephone & Telegraph
+Company’s (AT&T) local telephone business was a system of regional service
+monopolies (variously called “Regional Bell Operating Companies,” “Baby
+Bells,” or “Incumbent Local Exchange Carriers” (ILECs)), and a separate,
+competitive market for long-distance service from which the ILECs were
+excluded. More than a decade later, Congress withdrew approval of the
+ILECs’ monopolies by enacting the Telecommunications Act of 1996, which
+fundamentally restructured local telephone markets and subjected ILECs to a
+host of duties intended to facilitate market entry. In recompense, the 1996
+Act set conditions for authorizing ILECs to enter the long-distance market.
+Central to the new scheme was each ILEC’s obligation to share its network
+with competitors, which came to be known as “competitive local exchange
+carriers” (CLECs). A CLEC could make use of an ILEC’s network in any of
+three ways: by (1) purchasing local telephone services at wholesale rates for
+resale to end users, (2) leasing elements of the ILEC’s network on an
+unbundled basis, or (3) interconnecting its own facilities with the ILEC’s
+network. Owing to the considerable expense and effort required to make
+unbundled network elements available to rivals at wholesale prices, the
+ILECs vigorously litigated the scope of the sharing obligation imposed by the
+1996 Act, with the result that the Federal Communications Commission
+(FCC) three times revised its regulations to narrow the range of network
+elements to be shared with the CLECs.
+Respondents William Twombly and Lawrence Marcus (hereinafter plaintiffs)
+represent a putative class consisting of all subscribers of local telephone
+and/or high speed internet services from February 8, 1996 to present. In this
+
+16
+
+action against petitioners, a group of ILECs, plaintiffs seek treble damages
+and declaratory and injunctive relief for claimed violations of §1 of the
+Sherman Act, which prohibits “[e]very contract, combination in the form of
+trust or otherwise, or conspiracy, in restraint of trade or commerce among
+the several States, or with foreign nations.”
+The complaint alleges that the ILECs conspired to restrain trade in two ways,
+each supposedly inflating charges for local telephone and high-speed Internet
+services. Plaintiffs say, first, that the ILECs “engaged in parallel conduct” in
+their respective service areas to inhibit the growth of upstart CLECs. Their
+actions allegedly included making unfair agreements with the CLECs for
+access to ILEC networks, providing inferior connections to the networks,
+overcharging, and billing in ways designed to sabotage the CLECs’ relations
+with their own customers. According to the complaint, the ILECs’
+“compelling common motivation” to thwart the CLECs’ competitive efforts
+naturally led them to form a conspiracy; “had any one ILEC not sought to
+prevent CLECs from competing effectively, the resulting greater competitive
+inroads into that ILEC’s territory would have revealed the degree to which
+competitive entry by CLECs would have been successful in the other
+territories in the absence of such conduct.”
+Second, the complaint charges agreements by the ILECs to refrain from
+competing against one another. These are to be inferred from the ILECs’
+common failure “meaningfully to pursue attractive business opportunities” in
+contiguous markets where they possessed “substantial competitive
+advantages,” and from a statement of Richard Notebaert, chief executive
+officer (CEO) of the ILEC Qwest, that competing in the territory of another
+ILEC “‘might be a good way to turn a quick dollar but that doesn’t make it
+right.’”
+The complaint couches its ultimate allegations this way:
+“In the absence of any meaningful competition between the ILECs in one
+another’s markets, and in light of the parallel course of conduct that each
+engaged in to prevent competition from CLECs within their respective local
+
+17
+
+telephone and/or high speed internet services markets and the other facts
+and market circumstances alleged above, Plaintiffs allege upon information
+and belief that the ILECs have entered into a contract, combination or
+conspiracy to prevent competitive entry in their respective local telephone
+and/or high speed internet services markets and have agreed not to compete
+with one another and otherwise allocated customers and markets to one
+another.”
+The United States District Court for the Southern District of New York
+dismissed the complaint for failure to state a claim upon which relief can be
+granted. The District Court acknowledged that “plaintiffs may allege a
+conspiracy by citing instances of parallel business behavior that suggest an
+agreement,” but emphasized that “while circumstantial evidence of
+consciously parallel behavior may have made heavy inroads into the
+traditional judicial attitude toward conspiracy, ‘conscious parallelism’ has not
+yet read conspiracy out of the Sherman Act entirely.” Thus, the District
+Court understood that allegations of parallel business conduct, taken alone,
+do not state a claim under §1; plaintiffs must allege additional facts that tend
+to exclude independent self-interested conduct as an explanation for
+defendants’ parallel behavior.
+The Court of Appeals for the Second Circuit reversed, holding that the
+District Court tested the complaint by the wrong standard. It held that “plus
+factors are not required to be pleaded to permit an antitrust claim based on
+parallel conduct to survive dismissal.” Although the Court of Appeals took
+the view that plaintiffs must plead facts that “include conspiracy among the
+realm of plausible possibilities in order to survive a motion to dismiss,” it
+then said that “to rule that allegations of parallel anticompetitive conduct fail
+to support a plausible conspiracy claim, a court would have to conclude that
+there is no set of facts that would permit a plaintiff to demonstrate that the
+particular parallelism asserted was the product of collusion rather than
+coincidence.”
+
+18
+
+We granted certiorari to address the proper standard for pleading an antitrust
+conspiracy through allegations of parallel conduct, and now reverse.
+II
+A
+Because §1 of the Sherman Act does not prohibit all unreasonable restraints
+of trade but only restraints effected by a contract, combination, or
+conspiracy, the crucial question is whether the challenged anticompetitive
+conduct stems from independent decision or from an agreement, tacit or
+express. While a showing of parallel business behavior is admissible
+circumstantial evidence from which the fact finder may infer agreement, it
+falls short of conclusively establishing agreement or itself constituting a
+Sherman Act offense. Even conscious parallelism, a common reaction of
+firms in a concentrated market that recognize their shared economic interests
+and their interdependence with respect to price and output decisions is not in
+itself unlawful.
+B
+This case presents the question of what a plaintiff must plead in order to
+state a claim under §1 of the Sherman Act. Federal Rule of Civil Procedure
+8(a)(2) requires only “a short and plain statement of the claim showing that
+the pleader is entitled to relief,” in order to “give the defendant fair notice of
+what the … claim is and the grounds upon which it rests,” Conley v. Gibson,
+355 U. S. 41, 47 (1957). [But a] plaintiff’s obligation to provide the grounds
+of his entitlement to relief requires more than labels and conclusions, and a
+formulaic recitation of the elements of a cause of action will not do. Factual
+allegations must be enough to raise a right to relief above the speculative
+level.
+In applying these general standards to a §1 claim, we hold that stating such a
+claim requires a complaint with enough factual matter (taken as true) to
+suggest that an agreement was made. Asking for plausible grounds to infer an
+agreement does not impose a probability requirement at the pleading stage; it
+
+19
+
+simply calls for enough fact to raise a reasonable expectation that discovery
+will reveal evidence of illegal agreement. And, of course, a well-pleaded
+complaint may proceed even if it strikes a savvy judge that actual proof of
+those facts is improbable, and “that a recovery is very remote and unlikely.”
+In identifying facts that are suggestive enough to render a §1 conspiracy
+plausible, we have the benefit of the prior rulings and considered views of
+leading commentators that lawful parallel conduct fails to bespeak unlawful
+agreement. It makes sense to say, therefore, that an allegation of parallel
+conduct and a bare assertion of conspiracy will not suffice. Without more,
+parallel conduct does not suggest conspiracy, and a conclusory allegation of
+agreement at some unidentified point does not supply facts adequate to show
+illegality. Hence, when allegations of parallel conduct are set out in order to
+make a §1 claim, they must be placed in a context that raises a suggestion of a
+preceding agreement, not merely parallel conduct that could just as well be
+independent action.
+The need at the pleading stage for allegations plausibly suggesting (not
+merely consistent with) agreement reflects the threshold requirement of Rule
+8(a)(2) that the “plain statement” possess enough heft to show that the
+pleader is entitled to relief. A statement of parallel conduct, even conduct
+consciously undertaken, needs some setting suggesting the agreement
+necessary to make out a §1 claim; without that further circumstance pointing
+toward a meeting of the minds, an account of a defendant’s commercial
+efforts stays in neutral territory. An allegation of parallel conduct is thus
+much like a naked assertion of conspiracy in a §1 complaint: it gets the
+complaint close to stating a claim, but without some further factual
+enhancement it stops short of the line between possibility and plausibility of
+entitlement to relief.
+[I]t is one thing to be cautious before dismissing an antitrust complaint in
+advance of discovery, but quite another to forget that proceeding to antitrust
+discovery can be expensive. A district court must retain the power to insist
+upon some specificity in pleading before allowing a potentially massive
+
+20
+
+factual controversy to proceed.” See also Car Carriers, Inc. v. Ford Motor
+Co., 745 F. 2d 1101, 1106 (CA7 1984) (“[T]he costs of modern federal
+antitrust litigation and the increasing caseload of the federal courts counsel
+against sending the parties into discovery when there is no reasonable
+likelihood that the plaintiffs can construct a claim from the events related in
+the complaint”); Note, Modeling the Effect of One-Way Fee Shifting on
+Discovery Abuse in Private Antitrust Litigation, 78 N. Y. U. L. Rev. 1887,
+1898–1899 (2003) (discussing the unusually high cost of discovery in antitrust
+cases); Manual for Complex Litigation, Fourth, §30, p. 519 (2004)
+(describing extensive scope of discovery in antitrust cases); Memorandum
+from Paul V. Niemeyer, Chair, Advisory Committee on Civil Rules, to Hon.
+Anthony J. Scirica, Chair, Committee on Rules of Practice and Procedure
+(May 11, 1999), 192 F. R. D. 354, 357 (2000) (reporting that discovery
+accounts for as much as 90 percent of litigation costs when discovery is
+actively employed). That potential expense is obvious enough in the present
+case: plaintiffs represent a putative class of at least 90 percent of all
+subscribers to local telephone or high-speed Internet service in the
+continental United States, in an action against America’s largest
+telecommunications firms (with many thousands of employees generating
+reams and gigabytes of business records) for unspecified (if any) instances of
+antitrust violations that allegedly occurred over a period of seven years.
+It is no answer to say that a claim just shy of a plausible entitlement to relief
+can, if groundless, be weeded out early in the discovery process through
+careful case management, given the common lament that the success of
+judicial supervision in checking discovery abuse has been on the modest side.
+And it is self-evident that the problem of discovery abuse cannot be solved
+by careful scrutiny of evidence at the summary judgment stage, much less
+lucid instructions to juries; the threat of discovery expense will push costconscious defendants to settle even anemic cases before reaching those
+proceedings. Probably, then, it is only by taking care to require allegations
+that reach the level suggesting conspiracy that we can hope to avoid the
+potentially enormous expense of discovery in cases with no reasonably
+
+21
+
+founded hope that the discovery process will reveal relevant evidence to
+support a §1 claim.
+Plaintiffs’ main argument against the plausibility standard at the pleading
+stage is its ostensible conflict with an early statement of ours construing Rule
+8. Justice Black’s opinion for the Court in Conley v. Gibson spoke not only
+of the need for fair notice of the grounds for entitlement to relief but of the
+accepted rule that a complaint should not be dismissed for failure to state a
+claim unless it appears beyond doubt that the plaintiff can prove no set of
+facts in support of his claim which would entitle him to relief. This “no set of
+facts” language can be read in isolation as saying that any statement revealing
+the theory of the claim will suffice unless its factual impossibility may be
+shown from the face of the pleadings; and the Court of Appeals appears to
+have read Conley in some such way when formulating its understanding of
+the proper pleading standard.
+On such a focused and literal reading of Conley’s “no set of facts,” a wholly
+conclusory statement of claim would survive a motion to dismiss whenever
+the pleadings left open the possibility that a plaintiff might later establish
+some set of undisclosed facts to support recovery. So here, the Court of
+Appeals specifically found the prospect of unearthing direct evidence of
+conspiracy sufficient to preclude dismissal, even though the complaint does
+not set forth a single fact in a context that suggests an agreement. It seems
+fair to say that this approach to pleading would dispense with any showing of
+a reasonably founded hope that a plaintiff would be able to make a case.
+Seeing this, a good many judges and commentators have balked at taking the
+literal terms of the Conley passage as a pleading standard. See, e.g., Car
+Carriers, 745 F. 2d, at 1106 (“Conley has never been interpreted literally”
+and, “[i]n practice, a complaint … must contain either direct or inferential
+allegations respecting all the material elements necessary to sustain recovery
+under some viable legal theory” (internal quotation marks omitted; emphasis
+and omission in original); Ascon Properties, Inc. v. Mobil Oil Co., 866 F. 2d
+1149, 1155 (CA9 1989) (tension between Conley’s “no set of facts” language
+
+22
+
+and its acknowledgment that a plaintiff must provide the “grounds” on
+which his claim rests); O’Brien v. DiGrazia, 544 F. 2d 543, 546, n. 3 (CA1
+1976) (“[W]hen a plaintiff … supplies facts to support his claim, we do not
+think that Conley imposes a duty on the courts to conjure up unpleaded facts
+that might turn a frivolous claim of unconstitutional … action into a
+substantial one”); McGregor v. Industrial Excess Landfill, Inc., 856 F. 2d 39,
+42–43 (CA6 1988) (quoting O’Brien’s analysis); Hazard, From Whom No
+Secrets Are Hid, 76 Tex. L. Rev. 1665, 1685 (1998) (describing Conley as
+having “turned Rule 8 on its head”); Marcus, The Revival of Fact Pleading
+Under the Federal Rules of Civil Procedure, 86 Colum. L. Rev. 433, 463–465
+(1986) (noting tension between Conley and subsequent understandings of
+Rule 8).
+We could go on, but there is no need to pile up further citations to show that
+Conley’s “no set of facts” language has been questioned, criticized, and
+explained away long enough. To be fair to the Conley Court, the passage
+should be understood in light of the opinion’s preceding summary of the
+complaint’s concrete allegations, which the Court quite reasonably
+understood as amply stating a claim for relief. But the passage so often
+quoted fails to mention this understanding on the part of the Court, and after
+puzzling the profession for 50 years, this famous observation has earned its
+retirement. The phrase is best forgotten as an incomplete, negative gloss on
+an accepted pleading standard: once a claim has been stated adequately, it
+may be supported by showing any set of facts consistent with the allegations
+in the complaint. Conley, then, described the breadth of opportunity to
+prove what an adequate complaint claims, not the minimum standard of
+adequate pleading to govern a complaint’s survival.
+III
+When we look for plausibility in this complaint, we agree with the District
+Court that plaintiffs’ claim of conspiracy in restraint of trade comes up short.
+To begin with, the complaint leaves no doubt that plaintiffs rest their §1
+
+23
+
+claim on descriptions of parallel conduct and not on any independent
+allegation of actual agreement among the ILECs.
+We think that nothing contained in the complaint invests either the action or
+inaction alleged with a plausible suggestion of conspiracy. As to the ILECs’
+supposed agreement to disobey the 1996 Act and thwart the CLECs’
+attempts to compete, we agree with the District Court that nothing in the
+complaint intimates that the resistance to the upstarts was anything more
+than the natural, unilateral reaction of each ILEC intent on keeping its
+regional dominance. The 1996 Act did more than just subject the ILECs to
+competition; it obliged them to subsidize their competitors with their own
+equipment at wholesale rates. The economic incentive to resist was powerful,
+but resisting competition is routine market conduct, and even if the ILECs
+flouted the 1996 Act in all the ways the plaintiffs allege, there is no reason to
+infer that the companies had agreed among themselves to do what was only
+natural anyway; so natural, in fact, that if alleging parallel decisions to resist
+competition were enough to imply an antitrust conspiracy, pleading a §1
+violation against almost any group of competing businesses would be a sure
+thing.
+Plaintiffs say that our analysis runs counter to Swierkiewicz v. Sorema N. A.,
+which held that a complaint in an employment discrimination lawsuit need
+not contain specific facts establishing a prima facie case of discrimination
+under the framework set forth in McDonnell Douglas Corp. v. Green. As the
+District Court correctly understood, however, Swierkiewicz did not change
+the law of pleading, but simply re-emphasized that the Second Circuit’s use
+of a heightened pleading standard for Title VII cases was contrary to the
+Federal Rules’ structure of liberal pleading requirements. Even though
+Swierkiewicz’s pleadings detailed the events leading to his termination,
+provided relevant dates, and included the ages and nationalities of at least
+some of the relevant persons involved with his termination, the Court of
+Appeals dismissed his complaint for failing to allege certain additional facts
+that Swierkiewicz would need at the trial stage to support his claim in the
+
+24
+
+absence of direct evidence of discrimination. We reversed on the ground that
+the Court of Appeals had impermissibly applied what amounted to a
+heightened pleading requirement by insisting that Swierkiewicz allege specific
+facts beyond those necessary to state his claim and the grounds showing
+entitlement to relief.
+Here, in contrast, we do not require heightened fact pleading of specifics, but
+only enough facts to state a claim to relief that is plausible on its face.
+Because the plaintiffs here have not nudged their claims across the line from
+conceivable to plausible, their complaint must be dismissed.
+The judgment of the Court of Appeals for the Second Circuit is reversed,
+and the cause is remanded for further proceedings consistent with this
+opinion.
+It is so ordered.
+JUSTICE STEVENS, with whom JUSTICE GINSBURG joins except as to Part IV,
+dissenting.
+In the first paragraph of its 24-page opinion the Court states that the
+question to be decided is whether allegations that “major
+telecommunications providers engaged in certain parallel conduct
+unfavorable to competition” suffice to state a violation of §1 of the Sherman
+Act. The answer to that question has been settled for more than 50 years. If
+that were indeed the issue, a summary reversal would adequately resolve this
+case. As [we have previously] held, parallel conduct is circumstantial evidence
+admissible on the issue of conspiracy, but it is not itself illegal.
+Thus, this is a case in which there is no dispute about the substantive law. If
+the defendants acted independently, their conduct was perfectly lawful. If,
+however, that conduct is the product of a horizontal agreement among
+potential competitors, it was unlawful. Plaintiffs have alleged such an
+agreement and, because the complaint was dismissed in advance of answer,
+the allegation has not even been denied. Why, then, does the case not
+
+25
+
+proceed? Does a judicial opinion that the charge is not “plausible” provide a
+legally acceptable reason for dismissing the complaint? I think not.
+Respondents’ amended complaint describes a variety of circumstantial
+evidence and makes the straightforward allegation that petitioners “entered
+into a contract, combination or conspiracy to prevent competitive entry in
+their respective local telephone and/or high speed internet services markets
+and have agreed not to compete with one another and otherwise allocated
+customers and markets to one another.”
+The complaint explains that, contrary to Congress’ expectation when it
+enacted the 1996 Telecommunications Act, and consistent with their own
+economic self-interests, petitioner Incumbent Local Exchange Carriers
+(ILECs) have assiduously avoided infringing upon each other’s markets and
+have refused to permit nonincumbent competitors to access their networks.
+The complaint quotes Richard Notebaert, the former CEO of one such
+ILEC, as saying that competing in a neighboring ILEC’s territory “might be a
+good way to turn a quick dollar but that doesn’t make it right.” Moreover,
+respondents allege that petitioners “communicate amongst themselves”
+through numerous industry associations. In sum, respondents allege that
+petitioners entered into an agreement that has long been recognized as a
+classic per se violation of the Sherman Act.
+Under rules of procedure that have been well settled, a judge ruling on a
+defendant’s motion to dismiss a complaint, must accept as true all of the
+factual allegations contained in the complaint. But instead of requiring
+knowledgeable executives such as Notebaert to respond to these allegations
+by way of sworn depositions or other limited discovery—and indeed without
+so much as requiring petitioners to file an answer denying that they entered
+into any agreement—the majority permits immediate dismissal based on the
+assurances of company lawyers that nothing untoward was afoot. The Court
+embraces the argument of those lawyers that there is no reason to infer that
+the companies had agreed among themselves to do what was only natural
+anyway; that there was just no need for joint encouragement to resist the
+
+26
+
+1996 Act; and that the natural explanation for the noncompetition alleged is
+that the former Government-sanctioned monopolists were sitting tight,
+expecting their neighbors to do the same thing.
+The Court and petitioners’ legal team are no doubt correct that the parallel
+conduct alleged is consistent with the absence of any contract, combination,
+or conspiracy. But that conduct is also entirely consistent with the presence
+of the illegal agreement alleged in the complaint. And the charge that
+petitioners “agreed not to compete with one another” is an allegation
+describing unlawful conduct. As such, the Federal Rules of Civil Procedure,
+our longstanding precedent, and sound practice mandate that the District
+Court at least require some sort of response from petitioners before
+dismissing the case.
+Two practical concerns presumably explain the Court’s dramatic departure
+from settled procedural law. Private antitrust litigation can be enormously
+expensive, and there is a risk that jurors may mistakenly conclude that
+evidence of parallel conduct has proved that the parties acted pursuant to an
+agreement when they in fact merely made similar independent decisions.
+Those concerns merit careful case management, including strict control of
+discovery, careful scrutiny of evidence at the summary judgment stage, and
+lucid instructions to juries; they do not, however, justify the dismissal of an
+adequately pleaded complaint without even requiring the defendants to file
+answers denying a charge that they in fact engaged in collective
+decisionmaking. More importantly, they do not justify an interpretation of
+Federal Rule of Civil Procedure 12(b)(6) that seems to be driven by the
+majority’s appraisal of the plausibility of the ultimate factual allegation rather
+than its legal sufficiency.
+I
+Rule 8(a)(2) of the Federal Rules requires that a complaint contain “a short
+and plain statement of the claim showing that the pleader is entitled to
+relief.” The rule did not come about by happenstance and its language is not
+inadvertent. The English experience with Byzantine special pleading rules—
+
+27
+
+illustrated by the hypertechnical Hilary rules of 18341—made obvious the
+appeal of a pleading standard that was easy for the common litigant to
+understand and sufficed to put the defendant on notice as to the nature of
+the claim against him and the relief sought. Stateside, David Dudley Field
+developed the highly influential New York Code of 1848, which required “[a]
+statement of the facts constituting the cause of action, in ordinary and
+concise language, without repetition, and in such a manner as to enable a
+person of common understanding to know what is intended.” Substantially
+similar language appeared in the Federal Equity Rules adopted in 1912.
+A difficulty arose, however, in that the Field Code and its progeny required a
+plaintiff to plead “facts” rather than “conclusions,” a distinction that proved
+far easier to say than to apply. As commentators have noted, it is virtually
+impossible logically to distinguish among ultimate facts, evidence,’ and
+conclusions. Essentially any allegation in a pleading must be an assertion that
+certain occurrences took place. The pleading spectrum, passing from
+evidence through ultimate facts to conclusions, is largely a continuum varying
+only in the degree of particularity with which the occurrences are described.
+Under the relaxed pleading standards of the Federal Rules, the idea was not
+to keep litigants out of court but rather to keep them in. The merits of a
+claim would be sorted out during a flexible pretrial process and, as
+appropriate, through the crucible of trial.
+II
+It is in the context of this history that Conley v. Gibson must be understood.
+The Conley plaintiffs were black railroad workers who alleged that their
+union local had refused to protect them against discriminatory discharges, in
+violation of the National Railway Labor Act. The union sought to dismiss the
+complaint on the ground that its general allegations of discriminatory
+treatment by the defendants lacked sufficient specificity. Writing for a
+unanimous Court, Justice Black rejected the union’s claim as foreclosed by
+the language of Rule 8. In the course of doing so, he articulated the
+formulation the Court rejects today: “In appraising the sufficiency of the
+
+28
+
+complaint we follow, of course, the accepted rule that a complaint should not
+be dismissed for failure to state a claim unless it appears beyond doubt that
+the plaintiff can prove no set of facts in support of his claim which would
+entitle him to relief.”
+Consistent with the design of the Federal Rules, Conley’s “no set of facts”
+formulation permits outright dismissal only when proceeding to discovery or
+beyond would be futile. Once it is clear that a plaintiff has stated a claim that,
+if true, would entitle him to relief, matters of proof are appropriately
+relegated to other stages of the trial process. Today, however, in its
+explanation of a decision to dismiss a complaint that it regards as a fishing
+expedition, the Court scraps Conley’s “no set of facts ” language. Concluding
+that the phrase has been “questioned, criticized, and explained away long
+enough,” the Court dismisses it as careless composition.
+If Conley’s “no set of facts” language is to be interred, let it not be without a
+eulogy. That exact language, which the majority says has “puzzl[ed] the
+profession for 50 years,” has been cited as authority in a dozen opinions of
+this Court and four separate writings. In not one of those 16 opinions was
+the language “questioned,” “criticized,” or “explained away.” Indeed, today’s
+opinion is the first by any Member of this Court to express any doubt as to
+the adequacy of the Conley formulation. Taking their cues from the federal
+courts, 26 States and the District of Columbia utilize as their standard for
+dismissal of a complaint the very language the majority repudiates: whether it
+appears “beyond doubt” that “no set of facts” in support of the claim would
+entitle the plaintiff to relief.
+Petitioners have not requested that the Conley formulation be retired, nor
+have any of the six amici who filed briefs in support of petitioners. I would
+not rewrite the Nation’s civil procedure textbooks and call into doubt the
+pleading rules of most of its States without far more informed deliberation as
+to the costs of doing so. Congress has established a process—a rulemaking
+process—for revisions of that order.
+
+29
+
+Most recently, in Swierkiewicz, we were faced with a case more similar to the
+present one than the majority will allow. In discrimination cases, our
+precedents require a plaintiff at the summary judgment stage to produce
+either direct evidence of discrimination or, if the claim is based primarily on
+circumstantial evidence, to meet the shifting evidentiary burdens imposed
+under the framework articulated in McDonnell Douglas Corp. v. Green.
+Swierkiewicz alleged that he had been terminated on account of national
+origin in violation of Title VII of the Civil Rights Act of 1964. The Second
+Circuit dismissed the suit on the pleadings because he had not pleaded a
+prima facie case of discrimination under the McDonnell Douglas standard.
+We reversed [unanimously], holding that “under a notice pleading system, it
+is not appropriate to require a plaintiff to plead facts establishing a prima
+facie case because the McDonnell Douglas framework does not apply in
+every employment discrimination case.” We also observed that Rule 8(a)(2)
+does not contemplate a court’s passing on the merits of a litigant’s claim at
+the pleading stage. Rather, the “simplified notice pleading standard” of the
+Federal Rules “relies on liberal discovery rules and summary judgment
+motions to define disputed facts and issues and to dispose of unmeritorious
+claims.”
+The majority rejects the complaint in this case because—in light of the fact
+that the parallel conduct alleged is consistent with ordinary market
+behavior—the claimed conspiracy is “conceivable” but not “plausible.” I
+have my doubts about the majority’s assessment of the plausibility of this
+alleged conspiracy. But even if the majority’s speculation is correct, its
+“plausibility” standard is irreconcilable with Rule 8 and with our governing
+precedents. As we made clear in Swierkiewicz, fear of the burdens of
+litigation does not justify factual conclusions supported only by lawyers’
+arguments rather than sworn denials or admissible evidence.
+In this “Big Case,” the Court succumbs to the temptation that previous
+Courts have steadfastly resisted. While the majority assures us that it is not
+
+30
+
+applying any heightened pleading standard, I have a difficult time
+understanding its opinion any other way.
+Accordingly, I respectfully dissent.
+
+Questions
+1. Who is correct, the majority or the dissent, on the question of whether the
+standard announced in Twombly is consistent with Conley and other cases?
+Consider: if the Swierkiewicz case were decided today, post-Twombly, would
+it come out the same or differently? Why? Put otherwise, in the wake of
+Twombly, what would a plaintiff have to plead in a discrimination case in
+order to state a claim?
+2. What does “plausible” mean? How would a court determine whether a
+complaint is plausible?
+3. The majority opinion’s discussion and rejection of the “no set of facts”
+language from Conley cites almost exclusively to lower court opinions and
+the analysis of commentators, rather than on other Supreme Court opinions.
+Why might this be so?
+4. What does the majority identify as the dangers of allowing a case like
+Twombly to proceed in the district court? In his dissent, how does Justice
+Stevens argue that such dangers should be addressed?
+5. What does Justice Stevens argue the purpose of Rule 8(a) is?
+After Twombly, there was a great deal of disagreement among commentators and
+lower courts as to its implications. The following case was the next opportunity for
+the Supreme Court to address pleading and Rule 8(a)(2).
+
+Ashcroft v. Iqbal
+556 U.S 662 (2009)
+JUSTICE KENNEDY delivered the opinion of the Court.
+
+31
+
+Respondent Javaid Iqbal is a citizen of Pakistan and a Muslim. In the wake of
+the September 11, 2001, terrorist attacks he was arrested in the United States
+on criminal charges and detained by federal officials. Respondent claims he
+was deprived of various constitutional protections while in federal custody.
+To redress the alleged deprivations, respondent filed a complaint against
+numerous federal officials, including John Ashcroft, the former Attorney
+General of the United States, and Robert Mueller, the Director of the Federal
+Bureau of Investigation (FBI). Ashcroft and Mueller are the [only] petitioners
+in the case now before us. As to these two petitioners, the complaint alleges
+that they adopted an unconstitutional policy that subjected respondent to
+harsh conditions of confinement on account of his race, religion, or national
+origin.
+In the District Court petitioners raised the defense of qualified immunity and
+moved to dismiss the suit, contending the complaint was not sufficient to
+state a claim against them. The District Court denied the motion to dismiss,
+concluding the complaint was sufficient to state a claim despite petitioners’
+official status at the times in question. Petitioners brought an interlocutory
+appeal in the Court of Appeals for the Second Circuit. The court affirmed
+the District Court’s decision.
+Respondent’s account of his prison ordeal could, if proved, demonstrate
+unconstitutional misconduct by some governmental actors. But the
+allegations and pleadings with respect to these actors are not before us here.
+This case instead turns on a narrower question: Did respondent, as the
+plaintiff in the District Court, plead factual matter that, if taken as true, states
+a claim that petitioners deprived him of his clearly established constitutional
+rights. We hold respondent’s pleadings are insufficient.
+I
+Following the 2001 attacks, the FBI and other entities within the Department
+of Justice began an investigation of vast reach to identify the assailants and
+prevent them from attacking anew.
+
+32
+
+In the ensuing months the FBI questioned more than 1,000 people with
+suspected links to the attacks in particular or to terrorism in general. Of
+those individuals, some 762 were held on immigration charges; and a 184member subset of that group was deemed to be “of ‘high interest’” to the
+investigation. The high-interest detainees were held under restrictive
+conditions designed to prevent them from communicating with the general
+prison population or the outside world.
+Respondent was one of the [high interest] detainees. According to his
+complaint, in November 2001 agents of the FBI and Immigration and
+Naturalization Service arrested him on charges of fraud in relation to
+identification documents and conspiracy to defraud the United States.
+Pending trial for those crimes, respondent was housed at the Metropolitan
+Detention Center (MDC) in Brooklyn, New York. [He] was placed in a
+section of the MDC known as the Administrative Maximum Special Housing
+Unit (ADMAX SHU [in 2002]]). As the facility’s name indicates, the
+ADMAX SHU incorporates the maximum security conditions allowable
+under Federal Bureau of Prison regulations. ADMAX SHU detainees were
+kept in lockdown 23 hours a day, spending the remaining hour outside their
+cells in handcuffs and leg irons accompanied by a four-officer escort.
+Respondent pleaded guilty to the criminal charges, served a term of
+imprisonment, and was removed to his native Pakistan. He then filed a
+[claim] in the United States District Court for the Eastern District of New
+York against 34 current and former federal officials and 19 “John Doe”
+federal corrections officers. The defendants range from the correctional
+officers who had day-to-day contact with respondent during the term of his
+confinement, to the wardens of the MDC facility, all the way to petitioners—
+officials who were at the highest level of the federal law enforcement
+hierarchy.
+The 21-cause-of-action complaint does not challenge respondent’s arrest or
+his confinement in the MDC’s general prison population. Rather, it
+concentrates on his treatment while confined to the ADMAX SHU. The
+
+33
+
+complaint sets forth various claims against defendants who are not before us.
+For instance, the complaint alleges that respondent's jailors “kicked him in
+the stomach, punched him in the face, and dragged him across” his cell
+without justification; subjected him to serial strip and body-cavity searches
+when he posed no safety risk to himself or others; and refused to let him and
+other Muslims pray because there would be “[n]o prayers for terrorists.”
+The allegations against petitioners [Ashcraft and Mueller] are the only ones
+relevant here. The complaint contends that petitioners designated respondent
+a person of high interest on account of his race, religion, or national origin,
+in contravention of the First and Fifth Amendments to the Constitution. The
+complaint alleges that “the [FBI], under the direction of Defendant Mueller,
+arrested and detained thousands of Arab Muslim men ... as part of its
+investigation of the events of September 11.” It further alleges that “[t]he
+policy of holding post-September-11th detainees in highly restrictive
+conditions of confinement until they were ‘cleared’ by the FBI was approved
+by Defendants Ashcroft and Mueller in discussions in the weeks after
+September 11, 2001.” Lastly, the complaint posits that petitioners “each
+knew of, condoned, and willfully and maliciously agreed to subject”
+respondent to harsh conditions of confinement “as a matter of policy, solely
+on account of [his] religion, race, and/or national origin and for no legitimate
+penological interest.” The pleading names Ashcroft as the “principal
+architect” of the policy, and identifies Mueller as “instrumental in [its]
+adoption, promulgation, and implementation.”
+Petitioners moved to dismiss the complaint for failure to state sufficient
+allegations to show their own involvement in clearly established
+unconstitutional conduct. The District Court denied their motion. Accepting
+all of the allegations in respondent's complaint as true, the court held that “it
+cannot be said that there [is] no set of facts on which [respondent] would be
+entitled to relief as against” petitioners[,] relying on Conley v. Gibson.
+[P]etitioners filed an interlocutory appeal in the United States Court of
+Appeals for the Second Circuit. While that appeal was pending, this Court
+
+34
+
+decided Bell Atlantic Corp. v. Twombly, which discussed the standard for
+evaluating whether a complaint is sufficient to survive a motion to dismiss.
+The Court of Appeals considered Twombly’s applicability to this case.
+Acknowledging that Twombly retired the Conley no-set-of-facts test relied
+upon by the District Court, the Court of Appeals’ opinion discussed at length
+how to apply this Court’s “standard for assessing the adequacy of pleadings.”
+It concluded that Twombly called for a “flexible ‘plausibility standard,’ which
+obliges a pleader to amplify a claim with some factual allegations in those
+contexts where such amplification is needed to render the claim plausible.”
+The court found that petitioners’ appeal did not present one of “those
+contexts” requiring amplification. As a consequence, it held respondent’s
+pleading adequate to allege petitioners’ personal involvement in
+discriminatory decisions which, if true, violated clearly established
+constitutional law.
+We granted certiorari, and now reverse.
+IV
+A
+We turn to respondent’s complaint. Under Federal Rule of Civil Procedure
+8(a)(2), a pleading must contain a “short and plain statement of the claim
+showing that the pleader is entitled to relief.” As the Court held in Twombly,
+the pleading standard Rule 8 announces does not require “detailed factual
+allegations,” but it demands more than an unadorned, the-defendantunlawfully-harmed-me accusation. A pleading that offers “labels and
+conclusions” or “a formulaic recitation of the elements of a cause of action
+will not do.” Nor does a complaint suffice if it tenders “naked assertion[s]”
+devoid of “further factual enhancement.”
+To survive a motion to dismiss, a complaint must contain sufficient factual
+matter, accepted as true, to “state a claim to relief that is plausible on its
+face.” A claim has facial plausibility when the plaintiff pleads factual content
+that allows the court to draw the reasonable inference that the defendant is
+
+35
+
+liable for the misconduct alleged. The plausibility standard is not akin to a
+“probability requirement,” but it asks for more than a sheer possibility that a
+defendant has acted unlawfully. Where a complaint pleads facts that are
+“merely consistent with” a defendant's liability, it “stops short of the line
+between possibility and plausibility of entitlement to relief.”
+Two working principles underlie our decision in Twombly. First, the tenet
+that a court must accept as true all of the allegations contained in a complaint
+is inapplicable to legal conclusions. Threadbare recitals of the elements of a
+cause of action, supported by mere conclusory statements, do not suffice.
+Rule 8 marks a notable and generous departure from the hyper-technical,
+code-pleading regime of a prior era, but it does not unlock the doors of
+discovery for a plaintiff armed with nothing more than conclusions. Second,
+only a complaint that states a plausible claim for relief survives a motion to
+dismiss. Determining whether a complaint states a plausible claim for relief
+will, as the Court of Appeals observed, be a context-specific task that
+requires the reviewing court to draw on its judicial experience and common
+sense. But where the well-pleaded facts do not permit the court to infer more
+than the mere possibility of misconduct, the complaint has alleged-but it has
+not “show[n]”—“that the pleader is entitled to relief.”
+In keeping with these principles a court considering a motion to dismiss can
+choose to begin by identifying pleadings that, because they are no more than
+conclusions, are not entitled to the assumption of truth. While legal
+conclusions can provide the framework of a complaint, they must be
+supported by factual allegations. When there are well-pleaded factual
+allegations, a court should assume their veracity and then determine whether
+they plausibly give rise to an entitlement to relief.
+Our decision in Twombly illustrates the [above] two-pronged approach.
+There, we considered the sufficiency of a complaint alleging that incumbent
+telecommunications providers had entered an agreement not to compete and
+to forestall competitive entry, in violation of the Sherman Act, 15 U.S.C. § 1.
+Recognizing that § 1 enjoins only anticompetitive conduct “effected by a
+
+36
+
+contract, combination, or conspiracy,” the plaintiffs in Twombly flatly
+pleaded that the defendants “ha[d] entered into a contract, combination or
+conspiracy to prevent competitive entry ... and ha[d] agreed not to compete
+with one another.” The complaint also alleged that the defendants’ “parallel
+course of conduct ... to prevent competition” and inflate prices was
+indicative of the unlawful agreement alleged.
+The Court held the Twombly plaintiffs’ complaint deficient under Rule 8. In
+doing so it first noted that the plaintiffs’ assertion of an unlawful agreement
+was a “ ‘legal conclusion’ ” and, as such, was not entitled to the assumption
+of truth. Had the Court simply credited the allegation of a conspiracy, the
+plaintiffs would have stated a claim for relief and been entitled to proceed
+perforce. The Court next addressed the “nub” of the plaintiffs’ complaint-the
+well-pleaded, nonconclusory factual allegation of parallel behavior—to
+determine whether it gave rise to a “plausible suggestion of conspiracy.”
+Acknowledging that parallel conduct was consistent with an unlawful
+agreement, the Court nevertheless concluded that it did not plausibly suggest
+an illicit accord because it was not only compatible with, but indeed was
+more likely explained by, lawful, unchoreographed free-market behavior.
+Because the well-pleaded fact of parallel conduct, accepted as true, did not
+plausibly suggest an unlawful agreement, the Court held the plaintiffs’
+complaint must be dismissed.
+B
+Under Twombly’s construction of Rule 8, we conclude that respondent
+[Iqbal]’s complaint has not “nudged [his] claims” of invidious discrimination
+“across the line from conceivable to plausible.”
+We begin our analysis by identifying the allegations in the complaint that are
+not entitled to the assumption of truth. Respondent pleads that petitioners
+“knew of, condoned, and willfully and maliciously agreed to subject [him]” to
+harsh conditions of confinement “as a matter of policy, solely on account of
+[his] religion, race, and/or national origin and for no legitimate penological
+interest.” The complaint alleges that Ashcroft was the “principal architect” of
+
+37
+
+this invidious policy, and that Mueller was “instrumental” in adopting and
+executing it. These bare assertions, much like the pleading of [an antitrust]
+conspiracy in Twombly, amount to nothing more than a “formulaic
+recitation of the elements” of a constitutional discrimination claim, namely,
+that petitioners adopted a policy [intentionally] “ ‘because of,’ not merely ‘in
+spite of,’ its adverse effects upon an identifiable group.” As such, the
+allegations are conclusory and not entitled to be assumed true. To be clear,
+we do not reject these bald allegations on the ground that they are unrealistic
+or nonsensical. It is the conclusory nature of respondent’s allegations, rather
+than their extravagantly fanciful nature, that disentitles them to the
+presumption of truth.
+We next consider the factual allegations in respondent’s complaint to
+determine if they plausibly suggest an entitlement to relief. The complaint
+alleges that “the [FBI], under the direction of Defendant Mueller, arrested
+and detained thousands of Arab Muslim men ... as part of its investigation of
+the events of September 11.” It further claims that “[t]he policy of holding
+post-September-11th detainees in highly restrictive conditions of
+confinement until they were ‘cleared’ by the FBI was approved by
+Defendants Ashcroft and Mueller in discussions in the weeks after
+September 11, 2001.” Taken as true, these allegations are consistent with
+petitioners’ purposefully designating detainees “of high interest” because of
+their race, religion, or national origin. But given more likely explanations,
+they do not plausibly establish this purpose.
+The September 11 attacks were perpetrated by 19 Arab Muslim hijackers
+who counted themselves members in good standing of al Qaeda, an Islamic
+fundamentalist group. Al Qaeda was headed by another Arab Muslim—
+Osama bin Laden—and composed in large part of his Arab Muslim disciples.
+It should come as no surprise that a legitimate policy directing law
+enforcement to arrest and detain individuals because of their suspected link
+to the attacks would produce a disparate, incidental impact on Arab Muslims,
+even though the purpose of the policy was to target neither Arabs nor
+
+38
+
+Muslims. On the facts respondent alleges the arrests Mueller oversaw were
+likely lawful and justified by his nondiscriminatory intent to detain aliens who
+were illegally present in the United States and who had potential connections
+to those who committed terrorist acts. As between that “obvious alternative
+explanation” for the arrests, and the purposeful, invidious discrimination
+respondent asks us to infer, discrimination is not a plausible conclusion.
+But even if the complaint’s well-pleaded facts give rise to a plausible
+inference that respondent’s arrest was the result of unconstitutional
+discrimination, that inference alone would not entitle respondent to relief. It
+is important to recall that respondent's complaint challenges neither the
+constitutionality of his arrest nor his initial detention in the MDC.
+Respondent’s constitutional claims against petitioners rest solely on their
+ostensible “policy of holding post-September-11th detainees” in the
+ADMAX SHU once they were categorized as “of high interest.” To prevail
+on that theory, the complaint must contain facts plausibly showing that
+petitioners purposefully adopted a policy of classifying post-September-11
+detainees as “of high interest” because of their race, religion, or national
+origin.
+This the complaint fails to do. Though respondent alleges that various other
+defendants, who are not before us, may have labeled him a person of “of
+high interest” for impermissible reasons, his only factual allegation against
+petitioners accuses them of adopting a policy approving “restrictive
+conditions of confinement” for post-September-11 detainees until they were
+“ ‘cleared’ by the FBI.” Accepting the truth of that allegation, the complaint
+does not show, or even intimate, that petitioners purposefully housed
+detainees in the ADMAX SHU due to their race, religion, or national origin.
+All it plausibly suggests is that the Nation’s top law enforcement officers, in
+the aftermath of a devastating terrorist attack, sought to keep suspected
+terrorists in the most secure conditions available until the suspects could be
+cleared of terrorist activity. Respondent does not argue, nor can he, that such
+a motive would violate petitioners’ constitutional obligations. He would need
+
+39
+
+to allege more by way of factual content to “nudg[e]” his claim of purposeful
+discrimination “across the line from conceivable to plausible.”
+[R]espondent’s complaint does not contain any factual allegation sufficient to
+plausibly suggest petitioners' discriminatory state of mind. His pleadings thus
+do not meet the standard necessary to comply with Rule 8.
+It is important to note, however, that we express no opinion concerning the
+sufficiency of respondent’s complaint against the defendants who are not
+before us. Respondent’s account of his prison ordeal alleges serious official
+misconduct that we need not address here. Our decision is limited to the
+determination that respondent’s complaint does not entitle him to relief from
+petitioners [Ashcroft and Mueller].
+C
+Respondent offers three arguments that bear on our disposition of his case,
+but none is persuasive.
+1
+Respondent first says that our decision in Twombly should be limited to
+pleadings made in the context of an antitrust dispute. This argument is not
+supported by Twombly and is incompatible with the Federal Rules of Civil
+Procedure. Though Twombly determined the sufficiency of a complaint
+sounding in antitrust, the decision was based on our interpretation and
+application of Rule 8. That Rule in turn governs the pleading standard “in all
+civil actions and proceedings in the United States district courts.” Fed. Rule
+Civ. Proc. 1. Our decision in Twombly expounded the pleading standard for
+“all civil actions,” and it applies to antitrust and discrimination suits alike.
+2
+Respondent next implies that our construction of Rule 8 should be tempered
+where, as here, the Court of Appeals has “instructed the district court to
+cabin discovery in such a way as to preserve” petitioners' defense of qualified
+immunity “as much as possible in anticipation of a summary judgment
+
+40
+
+motion.” We have held, however, that the question presented by a motion to
+dismiss a complaint for insufficient pleadings does not turn on the controls
+placed upon the discovery process. “It is no answer to say that a claim just
+shy of a plausible entitlement to relief can, if groundless, be weeded out early
+in the discovery process through careful case management given the
+common lament that the success of judicial supervision in checking discovery
+abuse has been on the modest side.”
+We decline respondent’s invitation to relax the pleading requirements on the
+ground that the Court of Appeals promises petitioners minimally intrusive
+discovery. That promise provides especially cold comfort in this pleading
+context, where we are impelled to give real content to the concept of
+qualified immunity for high-level officials who must be neither deterred nor
+detracted from the vigorous performance of their duties. Because
+respondent’s complaint is deficient under Rule 8, he is not entitled to
+discovery, cabined [confined] or otherwise.
+3
+Respondent finally maintains that the Federal Rules expressly allow him to
+allege petitioners’ discriminatory intent “generally,” which he equates with a
+conclusory allegation (citing Fed. Rule Civ. Proc. 9 [’s inapplicable
+heightened pleading requirement]). It follows, respondent says, that his
+complaint is sufficiently well pleaded because it claims that petitioners
+discriminated against him “on account of [his] religion, race, and/or national
+origin and for no legitimate penological interest.” Were we required to accept
+this allegation as true, respondent’s complaint would survive petitioners'
+motion to dismiss. But the Federal Rules do not require courts to credit a
+complaint’s conclusory statements without reference to its factual context.
+V
+We hold that respondent’s complaint fails to plead sufficient facts to state a
+claim for purposeful and unlawful discrimination against petitioners. The
+Court of Appeals should decide in the first instance whether to remand to
+
+41
+
+the District Court so that respondent can seek leave to amend his deficient
+complaint.
+JUSTICE SOUTER, with whom JUSTICE STEVENS, JUSTICE GINSBURG,
+and JUSTICE BREYER join, dissenting.
+The majority misapplies the pleading standard under Bell Atlantic Corp. v.
+Twombly, to conclude that the complaint fails to state a claim. I respectfully
+dissent from the holding that the complaint fails to satisfy Rule 8(a)(2) of the
+Federal Rules of Civil Procedure.
+I
+A
+The District Court denied Ashcroft and Mueller’s motion to dismiss Iqbal’s
+discrimination claim, and the Court of Appeals affirmed. Ashcroft and
+Mueller asked the Court to address whether Iqbal’s allegations against them
+(which they call conclusory) were sufficient to satisfy Rule 8(a)(2) and in
+particular whether the Court of Appeals misapplied our decision in Twombly
+construing that rule.
+II
+[T]he complaint satisfies Rule 8(a)(2). Ashcroft and Mueller admit they are
+liable for their subordinates’ conduct if they “had actual knowledge of the
+assertedly discriminatory nature of the classification of suspects as being ‘of
+high interest’ and they were deliberately indifferent to that discrimination.”
+The complaint thus alleges, at a bare minimum, that Ashcroft and Mueller
+knew of and condoned the discriminatory policy their subordinates carried
+out. Actually, the complaint goes further in alleging that Ashcroft and Muller
+affirmatively acted to create the discriminatory detention policy. If these
+factual allegations are true, Ashcroft and Mueller were, at the very least,
+aware of the discriminatory policy being implemented and deliberately
+indifferent to it.
+
+42
+
+Ashcroft and Mueller argue that these allegations fail to satisfy the
+“plausibility standard” of Twombly. They contend that Iqbal’s claims are
+implausible because such high-ranking officials “tend not to be personally
+involved in the specific actions of lower-level officers down the bureaucratic
+chain of command.” But this response bespeaks a fundamental
+misunderstanding of the enquiry that Twombly demands. Twombly does not
+require a court at the motion-to-dismiss stage to consider whether the factual
+allegations are probably true. We made it clear, on the contrary, that a court
+must take the allegations as true, no matter how skeptical the court may be.
+The sole exception to this rule lies with allegations that are sufficiently
+fantastic to defy reality as we know it: claims about little green men, or the
+plaintiff’s recent trip to Pluto, or experiences in time travel. That is not what
+we have here.
+The complaint alleges that FBI officials discriminated against Iqbal solely on
+account of his race, religion, and national origin, and it alleges the knowledge
+and deliberate indifference that, by Ashcroft and Mueller’s own admission,
+are sufficient to make them liable for the illegal action. Iqbal’s complaint
+therefore contains “enough facts to state a claim to relief that is plausible on
+its face.”
+The majority says that these are “bare assertions” that, “much like the
+pleading of conspiracy in Twombly, amount to nothing more than a
+‘formulaic recitation of the elements' of a constitutional discrimination
+claim” and therefore are “not entitled to be assumed true.” The fallacy of the
+majority’s position, however, lies in looking at the relevant assertions in
+isolation. The complaint contains specific allegations that, in the aftermath of
+the September 11 attacks, the Chief of the FBI’s International Terrorism
+Operations Section and the Assistant Special Agent in Charge for the FBI’s
+New York Field Office implemented a policy that discriminated against Arab
+Muslim men, including Iqbal, solely on account of their race, religion, or
+national origin. Viewed in light of these subsidiary allegations, the allegations
+singled out by the majority as “conclusory” are no such thing. Iqbal’s claim is
+
+43
+
+not that Ashcroft and Mueller “knew of, condoned, and willfully and
+maliciously agreed to subject” him to a discriminatory practice that is left
+undefined; his allegation is that “they knew of, condoned, and willfully and
+maliciously agreed to subject” him to a particular, discrete, discriminatory
+policy detailed in the complaint. Iqbal does not say merely that Ashcroft was
+the architect of some amorphous discrimination, or that Mueller was
+instrumental in an ill-defined constitutional violation; he alleges that they
+helped to create the discriminatory policy he has described. Taking the
+complaint as a whole, it gives Ashcroft and Mueller fair notice of what the
+claim is and the grounds upon which it rests.
+JUSTICE BREYER, dissenting.
+I agree with Justice Souter and join his dissent. I write separately to point out
+that, like the Court, I believe it important to prevent unwarranted litigation
+from interfering with “the proper execution of the work of the
+Government.” But I cannot find in that need adequate justification for the
+Court’s interpretation of Bell Atlantic Corp. v. Twombly, and Federal Rule of
+Civil Procedure 8. The law, after all, provides trial courts with other legal
+weapons designed to prevent unwarranted interference. As the Second
+Circuit explained, where a Government defendant asserts a qualified
+immunity defense, a trial court, responsible for managing a case and “mindful
+of the need to vindicate the purpose of the qualified immunity defense,” can
+structure discovery in ways that diminish the risk of imposing unwarranted
+burdens upon public officials.
+
+Questions
+1. Does Iqbal clarify Twombly? If so, how? According to Iqbal, what is the test
+for whether a complaint meets the Plausibility standard?
+2. In the battle between efficiency and open access/addressing the merits of the
+dispute, which side seems to be on top now? Do Twombly’s and Iqbal’s
+
+44
+
+focus on “plausibility” represent a heightened pleading standard that is
+different from the Notice Pleading standard articulated in Conley and
+reaffirmed in Swierkiewicz? If so, why do you think the Supreme Court
+switched sides?
+3. In the wake of Iqbal, what would a plaintiff have to plead in a discrimination
+case in order to state a claim?
+4. Justice Souter wrote Twombly but dissented in Iqbal. Why?
+5. In the wake of Twombly and Iqbal, is the complaint you drafted in the
+Branham class sufficient? What would you argue if you were the defendant?
+What follows is a district court opinion in which the judge struggles to apply
+Twombly and Iqbal. Note that this case was decided before the Supreme Court
+decided Iqbal. However, the Supreme Court had already decided Twombly, and the
+Second Circuit had already issued its opinion in Iqbal, interpreting and applying
+Twombly. Thus, the district court in this case is applying the Supreme Court’s
+holding in Twombly and the Second Circuit’s holding in Iqbal.
+Pay careful attention to how the district court understands the Twombly and Iqbal
+cases, and what the court decides in order to balance the competing interests at
+stake.
+
+Kregler v. City of New York
+608 F. Supp.2d 465 (S.D.N.Y. 2009)
+Decision and Order
+VICTOR MARRERO, District Judge.
+Plaintiff William Kregler (“Kregler”) brought this action pursuant to 42
+U.S.C. § 1983 (“§ 1983”) alleging that defendants violated his rights under
+the First and Fourteenth Amendments of the United States Constitution.
+Defendants consist of the City of New York (the “City”) and five individuals
+who at all relevant times were employees of the City's Fire Department
+(“FDNY”) or Department of Investigation (“DOI”) (collectively with the
+
+45
+
+City, “Defendants”). Defendants move pursuant to Federal Rule of Civil
+Procedure 12(b)(6) (“Rule 12(b)(6)”) to dismiss the amended complaint for
+failure to state a claim upon which relief can be granted. For the reasons
+stated below, the Court defers decision on the motion pending the outcome
+of a preliminary hearing it will con-duct pursuant to Federal Rule of Civil
+Procedure 12(i) (“Rule 12(i)”).
+I. Introduction
+This case raises a longstanding concern frequently noted by the Supreme
+Court and the Second Circuit, as well as by federal courts across the country.
+Not uncommonly, on the basis of nothing more than the barest conclusory
+allegations, government officials are summoned to court to defend private
+lawsuits charging constitutional violations and other serious official
+misconduct. In most cases the costs the parties incur in litigation such
+actions, measured by expenditures of time and public resources, disruption
+of government operations, and potential damage to professional and
+personal reputations, are quite extensive. Frequent instances arise in which
+the underlying issues raise matters involving the formulation of government
+policy or, as in the case at hand, the appointment of public officers. These
+circumstances may implicate inquiry into confidential communications,
+though processes and internal documents containing sensitive matters the
+public disclosure of which in itself could entail judicial proceedings. Equally
+significant are the attendant impacts of such lawsuits on the courts' dockets
+and the administration of justice.
+More fundamentally, the question regarding the personal and social costs
+associated with litigating insubstantial lawsuits reduces to a far greater value:
+fairness. It is inequitable to subject a government official-or indeed any partyto the burdens of defending a claim challenged on legitimate grounds as
+insubstantial or frivolous for any longer than the minimum time reasonably
+necessary to ascertain whether sufficient basis exists to warrant allowing the
+action to proceed. For essentially the same social costs and fairness
+
+46
+
+considerations, our justice system prescribes speedy trial rules demanding the
+earliest feasible resolution of charges against defendants in criminal cases.
+The consequences described above, however, are not always, and not
+necessarily, of the complainant's making. Rather, to a large degree they reflect
+unintended side effects, byproducts of the lenient notice pleading standards
+embodied in Federal Rules of Civil Procedure 8(a) (“Rule 8(a)”) and 12(b)(6)
+and related case law. These rules are designed to insure that litigants with
+meritorious claims obtain adequate access to resolve their disputes in court.
+But, in a judicial instance of the duality that generally pervades so much of
+life, the same open door that welcomes the just cause also admits the
+nuisance suit; the flimsy or frivolous allegation is as free to enter the
+courthouse as the valid claim. As the Supreme Court has recognized,
+accusations of unconstitutional conduct on the part of public officials are
+easy to level, but very difficult and costly to defend against.
+Over the course of many years courts concerned with the severe hardships
+that insubstantial lawsuits place on litigants, on the justice system and on
+society as a whole have struggled with this dilemma, not only as it pertains to
+complaints lodged against government officials, but to litigation in general.
+To address these issues, courts have devised several tests meant both to
+instruct plaintiffs on drafting well-pleaded claims, and to guide the courts'
+review of the legal sufficiency of claims for relief. Among such judicial means
+employed to part the wheat from the chaff are: imposing “heightened”
+pleading standards, discounting conclusory allegations, rejecting recitations of
+law and factually unsupported incantations of the statutory or common law
+elements of a cause of action. Yet, as the case at hand illustrates and the law
+reports amply record, the problem persists, a sign of an intrinsic tension built
+into the federal rules. The Supreme Court has repeatedly rejected the notion
+that the Federal Rules of Civil Procedure countenance any universal
+heightened pleading standard, and has consistently reaffirmed that Rule 8(a)
+calls for nothing more than what its clear text prescribes: “a short and plain
+statement of the claim showing that the pleader is entitled to relief.”
+
+47
+
+Moreover, whether in their factual allegations as originally crafted, or upon
+being granted leave to replead deficient claims, seasoned plaintiffs' counsel
+know to charge the pleadings with enough adjectives that reverberate of
+extreme malice, improper motives, and bad faith to raise factual issues
+sufficient to survive a dispositive motion, thus securing a hold on the
+defendant strong enough for the duration, however long and costly the
+ultimate resolution of the claim may be.
+In practical terms, the philosophy of pleading that these rules embodies, a
+one-rule-fits-all principle, defines the scope of the problem engendered by its
+unintended outcomes. For instance, in theory the same generalized minimal
+Rule 8(a) standards that govern the plaintiff's drafting, as well as the court's
+review, of a complaint alleging common law negligence stemming from a slip
+and fall, or a breach of a simple contract for failure to pay a debt, apply to
+writing and evaluating a complaint charging civil violations of intricate
+federal antitrust, intellectual property, or racketeering statutes.
+To be sure, the federal rules include provisions designed to ensure that
+factual allegations in pleadings have some evidentiary and legal support and
+are made in good faith, as well as sanctions to deter abusive practices.
+Specifically, Federal Rule of Civil Procedure 11 (“Rule 11”) deems any
+litigation papers submitted to the court as embodying a certification that, to
+the person's knowledge, information and belief, “formed after an inquiry
+reasonable under the circumstances,” the filing is not presented for an
+improper purpose, the claims are warranted by law, and the factual
+allegations have or will likely have evidentiary support. Fed. R. Civ. P.
+11(b)(1)-(3). But these rules are difficult to police effectively, and, under the
+rigorous bar that governs imposition of Rule 11 sanctions, they are
+infrequently invoked and only rarely enforced.
+These considerations serve as a backdrop for the Court's review of
+Defendants' motion to dismiss the complaint in this case. Below, the Court
+outlines a procedure it will employ to reach a resolution it deems appropriate
+to do substantial justice for the parties and to promote judicial economy as
+
+48
+
+expeditiously as possible. The Court regards the means proposed, if
+somewhat uncommon, nonetheless permissible under the federal rules and
+applicable case law.
+II. Facts
+Until his retirement in March 2004, Kregler had been employed by the
+FDNY for 20 years. One month after retiring, Kregler filed a preliminary
+application for appointment by the Mayor as a City Marshal, a process
+governed by Article 16 of the New York City Civil Court Act. Pursuant to §
+1601 and the Mayor's Executive Order 44 (“Executive Order 44”), the
+Mayor's Committee on City Marshals (the “Mayor's Committee”) is charged
+with recruiting and recommending candidates for appointment as City
+Marshals. Candidates are subject to a DOI investigation of personal and
+financial background, and to a training program administered by DOI. In
+January 2005 Kregler was interviewed by representatives of the Mayor's
+Committee and was later notified by defendant Keith Schwam (“Schwam”),
+an Assistant Commissioner at DOI, that DOI would commence its personal
+and financial review of Kregler's background. As a follow-up, Kregler met in
+April 2005 with defendant Darren Keenaghan (“Keenaghan”), a DOI
+investigator, to discuss Kregler's preliminary application. Kregler then made
+minor modifications, signed the revised application, and provided
+authorizations for release of personal information.
+On May 25, 2005 Kregler, in his capacity as President of the Fire Marshals
+Benevolent Association (“FMBA”), an organization of the FDNY Fire
+Marshals, publicly endorsed the candidacy of Robert Morgenthau
+(“Morgenthau”) for reelection as District Attorney for New York County.
+Kregler asserts that at that time all other law enforcement associations,
+including the two other unions of firefighters, supported Morgenthau's
+opponent, Leslie Crocker Snyder (“Snyder”). An article that appeared in a
+June 2005 edition of The Chief, a local newspaper, reported on the
+endorsement of Morgenthau by Kregler acting as president of the FMBA.
+According to Kregler, defendant Brian Grogan (“Grogan”), an FDNY
+
+49
+
+Supervising Fire Marshal, posted a copy of that article in a public area within
+one of the FDNY offices. Kregler further alleges that Grogan “berated” him
+for the endorsement, stating: “who the f... do you think you are. Louie
+[Garcia] makes the endorsements.” Defendant Louis Garcia (“Garcia”) was
+Chief Fire Marshal of the FDNY's Bureau of Fire Investigation. Kregler
+alleges that both Garcia and Kregler politically supported Snyder's campaign
+against Morgenthau, that Garcia was socially acquainted with defendant Rose
+Gill Hearn (“Hearn”), the DOI Commissioner, and that Hearn also
+politically supported Snyder's candidacy.
+Morgenthau was reelected as District Attorney in November 2005. In March
+2006 Kregler was informed by letter from Schwam that he would not be
+appointed as a Fire Marshal. He filed this action in August 2008 alleging that
+Garcia and Hearn “agreed to cause Kregler's application for appointment as
+a City Marshal to be rejected in retaliation for Kregler's support of
+Morgenthau.” He further asserts that Garcia and Grogan and other FDNY
+employees requested Hearn, Schwam, Keenaghan, and other DOI employees
+to misuse their authority to cause the rejection of his application. Responding
+to the reason Defendants proffered for denying him an appointment-his
+failure to disclose details of a command discipline he had received in 1999
+during his employment by the FDNY-Kregler states that this explanation is
+merely a pretext for Defendants' unlawful retaliation.
+III. Discussion
+Defendants argue that Kregler's complaint must be dismissed because his
+pleadings fail to satisfy the elements of an action for First Amendment
+retaliation under § 1983. To state a such claim, a plaintiff must demonstrate
+that (1) he engaged in constitutionally protected speech, (2) suffered an
+adverse employment action, and (3) a causal connection exists between the
+speech and the adverse employment action so that it can be said that the
+speech was a motivating factor in the determination. Defendants contend
+that Kregler has not stated factual allegations sufficient to support a
+reasonable finding of a causal connection between his endorsement of
+
+50
+
+Morgenthau's candidacy and Defendants' decision not to offer Kregler a
+position as City Marshal. Defendants also maintain that Kregler fails to assert
+retaliatory animus or personal involvement by Defendants in the decision not
+to appoint Kregler, and thus that he fails to satisfy the third element of a
+First Amendment retaliation claim.
+A more fundamental issue touching upon the sufficiency of Kregler's
+retaliation claim is that nothing in the record indicates that Grogan or Garcia
+made the decision to deny Kregler a City Marshal appointment, or had any
+direct personal involvement in the matter. Under § 1601 the final
+determination not to offer Kregler a position was presumably made by the
+Mayor's Committee upon the recommendation of DOI officials. A basic
+premise of Kregler's claim is therefore that, for retaliatory reasons arising
+from Kregler's endorsement of Morgenthau, Grogan and Garcia
+communicated and agreed with DOI employees to interfere with Kregler's
+application, and that Hearn and other DOI officials then influenced
+representatives of the Mayor's Committee and the Mayor's Office to prevent
+Kregler's appointment. Kregler does not allege that Schwam, Keenaghan,
+Hearn, or any other DOI officials had any direct knowledge of his
+endorsement of Morgenthau. He thus grounds his theory of retaliation on
+suggestion supported by a chain of inferential links that would connect the
+alleged improper political motives of the FDNY officials he names with the
+actions of the officials at DOI.
+Defendants argue that, at its core, Kregler's action amounts to a claim of
+conspiracy to violate his constitutional rights. According to Defendants,
+Kregler developed his alleged conspiracy theory to overcome the dilemma
+that the FDNY officials he claims had political motives to oppose his City
+Marshal application were not the persons in DOI or the Mayor's Committee
+who actually made the decision not to offer him an appointment. Faced with
+this legal impediment, Kregler alleges that first Garcia and Grogan and then
+Garcia and Hearn “agreed to take steps to interfere with and prevent
+Kregler's appointment,” and that Garcia and Hearn “agreed” to cause
+
+51
+
+Kregler's application for appointment as a City Marshal to be rejected by
+DOI in retaliation for Kregler's support of Morgenthau. Reading Kregler's
+pleadings as asserting a conspiracy claim, Defendants contend that under
+Second Circuit law a heightened pleading standard governs such actions,
+pursuant to which specific facts tending to demonstrate that a “meeting of
+the minds” occurred must be pleaded, rather than bare conclusory allegations
+that an agreement was reached.
+In response, Kregler points out that his complaint does not allege any
+conspiracy claim, and that in any event recent Supreme Court decisions have
+rejected the existence of any general heightened pleading standard. Instead,
+Kregler asserts that the applicable test by which to assess the sufficiency of
+his com-plaint is the short and plain statement of the claim called for under
+Rule 8(a)(2), which requires that the pleadings need only give the defendant
+“fair notice of what the claim is and the grounds upon which it rests.”
+Swierkiewicz, 534 U.S. at 513, 122 S. Ct. 992. With regard to the standard
+governing review of Rule 12(b)(6) motions to dismiss, Kregler points to
+authority declaring that a complaint should not be dismissed for failure to
+state a claim “unless it appears beyond doubt that the plaintiff can prove no
+set of facts in support of his claim which would entitle him to relief.” Ricciuti
+v. NYC Transit Auth., 941 F.2d 119, 123 (2d Cir.1991) (quoting Conley v.
+Gibson, 355 U.S. 41, 45-46, 78 S. Ct. 99, 2 L.Ed.2d 80 (1957)).
+Surprisingly, in squaring off their conflicting stands on the proper standard
+of review, the parties use as foils the test of a “heightened pleading standard”
+pointed against the language of “no set of facts.” But neither of them
+mentions either of two recent cases that essentially dispatched those phrases
+from our procedural law as general pleading guides: Twombly, now the most
+relevant Supreme Court decision articulating the applicable test to evaluate
+Rule 12(b)(6) motions to dismiss for failure to state a claim, and Iqbal, the
+Second Circuit's reading and application of Twombly. In Twombly, an
+antitrust case, the Supreme Court, though reiterating the traditional liberal
+tests pertaining to pleading under Rule 8(a) and to reviewing motions to
+
+52
+
+dismiss under Rule 12(b)(6), nonetheless gave Conley's “no set of facts”
+formula a decent burial, and somewhat modified the traditional notice
+pleadings standard. The Twombly Court then stated that to be sufficient
+under Rule 8(a) and survive a Rule 12(b)(6) motion to dismiss, the factual
+allegations in a complaint must be “enough to raise a right to relief above the
+speculative level,” and state a claim “plausible on its face.”
+Explaining Twombly in the context of a defense invoking qualified
+immunity, the Second Circuit in Iqbal concluded that the Supreme Court had
+not recognized a universal standard of heightened fact pleading, but instead
+required “a flexible ‘plausibility standard,’ which obliges a pleader to amplify
+a claim with some factual allegations in those contexts where such
+amplification is needed to render the claim plausible.” In applying the
+Twombly standard to the facts of the case before it, the Iqbal Court noted
+that some of the plaintiff's claims were based on generalized allegations of
+supervisory involvement rather than on facts supporting the claim. It
+concluded that to survive a motion to dismiss under Twombly's plausibility
+standard “a conclusionary allegation concerning some elements of a
+plaintiff's claims might need to be fleshed out.”
+Running through Twombly and Iqbal is a common theme that has long
+troubled the courts: the tension between, on the one hand, the lenient notice
+pleading standards embodied in Rules 8(a) and 12(b)(6) to ensure that
+plaintiffs with meritorious claims have maximum access to the courts, and on
+the other hand the imperative to “weed out” groundless actions early in the
+litigation so as to minimize the expenditure of time and resources of the
+parties and the courts.
+The instant litigation raises many of those issues and concerns. It entails
+serious charges of constitutional violations and abuse of power allegedly
+committed for political purposes by high officials of the City's FDNY and
+DOI, including the DOI Commissioner.
+The Court finds that under Twombly's plausibility standard Kregler's
+amended complaint remains at best borderline in stating a First Amendment
+
+53
+
+retaliation claim. To survive the new motion to dismiss the pleadings as
+modified would require the Court to accept as true numerous conclusory
+allegations, to make substantial inferential leaps, and to resolve considerable
+doubts in Kregler's favor.
+Perhaps not cognizant of the gloss Twombly added to the Rule 8(a) pleading
+standard, Kregler simply points the Court to the traditional “no set of facts”
+standard that governed review of motions to dismiss under Conley: that
+factual allegations in the complaint are presumed to be true; that all
+reasonable inferences must be drawn and doubts resolved in the plaintiff's
+favor; that these standards apply with particular strictness as regards
+complaints of civil rights violations; and that an inquiry as to the factual issue
+of causation addresses the quality of the evidence and is thus more
+appropriate on a motion for summary judgment rather than on the basis of
+the pleadings. This argument overlooks that Twombly's intent, as read by the
+Second Circuit, was “to make some alteration in the regime of pure notice
+pleading that had prevailed in the federal courts ever since Conley v.
+Gibson.”
+Nonetheless, the Court is mindful of the traditional standards insofar as they
+survive Twombly, and also of other strictures that limit judicial authority to
+dismiss a complaint pursuant to Rule 12(b)(6).
+Weighing the considerations described above, and acknowledging that this
+case presents a close call, to minimize additional motion practice at this stage
+and avert potentially unnecessary extensive discovery, the Court proposes
+two steps intended to achieve the “amplication” of factual allegations by
+means of a fleshing out procedure such as that suggested in Iqbal. First, the
+Court will exercise its discretion pursuant to Rule 12(i) to schedule a
+preliminary hearing at which the parties may present the testimony of live
+witnesses and other evidence limited to Defendants' objections to the
+pleadings, specifically the threshold legal issues upon which, under the
+Twombly and Iqbal plausibility test, the sufficiency of Kregler's retaliation
+claim is grounded. Second, the hearing would serve as an occasion for the
+
+54
+
+Court to probe, in accordance with Rule 11(b), the extent to which some of
+Kregler's conclusory allegations have factual support and were formed after
+an inquiry reasonable under the circumstances.
+Rule 12(i) authorizes the Court to conduct a preliminary hearing to consider
+and decide before trial a motion raising any defense listed in Rule 12(b)(1)(7). As appropriate, the Court may use that procedure to determine
+jurisdictional as well as other threshold issues. The Court may order such a
+hearing on motion or sua sponte. As regards matters involving factual issues
+that bear on the subject of the hearing the Court may consider affidavits,
+depositions or documents, or testimony presented orally.
+The Court finds that employment of this procedure is particularly fitting to
+achieve early resolution of certain threshold issues in this case. The action
+involves serious accusations of violations of constitutional rights brought
+against public officials. The Supreme Court and the Second Circuit have
+instructed district courts to exercise their broad discretion to guard public
+officials from being subjected to unnecessary and burdensome discovery or
+trial proceedings.
+Admittedly, the approach the Court proposes here entails passage through
+relatively unchartered ground. Difficulties are bound to arise along the way.
+At this point some of the bumps and detours are entirely unknown, while
+others, though likely in the repertory of anticipated legal argument, do not
+appear insurmountable. But such challenges go with the territory in any form
+of exploration for new paths and different ways of doing things.
+IV. Order
+For the reasons stated above, it is hereby ordered that the parties are directed
+to appear at a conference with the Court on March 27, 2009 at 2:00 p.m. to
+review preparation for a preliminary hearing pursuant to Federal Rule of Civil
+Procedure 12(i) concerning the matters described in the preceding discussion.
+
+55
+
+Questions
+1. Does the judge in this case see Twombly and Iqbal as having changed the
+law? If so, how?
+2. What does the judge identify as the positives and negatives of having
+restrictive pleading rules, as opposed to permissive ones?
+3. How does the judge propose to balance the interests at stake? Do you think
+this is a good idea?
+4. What do you think will happen at the Rule 12(i) hearing?
+When you graduate from law school and pass the bar, you will be a lawyer. In
+preparing for your career as a lawyer, it will be helpful if you have been introduced to
+actual litigation documents from real cases. Peruse the following two complaints and
+consider the following questions:
+1. What is the crux of each lawsuit? Make sure you understand what the basic
+facts and legal theories are.
+2. Notice how the complaints comply with Rule 10(a) and (b).
+3. Why are these complaints so long and detailed? Don’t they more than satisfy
+both Notice Pleading and Plausibility Pleading standards? Having read Rule
+8(a) and the cases, are you surprised by the length and detail of these
+complaints?
+4. Would you draft the complaints differently?
+
+Complaint 1
+
+56
+
+UNITED STATES DISTRICT COURT FOR THE
+MIDDLE DISTRICT OF FLORIDA
+BRANDON CORDERO,
+
+)
+)
+
+Plaintiff,
+
+)
+)
+
+Case No.
+6:08-CV-2118-22 KRS
+
+vs.
+)
+)
+CITY OF KISSIMMEE
+
+)
+)
+
+Defendant,
+
+)
+
+_________________________________________________
+COMPLAINT AND DEMAND FOR JURY TRIAL
+Plaintiff, Brandon Cordero, hereinafter (“Cordero”) sues the Defendant, City
+of Kissimmee (“City”), and alleges:
+Jurisdiction and Venue
+1. This action arises under Title VII of the Civil Rights Act of 1964, as
+amended, 42 U.S.C. § 2000e, et. seq., the Civil Rights Act of 1991, 42 U.S.C.
+§1981a.
+
+57
+
+2. Jurisdiction is invoked pursuant to 42 U.S.C. § 2000e-5(f), 28 U.S.C. §§
+1343(3) and 1343(4), and pursuant to 28 U.S.C. § 1367.
+3. Costs and attorneys feed may be awarded pursuant to 42 U.S.C. § 2000e-5(k)
+4. Venue properly lies in the Middle District of Florida pursuant to 28 U.S.C. §
+1391(b), and 42 U.S.C § 2000e-5(f)(3) because the unlawful employment
+practice was committed in this judicial district.
+Conditions Precedent
+5. Plaintiff, Cordero, has fulfilled all conditions precedent to the institution of
+this action under 42 U.S.C. § 2000(e). A Notice of Right to Sue was issued
+by the U.S. Department of Justice on September 24, 2008, a true and correct
+copy of which is attached as an Exhibit “A”.
+Parties
+6. At all times material, Plaintiff, Cordero, was a citizen and resident of the
+United States, residing in Osceola County. He is Hispanic and bilingual
+speaking English and Spanish. At all times material he was an employee of
+the City of Kissimmee as a fitness coordinator. His natural origin is Puerto
+Rican.
+7. At all times material, Defendant, City, was a municipal corporation pursuant
+to the Laws of The State located in Osceola County, Florida and authorized
+to conduct business in Florida.
+8. At all times material, Defendant, City, was an employer within the meaning
+of 42. U.S.C. § 2000e, and was engaged in an industry affecting commerce,
+and upon information and belief, employed more than fifteen (15) employees
+for each working day in each of twenty (20) or more calendar weeks in the
+then current or preceding calendar year.
+
+58
+
+Facts
+9. Plaintiff is entitled to relief against the Defendant upon the following facts:
+a. On October 18th, 2005 a staff meeting was held with the facility manager,
+Greg Smith. When evaluating a prospective employee he said: “We don’t
+have need for bilingual help. We haven’t needed it for 10 years and we don’t
+need it now. This is an “English only” facility. English is the standard
+language here. At no time should Spanish be spoken in the facility, amongst
+employees or between employees and members. We don’t want anyone to
+be offended by people speaking Spanish around them.” The Plaintiff being
+Hispanic responded by saying that he “can’t believe “English only” policy is
+a City Policy.” Greg Smith stated “Well I am the facility manager and that’s
+the policy I am enforcing.”
+b. On November 1st, 2005, at a staff meeting, Greg Smith wanted to revisit the
+“English only” policy and stated that it had been decided that under no
+circumstances is Spanish to be allowed during tours of the facility or in
+general conversation between employees or with members. Greg Smith said
+“We pay our employees in Dollars not pesos. I don’t want to walk down the
+hallways and hear Spanish being spoken everywhere.” The Plaintiff
+responded “I can’t believe you would make a discriminatory statement like
+that.”
+c. On November 2nd, 2005, Brandon called and reported to the City that the
+“English only” policy was discriminatory towards Hispanics including
+himself, in a grievance, to Personnel and was told that the information would
+be passed on to the right person and he would be contacted.
+d. Shortly after reporting the discriminatory policy, Plaintiff realized that his
+questioning the “English only” policy was causing him problems in the
+workplace. His performance began to be questioned. His e-mails were
+
+59
+
+ignored, he was reprimanded, and he received false and derogatory
+performance evaluations.
+e. Five weeks passed with no response to his complaint. On Dec 6th, 2005, he
+contacted the assistant director and reported again the two instances where
+Greg Smith had made the comments on the “English only” policy. Plaintiff
+was then advised that he would be meeting with the Superintendent of
+Recreation. Time passed and the Plaintiff heard from no one.
+f. On Jan 13th, 2006, the Plaintiff contacted the EEOC and received an
+automated response.
+g. On January 23rd, 2006, the Plaintiff submitted a grievance outlining the
+harassment he had been receiving since he reported and opposed the
+“English only” policy.
+h. On Jan 25th, 2006, the Plaintiff was interviewed by the City Attorney and the
+Director of Personnel. This interview was tape recorded and lasted for three
+hours.
+On February 9th, 2006, the Plaintiff was interviewed again by the City
+Attorney for three hours. The points discussed the same harassment and
+retaliation issues that the Plaintiff had been complaining about since he
+questioned and reported the “English only” policy.
+
+i.
+
+j.
+
+On April 11th, 2006, the Plaintiff was fired as a result of his opposing the
+discriminatory policy of “English only” in the workplace.
+
+k. On May 7th, 2006, the Plaintiff filed a formal charge with EEOC.
+l.
+
+On September 24th, 2007, the Plaintiff received a letter of Determination
+from The EEOC finding reasonable cause to believe that the City
+
+60
+
+discriminated against the Plaintiff in violation of Title VII (a copy is attached
+as Exhibit B.)
+m. On September 25th, 2008 the Plaintiff received a right to sue letter (a copy is
+attached as Exhibit A.)
+Count I
+Violation of Civil Rights Act of 1964
+Retaliation
+Plaintiff repeats and realleges paragraphs 1 through 9 as if stated herein in full.
+10. Plaintiff was terminated out of retaliation for opposing the discriminatory
+employment practices and for participating in the investigation into his
+complaints of discrimination in violation of Title VII of the Civil Rights Act
+of 1964, as amended.
+11. As a direct and proximate result of the foregoing, Plaintiff has suffered, is
+now suffering, and will continue to suffer, emotional pain and mental
+anguish. As a direct and proximate result of such actions, Plaintiff has been,
+is being, and will in the future be deprived of income in the form of wages
+and of prospective benefits due to the Plaintiff solely because of the
+Defendant’s conduct.
+
+WHEREFORE, Plaintiff demands judgment for damages against Defendant,
+including but not limited to the following:
+a. loss of past and future income;
+b. loss of fringe benefits;
+
+61
+
+c. a declaration that the acts and practices complained of herein are in violation
+of Title VII;
+d. enjoining and permanently restraining these violations of Title VII;
+e. directing Defendant to take such affirmative action as is necessary to ensure
+that the effects of these unlawful employment practices are eliminated and
+do not continue to affect Plaintiff’s employment opportunities;
+f. reinstate Plaintiff to his position with Defendant, or reasonable front pay as
+alternative relief if an immediate promotion is not feasible until a position
+becomes available;
+g. compensatory damages for past, present and future mental anguish, pain and
+suffering, and humiliation caused by the intentional discrimination;
+h. awarding Plaintiff the costs of this action together with reasonable attorney’s
+fees, as provided by § 706(k) of Title VII, 42 U.S.C. § 2000e-5(k);
+i.
+
+trial by jury; and
+
+j.
+
+such other relief as the court deems proper.
+Count II
+Violation of the Civil Rights Act of 1964
+Race/National Origin Discrimination
+
+Plaintiff repeats and realleges paragraphs 1 through 9 as if states herein in full.
+12. Plaintiff was terminated because of his race, Hispanic, and/or because of his
+national origin, Puerto Rican, in violation of Title VII of the Civil Rights Act
+of 1964, as amended.
+
+62
+
+13. As a direct and proximate result of the foregoing, Plaintiff has suffered, is
+now suffering, and will continue to suffer, emotional pain and mental
+anguish. As a direct and proximate result of such actions, Plaintiff has been,
+is being, and will in the future be deprived of income in the form of wages
+and of prospective benefits due to the Plaintiff solely because of the
+Defendant’s conduct.
+WHEREFORE, Plaintiff demands judgment for damages against Defendant,
+including but not limited to the following:
+a. loss of past and future income;
+b. loss of fringe benefits;
+c. a declaration that the acts and practices complained of herein are in violation
+of Title VII;
+d. enjoining and permanently restraining these violations of Title VII;
+e. directing Defendant to take such affirmative action as is necessary to ensure
+that the effects of these unlawful employment practices are eliminated and
+do not continue to affect Plaintiff’s employment opportunities;
+f. reinstate Plaintiff to his position with Defendant, or reasonable front pay as
+alternative relief if an immediate promotion is not feasible until a position
+becomes available;
+g. compensatory damages for past, present and future mental anguish, pain and
+suffering, and humiliation caused by the intentional discrimination;
+h. awarding Plaintiff the costs of this action together with reasonable attorney’s
+fees, as provided by § 706(k) of Title VII, 42 U.S.C. § 2000e-5(k);
+
+63
+
+i.
+
+trial by jury; and
+j.
+
+such other relief as the court deems proper.
+
+Permission to reprint this pleading is provided by Neil Chonin and David Chonin
+Complaint 2
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF GEORGIA
+NEWNAN DIVISION
+
+SUSAN PITTS,
+
+*
+*
+
+Plaintiff
+
+*
+*
+
+VS.
+
+*
+*
+
+ROBERT G. HEMKER, and
+
+*
+
+COMANCHE CONSTRUCTION,
+
+*
+
+INC. OF GEORGIA,
+
+*
+*
+
+Defendants
+
+*
+
+64
+
+CIVIL ACTION NUMBER:
+3 07-CV-093-JTC
+
+Complaint for Damages
+Comes now Susan Pitts, as Plaintiff, who respectfully shows the Court and Jury as
+follows:
+Jurisdiction and Venue
+
+1.
+
+Plaintiff is resident of the State of Alabama.
+
+2. Defendant Robert G. Hemker [herein “Defendant Hemker”] is a resident of
+6320 Whirlaway Drive, Cumming, Forsyth County, Georgia.
+3. Comanche Construction, Inc. of Georgia [herein “Defendant Comanche”] is
+a Georgia business corporation with its principal office at 1734 Sands Place,
+SE, Marietta, Georgia, and its registered agent for service at such address is
+Lyle J. Austin.
+4. The jurisdiction of this court over the subject matter of this action is
+predicated upon 28 USC Section 1332. The amount in controversy exceeds
+Seventy Five Thousand [$75,000.00] Dollars, exclusive of interest and costs.
+5. This action arises from a vehicle collision which occurred in Troup County,
+Georgia. Venue is based in The Newnan Division of The Northern District
+Of Georgia under 28 USC 1391(a)(2) because the events which gave rise to
+this action occurred in Troup County, Georgia.
+General Operative Facts
+6. On Wednesday, November 30, 2005, Plaintiff was injured when her vehicle
+was struck from the rear by vehicles driven by Defendant Hemker and by
+
+65
+
+Jacelyn Lachristian Reese as she drove her vehicle through a work site in
+Interstate Highway 85 in Troup County, Georgia. The construction at the
+work site was being performed by Defendant Comanche.
+Specific Operative Facts
+
+7. On the date of the collision, Defendant Comanche was engaged in hydro
+blasting the bridge deck below the top mat of steel and replacing it with new
+concrete at the bridge on the Georgia-Alabama line on Interstate Highway 85
+in Troup County, Georgia under a contract with The Georgia Department of
+Transportation. [Project Number CSNHS-M002-00(782)01]
+8. At the immediate work site over the bridge, Defendant Comanche had
+erected barricades to limit travel to one lane as it passed the construction site.
+9. Defendant Comanche negligently and carelessly allowed excess water and
+other materials to accumulate and cover the one lane of travel allowed for
+vehicles approaching and passing through the construction site.
+10. As Plaintiff approached the work site in the one lane of travel, the vehicle in
+front of her began to skid due to a large amount of water and other materials
+which Defendant Comanche had allowed to flow from the work site onto
+the lane of travel. Plaintiff slowed her automobile but, as Plaintiff entered
+the area of the lane of travel covered with water, Plaintiff’s vehicle also began
+to skid, forcing Plaintiff to come to a stop to avoid sliding past the barricades
+and into the work site. At all times relevant to this action, Plaintiff was
+driving at a reasonable and safe speed for the conditions and under the
+circumstances then existing.
+
+66
+
+11. As Plaintiff brought her vehicle to a stop, her vehicle was struck in the rear
+by the Hemker and Reese vehicles as set forth in Paragraph 6 of this
+Complaint.
+12. As a result of the collisions, Plaintiff received both temporary and permanent
+injuries to her neck, back, shoulders, and other parts of her body.
+
+Specific Allegations of Negligence
+
+Negligence of Defendant Hemker
+13. Defendant Hemker was negligent in following Plaintiff’s vehicle too closely
+in violation of Official Code of Georgia Annotated § 40-6-49.
+14. Defendant Hemker was negligent in driving at a speed greater than was
+reasonable and prudent under the conditions and having regard for the actual
+and potential hazards then existing in violation of O.C.G.A. § 40-6-180.
+Negligence of Defendant Comanche
+15. Defendant Comanche was negligent in closing lanes of traffic and limiting
+traffic to one lane of travel during weekdays in violation of Section 150.11
+[Special Conditions] of its contract with the Georgia Department of
+Transportation. The contract provides that work at the site involved in this
+complaint was to be performed only between the hours of 9:00 p.m. on
+Friday through 5:00 a.m. on Monday. This collision happened on
+Wednesday between the hours of twelve noon and one o’clock p.m.
+
+67
+
+16. Defendant Comanche was negligent in allowing excess amounts of water
+and/or slick material to enter and coat the only lane open for travel and the
+lane required for travel by the Plaintiff.
+17. Defendant Comanche was negligent in failing to warn approaching traffic of
+the special hazardous conditions existing in the one open lane adjacent to the
+work site.
+18. Defendant Comanche was negligent in maintaining a 12 foot clearance on
+travel instead of a 16 foot clearance as required by the contract.
+19. Defendant Comanche was negligent in using the wrong advance warning
+signs for this work site. Defendant Comanche used Georgia Standard 9104
+for lane closure as show on its plans TC-3, but Georgia Standard 9104 was
+neither appropriate for this work site nor approved for use by the contract
+with the Georgia Department of Transportation.
+20. Defendant Comanche failed to have proper signage on the approaches to the
+work site as required by the contract with the Georgia Department of
+Transportation.
+Damages
+21. As stated above, the Plaintiff sustained temporary and permanent injuries to
+her neck, back, shoulders, and other parts of her body as a result of the
+collision. Plaintiff has required medical treatment, including surgery to her
+shoulder, and has incurred medical expenses in excess of $20,000.00.
+22. The Plaintiff will continue to incur medical bills in the future as a result of
+the collision.
+
+68
+
+23. The Plaintiff has sustained a loss of her future capacity to labor and earn
+income as an item of general damages due to the injuries she received in this
+collision.
+24. The Plaintiff has lost income in the past and will lose income in the future as
+a result of the injuries she received in the collision. At the time of the
+collision, Plaintiff was employed as a police sergeant with the Emory
+University Police Department in Atlanta, Georgia earning $22.09 per
+hour. Plaintiff has lost wages in excess of $75,000.00 since the date of the
+collision and due to the injuries she received in the collision.
+25. Plaintiff seeks compensatory damages in the form of special and general
+damages for the pain and suffering she has endured for the injuries described
+in the preceding paragraphs.
+26. All of the injuries and damages sustained by the Plaintiff were the direct and
+proximate result of the negligence of the Defendants,
+WHEREFORE, Plaintiff demands:
+a. That summons issue requiring the Defendants to appear as provided by law
+and answer this complaint;
+b. That Plaintiff have and recover of each of the Defendants damages for all
+her injuries in such amount as the jury shall deem just and adequate to fully
+compensate Plaintiff for all her injuries, past and future according to the
+proportionate fault as determined by the jury under O.C.G.A. § 51-12-50;
+c. That Plaintiff have and recover of the Defendants special damages for her
+medical expenses, past and future, as set forth in this complaint and as
+shown by the evidence;
+
+69
+
+d. That Plaintiff have and recover of the Defendants special damages for her
+lost wages as set forth in this complaint and as shown by the evidence;
+e. That Plaintiff have and recover of the Defendants general damages for her
+lost capacity to labor and earn income as set forth in this complaint;
+f. That Plaintiff have and recover of the Defendants general damages for pain
+and suffering, both past and future, for her temporary and permanent injuries
+received as a result of the negligence of the Defendants;
+g. That Plaintiff have trial by jury;
+h. That all costs be taxed against the Defendants; and
+i.
+
+That Plaintiff have such other relief as the Court deems proper.
+
+Permission to reprint this pleading is provided by J. Anderson Harp
+At the beginning of this section, you drafted a complaint in the Branham slip-and-fall
+case. In all likelihood, the complaint you drafted was quite similar to the one actually
+filed in the case, which you have seen by now.
+You have now been given the motion to dismiss and the supporting memorandum
+of law filed by the defendant in the case. The motion argues that the plaintiff’s
+complaint does not comply with Twombly and Iqbal.
+1. Read it and see whether you agree before reading the judge’s ruling.
+2. If you represented the plaintiff, how would you respond?
+3. How should the judge rule?
+4. Also, take note of the form of the filings. This is what court documents
+typically look like, and these kinds of documents are often drafted and filed
+by recent law school graduates.
+
+70
+
+Now read the opinion in the case.
+1. Do you agree with the judge’s ruling?
+2. What additional facts would the plaintiff need to plead in order to pursue her
+case?
+3. Is the plaintiff likely to be in possession of those facts? If not, how might she
+go about getting them? Does the fact that she does not necessarily have
+access to them make her case any less likely to be meritorious?
+4. What does this say about the Plausibility standard?
+
+71
+
+

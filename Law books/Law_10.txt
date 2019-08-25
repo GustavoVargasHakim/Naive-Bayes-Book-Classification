@@ -1,0 +1,1228 @@
+Evidence:
+
+Jury Impeachment
+
+Colin Miller
+
+CALI eLangdell® Press 2012
+
+Notices
+This work by Colin Miller is licensed and published
+by CALI eLangdell Press under a Creative
+Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
+License. CALI and CALI eLangdell Press reserve under copyright all
+rights not expressly granted by this Creative Commons license. CALI
+and CALI eLangdell Press do not assert copyright in US
+Government works or other public domain material included herein.
+Permissions beyond the scope of this license may be available
+through feedback@cali.org.
+In brief, the terms of that license are that you may copy, distribute,
+and display this work, or make derivative works, so long as
+ you give CALI eLangdell Press and the author credit;
+ you do not use this work for commercial purposes; and
+ you distribute any works derived from this one under the
+same licensing terms as this.
+Suggested attribution format for original work:
+Colin Miller, Evidence: Jury Impeachment, Published by CALI
+eLangdell Press. Available under a Creative Commons BY-NC-SA
+3.0 License.
+CALI® and eLangdell® are United States federally registered
+trademarks owned by the Center for Computer-Assisted Legal
+Instruction. The cover art design is a copyrighted work of CALI, all
+rights reserved. The CALI graphical logo is a trademark and may not
+be used without permission.
+Should you create derivative works based on the text of this book or
+other Creative Commons materials therein, you may not use this
+book’s cover art and the aforementioned logos, or any derivative
+thereof, to imply endorsement or otherwise without written
+permission from CALI.
+
+ii
+
+This material does not contain nor is intended to be legal advice.
+Users seeking legal advice should consult with a licensed attorney in
+their jurisdiction. The editors have endeavored to provide complete
+and accurate information in this book. However, CALI does not
+warrant that the information provided is complete and accurate.
+CALI disclaims all liability to any person for any loss caused by errors
+or omissions in this collection of information.
+
+iii
+
+About the Author
+Professor Miller teaches Evidence, Criminal Procedure, Criminal
+Law, and Civil Procedure. He is the creator and Blog Editor of
+EvidenceProf Blog, a member of the Law Professor Blogs Network.
+He is the Editor of Illinois Criminal Procedure and drafted a 100
+page report comparing the Federal Rules of Evidence to Illinois
+evidentiary principles, which was used in the creation of the first
+Illinois Rules of Evidence.
+Professor Miller received his B.A. degree with distinction from the
+University of Virginia and his J.D. (Order of the Coif) from the
+William & Mary Law School.
+
+About CALI eLangdell Press
+The Center for Computer-Assisted Legal Instruction (CALI®) is: a
+nonprofit organization with over 200 member US law schools, an
+innovative force pushing legal education toward change for the
+better. There are benefits to CALI membership for your school, firm,
+or organization. eLangdell® is our electronic press with a mission to
+publish more open books for legal education.
+How do we define "open?"
+ Compatibility with devices like smartphones, tablets, and ereaders; as well as print.
+ The right for educators to remix the materials through more
+lenient copyright policies.
+ The ability for educators and students to adopt the materials
+for free.
+Find available and upcoming eLangdell titles at elangdell.cali.org.
+Show support for CALI by following us on Facebook and Twitter,
+and by telling your friends and colleagues where you received your
+free book.
+
+Table of Contents
+Notices ........................................................................................ ii
+About the Author ........................................................................iv
+About CALI eLangdell Press ......................................................v
+Table of Contents .......................................................................vi
+Preface ...................................................................................... vii
+Jury Impeachment Chapter ......................................................... 1
+I. The Rule.................................................................................... 1
+II. Historical Origins ....................................................................3
+III. The Drafting of Federal Rule of Evidence 606(b) .................4
+IV. Public Policy Underlying Federal Rule of Evidence 606(b) ..5
+V. Supreme Court Precedent ........................................................5
+Notes ........................................................................................................ 13
+
+VI. 606(b): The External/Internal Distinction .......................... 14
+A. 606(b)(2)(A): Extraneous Prejudicial Information ...................... 16
+B. 606(b)(2)(B): Improper Outside Influences .................................. 18
+C. 606(b)(2)(C): Mistake in Entering the Verdict on the Verdict
+Form......................................................................................................... 20
+
+VII. Situations Where Rule 606(b) Does Not Apply .................. 21
+A. Testimony by Nonjurors ................................................................. 21
+B. Juror Testimony Not Offered to Impeach a Verdict .................. 22
+
+VIII. Splits in Authority .............................................................. 24
+A. States without Counterparts to Rule 606(b) ................................. 24
+B. Minnesota’s Violence Exception to Rule 606(b) ......................... 24
+C. Testimony About the Effect on Deliberations of Extraneous
+Prejudicial Information/Improper Outside Influences ................... 25
+D. Allegations of Juror Racial, Religious, or Other Bias When
+Jurors Are Not Questioned Regarding Bias on Voir Dire ............... 26
+
+IX. Jury Impeachment Pleadings ............................................... 27
+
+vi
+
+Preface
+The anti-jury impeachment rule, contained in Federal Rule of
+Evidence 606(b) and state counterparts, is a rule preventing the
+admission of jury testimony or statements in connection with an
+inquiry into the validity of the verdict, subject to certain exceptions.
+Through a series of cases and hypotheticals drawn from actual cases,
+this chapter gives readers a roadmap for how to address any jury
+impeachment issue in practice.
+
+Jury Impeachment Chapter
+I. The Rule
+Federal Rules of Evidence. Rule 606.
+Juror’s Competency as a Witness….
+(b) During an Inquiry into the Validity of
+a Verdict or Indictment.
+
+Prohibited Testimony or Other
+Evidence. During an inquiry into the validity
+(1)
+
+of a verdict or indictment, a juror may not
+testify about any statement made or incident
+that occurred during the jury’s deliberations;
+the effect of anything on that juror’s or
+another juror’s vote; or any juror’s mental
+processes concerning the verdict or
+indictment. The court may not receive a
+juror’s affidavit or evidence of a juror’s
+statement on these matters.
+(2) Exceptions. A juror may testify about
+whether:
+(A) extraneous prejudicial information was
+improperly brought to the jury’s attention;
+(B) an outside influence was improperly
+brought to bear on any juror; or
+(C) a mistake was made in entering the
+verdict on the verdict form.
+FED. R. EVID. 606(b).
+In 2009, the Committee on Rules of Practice and Procedure of the
+Judicial Conference of the United States Courts decided to “restyle”
+the Federal Rules of Evidence. The goal in this project was to make
+the Rules more user friendly rather than to enact substantive changes.
+Below is a side by side comparison of the current Rule 606(b) and the
+“restyled” Rule 606(b). Because the changes were intended to be
+stylistic only, everything discussed in this chapter should continue to
+
+1
+
+be good law after the “restyled” Rules take effect on December 1,
+2011.
+Previous Rules Language
+
+Restyled Rules Language
+
+(b) Inquiry into validity of (b)During an Inquiry into the
+verdict or indictment. Upon
+Validity of a Verdict or
+an inquiry into the validity of a
+Indictment.
+verdict or indictment, a juror
+(1)Prohibited Testimony or
+may not testify as to any matter
+Other Evidence. During
+or statement occurring during
+an inquiry into the validity
+the course of the jury’s
+of a verdict or indictment, a
+deliberations or to the effect of
+juror may not testify about
+anything upon that or any other
+any statement made or
+juror’s mind or emotions as
+incident that occurred
+influencing the juror to assent
+during
+the
+jury’s
+to or dissent from the verdict or
+deliberations; the effect of
+indictment or concerning the
+anything on that juror’s or
+juror’s mental processes in
+another juror’s vote; or any
+connection therewith. But a
+juror’s mental processes
+juror may testify about (1)
+concerning the verdict or
+whether extraneous prejudicial
+indictment. The court may
+information was improperly
+not receive a juror’s
+brought to the jury’s attention,
+affidavit or evidence of a
+(2) whether any outside
+juror’s statement on these
+influence
+was
+improperly
+matters.
+brought to bear upon any juror,
+or (3) whether there was a
+(2) Exceptions. A juror may
+mistake in entering the verdict
+testify about whether:
+onto the verdict form. A juror’s
+(A) extraneous prejudicial
+affidavit or evidence of any
+information
+was
+statement by the juror may not
+improperly brought to
+be received on a matter about
+the jury’s attention;
+which the juror would be
+precluded from testifying.
+(B) an outside influence
+was
+improperly
+brought to bear on any
+
+2
+
+juror; or
+(C) a mistake was made in
+entering the verdict on
+the verdict form.
+
+II. Historical Origins
+Excerpt from Colin Miller, Dismissed with Prejudice: Why Application of
+the Anti-Jury Impeachment Rule to Allegations of Racial, Religious, or Other
+Bias Violates the Right to Present a Defense, 61 BAYLOR L. REV. 872
+(2009)
+Prior to 1785, English courts “sometimes received” post-trial
+juror testimony and affidavits concerning juror misconduct,
+“though always with great caution.” In that year, English
+Chief Justice Lord Mansfield decided Vaise v. Delaval, I.T.R.
+11, where he was confronted with post-trial affidavits by
+jurors indicating that “the jury being divided in their opinion,
+had tossed up,” i.e., resolved the case by “flipping a coin or
+some other method of chance determination.” Mansfield
+deemed the affidavits inadmissible by applying the thenpopular Latin maxim, nemo turpitudinem suam allegans audietur (a
+“witness shall not be heard to allege his own turpitude”).
+According to Mansfield, jurors were not competent to
+impeach their own verdicts, and thus themselves, because “a
+person testifying to his own wrongdoing was, by definition,
+an unreliable witness.” Vaise thus became the basis for
+“Mansfield's Rule,” “a blanket ban on jurors testifying against
+their own verdict,” although, according to Mansfield, posttrial testimony concerning jury misconduct could be
+admissible if it came from another source, “such as from
+some person having seen the [deliberations] through a
+window, or by some such other means.”
+***
+
+3
+
+Based upon “the prestige of the great Chief Justice,
+[Mansfield's Rule] soon prevailed in England, and its
+authority came to receive in this country an adherence almost
+unquestioned” until the latter half of the nineteenth century.
+The first major U.S. opinion challenging Mansfield’s Rule was Wright
+v. Illinois & Mississippi Telegraph Co., 20 Iowa 195 (Iowa 1866), an 1866
+opinion in which the Supreme Court of Iowa found that a trial court
+erred by refusing to consider four juror affidavits alleging an illegal
+quotient verdict, i.e., that their “verdict was determined by each juror
+marking down such sum as he thought fit, and dividing the aggregate
+by twelve and taking the quotient as their verdict.” In the years after
+Wright created the “Iowa Rule,” as it became known, state courts
+created new formulations of and variations on Mansfield’s Rule. In
+1915, however, in McDonald v. Pless, 238 U.S. 264 (1915), the United
+States Supreme Court’s last significant opinion on jury impeachment
+before the drafting of the Federal Rules of Evidence, the Court
+deemed juror testimony regarding an alleged quotient verdict
+inadmissible. The Court noted that it had to “choose between
+redressing the injury of the private litigant and inflicting the public
+injury which would result if jurors were permitted to testify as to
+what had happened in the jury room” and deemed the failure to
+redress the former injury “the lesser of two evils.”
+III. The Drafting of Federal Rule of Evidence 606(b)
+In 1969, the Advisory Committee's first draft of what would become
+Federal Rule of Evidence 606(b) merely precluded jurors from
+impeaching verdicts through testimony “concerning the effect of
+anything upon his or any other juror's mind or emotions as
+influencing him to assent to or dissent from the verdict or indictment
+or concerning his mental processes in connection therewith.” Citing
+to the Iowa Rule, the Committee indicated that its proposed Rule
+permitted “impeachment concerning the existence of conditions or
+occurrences, ‘without regard to whether the happening [wa]s within
+or without the jury room.’” In 1971, however, the proposed Rule was
+hastily rewritten so that it also precluded jury impeachment regarding
+
+4
+
+“any matter or statement occurring during the course of the jury's
+deliberations....”
+The House rejected this new draft while the Senate endorsed it.
+Eventually, the Senate and House Committees resolved the dispute in
+the Senate’s favor. The Senate version did allow jurors to impeach
+their verdicts through testimony concerning “whether extraneous
+prejudicial information was improperly brought to the jury's attention
+and on the question whether any outside influence was improperly
+brought to bear on any jurors.” Most states have counterparts to
+Federal Rule of Evidence 606(b) that generally preclude jury
+impeachment, subject to the above two exceptions.
+IV. Public Policy Underlying Federal Rule of Evidence 606(b)
+The Advisory Committee's Note to Federal Rule of Evidence 606(b)
+recognized three main values that are promoted by a rule that
+generally precluded jury impeachment:
+
+
+safeguarding the stability and finality of verdicts;
+
+
+
+preventing the harassment of former jurors by losing parties
+as well as the possible exploitation of disgruntled or
+otherwise badly motivated ex-jurors; and
+
+
+
+protecting the freedom of discussion and deliberation.
+
+V. Supreme Court Precedent
+Excerpt from Tanner v. United States, 483 U.S. 107 (1987)
+JUSTICE O'CONNOR delivered the opinion of the Court.
+Petitioners William Conover and Anthony Tanner were
+convicted of conspiring to defraud the United States…and of
+committing mail fraud….The United States Court of Appeals
+for
+the
+Eleventh
+Circuit
+affirmed
+the
+convictions….Petitioners argue that the District Court erred
+in refusing to admit juror testimony at a post-verdict hearing
+on juror intoxication during the trial; and that the conspiracy
+count of the indictment failed to charge a crime against the
+United States. We affirm in part and remand.
+
+5
+
+….
+I.
+.…The day before petitioners were scheduled to be
+sentenced, Tanner filed a motion, in which Conover
+subsequently joined, seeking continuance of the sentencing
+date, permission to interview jurors, an evidentiary hearing,
+and a new trial. According to an affidavit accompanying the
+motion, Tanner's attorney had received an unsolicited
+telephone call from one of the trial jurors, Vera Asbul….
+Juror Asbul informed Tanner's attorney that several of the
+jurors consumed alcohol during the lunch breaks at various
+times throughout the trial, causing them to sleep through the
+afternoons….The District Court continued the sentencing
+date, ordered the parties to file memoranda, and heard
+argument on the motion to interview jurors. The District
+Court concluded that juror testimony on intoxication was
+inadmissible under Federal Rule of Evidence 606(b) to
+impeach the jury's verdict. The District Court invited
+petitioners to call any nonjuror witnesses, such as courtroom
+personnel, in support of the motion for new trial. Tanner's
+counsel took the stand and testified that he had observed one
+of the jurors “in a sort of giggly mood” at one point during
+the trial but did not bring this to anyone's attention at the
+time….
+Earlier in the hearing the judge referred to a conversation
+between defense counsel and the judge during the trial on the
+possibility that jurors were sometimes falling asleep. During
+that extended exchange the judge twice advised counsel to
+immediately inform the court if they observed jurors being
+inattentive, and suggested measures the judge would take if
+he were so informed….
+….
+As the judge observed during the hearing, despite the above
+admonitions counsel did not bring the matter to the court
+again….
+
+6
+
+Following the hearing, the District Court filed an order
+stating that, “[o]n the basis of the admissible evidence offered
+I specifically find that the motions for leave to interview
+jurors or for an evidentiary hearing at which jurors would be
+witnesses is not required or appropriate.”
+The District Court also denied the motion for new trial….
+While the appeal of this case was pending before the
+Eleventh Circuit, petitioners filed another new trial motion
+based on additional evidence of jury misconduct. In another
+affidavit, Tanner's attorney stated that he received an
+unsolicited visit at his residence from a second juror, Daniel
+Hardy….Despite the fact that the District Court had denied
+petitioners' motion for leave to interview jurors, two days
+after Hardy's visit Tanner's attorney arranged for Hardy to be
+interviewed by two private investigators….The interview was
+transcribed, sworn to by the juror, and attached to the new
+trial motion. In the interview Hardy stated that he “felt
+like...the jury was on one big party.”…Hardy indicated that
+seven of the jurors drank alcohol during the noon recess.
+Four jurors, including Hardy, consumed between them “a
+pitcher to three pitchers” of beer during various
+recesses….Of the three other jurors who were alleged to have
+consumed alcohol, Hardy stated that on several occasions he
+observed two jurors having one or two mixed drinks during
+the lunch recess, and one other juror, who was also the
+foreperson, having a liter of wine on each of three
+occasions….Juror Hardy also stated that he and three other
+jurors smoked marijuana quite regularly during the
+trial….Moreover, Hardy stated that during the trial he
+observed one juror ingest cocaine five times and another
+juror ingest cocaine two or three times….One juror sold a
+quarter pound of marijuana to another juror during the trial,
+and took marijuana, cocaine, and drug paraphernalia into the
+courthouse….Hardy noted that some of the jurors were
+falling asleep during the trial, and that one of the jurors
+described himself to Hardy as “flying.”…Hardy stated that
+
+7
+
+before he visited Tanner's attorney at his residence, no one
+had contacted him concerning the jury's conduct, and Hardy
+had not been offered anything in return for his
+statement….Hardy said that he came forward “to clear my
+conscience” and “[b]ecause I felt ... that the people on the
+jury didn't have no business being on the jury. I felt...that Mr.
+Tanner should have a better opportunity to get somebody
+that would review the facts right.”….
+The District Court…denied petitioners' motion for a new
+trial.
+The Court of Appeals for the Eleventh Circuit
+affirmed….We granted certiorari…to consider whether the
+District Court was required to hold an evidentiary hearing,
+including juror testimony, on juror alcohol and drug use
+during the trial….
+II.
+…Petitioners assert that, contrary to the holdings of the
+District Court and the Court of Appeals, juror testimony on
+ingestion of drugs or alcohol during the trial is not barred by
+Federal Rule of Evidence 606(b). Moreover, petitioners argue
+that whether or not authorized by Rule 606(b), an evidentiary
+hearing including juror testimony on drug and alcohol use is
+compelled by their Sixth Amendment right to trial by a
+competent jury.
+By the beginning of this century, if not earlier, the nearuniversal and firmly established common-law rule in the
+United States flatly prohibited the admission of juror
+testimony to impeach a jury verdict….
+Exceptions to the common-law rule were recognized only in
+situations in which an “extraneous influence,” Mattox v. United
+States, 146 U.S 140, 146 U.S. 149 (1892), was alleged to have
+affected the jury. In Mattox, this Court held admissible the
+testimony of jurors describing how they heard and read
+prejudicial information not admitted into evidence. The
+
+8
+
+Court allowed juror testimony on influence by outsiders in
+Parker v. Gladden, 385 U.S. 363, 386 U.S. 365, (1966) (bailiff's
+comments on defendant), and Remmer v. United States, 347
+U.S. 227, 347 U.S. 228-230, (bribe offered to juror). See also
+Smith v. Phillips, 455 U.S. 209, (1982) (juror in criminal trial
+had submitted an application for employment at the District
+Attorney's office). In situations that did not fall into this
+exception for external influence, however, the Court adhered
+to the common-law rule against admitting juror testimony to
+impeach a verdict. McDonald v. Pless, 238 U.S. 264, (1915)….
+Lower courts used this external/internal distinction to
+identify those instances in which juror testimony impeaching
+a verdict would be admissible. The distinction was not based
+on whether the juror was literally inside or outside the jury
+room when the alleged irregularity took place; rather, the
+distinction was based on the nature of the allegation. Clearly a
+rigid distinction based only on whether the event took place
+inside or outside the jury room would have been quite
+unhelpful. For example, under a distinction based on
+location, a juror could not testify concerning a newspaper
+read inside the jury room. Instead, of course, this has been
+considered an external influence about which juror testimony
+is admissible….Similarly, under a rigid locational distinction
+jurors could be regularly required to testify after the verdict as
+to whether they heard and comprehended the judge's
+instructions, since the charge to the jury takes place outside
+the jury room. Courts wisely have treated allegations of a
+juror's inability to hear or comprehend at trial as an internal
+matter….
+Most significant for the present case, however, is the fact that
+lower federal courts treated allegations of the physical or
+mental incompetence of a juror as “internal” rather than
+“external” matters….
+There is little doubt that postverdict investigation into juror
+misconduct would in some instances lead to the invalidation
+of verdicts reached after irresponsible or improper juror
+
+9
+
+behavior. It is not at all clear, however, that the jury system
+could survive such efforts to perfect it. Allegations of juror
+misconduct, incompetency, or inattentiveness, raised for the
+first time days, weeks, or months after the verdict, seriously
+disrupt the finality of the process....Moreover, full and frank
+discussion in the jury room, jurors' willingness to return an
+unpopular verdict, and the community's trust in a system that
+relies on the decisions of laypeople would all be undermined
+by a barrage of postverdict scrutiny of juror conduct….
+….[P]etitioners argue that substance abuse constitutes an
+improper “outside influence” about which jurors may testify
+under Rule 606(b). In our view, the language of the Rule
+cannot easily be stretched to cover this circumstance.
+However severe their effect and improper their use, drugs or
+alcohol voluntarily ingested by a juror seems no more an
+“outside influence” than a virus, poorly prepared food, or a
+lack of sleep.
+In any case, whatever ambiguity might linger in the language
+of Rule 606(b) as applied to juror intoxication is resolved by
+the legislative history of the Rule….
+The House Judiciary Committee described the effect of the
+version of Rule 606(b) transmitted by the Court as follows:
+“As proposed by the Court, Rule 606(b)
+limited testimony by a juror in the course of
+an inquiry into the validity of a verdict or
+indictment. He could testify as to the
+influence
+of
+extraneous
+prejudicial
+information brought to the jury's attention
+(e.g. a radio newscast or a newspaper account)
+or an outside influence which improperly had
+been brought to bear upon a juror (e.g. a threat
+to the safety of a member of his family), but
+he could not testify as to other irregularities
+which occurred in the jury room. Under this
+formulation a quotient verdict could not be
+attacked through the testimony of juror, nor
+
+10
+
+could a juror testify to the drunken condition of a
+fellow juror which so disabled him that he could not
+participate in the jury's deliberations.” (emphasis
+supplied).
+….The House Judiciary Committee, persuaded that the better
+practice was to allow juror testimony on any “objective juror
+misconduct,” amended the Rule so as to comport with the
+more expansive versions proposed by the Advisory
+Committee in earlier drafts, and the House passed this
+amended version.
+….[T]he Senate decided to reject the broader House version
+and adopt the narrower version approved by the Court. The
+Senate Report explained:
+“[The House version's] extension of the
+ability to impeach a verdict is felt to be
+unwarranted and ill-advised.
+“The rule passed by the House…would have
+the effect of opening verdicts up to challenge
+on the basis of what happened during the
+jury's internal deliberations, for example,
+where a juror alleged that the jury refused to
+follow the trial judge's instructions or that
+some of the jurors did not take part in
+deliberations.
+….
+“As it stands then, the rule would permit the
+harassment of former jurors by losing parties
+as well as the possible exploitation of
+disgruntled or otherwise badly-motivated exjurors.
+“Public policy requires a finality to litigation.
+And common fairness requires that absolute
+privacy be preserved for jurors to engage in
+the full and free debate necessary to the
+attainment of just verdicts. Jurors will not be
+able to function effectively if their
+
+11
+
+deliberations are to be scrutinized in post-trial
+litigation. In the interest of protecting the jury
+system and the citizens who make it work,
+rule 606 should not permit any inquiry into
+the internal deliberations of the jurors.”
+The Conference Committee Report reaffirms Congress'
+understanding of the differences between the House and
+Senate versions of Rule 606(b):
+“[T]he House bill allows a juror to testify
+about objective matters occurring during the
+jury's deliberation, such as the misconduct of
+another juror or the reaching of a quotient
+verdict. The Senate bill does not permit juror
+testimony about any matter or statement
+occurring during the course of the jury's
+deliberations.”
+…The Conference Committee adopted, and
+Congress enacted, the Senate version of Rule
+606(b).”
+Thus, the legislative history demonstrates with uncommon
+clarity that Congress specifically understood, considered, and
+rejected a version of Rule 606(b) that would have allowed
+jurors to testify on juror conduct during deliberations,
+including juror intoxication. This legislative history provides
+strong support for the most reasonable reading of the
+language of Rule 606(b) -- that juror intoxication is not an
+“outside influence” about which jurors may testify to
+impeach their verdict.
+….
+Petitioners also argue that the refusal to hold an additional
+evidentiary hearing at which jurors would testify as to their
+conduct “violates the sixth amendment's guarantee to a fair
+trial before an impartial and competent jury.” (emphasis in
+original).
+
+12
+
+This Court has recognized that a defendant has a right to “a
+tribunal both impartial and mentally competent to afford a
+hearing.”….
+….Petitioners' Sixth Amendment interests in an unimpaired
+jury, on the other hand, are protected by several aspects of
+the trial process. The suitability of an individual for the
+responsibility of jury service, of course, is examined during
+voir dire. Moreover, during the trial the jury is observable by
+the court, by counsel, and by court personnel. See United States
+v. Provenzano, 620 F.2d 985, 996-997 (CA3 1980) (marshal
+discovered sequestered juror smoking marijuana during early
+morning hours). Moreover, jurors are observable by each
+other, and may report inappropriate juror behavior to the
+court before they render a verdict. See Lee v. United States, 454
+A.2d 770 (DC App.1982), cert. denied sub nom. McIlwain v.
+United States, 464 U.S. 972, (1983) (on second day of
+deliberations, jurors sent judge a note suggesting that
+foreperson was incapacitated). Finally, after the trial a party
+may seek to impeach the verdict by nonjuror evidence of
+misconduct. See United States v. Taliaferro, 558 F.2d 724, 725726 (CA4 1977) (court considered records of club where
+jurors dined, and testimony of marshal who accompanied
+jurors, to determine whether jurors were intoxicated during
+deliberations). Indeed, in this case the District Court held an
+evidentiary hearing giving petitioners ample opportunity to
+produce nonjuror evidence supporting their allegations.
+In light of these other sources of protection of petitioners'
+right to a competent jury, we conclude that the District Court
+did not err in deciding, based on the inadmissibility of juror
+testimony and the clear insufficiency of the nonjuror evidence
+offered by petitioners, that an additional post-verdict
+evidentiary hearing was unnecessary.
+Notes
+1. In the wake of Tanner, Indiana amended Indiana Rule of
+Evidence 606(b) so that jurors can now testify “to drug or
+
+13
+
+alcohol use by any juror….” See Colin Miller, Amores Perros:
+Indiana Firefigther Convicted of Running Pitbull-Fighting Operation Seeks
+Jury Impeachment Based Upon Unadmitted Photo, EVIDENCEPROF
+BLOG,
+July
+8,
+2008,
+http://lawprofessors.typepad.com/evidenceprof/2008/07/dogfighting-60.html. Other jurisdictions do not have such an
+exception.
+2. As noted, in its 1915 opinion in McDonald v. Pless, 238 U.S. 264,
+the United States Supreme Court concluded that it had to
+“choose between redressing the injury of the private litigant and
+inflicting the public injury which would result if jurors were
+permitted to testify as to what had happened in the jury room.”
+Later in its opinion, the Court noted that the anti-jury
+impeachment rule that it was announcing did not apply in
+criminal cases. There is no such limitation in Federal Rule of
+Evidence 606(b), and, obviously, the Court applied the Rule to
+Tanner, a criminal case. Do you agree with the Court’s conclusion
+in Pless or the current formulation of the Rule? Should the Rule
+apply even in death penalty appeals? See Colin Miller, We The Jury:
+Supreme Court Of Pennsylvania Refuses To Hear Allegations Of Extreme
+Juror Racial Prejudice In Death Penalty Appeal, EVIDENCEPROF
+BLOG,
+December
+19,
+2008,
+http://lawprofessors.typepad.com/evidenceprof/2008/12/606bcom-v-stee.html.
+3. What sources of protection of a defendant’s right to a competent
+jury does Justice O’Connor identify? Do you think that these
+protections are sufficient?
+VI. 606(b): The External/Internal Distinction
+As Justice O’Connor found in Tanner, there is an external/internal
+distinction in Rule 606(b). Jurors can impeach their verdicts based
+upon anything external to the jury deliberation process, but they
+cannot impeach their verdicts based upon anything internal to the jury
+deliberation process. Examples of matters internal to the jury
+deliberation process include claims that jurors (1) took the
+defendant’s refusal to testify as evidence of his guilt, (2)
+
+14
+
+misunderstood jury instructions, (3) reached a majority or quotient
+verdict, or (4) threatened each other.
+Hypothetical 1: Charles Orange is charged with aggravated
+sexual conduct and the lesser-included offense of indecency
+with a child. The jury finds Orange “not guilty” of aggravated
+sexual misconduct but “guilty” of indecency with a child.
+After trial, jurors inform defense counsel that there was no
+unanimity. Some jurors wanted to convict Orange of
+aggravated sexual conduct while others wanted to acquit him
+entirely. In the end, the jurors split the difference and
+compromised, convicting Orange of the lesser-included
+offense. Can the jurors impeach the verdict? See Orange v.
+State, No. 06-08-00193-CR, (Tex. App. 6th 2008) 2009 WL
+3851068; Colin Miller, Compromising Position: Court Of Appeals
+Of Texas Notes That Rule 606(b) Precludes Jury Impeachment
+Regarding Compromise Verdict. EVIDENCEPROF BLOG, Nov. 19,
+2009,
+http://lawprofessors.typepad.com/
+evidenceprof/2009/11/606b-compromise--charles-eugeneorange-appellant-v-the-state-of-texas-appellee----sw3d-----2009-wl-3851068texapp-t.html.
+Hypothetical 2: A jury found David Jackson guilty of
+murder and sentenced to him death based upon the killing of
+another inmate during a prison fight. Jackson thereafter
+moved for a new trial, alleging that the jury erroneously
+believed that even if Jackson were sentenced to life without
+parole, it was still possible he could be released before the
+end of his life, despite the district court's explicit instruction
+to the contrary. In support of this contention, he proffered an
+affidavit of an investigator who contacted jurors after the
+trial. The affidavit stated that a number of jurors believed that
+Jackson could be released early, as had happened with a
+cooperating witness who testified at trial. Should the affidavit
+be deemed admissible? See United States v. Jackson, No. 0641680 (5th Cir. 2008) 2008 WL 4901375; Colin Miller, How
+Different Is Death?: Fifth Circuit Precludes Jury Impeachment Based
+Upon Misunderstood Jury Instructions In Capital Case.
+
+15
+
+EVIDENCEPROF
+BLOG,
+Nov.
+30,
+http://lawprofessors.typepad.com/evidenceprof/
+2008/11/essential-eleme.html.
+
+2009,
+
+A. 606(b)(2)(A): Extraneous Prejudicial Information
+Rule 606(b)(2)(A) states that jurors may testify about “whether
+extraneous prejudicial information was improperly brought to the
+jury's attention…” “Extraneous prejudicial information is commonly
+understood to mean information the jury receives outside the
+courtroom.” United States v. Stewart, 317 F.Supp.2d 426, 431 (S.D.N.Y.
+2004). Put another way, extraneous prejudicial information is
+“information that was not admitted into evidence but nevertheless
+bears on a fact at issue in the case.” Robinson v. Polk, 438 F.3d 350,
+363 (4th Cir. 2006). Information does not need to appear overtly
+prejudicial to be deemed prejudicial under Rule 606(b)(1). Thus, for
+instance, in Bauberger v. Haynes, 666 F.Supp.2d 558 (M.D.N.C. 2009),
+the court reversed a petitioner’s conviction for second degree murder
+and other crimes after receiving testimony regarding a juror reading
+to other jurors the dictionary definition of “malice,” which competed
+with the legal definition of malice. In other words, if a juror uses any
+relevant information learned after the start of trial but not admitted at
+trial, she is using extraneous prejudicial information, and any juror
+can later impeach that verdict.
+Hypothetical 3: During an attempt to foil a kidnap and
+ransom attempt, Detective Sirk strikes Henry Bradford with
+his squad car twice. Bradford thereafter brings a § 1983 action
+against Sirk. At trial, Sirk testifies that he struck Bradford a
+second time to prevent him from escaping because Bradford
+got up after initially being struck. Bradford testifies during
+direct examination that he never got up after being struck the
+first time. During cross-examination, however, when
+questioned about events leading up to Sirk striking him,
+Bradford invokes his Fifth Amendment privilege against selfincrimination. On Sirk’s motion, the judge strikes Bradford’s
+testimony and instructs the jury to disregard Bradford’s
+testimony. After the jury finds for Bradford, jurors submit
+affidavits indicating that they considered Bradford’s stricken
+
+16
+
+testimony despite the judge’s instruction not to. Are the
+affidavits admissible under Rule 606(b)? See Bradford v. City of
+Los Angeles, 21 F.3d 1111 (9th Cir. 1994).
+Hypothetical 4: Toymaker Mattel sues MGA Entertainment,
+claiming that Carter Bryant, MGA’s creator of Bratz dolls,
+created the doll's characters and the name Bratz while he was
+under contract as a Barbie designer at Mattel. The jury found
+in favor of Mattel. MGA subsequently moved for a mistrial.
+MGA’s CEO was Iranian-born Isaac Larian, and it came out
+after trial that Juror No. 8 said with regard to Persians and/or
+Iranians that they “lie,” “stole ideas” and were “stubborn”
+and “rude.” According to several jurors, including Juror No.
+8 herself, these opinions did not originate with Juror No. 8
+but instead came from her husband when she asked him
+about the trial. Can the jurors impeach their verdict? See
+Bryant v. Mattel, Inc., 2008 WL 3367605 (C.D. Cal 2008); Colin
+Miller, In A Barbie World: Court Denies Motion For Mistrial In
+Bratz Lawsuit After Horribly Misguided Rule 606(b) Ruling.
+EVIDENCEPROF
+BLOG,
+Aug.
+17,
+2008,
+http://lawprofessors.typepad.com/evidenceprof/2008/08/6
+06b-bryant-v-m.html. What if these opinions originated with
+Juror No. 8, and she did not consult her husband? See infra
+VIII.D. What if Juror No. 8 indicated during voir dire that
+ethnicity would not influence her decision as a juror in any
+way? See infra VII.B.
+Hypothetical 5: A teenage boy from a city slum is charged
+with murdering his father with a switch-blade knife. The boy
+owned the same type of knife used in the murder and claimed
+that he lost it through a hole in his pocket before the murder.
+The prosecutor tried to establish the distinctiveness of the
+knife by having the storekeeper of the store where the boy
+purchased the knife testify that he had never seen another
+knife like it. During deliberations, Juror No. 8 displays to the
+other jurors a knife similar to the knife used in the murder
+which he purchased from a pawn shop two blocks from the
+boy’s residence. Does the knife constitute extraneous
+
+17
+
+prejudicial information? See the movie 12 ANGRY MEN
+(MGM 1957).
+It could be said that the modern counterpart to the situation in 12
+Angry Men is the “Google mistrial,” i.e., jurors using internet searches
+to learn information about a case. See John Schwartz, As Jurors Turn to
+Web, Mistrials Are Popping Up, N.Y. TIMES, March 17, 2009. To
+remedy this problem, some judges have begun instructing jurors “not
+to Google the case online.” See Colin Miller, Avoiding The Google
+Mistrial: Story Reveals Measures Oklahoma Judge Has Taken In Light Of
+New Technologies, EVIDENCEPROF BLOG, Oct. 1, 2009,
+http://lawprofessors.typepad.com/evidenceprof/2009/10/jurytechnologyhttpwwwnewson6comglobalstoryasps11226092.html.
+Another problem is jurors improperly e-mailing each other during
+trial and deliberations. See Colin Miller, In Birmingham, They Love The
+Governor: HealthSouth Appeal Prompts Interesting Hearsay And Jury
+Impeachment Rulings, EVIDENCEPROF BLOG, March 8, 2009,
+http://lawprofessors.typepad.com/evidenceprof/2009/03/coconspirator.html. Would Rule 606(b) prevent testimony regarding
+such e-mails?
+B. 606(b)(2)(B): Improper Outside Influences
+Rule 606(b)(2)(B) states that jurors may testify about “whether any
+outside influence was improperly brought to bear upon any juror.”
+An improper outside influence “is an outside influence upon the
+partiality of the jury, such as ‘private communication, contact, or
+tampering...with a juror….’” Robinson v. Polk, 438 F.3d 350, 363 (4th
+Cir. 2006). Conversely, jurors cannot testify concerning internal
+influences from other jurors, no matter how improper. See, e.g.,
+Dickson v. Subia, 2010 WL 1992580 (E.D. Cal. 2010) (precluding jury
+impeachment concerning allegations that a juror who wanted to vote
+“not guilty” was verbally harassed and physically threatened by other
+jurors).
+Hypothetical 6: Paul Lewis is charged with first-degree
+sexual offense, robbery with a dangerous weapon, and felony
+breaking and entering. Among the jurors hearing the case was
+Deputy Eddie Hughes. Deputy Hughes actually knew Lewis
+
+18
+
+because he transported him to Central Prison after his arrest.
+While Hughes transported Lewis, Lewis disclosed to him that
+he had failed a polygraph test. However, despite Hughes
+admitting these facts during voir dire, Lewis’ attorney did not
+use a preemptory challenge to remove Hughes. After Lewis
+was convicted, defense counsel learned that during a break in
+Lewis’ trial, Deputy Hughes went to the Sheriff's
+Department, where a detective said to him, "[I]f we have...a
+deputy sheriff for a juror, he would do the right thing. You
+know he flunked a polygraph test, right?” Can Hughes
+impeach the verdict? What about if Hughes was unaware of
+the failed polygraph test before trial? See State v. Lewis, 654
+S.E.2d 808 (N.C.App. 2008); Colin Miller, Do the Right Thing:
+Court Finds Detective Pressure Constitutes an Improper Outside
+Influence Under Rule 606(b). EVIDENCEPROF BLOG, Jan. 22,
+2008,
+http://lawprofessors.typepad.com/evidenceprof/2008/01/d
+o-the-right-th.html.
+Hypothetical 7: Joaquin Valenica-Trujillo is charged with
+money laundering and several drug crimes. On the fourth day
+of deliberations, the jury finds him guilty of these crimes.
+After Valencia-Trujillo is convicted, defense counsel learns
+that the jury foreman booked a flight to Las Vegas which
+departed on the fourth day of deliberations and pressured
+other jurors to find the defendant guilty so that he could
+make his flight. Can a juror impeach the verdict? See United
+States v. Valencia-Trujillo, No. 09-15766 (11th Cir. 2010) 2010
+WL 2163105; Colin Miller, Travel Plans: Eleventh Circuit
+Precludes Jury Impeachment Regarding Foreman with Flight on 4th Day
+of Deliberations Pressuring Jury to Hurry. EVIDENCEPROF BLOG,
+June
+5,
+2010,
+http://lawprofessors.typepad.com/evidenceprof/2010/06/6
+06b-vacation--us-v-valencia-trujilloslip-copy-2010-wl2163105ca11-fla2010.html. What if a juror admitted that he
+changed his vote from “not guilty” to “guilty” solely so that
+he could make an annual fishing trip? See State v. Miller, 772
+
+19
+
+N.W.2d 188 (Wis.App. 2009); Colin Miller, I’d Rather be
+Fishing: Court Refuses to Allow Jury Impeachment Based Upon Juror
+Changing Vote to Guilty to Make Annual Fishing Trip.
+EVIDENCEPROF BLOG, May 13, 2009, http://lawprofessors.
+typepad.com/evidenceprof/2009/05/606b--state-vmillerslip-copy-2009-wl-1081745wisapp2009.html.
+C. 606(b)(2)(C): Mistake in Entering the Verdict on the
+Verdict Form
+When Rule 606(b) was initially enacted, it only contained the previous
+two exceptions. Nonetheless, many courts began creating an
+exception to the Rule for clerical errors in entering the verdict on the
+verdict form. In 2006, the Rule was amended to allow jurors to testify
+about “whether there was a mistake in entering the verdict onto the
+verdict form.” The accompanying Advisory Committee’s Note
+indicates that
+In adopting the exception for proof of
+mistakes in entering the verdict on the verdict
+form, the amendment specifically rejects the
+broader exception, adopted by some courts,
+permitting the use of juror testimony to prove
+that the jurors were operating under a
+misunderstanding about the consequences of
+the result that they agreed upon….The
+broader exception is rejected because an
+inquiry into whether the jury misunderstood
+or misapplied an instruction goes to the
+jurors' mental processes underlying the
+verdict, rather than the verdict's accuracy in
+capturing what the jurors had agreed upon….
+Instead, according to the Note, “the exception established by the
+amendment is limited to cases such as ‘where the jury foreperson
+wrote down, in response to an interrogatory, a number different from
+that agreed upon by the jury, or mistakenly stated that the defendant
+was ‘guilty’ when the jury had actually agreed that the defendant was
+not guilty.’”
+
+20
+
+Hypothetical 8: Emily Kennedy, the administratrix of the
+estate of Helen A. Hopkinson, brings an action against
+Stanley Sticker sounding in trespass and wrongful cutting of
+timber. At the end of trial, the jury purportedly awards the
+plaintiff $5,000 in damages. It is later determined that the jury
+agreed to award the plaintiff $500 in damages, with the
+foreperson erroneously reducing that verdict to the verdict
+form. Can jurors testify about the error? See Kennedy v. Stocker,
+70 A.2d 587 (Vt. 1950).
+Hypothetical 9: A plaintiff seeks $50,000 in damages from a
+defendant, and the defendant counterclaims for $50,000 in
+damages. The jury's verdict form appears to award the
+plaintiff $20,000 in damages and the defendant $30,000 in
+damages (e.g., $10,000 to the defendant). After the verdict is
+entered, jurors come forward and claim that the $20,000 in
+damages listed for the plaintiff was the net amount that they
+intended to award it, and the $30,000 allegedly awarded to the
+defendant was intended to be the amount deducted from the
+$50,000 sought by the plaintiff to reach the total final billing
+of $20,000. Will the juror affidavits be admissible to “correct”
+the verdict? Cf. Carolina Homes by Design, Inc. v. Lyons, No.
+COA09-74 (N.C.App. 2010) 2010 WL 2367110; Colin Miller,
+Standard Deduction: Court Of Appeals Of North Carolina Precludes
+Jury Impeachment Regarding Incorrect Damages Being Awarded.
+EVIDENCEPROF
+BLOG,
+June
+16,
+2010,
+awprofessors.typepad.com/evidenceprof/2010/06/606b-carolina-homes-by-design-inc-v-lyonsslip-copy-2010-wl2367110-tablencapp2010.html.
+VII. Situations Where Rule 606(b) Does Not Apply
+A. Testimony by Nonjurors
+As the text of Rule 606(b) and Justice O’Connor’s opinion in Tanner
+make clear, Rule 606(b) only governs testimony by jurors. Therefore,
+if a nonjuror observes jury misconduct, she can impeach the jury’s
+verdict. For example, in Tanner, Justice O’Connor cited to the Fourth
+Circuit’s opinion in United States v. Taliaferro, 558 F.2d 724 (4th Cir.
+
+21
+
+1977), in which a judge sent a Marshal to accompany jurors to a
+private club to deliberate and the Marshal was allowed to impeach
+their verdict through testimony regarding their consumption of
+alcoholic beverages during deliberations.
+Hypothetical 10: Robert Lamb is convicted of the firstdegree murder of his sister. After Lamb was convicted, he
+brought a motion for a new trial based upon the following
+facts: The trial judge, who had a scheduling conflict, left the
+jury in another judge's charge on its second day of
+deliberations. Thereafter, the foreman told the bailiff he had a
+note for the judge. The bailiff saw the note, which asked
+about the difference between first- and second-degree
+murder, but he neither took possession of it nor alerted the
+parties or either judge. Instead, taking matters into his own
+hands, the bailiff told the jury the judge was out of the
+jurisdiction and to read the jury instructions. Can the bailiff
+testify concerning these facts? See Lamb v. State, No. 51457
+(Nev. 2011) 2011 WL 743193; Colin Miller, No One But the
+Bailiff: Supreme Court of Nevada Finds Bailiff’s Improper Behavior
+Insufficient to Award New Trial. EVIDENCEPROF BLOG, Mar. 18,
+2011,
+awprofessors.typepad.com/evidenceprof/2011/03/606blamb-v-state-p3d-2011-wl-743193nev2011.html.
+B. Juror Testimony Not Offered to Impeach a Verdict
+Rule 606(b) only applies when a party seeks to impeach a verdict after
+a verdict has been entered. Before a verdict has been entered, Rule
+606(a) governs juror testimony. Even after a verdict has been entered,
+Rule 606(b) only governs juror testimony when offered as part of an
+inquiry into the validity of the verdict. Thus, most courts have held
+that if a juror makes a claim during voir dire (e.g., that race would not
+influence his decision) and then contradicts that claim during
+deliberations (e.g., by making racist comments), another juror may
+testify concerning the contradiction. Indeed, in State v. Hidanovic, 747
+N.W.2d 463, 474 (N.D. 2008), the Supreme Court of North Dakota
+noted that “[c]ourts have universally held that provisions similar to
+N.D.R.Ev. 606(b)…do not preclude evidence to show that a juror
+
+22
+
+lied on voir dire….” Even though such testimony would be offered as
+part of an inquiry into whether a juror lied during voir dire, it could
+have the effect of invalidating the verdict because, as the United
+States Supreme Court held in McDonough Power Equipment, Inc. v.
+Greenwood, 454 U.S. 548, 556 (1984), a party can obtain a new trial by
+demonstrating that a juror failed to answer honestly a material
+question on voir dire and that a correct response would have provided
+a basis for a challenge for cause. See, e.g., Merchant v. Forest Family
+Practice Clinic, P.A., No. 2009-CA-01622-SCT (Miss. 2011) 2011 WL
+3505309.
+But if the court’s conclusion in Hidanovic about courts universally
+reaching this conclusion were once true, it is no longer true. In United
+States v. Benally, 546 F.3d 1230 (10th Cir. 2008), no juror responded
+“yes” when asked on voir dire: “Would the fact that the defendant is a
+Native American affect your evaluation of the case?” and “Have you
+ever had a negative experience with any individuals of Native
+American descent? And, if so, would that experience affect your
+evaluation of the facts of this case?” The day after Benally, a Native
+American man, was convicted of assaulting a BIA officer, a juror told
+defense counsel, among other things, that during deliberations some
+jurors discussed the need to “send a message back to the
+reservation.” and one juror said that ….“[w]hen Indians get alcohol,
+they all get drunk,” and that when they get drunk, they get violent….
+The district court allowed Benally to use juror affidavits to this effect
+in support of his motion to vacate the verdict and receive a new trial.
+The United States Court of Appeals for the Tenth Circuit, however,
+reversed and deemed the affidavits inadmissible because it found that
+Benally was using the affidavits to show that jurors lied during voir
+dire as a vehicle for “question[ing] the validity of the verdict.” The
+court did acknowledge, though, that the affidavits would have been
+admissible in contempt proceedings against any dishonest jurors.
+Nonetheless, most courts still allow jurors to testify regarding jury
+deliberations to prove that a jury lied during voir dire. But cf. United
+States v. Snipes, No. 10-15573 (11th Cir. 2011) 2011 WL 3890354
+(ignoring an argument by actor Wesley Snipes that he should be
+granted leave to interview jurors concerning whether they lied during
+
+23
+
+voir dire regarding their acceptance of the presumption of innocence);
+Colin Miller, A Taxing Matter, Take 2: 11th Circuit Affirms District
+Court's Ruling Denying Wesley Snipes' Motion For A New Trial.
+EVIDENCEPROF
+BLOG,
+Sep.
+7,
+2011,
+http://lawprofessors.typepad.com/evidenceprof/2011/09/
+yesterday-the-eleventh-circuit-decided-united-states-v-snipes-2011wl-3890354-11th-cir-2011-in-the-opinion-the-court.html.
+VIII. Splits in Authority
+A. States without Counterparts to Rule 606(b)
+Some states, like Washington, do not have counterparts to Federal
+Rule of Evidence 606(b) and/or allow post-verdict juror testimony
+regarding overt acts during jury deliberations but disallow juror
+testimony regarding a juror’s mental process in reaching a verdict.
+For instance, in Washington, a juror can impeach a verdict unless the
+information provided “inheres in the verdict,” i.e., unless it relates to
+“[j]uror motives, the effect the evidence had on the jurors, the weight
+given to the evidence by particular jurors, and the jurors’ intentions
+and beliefs….” State v. Rooth, 121 P.3d 755, 760-61 (Wash.App. Div. 2
+2005); see also Colin Miller, A Trial That Will Live In Infamy?:
+Washington Case Reveals That The State Has No Version Of Rule 606(b),
+EVIDENCEPROF BLOG (February 18, 2009), http://lawprofessors.
+typepad.com/evidenceprof/2009/02/a-washington-ju.html.
+B. Minnesota’s Violence Exception to Rule 606(b)
+In most jurisdictions, jurors cannot impeach their verdicts through
+allegations of actual or threatened violence against them by other
+jurors. Under Minnesota Rule of Evidence 606(b), however, jurors
+may ….“testify as to any threats of violence or violent acts brought
+to bear on jurors, from whatever source, to reach a verdict.”….
+In Gaines v. Tenney, No. E2008-02323-COA-R3-CV (Tenn.Ct.App.
+2010) 2010 WL 199628, a juror claimed that she changed her vote
+from “not guilty” to “guilty” because she was subjected to threatened
+and actual violence by other jurors, such as the foreman reaching
+across a table and throwing paper at her. The Court of Appeals of
+Tennessee refused to read a violence exception into Tennessee Rule
+
+24
+
+of Evidence 606(b). Do you think that the juror should have been
+able to testify? What if the juror’s claim was that the foreman stood
+between her and the door and prevented her from telling the judge
+that she was voting “not guilty”? See Colin Miller, Turkey Of An
+Opinion: Court Precludes Jury Impeachment Despite Foreperson Blocking Door
+To Prevent Juror From Reporting "Not Guilty" Vote In Thanksgiving Related
+Case,
+EVIDENCEPROF
+BLOG,
+Nov.
+26,
+2009,
+http://lawprofessors.typepad.com/
+evidenceprof/2009/11/thanksgivingpanella-v-marshallslip-copy2009-wl-2475007edcal2009.html.
+If you agree with Minnesota’s version of the rule, do you believe that
+courts should draw the line at violence? According to the Committee
+Comment to Minnesota Rule of Evidence 606(b), ….“The trial court
+must distinguish between testimony about ‘psychological’
+intimidation, coercion, and persuasion, which would be inadmissible,
+as opposed to express acts or threats of violence.”…. Do you see a
+distinction between a juror threatening another juror’s physical wellbeing unless she changes her vote and a juror threatening another
+juror’s mental or emotional well-being?
+C. Testimony About the Effect on Deliberations of
+Extraneous Prejudicial Information/Improper
+Outside Influences
+As noted above, jurors can impeach their verdicts based upon
+allegations of extraneous prejudicial information and/or improper
+outside influences. But can they testify about the effect of such
+information/influences on their deliberations? The courts are split.
+For instance, in the Bratz case, the United States District Court for
+the Central District of California allowed jury impeachment regarding
+the statements by Juror No. 8 and her husband regarding Persians
+and/or Iranians. See VI.0, Hypothetical 2, supra at 13, The court,
+however, affirmed the verdict in favor of Mattel after it received
+testimony from jurors indicating that Juror No. 8's “remarks were
+made after agreement had been reached on all subjects upon which
+the jury ultimately reached a verdict.” Other courts, however, hold
+that jurors can only testify concerning information/influences, and it
+is then up to the judge objectively to determine the probable effect
+
+25
+
+that they would have on the average juror. See United States v. Lloyd,
+269 F.3d 228, 238 (3rd Cir. 2001). In other words, in these
+jurisdictions, jurors could testify that they read an article that the
+defendant failed a polygraph test, but they could not testify that the
+article changed their vote from “not guilty” to “guilty” or that the
+jury was deadlocked before the article was read. Considering the
+language of Rule 606(b), which interpretation do you think is correct?
+D. Allegations of Juror Racial, Religious, or Other Bias
+When Jurors Are Not Questioned Regarding Bias on
+
+Voir Dire
+
+As noted, in Tanner v. United States, the United States Supreme Court
+found that a defendant’s right to a competent jury is not violated by the
+application of Rule 606(b) to allegations of jurors sleeping and using
+drugs and alcohol during trial and deliberations. But does application
+of the Rule to allegations of juror racial, religious, or other bias
+violate a defendant’s right to an impartial jury or some other
+constitutional right? First, a few courts have found that the Rule does
+not apply to such allegations because they constitute extraneous
+prejudicial information. See, e.g., State v. Bowles, 530 N.W.2d 521, 536
+(Minn. 1995). And at least one court has found that such bias
+constitutes an outside improper influence. See United States v. Taylor,
+2009 WL 311138 (E.D. Tenn. 2009). Most courts, though, hold that
+juror bias is internal to the jury deliberation process and that
+allegations regarding such bias are inadmissible under Rule 606(b). See
+also Colin Miller, Dismissed with Prejudice?: Eastern District of Tennessee
+Issues Strange Opinion in Appeal Alleging Juror Racial Bias.
+EVIDENCEPROF
+BLOG,
+Feb.
+14,
+2009,
+http://lawprofessors.typepad.com/evidenceprof/2009/02/i-amcurrently.html.
+Some courts, though, hold that, despite the language of Rule
+606(b), Constitutional considerations might allow or require courts to
+permit jury impeachment regarding such bias. For instance, in United
+States v. Villar, 586 F.3d 76 (1st Cir. 2009), hours after a jury convicted
+a Hispanic man of bank robbery, a juror e-mailed defense counsel
+that another juror said during deliberations, “I guess we’re profiling
+but they cause all the trouble.” The district court allowed jury
+
+26
+
+impeachment on this subject, and the First Circuit affirmed, agreeing
+with the “[m]any courts [which] have recognized that Rule 606(b)
+should not be applied dogmatically where there is a possibility of
+juror bias during deliberations that would violate a defendant's Sixth
+Amendment rights.”
+Other courts, however, disagree, such as the Tenth Circuit in
+United States v. Benally, 546 F.3d 1230 (10th Cir. 2008). See VII.0 supra
+at 17. In addition to finding that Rule 606(b) prevented juror
+testimony regarding juror racial bias during deliberations to prove
+that jurors lied during voir dire, the court found that the Sixth
+Amendment right to an impartial jury did not trump Rule 606(b) and
+allow such testimony. Benally filed a petition for writ of certiorari
+regarding (1) whether jurors can generally testify about allegations of
+racial bias during deliberations under the Sixth Amendment, and (2)
+whether Rule 606(b) allows jurors to testify about allegations of racial
+bias during deliberations when jurors indicated during voir dire that
+race would not influence their decision as a juror in any way. The
+United States Supreme Court denied the petition. Which approach do
+you prefer?
+IX. Jury Impeachment Pleadings
+Some concise examples of motions connected to evidence sought to
+be admitted or excluded under Rule 606(b) can be found at:
+
+
+Williams v. Hall, 2009 WL 4060880 (D.Or. 2009) (Reply to
+Response in Opposition to Motion for Order Permitting
+Juror Interviews);
+
+
+
+Pierson v. Ford Motor Co., 2009 WL 2704593 (N.D.Cal. 2009)
+(Plaintiff's Opposition to Defendant 's Third Motion to
+Adjust the Verdict Based on Clerical Error, and, in the
+Alternative, Request for Evidentiary Hearing); and
+
+
+
+Fuller v. Fiber Glass Systems, L.P., 2009 WL 461992 (E.D.Ark.
+2009) (Defendant’s Response to Court’s Query).
+
+27
+
+

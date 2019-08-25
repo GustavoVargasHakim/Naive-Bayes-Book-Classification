@@ -1,0 +1,981 @@
+Evidence:
+Rape Shield Rule
+
+Colin Miller
+
+CALI eLangdell® Press 2012
+
+Notices
+This work by Colin Miller is licensed and published
+
+by CALI eLangdell Press under a Creative
+Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
+License. CALI and CALI eLangdell Press reserve under copyright all
+rights not expressly granted by this Creative Commons license. CALI
+and CALI eLangdell Press do not assert copyright in US
+Government works or other public domain material included herein.
+Permissions beyond the scope of this license may be available
+through feedback@cali.org.
+In brief, the terms of that license are that you may copy, distribute,
+and display this work, or make derivative works, so long as
+ you give CALI eLangdell Press and the author credit;
+ you do not use this work for commercial purposes; and
+ you distribute any works derived from this one under the
+same licensing terms as this.
+Suggested attribution format for original work:
+Colin Miller, Evidence: Rape Shield Rule, Published by CALI
+eLangdell Press. Available under a Creative Commons BY-NC-SA
+3.0 License.
+CALI® and eLangdell® are United States federally registered
+trademarks owned by the Center for Computer-Assisted Legal
+Instruction. The cover art design is a copyrighted work of CALI, all
+rights reserved. The CALI graphical logo is a trademark and may not
+be used without permission.
+Should you create derivative works based on the text of this book or
+other Creative Commons materials therein, you may not use this
+book’s cover art and the aforementioned logos, or any derivative
+thereof, to imply endorsement or otherwise without written
+permission from CALI.
+
+ii
+
+This material does not contain nor is intended to be legal advice.
+Users seeking legal advice should consult with a licensed attorney in
+their jurisdiction. The editors have endeavored to provide complete
+and accurate information in this book. However, CALI does not
+warrant that the information provided is complete and accurate.
+CALI disclaims all liability to any person for any loss caused by errors
+or omissions in this collection of information.
+
+iii
+
+About the Author
+Professor Miller teaches Evidence, Criminal Procedure, Criminal
+Law, and Civil Procedure. He is the creator and Blog Editor of
+EvidenceProf Blog of the Law Professor Blogs Network. He is the
+Editor of Illinois Criminal Procedure and drafted a 100 page report
+comparing the Federal Rules of Evidence to Illinois evidentiary
+principles, which was used in the creation of the first Illinois Rules of
+Evidence.
+Professor Miller received his B.A. degree with distinction from the
+University of Virginia and his J.D. (Order of the Coif) from the
+William & Mary Law School.
+
+iv
+
+About CALI eLangdell Press
+The Center for Computer-Assisted Legal Instruction (CALI®) is: a
+nonprofit organization with over 200 member US law schools, an
+innovative force pushing legal education toward change for the
+better. There are benefits to CALI membership for your school, firm,
+or organization. eLangdell® is our electronic press with a mission to
+publish more open books for legal education.
+How do we define "open?"
+
+
+Compatibility with devices like smartphones, tablets, and ereaders; as well as print.
+
+
+
+The right for educators to remix the materials through more
+lenient copyright policies.
+
+
+
+The ability for educators and students to adopt the materials
+for free.
+
+Find available and upcoming eLangdell titles at elangdell.cali.org.
+Show support for CALI by following us on Facebook and Twitter,
+and by telling your friends and colleagues where you received your
+free book.
+
+v
+
+Table of Contents
+Notices ..........................................................................................................ii
+About the Author ...................................................................................... iv
+About CALI eLangdell Press .................................................................... v
+Table of Contents ...................................................................................... vi
+Preface ........................................................................................................ vii
+Rape Shield Rule Chapter ..................................................................... 1
+Introductory Note .................................................................................... 1
+I. Historical Background ....................................................................... 1
+II. Rule 412(a)(1): The General Proscription ................................... 2
+III. Rule 412(b)(1): Criminal Exceptions .......................................... 5
+IV. Rule 412(b)(2): Civil Exception .................................................. 11
+V. Rule 412(c): Procedure for Admissibility in Criminal Cases 17
+VI. Rape Shield Pleadings ................................................................... 22
+
+vi
+
+Preface
+The Rape Shield Rule, contained in Federal Rule of Evidence 412
+and state counterparts is a Rule preventing the admission of evidence
+concerning the sexual predisposition and behavior of an alleged
+victim of sexual misconduct, subject to certain exceptions. Through a
+series of cases and hypotheticals drawn from actual cases, this
+chapter gives readers a roadmap for how to address any Rape Shield
+Rule issue in practice.
+
+vii
+
+Rape Shield Rule Chapter
+Introductory Note
+In 2009, the Committee on Rules of Practice and Procedure of the
+Judicial Conference of the United States Courts decided to “restyle”
+the Federal Rules of Evidence. The goal in this project was to make
+the Rules more user friendly rather than to enact substantive changes.
+At the end of each section of this casebook, there is a side-by-side
+comparison between the prior language of each portion of Rule 412
+and the language of the new “restyled” Rule. Because the changes
+were intended to be stylistic only, everything discussed in this chapter
+should continue to be good law after the “restyled” Rules take effect
+on December 1, 2011.
+I. Historical Background
+For the better part of this country's history, defense attorneys in rape
+and sexual assault cases used to parade into court the alleged victim’s
+sexual partners to, in effect, prove that she had a propensity to
+consent to sexual relations and that she acted in conformity with this
+propensity, and thus consented, at the time of the alleged rape or
+sexual assault1. Or, more generally, defense attorneys used this
+evidence to prove that the alleged victim was a liar2.
+Such displays impacted not only jurors, but also judges. For instance,
+in its 1895 opinion in State v. Sibley, 33 S.W. 167, 171 (Mo. 1895), the
+Supreme Court of Missouri inanely concluded that “[i]t is a matter of
+common knowledge that the bad character of a man for chastity does
+not even in the remotest degree affect his character for truth, when
+based upon that alone, while it does that of a woman.” See Colin
+1 Colin Miller, New Zealand’s New Rule?: NZ’s Justice Ministry Proposes Rape Shield,
+EvidenceProf Blog (Aug. 27, 2008) http://lawprofessors.typepad.com/
+evidenceprof/2008/08/nz-rape-httpwww.html.
+2 Jason M. Price, Constitutional Law—Sex, Lies and Rape Shield Statutes: The
+Constitutionality of Interpreting Rape Shield Statutes to Exclude Evidence Relating
+to the Victim’s Motive to Fabricate, 18 W. New Eng. L. Rev. 541 (1996),
+http://digitalcommons.law.wne.edu/lawreview/vol18/iss2/5
+
+1
+
+Miller, New Zealand's New Rule?: NZ's Justice Ministry Proposes Rape
+Shield
+Law.
+EvidenceProf
+Blog,
+(Aug.
+27,
+2008.)
+http://lawprofessors.typepad.com/evidenceprof/2008/08/nz-rapehttpwww.html. They also led to the underreporting of rapes and
+historically low conviction rates in rape and sexual assault cases. See,
+e.g., State v. Hudlow, 659 P.2d 514, 522-23 (Wash. 1983).
+This and related concerns led to the anti-rape movement, an offshoot
+of the civil rights movement of the 1960s and 1970s, being able to
+get rape shield laws passed in several states. See id. The Supreme
+Court later followed suit by creating Federal Rule of Evidence 412,
+the federal “rape shield” rule. In effect, rape shield rules protect
+complainants from having their past sexual behavior and/or
+predispositions exposed in the courtroom unless defense counsel can
+point toward a compelling theory of admissibility.
+Specifically, as amended in 1994, Rule 412(a) now provides, “The
+following evidence is not admissible in any civil or criminal
+proceeding involving alleged sexual misconduct except as provided in
+subdivisions (b) and (c): (1) Evidence offered to prove that any
+alleged victim engaged in other sexual behavior. (2) Evidence offered
+to prove any alleged victim's sexual predisposition.” Rule 412(a)
+applies not only in rape or sexual assault cases but also in other cases,
+including sexual harassment cases.
+II. Rule 412(a)(1): The General Proscription
+Under Rule 412(a)(1), evidence of other sexual behavior by an alleged
+victim is now inadmissible to prove her propensity to consent to
+sexual acts and her likely conformity with this propensity, and thus
+consent, at the time of the alleged rape or similar crime in civil and
+criminal cases. See, e.g., Ledesma v. Gov’t of the Virgin Is., 159 F. Supp.2d
+863 (D.V.I. 2001). According to the Advisory Committee’s Note, the
+phrase “other sexual behavior” includes not only “all activities that
+involve actual physical conduct, i.e. sexual intercourse and sexual
+contact, or that imply sexual intercourse or sexual contact,” but also
+“activities of the mind, such as fantasies or dreams.” Thus, for
+instance, in United States v. Papakee, 573 F.3d 569 (8th Cir. 2009), the
+Eighth Circuit found that a district court properly precluded the
+
+2
+
+defendant charged with sexual abuse from introducing evidence that
+the alleged victim told the deputy questioning her about the crime
+that he was cute and asked him if he wanted to crawl into bed with
+her because these statements were “other sexual behavior.” Courts
+generally have concluded that the rape shield rule precludes the
+admission of evidence of the victim’s other nonconsensual, as well as
+consensual, “sexual behavior.” See, e.g. Bryan v. State, 2010 WL
+1137038 (Tex.App. 2010); Colin Miller, Invasion Of Privacy: Court Of
+Appeals Of Texas Finds Trial Court Properly Excluded Evidence Of Alleged
+Victim's Prior Nonconsensual Sexual Acts Under Rape Shield Rule.
+EvidenceProf
+Blog
+(Apr.
+10,
+2010)
+http://lawprofessors.typepad.com/evidenceprof/2010/04/rapeshield--desmond-w-bryan-appellant-v-the-state-of-texas-state---sw3d------2010-wl-1137038texapp-fort-worth2010.html.
+Moreover, under Rule 412(a)(2), evidence of the sexual
+predisposition of alleged victims, such as their “mode of dress,
+speech, or life-style will not be admissible.” Thus, for instance,
+evidence that an alleged victim of homosexual rape had previously
+engaged in consensual homosexual acts is inadmissible to prove her
+propensity to consent to such acts and her likely conformity with this
+propensity at the time of the alleged rape. See, e.g., People v. Murphy,
+919 P.2d 191 (Colo. 1996). Similarly, evidence that an alleged rape
+victim had previously engaged in consensual extramarital affairs is
+inadmissible to prove her propensity to consent to such affairs and
+her likely conformity with that propensity at the time of an alleged
+rape by a man other then her husband. See, e.g., Truong v. Smith, 183
+F.R.D. 273 (D. Colo. 1998).
+Hypothetical 1
+Aleksandr Maksimenko is charged with several counts of
+criminal sexual abuse after allegedly forcing several women to
+engage in sexual acts with him under threat of physical force
+against them. Before trial, the prosecution files a motion in
+limine, seeking to preclude the defendant from interrogating
+the alleged victims about their profession as exotic dancers.
+Should the court grant the motion? Cf. United States v.
+Maksimenko, 2007 WL 522708 (E.D. Mich. 2007).
+
+3
+
+Hypothetical 2
+Mary Wilson brings a Title VII action against her former
+employer asserting acts of discrimination based on gender
+and sexual harassment. According to Wilson, these acts
+consisted, inter alia, of coworkers referring to her as a “bitch,”
+“cunt,” and “slut.” The defendant seeks to present evidence
+of Wilson’s own engagement in sexually explicit language and
+behavior in the workplace, such as talking about vibrators and
+men’s sexual organs. Is this evidence inadmissible under the
+Rape Shield Rule? See Wilson v. City of Des Moines, 442 F.3d
+637 (8th Cir. 2006).
+Hypothetical 3
+Preston Gaddis is charged with rape, sexual assault, and
+indecent assault after allegedly throwing a 19 year-old woman
+onto the floor and raping her in his Pennsylvania home. At
+trial, Gaddis seeks to introduce evidence of the alleged
+victim's relationship with another woman to prove that the
+alleged victim was uncertain about her sexual preference and
+was using intercourse with him as an attempt to determine
+whether she was homosexual or heterosexual. He claimed
+that when the experience did not turn out the way that she
+expected, she leveled the charges of rape against him despite
+the sex being consensual. The prosecution opposes the
+introduction of this evidence, claiming that it was
+inadmissible under Pennsylvania's version of the Rape Shield
+Law. How should the court rule? See Colin Miller, Keystone
+Case: Pennsylvania Court Finds Evidence of Lesbian Relationship
+Inadmissible Under Rape Shield Law. EvidenceProf Blog (Jan. 24,
+2008)
+http://lawprofessors.typepad.com/evidenceprof/2008/01/
+last-april-pres.html.
+
+4
+
+Prior Rules Language:
+(a) Evidence Generally
+Inadmissible. The following
+evidence is not admissible in any
+civil or criminal proceeding
+involving alleged sexual
+misconduct except as provided in
+subdivisions (b) and (c):
+(1) Evidence offered to prove
+that any alleged victim
+engaged in other sexual
+behavior.
+
+Restyled Rules Language:
+(a) Prohibited Uses. The
+following evidence is not
+admissible in a civil or criminal
+proceeding involving alleged
+sexual misconduct:
+(1) evidence offered to prove
+that a victim engaged in other
+sexual behavior; or
+(2) evidence offered to prove
+a victim’s sexual
+predisposition.
+
+(2) Evidence offered to prove
+any alleged victim’s sexual
+predisposition.
+III. Rule 412(b)(1): Criminal Exceptions
+Federal Rule of Evidence 412(b)(1), however, provides certain
+exceptions to this rule in criminal cases. It states that:
+(1) In a criminal case, the following evidence is admissible, if
+otherwise admissible under these rules:
+(A) evidence of specific instances of sexual behavior
+by the alleged victim offered to prove that a person
+other than the accused was the source of semen,
+injury, or other physical evidence;
+(B) evidence of specific instances of sexual behavior
+by the alleged victim with respect to the person
+accused of the sexual misconduct offered by the
+accused to prove consent or by the prosecution; and
+(C) evidence the exclusion of which would violate the
+constitutional rights of the defendant.
+An example of a court applying the exception contained in Rule
+412(b)(1)(A) can be found in United States v. Begay, 937 F.2d 515 (10th
+
+5
+
+Cir. 1991), where the trial court refused to allow the defendant, who
+was charged with aggravated sexual abuse, to present evidence that
+the eight year-old alleged victim had been sexually assaulted on
+several occasions in the months preceding the crime at issue. On the
+defendant's appeal, the Tenth Circuit reversed, finding that the
+prosecutor presented evidence about the alleged victim's enlarged
+hymenal opening and a vaginal abrasion; consequently, evidence of
+the sexual assaults by other men was admissible, not to prove
+propensity and conformity, but to prove that those assaults, rather
+than the defendant's alleged crime, could have caused her injuries.
+See, Id. at 520.
+Additionally, under Rule 412(b)(1)(B), evidence of previous
+consensual sexual acts between the alleged victim and the defendant
+are admissible to prove that there are specific reasons to believe that
+the alleged victim may have consented to sexual relations with the
+defendant at the time of an alleged rape or sexual assault. For
+instance, in State v. Sanchez-Lahora, 616 N.W.2d 810 (Neb. App. 2000),
+the Court of Appeals of Nebraska found that a trial court erred by
+precluding a defendant charged with sexual assault from introducing
+evidence that he had previously engaged in sexual relations with the
+alleged victim when they dated to rebut her claim that they dated but
+never had sexual intercourse.
+It is important to note that even if evidence satisfies either Rule
+412(b)(1)(A) or (B), the court can still exclude it if its probative value
+is substantially outweighed by the danger of unfair prejudice or any of
+the other dangers listed in Federal Rule of Evidence 403. Thus, for
+instance, in United States v. Pumpkin Seed, 2009 WL 2045690 (8th Cir.
+2009), the district court prevented the defendant charged with
+aggravated sexual abuse from presenting evidence that the alleged
+victim engaged in consensual sexual activity with other men within
+days of the alleged abuse. On appeal, the defendant claimed that this
+ruling was erroneous because it would have helped prove that the
+victim’s injuries could have come from those acts. See, id. at 557. The
+Eight Circuit disagreed, concluding that the type and extent of
+injuries suffered by the victim were generally inconsistent with
+
+6
+
+consensual activity and that the evidence would have a high risk of
+unfair prejudice and confusion. See Id. at 558-59.
+Finally, Rule 412(b)(1)(C) is a catch-all exception, which allows for
+the admission of an alleged victim's sexual history and predisposition
+for purposes other than those covered by Rules 412(b)(1)(A) and (B)
+when its exclusion would violate Constitutional rights such as the
+Due Process or Confrontation Clause rights of a criminal defendant.
+The case cited by the Advisory Committee in support of this
+exception involved a criminal defendant seeking to impeach his
+alleged victim by showing that an extramarital affair gave her a
+motive to lie, Olden v. Kentucky, 488 U.S. 227 (1988); thereafter, the
+exception has since most commonly been used for impeachment
+purposes. For instance, in In re K.W., 666 S.E.2d 490 (N.C. App.
+2008), the Court of Appeals of North Carolina found that a trial
+court erred in precluding a defendant from impeaching an alleged
+rape victim who claimed to be a virgin with suggestive photos and
+captions on her MySpace page implying that she was not a virgin. See
+Colin Miller, It's My Space. That's Why They Call It MySpace, Take 3:
+North Carolina Court Makes Erroneous MySpace Ruling In Rape Shield Case.
+EvidenceProf
+Blog
+(Sept.,
+18
+2008)
+http://lawprofessors.typepad.com/evidenceprof/2008/09/myspace412-in.html.
+It is important to note that some state counterparts are more
+restrictive than Federal Rule of Evidence 412(b)(1). For instance,
+unlike Federal Rule of Evidence 412(b)(1)(A), Minnesota’s
+counterpart, Minnesota Rule of Evidence 412(1)(B), does not allow a
+defendant to present evidence of an alleged victim’s other sexual
+behavior to prove that someone else caused her physical injuries. See,
+e.g., State v. McBroom, 2009 WL 4251080 (Minn .App. 2009); Colin
+Miller, Excepted Exception: Appeal Reveals Limited Applicability Of
+Minnesota's Other Source Rape Shield Exception. EvidenceProf Blog (Dec.
+6,
+2009)
+http://lawprofessors.typepad.com/
+evidenceprof/
+2009/12/412-semenstate-of-minnesota-respondent-v-james-davidmcbroom-appellant----nw2d------2009-wl4251080minnapp2009.html. On the other hand, other state
+counterparts add exceptions not contained in Federal Rule of
+
+7
+
+Evidence 412(b)(1). As an example, North Carolina Rule of Evidence
+412(b)(4) contains an exception to North Carolina’s rape shield rule
+for “evidence of sexual behavior offered as the basis of expert
+psychological or psychiatric opinion that the complainant fantasized
+or invented the act or acts charged.” See Colin Miller, But It Was Only
+A Fantasy: North Carolina Opinion Reveals Troubling Exception To The
+State's Rape Shield Rule EvidenceProf Blog (Nov. 2, 2009)
+http://lawprofessors.typepad.com/evidenceprof/2009/11/but-itwas-only-a-fantasy-north-carolina-opinion-reveals-troublingexception-to-the-states-rape-shie.html.
+Finally, across the country, courts continue to apply a common law
+exception to rape shield rules under which defendants can present
+evidence of prior false rape, sexual assault, or child molestation
+allegations brought by alleged victims. Although courts differ over
+exactly when defendants can present such evidence when (1) the
+alleged victim herself admitted that the prior allegation was false; or
+(2) the prior allegation was “demonstrably false.” See, e.g., Wells v.
+State, 928 N.E.2d 651 (Ind. App. 2010).
+Hypothetical 4
+Basketball player Kobe Bryant is charged with sexually
+assaulting a 19 year-old woman at a Colorado hotel. The
+woman claims that she only had sex once in the days
+surrounding the Bryant incident and that the man wore a
+condom. In a closed hearing in the case, a DNA expert
+testifies that the accuser had another man's semen on her
+thigh and inside her vagina during her medical examination. It
+was noted that a physical exam of Bryant after the incident
+produced no indication of a second man's DNA, leading the
+expert to say that she believed that the accuser had sex with
+the other man in the hours after she was with Bryant. Will
+Bryant be able to present this evidence at trial? See Lance
+Pugmire and David Wharton, Case Shadowed Cracks,
+Experts Say. Los Angeles Times, Sept. 2, 2004; Order Re:
+Defendant’s Motion to Admit Evidence Pursuant to C.R.S. §
+18-3-407 and People’s Motions in Limine #5 and #7 (court’s
+
+8
+
+rape shield ruling), People v. Bryant, 94 P. 3d 624 (2004) (No.
+03CR204)3.
+Hypothetical 5
+Monty Ramone is charged with sexually assaulting his exgirlfriend. According to the ex-girlfriend, after they had
+broken up, Ramone showed up at her home drunk and high
+on drugs and proceeded to violently sexually assault her. As a
+result of this assault, the ex-girlfriend was left with a deep
+scalp wound along her hairline, a swollen eye, a swollen hand,
+a bruised hip, and lips so swollen that she was unable to
+speak for a day or two. Ramone admitted that he beat his exgirlfriend but alleged that she consented to the sexual acts. In
+his defense, he seeks to present evidence that his ex-girlfriend
+and he previously engaged in several consensual sexual acts
+while they were dating. Should the court allow for the
+admission of this evidence? See United States v. Ramone, 218
+F.3d 1229 (10th Cir. 2000).
+Hypothetical 6
+Darrell Jackson was a family friend who babysat for A.C., a
+girl who was between ten and twelve years-old between 1999
+and 2002. According to A.C., during this time period, Jackson
+sexually assaulted her more than 50 times. At trial, the
+prosecution emphasized that A.C.'s behavior had deteriorated
+in significant ways starting about the time of the alleged
+offenses by Jackson and continuing up until the time of trial.
+In his defense, Jackson sought to present evidence that
+between 1999 and 2002, A.C. also reported being sexually
+assaulted by two other juveniles, her stepfather, and an
+employee at the Kansas Department of Social and
+Rehabilitation Services. The trial court deems this evidence
+inadmissible because it does not quite fit within the exception
+contained in Rule 412(b)(1)(A). Is there another ground upon
+The court’s order is available as a PDF at: http://www.courts.state.co.us/
+userfiles/File/Court_Probation/5th_Judicial_District/Cases_of_Interest/People_v
+_Bryant/07-04/ShieldOrder.pdf
+3
+
+9
+
+which an appellate court could reverse? See State v. Jackson,
+2008 WL 538948 (Kan. Ct. App. 2008); See Colin Miller,
+Disturbing Behavior: Court of Appeals of Kansas Finds Trial Court
+Failed to Apply Constitutional Exception to Rape Shield Rule,
+EvidenceProf
+Blog
+(Nov.
+2,
+2009)
+http://lawprofessors.typepad.com/evidenceprof/2008/03/r
+ule-412-state.html.
+
+10
+
+Prior Rules Language:
+(b) Exceptions.
+
+Restyled Rules Language:
+(b) Exceptions.
+(1) Criminal Cases. The
+court may admit the following
+evidence in a criminal case:
+
+(1) In a criminal case, the
+following evidence is
+admissible, if otherwise
+admissible under these rules:
+(A) evidence of specific
+instances of sexual behavior
+by the alleged victim offered
+to prove that a person other
+than the accused was the
+source of semen, injury or
+other physical evidence;
+
+(A) evidence of specific
+instances of a victim’s
+sexual behavior, if offered
+to prove that someone
+other than the defendant
+was the source of semen,
+injury, or other physical
+evidence;
+
+(B) evidence of specific
+instances of sexual behavior
+by the alleged victim with
+respect to the person accused
+of the sexual misconduct
+offered by the accused to
+prove consent or by the
+prosecution; and
+
+(B) evidence of specific
+instances of a victim’s
+sexual behavior with respect
+to the person accused of the
+sexual misconduct, if
+offered by the defendant to
+prove consent or if offered
+by the prosecutor; and
+
+(C) evidence the exclusion of
+which would violate the
+constitutional rights of the
+defendant.
+
+(C) evidence whose
+exclusion would violate the
+defendant’s constitutional
+rights.
+
+IV. Rule 412(b)(2): Civil Exception
+Meanwhile, Federal Rule of Evidence 412(b)(2) provides an
+exception to the Rape Shield Rule in civil cases:
+In a civil case, evidence offered to prove the
+sexual behavior or sexual predisposition of
+any alleged victim is admissible if it is
+otherwise admissible under these rules and its
+probative value substantially outweighs the
+
+11
+
+danger of harm to any victim and of unfair
+prejudice to any party. Evidence of an alleged
+victim's reputation is admissible only if it has
+been placed in controversy by the alleged
+victim.
+The Advisory Committee’s Note indicates that this exception was
+intended to be similar in effect to the criminal exception but that “[i]t
+employs a balancing test rather than the specific exceptions stated in
+subdivision (b)(1) in recognition of the difficulty of foreseeing future
+developments in the law,” particularly with regard to “evolving causes
+of action such as claims for sexual harassment.” No judge in a civil
+case, however, has applied Rule 412(b)(2) to allow for the admission
+of evidence concerning an alleged victim's sexual history or
+predisposition to prove a purpose not covered by one of the specific
+exceptions in Rule 412(b)(1).
+Indeed, as the Advisory Committee's Note makes clear, Rule
+412(b)(2) was drafted to make it more difficult to admit evidence
+concerning an alleged victim's sexual history or predisposition in civil
+cases than it was in criminal cases. This is because evidence satisfying
+a Rule 412(b)(1) exception is admissible as long as it does not violate
+Federal Rule of Evidence 403, which “tilts the balance in favor of
+admission” of evidence by providing that relevant evidence may only
+“be excluded if its probative value is substantially outweighed” by
+concerns such as “the danger of unfair prejudice.” In such cases,
+relevant evidence will likely be admitted because the burden is upon
+the party opposing the admission of evidence to prove affirmatively
+that its probative value is substantially outweighed by the danger of
+unfair prejudice.
+Consider a hypothetical in which the prosecution charges the
+defendant with rape and presents evidence that the alleged victim had
+scratches on her wrists. The defendant might seek, pursuant to Rule
+412(b)(1)(A), to present evidence of the alleged victim's other sexual
+acts committed in the days before and after the alleged rape to prove
+that they could have caused her injuries. For the judge to exclude this
+evidence, the prosecutor would need to prove that its probative value
+for establishing that these other acts could have caused her injuries
+
+12
+
+was substantially outweighed by the danger of unfair prejudice that
+the jury would misuse this evidence as an indication that the alleged
+victim had a propensity to consent to sexual acts and thus likely
+consented to the sexual act at issue. See, e.g., United States v. Begay, 937
+F.2d 515, 523 (10th Cir. 2001) (“We feel there was an abuse of
+discretion in holding that such evidence was more prejudicial than
+probative for purposes of Rule 403 and 412”).
+In other words, assume that probative value and unfair prejudice
+were scored from 1-100. If evidence of the other sexual acts had a
+probative value of 60 and an unfair prejudice of 40, it would be
+admissible because probative value would outweigh unfair prejudice.
+If both probative value and unfair prejudice were 50, the evidence
+would be admissible because probative value would equal unfair
+prejudice. Even if probative value was 48 and unfair prejudice was
+52, the evidence would be admissible because probative value would
+be outweighed by unfair prejudice but not substantially outweighed by
+unfair prejudice. Only if probative value (e.g., 40) were substantially
+outweighed by unfair prejudice (e.g., 60) would the evidence be
+inadmissible.
+In contrast, by stating that similar evidence offered in civil cases is
+admissible only if its probative value substantially outweighs its
+unfairly prejudicial effect, as well as its “harm to any victim,” Rule
+412(b)(2) “reverses the usual approach” and tilts the balance toward
+inadmissibility in three regards according to the Advisory Committee.
+First, it “raises the threshold for admission by requiring that the
+probative value of the evidence substantially outweigh the specified
+dangers.” Second, it “shift[s] the burden to the proponent to
+demonstrate admissibility rather than making the opponent justify
+exclusion of the evidence.” Third, it puts “harm to the victim” “on
+the scale in addition to prejudice to the parties.” See, e.g., B.K.B. v.
+Maui Police Dept., 276 F.3d 1091, 1104 (9th Cir. 2002).
+Thus, if we tweak the facts of the above hypothetical to make it a
+civil sexual assault trial, it drastically alters the issue of admissibility.
+In this case, for the judge to admit the “other sexual act” evidence of
+scratches, defense counsel would need to prove that its probative
+value substantially outweighs (1) the danger that the jury could
+
+13
+
+misuse this evidence as an indication that the alleged victim had a
+propensity to consent to sexual acts and thus likely consented to the
+sexual act at issue (its unfairly prejudicial effect); as well as (2) the
+harm to the victim, including the invasion of her privacy, her
+potential embarrassment, and the potential for the jury to engage in
+stereotypical thinking with regard to her. See Advisory Committee's
+Note.
+Again, assume that probative value and unfair prejudice (as well as
+harm to the victim) were scored from 1-100. Now, if evidence of the
+other sexual acts had a probative value equal to or lesser than unfair
+prejudice and harm to the victim – e.g., 50 vs. 50 (combined) – it
+would be inadmissible. Even if the probative value of the evidence
+were slightly higher than unfair prejudice – e.g., 52 vs. 48 (combined)
+– the evidence would be inadmissible because probative value would
+outweigh prejudicial effect but not substantially outweigh prejudicial
+effect. Only if probative value (e.g., 60) substantially outweighed
+unfair prejudice and harm to the victim (e.g., 40 combined) would the
+evidence be admissible
+Rule 412(b)(2) also provides that “[e]vidence of an alleged victim's
+reputation is admissible only if it has been placed in controversy by
+the alleged victim.” Thus, if a plaintiff brings an action alleging
+employment discrimination based upon a sexually hostile work
+environment but does not seek reputational damages or make
+allegations relating to her professional reputation, she has not opened
+the door for reputational evidence to be admitted. See, e.g., Macklin v.
+Mendenhall, 257 F.R.D. 596, 604 (E.D. Cal. 2009) (“A review of the
+allegations and other information before the Court discloses no
+sufficient evidence showing that Plaintiff has placed her reputation in
+controversy in this matter”).
+This per se portion of Rule 412(b)(2), however, only precludes
+evidence related to an alleged victim’s reputation (e.g., for promiscuity).
+In Seybert v. International Group, Inc., 2009 WL 3297304 (E.D. Pa.
+2009), the court rejected the plaintiff’s argument that emails she sent
+containing sexual stories, jokes, images, and metaphors were per se
+inadmissible under Rule 412(b)(2), concluding that “none of the
+emails bear on Mrs. Seybert's personal sexual “reputation” per se, in
+
+14
+
+that none of them involve her actual or alleged personal sexual
+activity.” Id. at *3.
+Rule 412(b)(2) technically only applies to the admissibility of evidence
+at trial while Federal Rule of Civil Procedure 26 addresses the extent
+to which evidence about an alleged victim’s sexual behavior and/or
+predisposition is discoverable. That said, the Advisory Committee’s
+Note to Rule 412 states that
+In order not to undermine the rationale of
+Rule 412, however, courts should enter
+appropriate orders pursuant to Fed. R. Civ. P.
+26(c) to protect the victim against
+unwarranted inquiries and to ensure
+confidentiality. Courts should presumptively
+issue protective orders barring discovery
+unless the party seeking discovery makes a
+showing that the evidence sought to be
+discovered would be relevant under the facts
+and theories of the particular case, and cannot
+be obtained except through discovery. In an
+action for sexual harassment, for instance,
+while some evidence of the alleged victim's
+sexual behavior and/or predisposition in the
+workplace may perhaps be relevant, non-work
+place conduct will usually be irrelevant….
+Confidentiality
+orders
+should
+be
+presumptively granted as well.
+Numerous courts have relied upon this language to issue protective
+orders and confidentiality orders when defendants seek discovery of
+evidence of plaintiffs’ sexual pasts when such evidence is unlikely to
+be admissible under the rape shield rue. See, e.g., E.E.O.C. v. Donohue,
+746 F. Supp.2d 662, 665 (W.D. Pa. 2010).
+Hypothetical 7
+Tanya Giron brings a Section 1983 action for violation of her
+Eighth Amendment rights against Torres, claiming that she
+was forcibly raped by him while she was an inmate. During
+discovery, Torres asks Giron to respond to an interrogatory
+that asks her to identify and give extensive information about
+
+15
+
+all persons with whom she had had sexual contact, without
+any time restriction. The Magistrate Judge entered an order
+compelling Giron to respond to the interrogatory by listing
+“persons with whom she has had sexual contacts in the five
+years prior to and the time period since the rape which forms
+the basis of the complaint.” You represent Giron in her
+appeal of this order. What arguments do you make on her
+behalf? See Giron v. Corrections Corp. of America, 981 F. Supp.
+1406 (D. N.M. 1997).
+Hypothetical 8
+Rebecca Collins, a former assistant prosecutor, brings a civil
+action against Michael Allen, her former boss, sounding in
+sexual harassment and retaliation. Before trial, Allen files a
+counterclaim in which he seeks to present evidence of
+Collins’ reputation for promiscuity on the basis that Collins
+“put her reputation into question when she filed her frivolous
+sexual harassment claim.” Will he be able to present this
+evidence? See Collins v. Allen, 2005 WL 1073369 (S.D.Ohio
+2005).
+
+16
+
+Prior Rules Language:
+(2) In a civil case, evidence
+offered to prove the sexual
+behavior or sexual predisposition
+of any alleged victim is
+admissible if it is otherwise
+admissible under these rules and
+its probative value substantially
+outweighs the danger of harm to
+any victim and of unfair
+prejudice to any party. Evidence
+of an alleged victim’s reputation
+is admissible only if it has been
+placed in controversy by the
+alleged victim.
+
+Restyled Rules Language:
+(1) Civil Cases. In a civil case,
+the court may admit evidence
+offered to prove a victim’s
+sexual behavior or sexual
+predisposition if its probative
+value substantially outweighs the
+danger of harm to any victim
+and of unfair prejudice to any
+party. The court may admit
+evidence of a victim’s reputation
+only if the victim has placed it in
+controversy.
+
+V. Rule 412(c): Procedure for Admissibility in Criminal Cases
+Federal Rule of Evidence 412(c) contains procedures for providing
+notice and determining the admissibility of evidence offered in
+criminal cases pursuant to the exceptions contained in Rule
+412(b)(1)(A), (B), or (C). The purpose of this Rule is to give notice to
+the opposing party in a criminal case to a similar degree as the notice
+that Federal Rule of Civil Procedure 26 affords to civil litigants as
+part of the discovery process. Cf. Sonia F. v. Eighth Judicial Dist. Court,
+315 P.3d 705 (Nev. 2009); Colin Miller, Rape Shield Redux: Supreme
+Court Of Nevada Finds Rule 26 Applies Where Rape Shield Law Doesn't.
+EvidenceProf Blog (Sep. 15, 2009) http://lawprofessors.typepad.
+com/evidenceprof/2009/09/rape-shield-redux-supreme-court-ofnevada-finds-rule-26-applies-where-rape-shield-law-doesnt.html
+.
+According to the Rule,
+(1) A party intending to offer evidence under subdivision (b)
+must
+(A) file a written motion at least 14 days before trial
+specifically describing the evidence and stating the
+purpose for which it is offered unless the court, for
+
+17
+
+good cause requires a different time for filing or
+permits filing during trial; and
+(B) serve the motion on all parties and notify the
+alleged victim or, when appropriate, the alleged
+victim's guardian or representative.
+(2) Before admitting evidence under this rule the court must
+conduct a hearing in camera and afford the victim and parties
+a right to attend and be heard. The motion, related papers,
+and the record of the hearing must be sealed and remain
+under seal unless the court orders otherwise.
+Courts consistently have held that a defendant’s failure to file a
+motion for a Rule 412(c) hearing under seal is a “flagrant violation”
+of the Rule, justifying a decision by the trial judge to exclude the
+proffered evidence. See, e.g., S.M. v. J.K., 262 F.3d 914, 919 (9th Cir.
+2001). Only one federal appellate court has addressed the issue of
+whether an alleged victim can immediately appeal a trial court’s
+decision to admit evidence of her sexual behavior and/or
+predisposition after a Rule 412(c) hearing without violating the final
+judgment rule contained in 28 U.S.C. § 1291. Under § 1291, courts of
+appeals only have jurisdiction over final decisions, but courts have
+chosen to given the final judgment rule a “practical rather than a
+technical construction.” Gillespie v. U.S. Steel Corp., 379 U.S. 148, 152
+(1964). In Doe v. United States, 666 F.2d 43 (4th Cir 1981), the Fourth
+Circuit applied § 1291 practically to allow an immediate appeal by an
+alleged victim of an adverse rape shield ruling because “the injustice
+to rape victims in delaying an appeal until after the conclusion of the
+criminal trial is manifest.” See also Colin Miller, Passing Judgment: 10th
+Circuit Case Cites to 4th Circuit Case Allowing Immediate Appeal of Rape
+Shield
+Ruling.
+EvidenceProf
+Blog,
+(Dec.
+4,
+2008)
+http://lawprofessors.typepad.com/evidenceprof/2008/12/passingjudgm-1.html.
+Although most courts have not addressed the issue, it seems likely
+that a court’s failure to hold a Rule 412(c) hearing will not entitle a
+defendant to a new trial because the Rule is designed to protect the
+alleged victim rather than the defendant. Instead, as long as the trial
+
+18
+
+court allows the defendant to present arguments for why the
+evidence he seeks to introduce qualifies for admission under an
+exception to the Rape Shield Rule, failure to hold a Rule 412(c)
+hearing should not lead to reversal as long as the record is sufficient
+for the appellate court to review his evidentiary appeal. See Nevelow v.
+State, 2011 WL 2899377 (Tex.App.-Houston [14 Dist. 2011]); Colin
+Miller, Can You Hear Me?: Court of Appeals of Texas Finds Failure to Hold
+in Camera Rape Shield Hearing Isn’t Reversible Error. EvidenceProf Blog
+(Aug.
+29,
+2011)
+http://lawprofessors.typepad.com/evidenceprof/2011/08/can-youhear-me-court-of-appeals-of-texas-finds-failure-to-hold-in-camerarape-shield-hearing-isnt-r.html. That said, a trial court likely violates
+the Rape Shield Rule or the right to counsel if it holds a Rule 412(c)
+hearing but does not allow the defendant to attend or be represented
+at it by an attorney. See LaPointe v. State, 225 S.W.3d 513, 520-21 (Tex.
+Crim. App. 2007).
+Hypothetical 9
+Danny Raplinger is charged with sexually exploiting a minor.
+At the close of the prosecution’s case, Raplinger offers
+Defendant’s Exhibits A, B, C, and D as “a late attachment”
+to a previously filed Sealed Motion. These Exhibits consist of
+previously sent sexually explicit letters from the alleged
+victim’s Yahoo! Profile to Raplinger and a sexually explicit
+digital image posted next to her name. Raplinger claims that
+this evidence is admissible under Rule 412(b)(1)(B), but the
+prosecution counters that the evidence is inadmissible
+because the alleged victim statutorily could not have
+consented to her exploitation. Is there another reason why
+the evidence is inadmissible? See United States v. Raplinger, 2006
+WL 3455266 (N.D. Iowa 2006).
+Hypothetical 10
+Jonathan Pablo is charged with rape. At trial, he seeks to
+present evidence (1) that the alleged victim was seen
+undressed with two other men on the night of the rape; and
+(2) that the alleged victim made sexual advances towards
+
+19
+
+Pablo’s co-defendant on the night of the alleged rape. Pablo
+acknowledges that this argument is covered by Rule 412 but
+believes that it qualifies for admission under Rule
+412(b)(1)(C). Pablo did not file a written motion under Rule
+412(c)(1)(A). Pablo, however, claims that the government
+relieved him of his obligation to comply with Rule 412(c) by
+providing its own written notice to the court a month before
+indicating that Pablo might introduce some evidence that
+would fall within Rule 412’s scope. Is he correct? See United
+States v. Pablo, 625 F.3d 1285 (10th Cir. 2010).
+
+20
+
+Prior Rules Language:
+(c) Procedure To Determine
+Admissibility.
+
+Restyled Rules Language:
+(c) Procedure to Determine
+Admissibility.
+
+(1) A party intending to offer
+evidence under subdivision (b)
+must—
+
+(1) Motion. If a party intends
+
+(A) file a written motion at
+least 14 days before trial
+specifically describing the
+evidence and stating the
+purpose for which it is
+offered unless the court, for
+good cause requires a
+different time for filing or
+permits filing during trial;
+and
+
+(A) file a motion that
+specifically describes the
+evidence and states the
+purpose for which it is to be
+offered;
+
+to offer evidence under Rule
+412(b), the party must:
+
+(B) do so at least 14 days
+before trial unless the court,
+for good cause, sets a
+different time;
+(C) serve the motion on all
+parties; and
+
+(B) serve the motion on all
+parties and notify the alleged
+victim or, when appropriate,
+the alleged victim’s guardian
+or representative.
+
+(D) notify the victim or,
+when appropriate, the
+victim’s guardian or
+representative.
+
+(2) Before admitting evidence
+under this rule the court must
+conduct a hearing in camera
+and afford the victim and
+parties a right to attend and be
+heard. The motion, related
+papers, and the record of the
+hearing must be sealed and
+remain under seal unless the
+court orders otherwise.
+
+(2) Hearing. Before admitting
+evidence under this rule, the
+court must conduct an in
+camera hearing and give the
+victim and parties a right to
+attend and be heard. Unless the
+court orders otherwise, the
+motion, related materials, and
+the record of the hearing must
+be and remain sealed.
+
+21
+
+VI. Rape Shield Pleadings
+Some concise examples of motions connected to evidence sought to
+be admitted or excluded under the Best Evidence Rule can be found
+at:
+ Velez-Lopez v. Long Life Home, Inc., 2009 WL 2590030 (D.Puerto
+Rico 2009) (Defendants’ Opposition to Plaintiff’s Motion in Limine);
+ Maner & Goodman III v. Board of Education of Fayette County, 2007 WL
+4300140 (Ky. Cir. Ct. 2007) (Response to Plaintiff Maner’s Motion in
+Limine); and
+ Horne v. Russell County Commissioner, 2005 WL 2302984 (M.D. Ala.
+2005) (Plaintiff’s Motion in Limine Regarding Sexual History).
+
+22
+
+
