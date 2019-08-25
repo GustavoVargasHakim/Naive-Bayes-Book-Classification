@@ -35,7 +35,9 @@ for linea in fileinput.input(archivos, openhook=fileinput.hook_encoded("utf-8"))
                       'ω', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N',
                       'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Ω', 'Ψ', 'Σ', 'Π', 
                       'Ξ', 'Λ', 'Θ', 'Δ', 'Γ', 'aβ', 'aβj', 'βj', 'gf', 'pn', 'bp', 'zp', 
-                      'bch')
+                      'bch', '1', '2', '3', '4', '5', '6', '7', '8', '9', '|', '°', '¬', '!', '#', 
+                      '$', '%', '&', '/', '(', ')', '=', '?', '¡', '¿', ',', ';', ':', '.', '-', '_',
+                      '*', '+', '{', '}', '[', ']')
 
         filtered_book = [w for w in filtered_book if not w in single_character]
 
