@@ -9,7 +9,7 @@ import sys, glob
 import time
 
 # Toma cualquier nombre del libro con comienzo "Busi_" y terminación ".txt"
-archivos = glob.glob("../Management books/Busi_*.txt")
+archivos = glob.glob("../Management books/Busi_14.txt")
 archivos.sort()
 
 # Toma cada nombre de archivo
@@ -19,6 +19,8 @@ for linea in fileinput.input(archivos, openhook=fileinput.hook_encoded("utf-8"))
         book = fileinput.filename()
 
         book_1 = open(book, encoding="utf-8").read()
+
+        book_1 = book_1.lower()
 
         book1 = nltk.word_tokenize(book_1)
 
@@ -40,26 +42,40 @@ for linea in fileinput.input(archivos, openhook=fileinput.hook_encoded("utf-8"))
                       '$', '%', '&', '/', '(', ')', '=', '?', '¡', '¿', ',', ';', ':', '.', '-', '_',
                       '*', '+', '{', '}', '[', ']', '◦', '→', '➨', '∑')
 
+        number_caracter = ('1', '2', '3', '4', '5', '6', '7', '8', '9', '0')
+
         filtered_book = [w for w in filtered_book if not w in single_character]
 
-        print(" -------- LIBRO -------- ")
+        filtered_book = [w for w in filtered_book if not w[0] in number_caracter]
 
-        # Abre nuevo archivo para almacenar lista filtered_book
-        file = open("archivoEj.txt", "w", encoding="utf-8")
+        print(" -------- LIBRO TERMINADO -------- ")
 
-        # Arreglo de caracteres numéricos
-        number_caracter = ('1', '2', '3', '4', '5', '6', '7', '8', '9', '0')
+        #print(filtered_book)
         
-        # Recorrido para escribir en archivo la lista fitered_book
-        # Por cada item (palabra) en la lista filtered_book
-        for item in filtered_book:
-            # Si el primer caracter de cada item en la lista no es un número dentro de la lista number_caracter
-            if not item[0] in number_caracter:
-                # Escribe en el archivo
-                file.write('\r%s' % item)
+        frecuenciaPalab = []
+        palabrasYaContadas = []
+        
+        print("Contando palabras, palabras del diccionario:", len(filtered_book))
 
-        file.close()
-        print("Terminado")
+        pyc = 0
+        for w in filtered_book:
+            if w in palabrasYaContadas:
+                continue
+            else:    
+                cont = 0
+                for ow in filtered_book:
+                    if ow == w:
+                        cont += 1
+                
+                print("yes", pyc, "word", w, "\n")
+                palabrasYaContadas.append(w)
+                pyc += 1
+                frecuenciaPalab.append(cont)
+        
+        print("Conteo terminado")
 
-        # Terminar con ctrl + c
+        #print("Pares\n" + str(zip(filtered_book, frecuenciaPalab)))
+        print("\nPares\n")
+        print(sorted(zip(frecuenciaPalab, filtered_book)))
+        
         time.sleep(30)
