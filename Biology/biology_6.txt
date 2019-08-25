@@ -1,0 +1,2453 @@
+Lecture on General Biology 2
+
+Campbell Biology
+
+10th edition
+
+A Global Approach
+
+Chapter 19
+DNA Biotechnology
+
+Chul-Su Yang, Ph.D., chulsuyang@hanyang.ac.kr
+Infection Biology Lab., Dept. of Molecular & Life Science, Hanyang University
+
+Overview
+The DNA Toolbox
+• Sequencing of the genomes of more than 7,000
+species was under way in 2010
+• DNA sequencing has depended on advances in
+technology, starting with making recombinant DNA
+• In recombinant DNA, nucleotide sequences from
+two different sources, often two species, are
+combined in vitro into the same DNA molecule
+
+• Recently the genome sequences of two extinct
+species—Neanderthals and wooly mammoths—
+have been completed
+• Advances in sequencing techniques make
+genome sequencing increasingly faster and
+less expensive
+
+Figure 19.1
+
+Figure 19.1a
+
+The New Yorker, August 15, 2011
+Annals of Evolution
+What happened between the Neanderthals and us?
+
+• Methods for making recombinant DNA are central
+to genetic engineering, the direct manipulation of
+genes for practical purposes
+• DNA technology has revolutionized
+biotechnology, the manipulation of organisms or
+their genetic components to make useful products
+• An example of DNA technology is the microarray,
+a measurement of gene expression of thousands
+of different genes
+• The applications of DNA technology affect
+everything from agriculture, to criminal law,
+to medical research
+
+Concept 19.1
+DNA sequencing and DNA cloning are valuable tools
+for genetic engineering and biological inquiry
+• The complementarity of the two DNA strands is
+the basis for nucleic acid hybridization, the base
+pairing of one strand of nucleic acid to the
+complementary sequence on another strand
+• Genetic engineering is the direct manipulation of
+genes for practical purposes
+
+DNA Sequencing
+• Researchers can exploit the principle of
+complementary base pairing to determine a
+gene’s complete nucleotide sequence, called
+DNA sequencing
+• The first automated procedure was based on a
+technique called dideoxy or chain termination
+sequencing, developed by Sanger
+
+DNA Sequencing
+• Relatively short DNA fragments can be sequenced
+by the dideoxy chain termination method, the first
+automated method to be employed
+• Modified nucleotides called
+dideoxyribonucleotides (ddNTP) attach to
+synthesized DNA strands of different lengths
+• Each type of ddNTP is tagged with a distinct
+fluorescent label that identifies the nucleotide at
+the end of each DNA fragment
+• The DNA sequence can be read from the resulting
+spectrogram
+
+Figure 19.2
+
+(a) Standard sequencing machine
+
+(b) Next-generation sequencing machines
+
+Figure 19.3
+
+TECHNIQUE
+DNA
+(template strand)
+5′ C
+
+3′
+5′
+
+3′
+
+T
+G
+A
+C
+T
+T
+C
+G
+A
+C
+A
+A
+
+Primer Deoxyribonucleotides Dideoxyribonucleotides
+T 3′
+(fluorescently tagged)
+G
+T
+T
+
+5′
+
+DNA
+polymerase
+
+dATP
+
+ddATP
+
+dCTP
+
+ddCTP
+
+dTTP
+
+ddTTP
+
+dGTP
+
+ddGTP
+
+P P P
+
+P P P
+
+G
+OH
+
+DNA (template
+
+C strand)
+T
+G
+A
+C
+T
+T
+C
+ddG
+C
+G
+ddC
+T
+A
+T
+C
+G
+G
+T
+A
+T
+T
+A
+T
+
+ddA
+G
+C
+T
+G
+T
+T
+
+ddA
+A
+G
+C
+T
+G
+T
+T
+
+ddG
+A
+A
+G
+C
+T
+G
+T
+T
+
+Shortest
+Direction
+of movement
+of strands
+
+Longest labeled strand
+
+Detector
+
+Laser
+
+Shortest labeled strand
+
+RESULTS
+Last nucleotide
+of longest
+labeled strand
+Last nucleotide
+of shortest
+labeled strand
+
+H
+
+Labeled strands
+ddT
+G
+A
+A
+G
+C
+T
+G
+T
+T
+
+G
+A
+C
+T
+G
+A
+A
+G
+C
+
+G
+
+ddC
+T
+G
+A
+A
+G
+C
+T
+G
+T
+T
+
+ddA
+C
+T
+G
+A
+A
+G
+C
+T
+G
+T
+T
+
+ddG
+A
+C
+T
+G
+A
+A
+G
+C
+T
+G
+T
+T
+
+3′
+
+5′
+Longest
+
+Figure 19.3a
+
+TECHNIQUE
+DNA
+(template strand)
+5′
+
+3′
+
+C
+T
+G
+A
+C
+T
+T
+C
+G
+A
+C
+A
+A
+
+Primer Deoxyribonucleotides Dideoxyribonucleotides
+T 3′
+(fluorescently tagged)
+G
+T
+T
+
+5′
+
+DNA
+polymerase
+
+dATP
+
+ddATP
+
+dCTP
+
+ddCTP
+
+dTTP
+
+ddTTP
+
+dGTP
+
+ddGTP
+
+P P P
+
+G
+OH
+
+P P P
+
+G
+H
+
+Figure 19.3b
+
+TECHNIQUE (continued)
+5′
+
+3′
+
+DNA (template
+C strand)
+
+T
+G
+A
+C
+T
+T
+C
+G
+A
+C
+A
+A
+
+ddC
+T
+G
+T
+T
+
+ddG
+C
+T
+G
+T
+T
+
+Labeled strands
+
+ddA
+G
+C
+T
+G
+T
+T
+
+ddA
+A
+G
+C
+T
+G
+T
+T
+
+ddG
+A
+A
+G
+C
+T
+G
+T
+T
+
+ddT
+G
+A
+A
+G
+C
+T
+G
+T
+T
+
+ddC
+T
+G
+A
+A
+G
+C
+T
+G
+T
+T
+
+Shortest
+Direction
+of movement
+of strands
+
+3′
+
+5′
+
+Longest
+Longest labeled strand
+Detector
+
+Laser
+
+ddA
+C
+T
+G
+A
+A
+G
+C
+T
+G
+T
+T
+
+ddG
+A
+C
+T
+G
+A
+A
+G
+C
+T
+G
+T
+T
+
+Shortest labeled strand
+
+Figure 19.3c
+
+Direction
+of movement
+of strands
+
+Longest labeled strand
+Detector
+
+Laser
+
+Shortest labeled strand
+
+RESULTS
+Last nucleotide
+of longest
+labeled strand
+Last nucleotide
+of shortest
+labeled strand
+
+G
+A
+C
+T
+G
+A
+A
+G
+C
+
+• “Next-generation sequencing” techniques use a
+single template strand that is immobilized and
+amplified to produce an enormous number of
+identical fragments
+• Thousands or hundreds of thousands of
+fragments (400–1,000 nucleotides long) are
+sequenced in parallel
+• This is a type of “high-throughput” technology
+
+Figure 19.4
+
+Technique
+
+1 Genomic DNA is fragmented.
+
+Results
+4-mer
+
+2 Each fragment is isolated with
+3-mer
+
+a bead.
+
+A
+T
+G
+C
+
+2-mer
+
+3 Using PCR, 106 copies of each
+
+fragment are made, each attached
+to the bead by 5′ end.
+
+1-mer
+
+4 The bead is placed into a well with
+
+DNA polymerases and primers.
+Template strand
+of DNA
+5′
+
+3′
+5′
+3′
+Primer
+
+A TGC
+
+5
+
+A TGC
+
+DNA
+polymerase
+
+Template
+C
+strand
+C
+of DNA
+A
+A dATP
+T
+G
+TA
+PPi
+GC
+GC
+AG
+Primer
+TA
+
+6 If a nucleotide is joined to
+
+a growing strand, PPi is
+released, causing a flash
+of light that is recorded.
+
+A solution of each of the four nucleotides
+is added to all wells and then washed off.
+The entire process is then repeated.
+A TGC
+
+C
+C
+A
+dTTP
+A
+T
+G
+TA
+GC
+GC
+AG
+TA
+
+7 If a nucleotide is not
+
+complementary to the
+next template base,
+no PPi is released, and
+no flash of light is recorded.
+
+A TGC
+
+C
+C
+A
+dGTP
+A
+T
+G
+TA
+GC
+GC
+AG
+TA
+
+A TGC
+
+C
+C
+A
+A
+T
+GC
+TA
+GC
+GC
+AG
+TA
+
+dCTP
+
+PPi
+
+8 The process is repeated until every
+
+fragment has a complete complementary
+strand. The pattern of flashes reveals the
+sequence.
+
+Figure 19.4a
+
+Technique
+
+1 Genomic DNA is fragmented.
+
+2 Each fragment is isolated with
+
+a bead.
+3 Using PCR, 106 copies of each
+
+fragment are made, each attached
+to the bead by 5′ end.
+
+4 The bead is placed into a well with
+
+DNA polymerases and primers.
+Template strand
+of DNA
+5′
+
+3′
+5′
+3′
+Primer
+
+A T GC
+
+5 A solution of each of the four nucleotides
+
+is added to all wells and then washed off.
+The entire process is then repeated.
+
+Figure 19.4b
+
+Technique
+A T GC
+
+DNA
+polymerase
+
+Template
+C
+strand
+C
+of DNA
+A
+A
+dATP
+T
+G
+TA
+PPi
+GC
+GC
+AG
+Primer
+TA
+
+6 If a nucleotide is joined to
+
+a growing strand, PPi is
+released, causing a flash
+of light that is recorded.
+
+A T GC
+
+C
+C
+A
+dTTP
+A
+T
+G
+TA
+GC
+GC
+AG
+TA
+
+7 If a nucleotide is not
+
+complementary to the
+next template base,
+no PPi is released, and
+no flash of light is recorded.
+
+Figure 19.4c
+
+Technique
+A T GC
+
+C
+C
+A
+dGTP
+A
+T
+G
+TA
+GC
+GC
+AG
+TA
+
+A T GC
+
+C
+C
+A
+A
+T
+GC
+TA
+GC
+GC
+AG
+TA
+
+dCTP
+
+PPi
+
+8 The process is repeated until every
+fragment has a complete complementary
+strand. The pattern of flashes reveals the
+sequence.
+Results
+4-mer
+3-mer
+2-mer
+1-mer
+
+A
+T
+G
+C
+
+• In “third-generation sequencing,” the techniques
+used are even faster and less expensive than the
+previous
+
+Making Multiple Copies of a Gene or Other
+DNA Segment
+• To work directly with specific genes, scientists
+prepare well-defined segments of DNA in identical
+copies, a process called DNA cloning
+• Plasmids are small circular DNA molecules that
+replicate separately from the bacterial
+chromosome
+• Researchers can insert DNA into plasmids to
+produce recombinant DNA, a molecule with
+DNA from two different sources
+
+DNA Cloning and Its Applications:
+A Preview
+• Most methods for cloning pieces of DNA in the
+laboratory share general features, such as the use
+of bacteria and their plasmids
+• Cloned genes are useful for making copies of a
+particular gene and producing a protein product
+
+• Gene cloning involves using bacteria to make
+multiple copies of a gene
+• Foreign DNA is inserted into a plasmid, and the
+recombinant plasmid is inserted into a bacterial
+cell
+• Reproduction in the bacterial cell results in cloning
+of the plasmid including the foreign DNA
+• This results in the production of multiple copies of
+a single gene
+
+Figure 19.5a
+
+Bacterium
+1 Gene inserted into
+plasmid
+
+Bacterial
+Plasmid
+chromosome
+Recombinant
+DNA (plasmid)
+
+Recombinant
+bacterium
+
+Gene of
+interest
+2 Plasmid put into
+bacterial cell
+
+Cell containing
+gene of interest
+
+DNA of
+chromosome
+(“foreign” DNA)
+
+Figure 19.5b
+
+3 Host cell grown in
+culture to form a clone
+of cells containing the
+“cloned” gene of interest
+Protein expressed from
+gene of interest
+
+Gene of
+interest
+
+Protein harvested
+
+Copies of gene
+Basic
+research
+on gene
+
+4 Basic research
+and various
+applications
+
+Basic
+research
+on protein
+
+Human growth
+Gene used to alter Protein dissolves
+Gene for pest
+resistance inserted bacteria for cleaning blood clots in heart hormone treats
+attack therapy
+stunted growth
+up toxic waste
+into plants
+
+• A plasmid used to clone a foreign gene is called a
+cloning vector
+• Bacterial plasmids are widely used as cloning
+vectors because they are readily obtained, easily
+manipulated, easily introduced into bacterial cells,
+and once in the bacteria they multiply rapidly
+• Gene cloning is useful for amplifying genes to
+produce a protein product for research, medical,
+or other purposes
+
+Using Restriction Enzymes to Make
+Recombinant DNA
+• Bacterial restriction enzymes cut DNA
+molecules at specific DNA sequences called
+restriction sites
+• A restriction enzyme usually makes many cuts,
+yielding restriction fragments
+• The most useful restriction enzymes cut DNA in a
+staggered way, producing fragments with “sticky
+ends.”
+
+• Sticky ends can bond with complementary sticky
+ends of other fragments
+• DNA ligase is an enzyme that seals the bonds
+between restriction fragments
+
+Figure 19.6
+Bacterial
+plasmid
+
+Restriction site
+3′
+
+5′
+G AAT T C
+C T T AAG
+
+DNA
+
+5′
+
+3′
+
+1 Restriction enzyme cuts
+
+the sugar-phosphate
+backbones at each arrow.
+5′
+
+3′
+
+5′
+
+3′
+5′
+
+3′
+
+3′
+
+Sticky end
+
+5′
+
+5′
+3′
+
+2 Base pairing of sticky
+
+ends produces various
+combinations.
+
+5′
+
+3′
+
+3 DNA ligase
+
+3′ 5′
+G A AT T C
+C T TA A G
+5′ 3′
+
+3′
+5′
+
+Fragment from different DNA molecule
+cut by the same restriction enzyme
+3′ 5′
+G AAT T C
+C T TAA G
+5′ 3′
+
+3′
+
+5′
+
+One possible combination
+
+seals the strands.
+3′
+
+5′
+
+3′
+
+Recombinant DNA molecule
+
+Recombinant
+plasmid
+
+5′
+
+Cloning a Eukaryotic Gene in a
+Bacterial Plasmid
+• In gene cloning, the original plasmid is called a
+cloning vector
+• A cloning vector is a DNA molecule that can carry
+foreign DNA into a host cell and replicate there
+
+Producing Clones of Cells Carrying
+Recombinant Plasmids
+• Several steps are required to clone the
+hummingbird β-globin gene in a bacterial plasmid
+– The hummingbird genomic DNA and a bacterial
+plasmid are isolated
+– Both are cut with the same restriction enzyme
+– The fragments are mixed, and DNA ligase is
+added to bond the fragment sticky ends
+
+– Some recombinant plasmids now contain
+hummingbird DNA
+– The DNA mixture is added to bacteria that have
+been genetically engineered to accept it
+– The bacteria are plated on a type of agar that
+selects for the bacteria with recombinant
+plasmids
+– This results in the cloning of many hummingbird
+DNA fragments, including the β-globin gene
+
+Research Method: Cloning Genes in Bacterial Plasmids
+TECHNIQUE
+Bacterial plasmid
+ampR gene
+
+Hummingbird cell
+lacZ gene
+Restriction
+site
+Sticky
+ends
+
+Gene of
+interest
+Hummingbird DNA
+fragments
+
+Recombinant plasmids Nonrecombinant
+plasmid
+
+Bacteria carrying
+plasmids
+
+Bacteria carrying
+plasmids
+
+RESULTS
+
+Colony carrying nonrecombinant plasmid
+with intact lacZ gene
+
+Colony carrying
+recombinant
+plasmid
+with disrupted
+lacZ gene
+One of many
+bacterial
+clones
+
+Storing Cloned Genes in DNA Libraries
+• A genomic library that is made using bacteria is
+the collection of recombinant vector clones
+produced by cloning DNA fragments from an
+entire genome
+• A genomic library that is made using
+bacteriophages is stored as a collection of phage
+clones
+
+Genomic libraries
+Foreign genome
+Cut with restriction enzymes into either
+small
+large
+or
+Bacterial artificial
+fragments
+fragments
+chromosome (BAC)
+Large
+insert
+with
+many
+genes
+Recombinant
+plasmids
+
+(b) BAC clone
+
+Plasmid
+clone
+
+(a) Plasmid library
+
+(c) Storing genome libraries
+
+• A bacterial artificial chromosome (BAC) is a
+large plasmid that has been trimmed down and
+can carry a large DNA insert
+• BACs are another type of vector used in DNA
+library construction
+
+• A complementary DNA (cDNA) library is made
+by cloning DNA made in vitro by reverse
+transcription of all the mRNA produced by a
+particular cell
+• A cDNA library represents only part of the
+genome—only the subset of genes transcribed
+into mRNA in the original cells
+
+Figure 19.11
+
+Making cDNA from
+eukaryotic genes
+
+DNA in
+nucleus
+mRNAs in
+cytoplasm
+
+Reverse
+transcriptase Poly-A tail
+mRNA
+A A A A A A 3′
+5′
+3′
+T T T T T 5′
+DNA Primer
+strand
+A A A A A A 3′
+T T T T T 5′
+
+5′
+3′
+
+5′
+3′
+DNA
+polymerase
+
+3′
+
+5′
+
+3′
+5′
+
+5′
+3′
+cDNA
+
+Screening a Library for Clones Carrying
+a Gene of Interest
+• A clone carrying the gene of interest can be
+identified with a nucleic acid probe having a
+sequence complementary to the gene
+• This process is called nucleic acid hybridization
+
+• A probe can be synthesized that is
+complementary to the gene of interest
+• For example, if the desired gene is
+5′
+
+⋅⋅⋅ CTCAT CACCGGC⋅⋅⋅
+
+3′
+
+– Then we would synthesize this probe
+3′ G A G T A G T G G C C G
+
+5′
+
+• The DNA probe can be used to screen a large
+number of clones simultaneously for the gene of
+interest
+• Once identified, the clone carrying the gene of
+interest can be cultured
+
+Research Method: Detecting a Specific DNA Sequence by
+Hybridization with a Nucleic Acid Probe
+
+Radioactively
+labeled probe
+molecules
+
+TECHNIQUE
+
+Gene of
+interest
+Probe
+DNA
+
+5′
+3′
+⋅⋅⋅ CTCATCACCGGC⋅⋅⋅
+GAGTAGTGGCCG
+5′
+3′
+
+Singlestranded
+DNA from
+cell
+
+Multiwell plates
+holding library
+clones
+
+Nylon membrane
+Denature the DNA,
+the resulting
+ssDNA to the
+membrane
+
+Location of
+DNA with the
+complementary
+sequence
+
+Film
+
+Nylon
+membrane
+
+• A technique called Southern blotting combines
+gel electrophoresis of DNA fragments with nucleic
+acid hybridization
+• Specific DNA fragments can be identified by
+Southern blotting, using labeled probes that
+hybridize to the DNA immobilized on a “blot” of gel
+
+Research Method: Southern Blotting of DNA Fragments
+TECHNIQUE
+DNA + restriction enzyme
+
+Restriction
+fragments
+
+I
+
+II III
+
+Heavy
+weight
+
+Nitrocellulose
+membrane (blot)
+Gel
+Sponge
+
+I Normal
+β-globin
+allele
+
+II Sickle-cell III Heterozygote
+allele
+
+Alkaline
+solution
+2 Gel electrophoresis
+
+1 Preparation of
+restriction fragments
+
+I
+
+II III
+
+Radioactively labeled
+probe for β-globin
+gene
+
+Nitrocellulose blot
+4 Hybridization with labeled probe
+
+Paper
+towels
+3 DNA transfer (blotting)
+
+Probe base-pairs
+with fragments
+Fragment from
+sickle-cell
+β-globin allele
+Fragment from
+normal β- globin
+allele
+
+I
+
+II III
+
+Film
+over
+blot
+5 Probe detection
+
+Gel Electrophoresis and Southern Blotting
+• One indirect method of rapidly analyzing and
+comparing genomes is gel electrophoresis
+• This technique uses a gel as a molecular sieve to
+separate nucleic acids or proteins by size,
+electrical charge, and other properties
+• A current is applied that causes charged
+molecules to move through the gel
+• Molecules are sorted into “bands” by their size
+
+Using restriction fragment analysis to distinguish the normal and sickle-cell
+alleles of the human β-globin gene
+
+Normal β-globin allele
+175 bp
+
+DdeI
+
+Large fragment
+
+201 bp
+
+DdeI
+
+DdeI
+
+DdeI
+
+Sickle-cell mutant β-globin allele
+Large fragment
+
+376 bp
+
+DdeI
+
+DdeI
+
+DdeI
+
+(a) DdeI restriction sites in normal and
+sickle-cell alleles of the β-globin gene
+
+Using restriction fragment analysis to distinguish the normal and sickle-cell
+alleles of the human β-globin gene
+
+Normal Sickle-cell
+allele
+allele
+
+Large
+fragment
+376 bp
+201 bp
+175 bp
+(b) Electrophoresis of restriction
+fragments from normal and
+sickle-cell alleles
+
+• To check the recombinant plasmid, researchers
+might cut the products again using the same
+restriction enzyme
+• To separate and visualize the fragments
+produced, gel electrophoresis would be carried
+out
+• This technique uses a gel made of a polymer to
+separate a mixture of nucleic acids or proteins
+based on size, charge, or other physical
+properties
+
+Figure 19.7
+
+Mixture of
+DNA molecules of
+different
+sizes
+
+Power
+source
+Cathode
+
+Anode
+
+Wells
+Gel
+
+(a) Negatively charged DNA molecules move
+toward the positive electrode.
+
+Restriction fragments
+(size standards)
+(b) Shorter molecules are slowed down less than
+longer ones, so they move faster through the gel.
+
+Amplifying DNA in Vitro: The
+Polymerase Chain Reaction (PCR)
+• The polymerase chain reaction, PCR, can
+produce many copies of a specific target segment
+of DNA
+• A three-step cycle—heating, cooling, and
+replication—brings about a chain reaction that
+produces an exponentially growing population of
+identical DNA molecules
+• The key to PCR is an unusual, heat-stable DNA
+polymerase called Taq polymerase.
+
+• PCR uses a pair of primers specific for the
+sequence to be amplified
+• PCR amplification occasionally incorporates
+errors into the amplified strands and so cannot
+substitute for gene cloning in cells
+
+Figure 19.8
+
+5′
+
+TECHNIQUE
+
+3′
+Target
+sequence
+
+Genomic DNA
+1 Denaturation
+
+3′
+
+5′
+
+5′
+
+3′
+
+3′
+
+5′
+
+2 Annealing
+Cycle 1
+yields
+2
+molecules
+
+Primers
+
+3 Extension
+New
+nucleotides
+
+Cycle 2
+yields
+4
+molecules
+
+Cycle 3
+yields 8
+molecules;
+2 molecules
+(in white boxes)
+match target
+sequence
+
+• PCR primers can be designed to include
+restriction sites that allow the product to be
+cloned into plasmid vectors
+• The resulting clones are sequenced and
+error-free inserts selected
+
+Figure 19.9
+
+DNA fragments obtained
+by PCR with restriction
+sites matching those in
+the cloning vector
+Cut with same restriction
+enzyme used on cloning
+vector
+
+A gene that makes bacterial
+cells resistant to an antibiotic
+is present on the plasmid.
+Cloning vector
+(bacterial plasmid)
+Mix and ligate
+
+Recombinant
+DNA plasmid
+Only cells that take up
+a plasmid will survive
+
+Expressing Cloned Eukaryotic Genes
+• After a gene has been cloned, its protein product
+can be produced in larger amounts for research
+• Cloned genes can be expressed as protein in
+either bacterial or eukaryotic cells
+
+Bacterial Expression Systems
+• Several technical difficulties hinder expression of
+cloned eukaryotic genes in bacterial host cells
+• To overcome differences in promoters and other
+DNA control sequences, scientists usually employ
+an expression vector, a cloning vector that
+contains a highly active bacterial promoter
+
+• Another difficulty with eukaryotic gene expression
+in bacteria is the presence of introns in most
+eukaryotic genes
+• Researchers can avoid this problem by using
+cDNA, complementary to the mRNA, which
+contains only exons
+
+Eukaryotic Cloning and Expression
+Systems
+• Molecular biologists can avoid eukaryote-bacterial
+incompatibility issues by using eukaryotic cells,
+such as yeasts, as hosts for cloning and
+expressing genes
+• Even yeasts may not possess the proteins
+required to modify expressed mammalian proteins
+properly
+• In such cases, cultured mammalian or insect cells
+may be used to express and study proteins
+
+• One method of introducing recombinant DNA into
+eukaryotic cells is electroporation, applying a
+brief electrical pulse to create temporary holes in
+plasma membranes
+• Alternatively, scientists can inject DNA into cells
+using microscopically thin needles
+• Once inside the cell, the DNA is incorporated into
+the cell’s DNA by natural genetic recombination
+
+• In restriction fragment analysis, DNA fragments
+produced by restriction enzyme digestion of a
+DNA molecule are sorted by gel electrophoresis
+• Restriction fragment analysis can be used to
+compare two different DNA molecules, such as
+two alleles for a gene if the nucleotide difference
+alters a restriction site
+
+• Variations in DNA sequence are called
+polymorphisms
+• Sequence changes that alter restriction sites are
+called RFLPs (restriction fragment length
+polymorphisms)
+
+Cross-Species Gene Expression and
+Evolutionary Ancestry
+• The remarkable ability of bacteria to express some
+eukaryotic proteins underscores the shared
+evolutionary ancestry of living species
+• For example, Pax-6 is a gene that directs
+formation of a vertebrate eye; the same gene in
+flies directs the formation of an insect eye (which
+is quite different from the vertebrate eye)
+• The Pax-6 genes in flies and vertebrates can
+substitute for each other
+
+Concept 19.2
+Biologists use DNA technology to study gene
+expression and function
+• DNA cloning allows researchers to
+– Compare genes and alleles between individuals
+– Locate gene expression in a body
+– Determine the role of a gene in an organism
+
+• Several techniques are used to analyze the DNA
+of genes
+• Analysis of when and where a gene or group of
+genes is expressed can provide important clues
+about gene function
+
+Analyzing Gene Expression
+• The most straightforward way to discover which
+genes are expressed in certain cells is to identify
+the mRNAs being made
+• Nucleic acid probes can hybridize with mRNAs
+transcribed from a gene
+• Probes can be used to identify where or when a
+gene is transcribed in an organism
+
+Studying the Expression of Single Genes
+• Changes in the expression of a gene during
+embryonic development can be tested using
+– Northern blotting
+– Reverse transcriptase-polymerase chain reaction
+
+• Both methods are used to compare mRNA from
+different developmental stages
+• The most straightforward way to discover which
+genes are expressed in certain cells is to identify
+the mRNAs being made
+
+• Northern blotting combines gel electrophoresis
+of mRNA followed by hybridization with a probe on
+a membrane
+• Identification of mRNA at a particular
+developmental stage suggests protein function at
+that stage
+• mRNA can be detected by nucleic acid
+hybridization with complementary molecules
+• These complementary molecules, of either DNA or
+RNA, are nucleic acid probes
+
+• In situ hybridization uses fluorescent dyes
+attached to probes to identify the location of
+specific mRNAs in place in the intact organism
+Figure 19.10
+
+50 µm
+
+Figure 19.10
+
+5′
+
+3′
+TAACGGTTCCAGC
+
+CTCAAGTTGCTCT
+
+ATTGCCAAGGTCG
+
+5′
+
+5′
+
+3′
+GAGTTCAACGAGA
+
+3′
+
+5′
+
+3′
+en mRNA
+
+wg mRNA
+Cells
+expressing
+the wg gene
+Head
+
+50 µm
+
+Cells
+expressing
+the en gene
+Thorax
+
+T1
+
+T2
+
+Abdomen
+
+T3 A1 A2
+
+A3
+
+Segment
+boundary
+
+Head
+
+Thorax
+
+Abdomen
+
+A4 A5
+
+• Reverse transcriptase-polymerase chain
+reaction (RT-PCR) is quicker and more sensitive
+because it requires less mRNA than Northern
+blotting
+• Reverse transcriptase is added to mRNA to make
+complementary DNA (cDNA), which serves as a
+template for PCR amplification of the gene of
+interest
+• The products are run on a gel and the mRNA of
+interest identified
+
+Figure 19.11
+
+DNA in
+nucleus
+mRNAs in
+cytoplasm
+Reverse transcriptase
+Poly-A tail
+mRNA
+5′
+
+A A A A A A 3′
+T T T T T 5′
+
+3′
+
+DNA
+Primer
+strand (poly-dT)
+A A A A A A 3′
+T T T T T 5′
+
+5′
+3′
+
+5′
+3′
+
+3′
+
+5′
+
+DNA
+polymerase
+5′
+3′
+
+3′
+5′
+
+cDNA
+
+Figure 19.12
+
+Technique
+1 cDNA synthesis
+
+mRNAs
+
+cDNAs
+Primers
+2 PCR amplification
+
+Specific
+gene
+3 Gel electrophoresis
+
+Results
+
+Embryonic stages
+1 2 3 4 5 6
+
+Studying the Expression of
+Interacting Groups of Genes
+• Automation has allowed scientists to measure
+expression of thousands of genes at one time
+using DNA microarray assays
+• DNA microarray assays compare patterns of
+gene expression in different tissues, at different
+times, or under different conditions
+
+Research Method: DNA Microarray Assay of Gene Expression Levels
+TECHNIQUE
+1 Isolate mRNA.
+Tissue sample
+
+2 Make cDNA by reverse
+transcription, using
+fluorescently labeled
+nucleotides.
+
+3 Apply the cDNA mixture to a
+microarray, a different gene
+in each spot. The cDNA hybridizes
+with any complementary DNA on
+the microarray.
+
+mRNA molecules
+
+Labeled cDNA molecules
+(single strands)
+DNA fragments
+representing a
+specific gene
+DNA microarray
+
+4 Rinse off excess cDNA; scan microarray
+for fluorescence. Each fluorescent spot
+(yellow) represents a gene expressed
+in the tissue sample.
+
+DNA microarray
+with 2,400
+human genes
+
+Figure 19.13
+
+Each dot is a well containing identical copies
+of DNA fragments that carry a specific gene.
+Genes expressed
+in first tissue.
+
+Genes expressed
+in second tissue.
+
+Genes expressed
+in both tissues.
+
+DNA microarray
+(actual size)
+
+Genes expressed
+in neither tissue.
+
+►
+
+• With rapid and inexpensive sequencing methods
+available, researchers can also just sequence
+cDNA samples from different tissues or
+embryonic stages to determine the gene
+expression differences between them
+• By uncovering gene interactions and clues to
+gene function DNA microarray assays may
+contribute to understanding of disease and
+suggest new diagnostic targets
+
+Determining Gene Function
+• One way to determine function is to disable the
+gene and observe the consequences
+• Using in vitro mutagenesis, mutations are
+introduced into a cloned gene, altering or
+destroying its function
+• When the mutated gene is returned to the cell, the
+normal gene’s function might be determined by
+examining the mutant’s phenotype
+
+• Gene expression can also be silenced using RNA
+interference (RNAi)
+• Synthetic double-stranded RNA molecules
+matching the sequence of a particular gene are
+used to break down or block the gene’s mRNA
+
+• In humans, researchers analyze the genomes of
+many people with a certain genetic condition to try
+to find nucleotide changes specific to the condition
+• These genome-wide association studies test for
+genetic markers, sequences that vary among
+individuals
+• Genetic markers called SNPs (single nucleotide
+polymorphisms) occur on average every 100–
+300 base pairs
+• SNPs can be detected by PCR, and any SNP
+shared by people affected with a disorder but not
+among unaffected people may pinpoint the
+location of the disease-causing gene
+
+• SNP variants that are found frequently associated
+with a particular inherited disorder alert
+researchers to the most likely location for the
+disease-causing gene
+• SNPs are rarely directly involved in the disease;
+they are most often in noncoding regions of the
+genome
+
+Figure 19.14
+
+DNA
+T
+Normal allele
+SNP
+
+C
+Disease-causing
+allele
+
+Concept 19.3
+Cloned organisms and stem cells are useful for
+basic research and other applications
+• Organismal cloning produces one or more
+organisms genetically identical to the “parent” that
+donated the single cell
+• A stem cell is a relatively unspecialized cell that
+can reproduce itself indefinitely, or under certain
+conditions can differentiate into one or more types
+of specialized cells
+
+Cloning Plants: Single-Cell Cultures
+• One experimental approach for testing genomic
+equivalence is to see whether a differentiated cell
+can generate a whole organism
+• In plants, cells can de differentiate and then
+give rise to all the specialized cell types of
+the organism
+• A totipotent cell is one that can generate a
+complete new organism
+• Plant cloning is used extensively in agriculture
+
+Figure 19.15
+
+Cross
+section of
+carrot root
+
+2-mg
+fragments
+
+Fragments were
+cultured in nutrient medium;
+stirring caused
+single cells to
+shear off into
+the liquid.
+
+Single cells
+free in
+suspension
+began to
+divide.
+
+Embryonic
+plant developed
+from a cultured
+single cell.
+
+Plantlet was
+cultured on
+agar medium.
+Later it was
+planted in soil.
+
+Adult
+plant
+
+Cloning Animals: Nuclear Transplantation
+• In nuclear transplantation, the nucleus of an
+unfertilized egg cell or zygote is replaced with the
+nucleus of a differentiated cell
+• Experiments with frog embryos have shown that a
+transplanted nucleus can often support normal
+development of the egg
+• However, the older the donor nucleus, the lower
+the percentage of normally developing tadpoles
+
+Figure 19.16
+
+EXPERIMENT Frog embryo
+
+Frog egg cell
+
+Frog tadpole
+
+UV
+
+Less differentiated cell
+
+Fully differentiated
+(intestinal) cell
+
+Donor
+nucleus
+transplanted
+
+Donor
+nucleus
+transplanted
+
+Enucleated
+egg cell
+Egg with donor nucleus
+activated to begin
+development
+
+RESULTS
+
+Most develop
+into tadpoles.
+
+Most stop developing
+before tadpole stage.
+
+Reproductive Cloning of Mammals
+• In 1997, Scottish researchers announced the birth
+of Dolly, a lamb cloned from an adult sheep by
+nuclear transplantation from a differentiated
+mammary cell
+• Dolly’s premature death in 2003, as well as her
+arthritis, led to speculation that her cells were not
+as healthy as those of a normal sheep, possibly
+reflecting incomplete reprogramming of the
+original transplanted nucleus
+
+Figure 19.17a
+
+TECHNIQUE
+Mammary
+cell donor
+
+Egg cell
+donor
+
+1
+Egg
+cell from
+ovary
+Cultured
+mammary
+cells
+
+2
+Nucleus
+removed
+
+3 Cells fused
+
+Nucleus from
+mammary cell
+
+Figure 19.17b
+
+Nucleus from
+mammary cell
+4 Grown in culture
+Early embryo
+5 Implanted in uterus
+of a third sheep
+
+Surrogate
+mother
+6 Embryonic
+development
+RESULTS
+
+Lamb (“Dolly”) genetically
+identical to mammary cell donor
+
+• Since 1997, cloning has been demonstrated in
+many mammals, including mice, cats, cows,
+horses, mules, pigs, and dogs
+• CC (for Carbon Copy) was the first cat cloned;
+however, CC differed somewhat from her female
+“parent”
+• Cloned animals do not always look or behave
+exactly the same
+
+Figure 19.18
+
+Faulty Gene Regulation in Cloned Animals
+• In most nuclear transplantation studies, only a
+small percentage of cloned embryos have
+developed normally to birth, and many cloned
+animals exhibit defects
+• Many epigenetic changes, such as acetylation of
+histones or methylation of DNA, must be reversed
+in the nucleus from a donor animal in order for
+genes to be expressed or repressed appropriately
+for early stages of development
+
+Stem Cells of Animals
+• A stem cell is a relatively unspecialized cell that
+can reproduce itself indefinitely and differentiate
+into specialized cells of one or more types
+• Stem cells isolated from early embryos at the
+blastocyst stage are called embryonic stem (ES)
+cells; these are able to differentiate into all cell
+types
+• The adult body also has stem cells, which replace
+nonreproducing specialized cells
+
+Figure 19.19
+
+Stem cell
+
+Cell division
+Stem cell
+
+and
+
+Fat cells
+
+Precursor cell
+
+or
+
+Bone
+cells
+
+or
+
+White
+blood cells
+
+Embryonic and Adult Stem Cells
+• Many early embryos contain stem cells capable
+of giving rise to differentiated embryonic cells of
+any type
+• In culture, these embryonic stem cells reproduce
+indefinitely
+• Depending on culture conditions, they can be
+made to differentiate into a variety of specialized
+cells
+• Adult stem cells can generate multiple (but not all)
+cell types and are used in the body to replace
+nonreproducing cells as needed
+
+Figure 19.20
+
+Embryonic
+stem cells
+
+Adult
+stem cells
+
+Cells generating
+some cell types
+
+Cells generating
+all embryonic
+cell types
+Cultured
+stem cells
+
+Different
+culture
+conditions
+
+Different
+types of
+differentiated
+cells
+
+Liver
+cells
+
+Nerve
+cells
+
+Blood
+cells
+
+• Embryonic stem (ES) cells are pluripotent,
+capable of differentiating into many different
+cell types
+• The ultimate aim of research with stem cells
+is to supply cells for the repair of damaged or
+diseased organs
+• ES cells present ethical and political issues
+
+Induced Pluripotent Stem (iPS) Cells
+• Researchers can treat differentiated cells, and
+reprogram them to act like ES cells
+• Researchers used retroviruses to induce extra
+copies of four stem cell master regulatory genes
+to produce induced pluripotent stem (iPS) cells
+• iPS cells can perform most of the functions of
+ES cells
+• iPS cells can be used as models for study of
+certain diseases and potentially as replacement
+cells for patients
+Nobel Prize in Physiology or Medicine, 2012
+
+Figure 19.21
+
+Experiment
+
+Stem cell
+
+Oct3/4
+
+Sox2
+
+Precursor cell
+
+Skin
+fibroblast
+cell
+
+Four “stem cell” master regulator
+genes were introduced, using
+the retroviral cloning vector.
+c-Myc
+Klf4
+
+Induced pluripotent
+stem (iPS) cell
+
+Impact: The Impact of Induced
+Pluripotent Stem (iPS) Cells on
+1 Remove skin cells
+Regenerative Medicine
+
+from patient.
+
+2 Reprogram skin cells
+so the cells become
+induced pluripotent
+stem (iPS) cells.
+
+Patient with
+damaged heart
+tissue or other
+disease
+3 Treat iPS cells so
+that they differentiate
+into a specific
+cell type.
+4 Return cells to
+patient, where
+they can repair
+damaged tissue.
+
+Concept 19.4
+The practical applications of DNA-based
+biotechnology affect our lives in many ways
+
+• Many fields benefit from DNA technology and
+genetic engineering
+
+Medical Applications
+• One benefit of DNA technology is identification of
+human genes in which mutation plays a role in
+genetic diseases
+• Researchers use microarray assays or other tools
+to identify genes turned on or off in particular
+diseases
+• The genes and their products are then potential
+targets for prevention or therapy
+
+Diagnosis and Treatment of Diseases
+• Scientists can diagnose many human genetic
+disorders using PCR and sequence-specific
+primers, then sequencing the amplified product to
+look for the disease-causing mutation
+• SNPs may be associated with a disease-causing
+mutation
+• SNPs may also be correlated with increased risks
+for conditions such as heart disease or certain
+types of cancer
+
+Human Gene Therapy
+• Gene therapy is the alteration of an afflicted
+individual’s genes
+• Gene therapy holds great potential for treating
+disorders traceable to a single defective gene
+• Vectors are used for delivery of genes into
+specific types of cells, for example bone marrow
+• Gene therapy provokes both technical and ethical
+questions
+
+Figure 19.22
+
+Cloned gene
+1 Insert RNA version of normal allele
+into retrovirus.
+Viral RNA
+
+Retrovirus
+capsid
+
+2 Let retrovirus infect bone marrow cells
+that have been removed from the
+patient and cultured.
+
+3 Viral DNA carrying the normal
+allele inserts into chromosome.
+Bone
+marrow
+cell from
+patient
+
+4 Inject engineered
+cells into patient.
+
+Bone
+marrow
+
+Pharmaceutical Products
+• Advances in DNA technology and genetic
+research are important to the development of new
+drugs to treat diseases
+
+1. Synthesis of Small Molecules for Use as Drugs
+• The drug imatinib is a small molecule that inhibits
+overexpression of a specific leukemia-causing
+receptor
+• Pharmaceutical products that are proteins can be
+synthesized on a large scale
+
+2. Protein Production in Cell Cultures
+• Host cells in culture can be engineered to secrete
+a protein as it is made, simplifying the task of
+purifying it
+• This is useful for the production of insulin, human
+growth hormones, and vaccines
+
+3. Protein Production by “Pharm” Animals
+• Transgenic animals are made by introducing
+genes from one species into the genome of
+another animal
+• Transgenic animals are pharmaceutical “factories,”
+producers of large amounts of otherwise rare
+substances for medical use
+
+Figure 19.23
+
+Forensic Evidence and Genetic Profiles
+• An individual’s unique DNA sequence, or genetic
+profile, can be obtained by analysis of tissue or
+body fluids
+• DNA testing can identify individuals with a high
+degree of certainty
+• Genetic profiles can be analyzed using RFLP
+analysis by Southern blotting
+
+• Even more sensitive is the use of genetic markers
+called short tandem repeats (STRs), which are
+variations in the number of repeats of specific
+DNA sequences
+• PCR and gel electrophoresis are used to amplify
+and then identify STRs of different lengths
+• The probability that two people who are not
+identical twins have the same STR markers is
+exceptionally small
+• As of 2013 more than 300 innocent people have
+been released from prison as a result of STR
+analysis of old DNA evidence
+
+Figure 19.24
+
+(a) This photo shows
+Washington just before
+his release in 2001,
+after 17 years in prison.
+
+Source of
+sample
+
+STR
+marker 1
+
+STR
+marker 2
+
+STR
+marker 3
+
+Semen on victim
+
+17,19
+
+13,16
+
+12,12
+
+Earl Washington
+
+16,18
+
+14,15
+
+11,12
+
+Kenneth Tinsley
+
+17,19
+
+13,16
+
+12,12
+
+(b) These and other STR data exonerated Washington
+and led Tinsley to plead guilty to the murder.
+
+Environmental Cleanup
+• Genetic engineering can be used to modify the
+metabolism of microorganisms
+• Some modified microorganisms can be used to
+extract minerals from the environment or degrade
+potentially toxic waste materials
+
+Agricultural Applications
+• DNA technology is being used to improve
+agricultural productivity and food quality
+• Genetic engineering of transgenic animals speeds
+up the selective breeding process
+• Beneficial genes can be transferred between
+varieties of species
+
+• Agricultural scientists have endowed a number of
+crop plants with genes for desirable traits
+• The Ti plasmid is the most commonly used vector
+for introducing new genes into plant cells
+• Genetic engineering in plants has been used to
+transfer many useful genes including those for
+herbicide resistance, increased resistance to pests,
+increased resistance to salinity, and improved
+nutritional value of crops
+
+Research Method:
+Using the Ti
+Plasmid to Produce
+Transgenic Plants
+
+TECHNIQUE
+Agrobacterium tumefaciens
+
+Ti
+plasmid
+Site where
+restriction
+enzyme cuts
+T DNA
+DNA with
+the gene
+of interest
+
+RESULTS
+
+Recombinant
+Ti plasmid
+
+Plant with new trait
+
+Safety and Ethical Questions Raised
+by DNA Technology
+• Potential benefits of genetic engineering must
+be weighed against potential hazards of
+creating harmful products or procedures
+• Guidelines are in place in the United States
+and other countries to ensure safe practices for
+recombinant DNA technology
+
+• Most public concern about possible hazards
+centers on genetically modified (GM) organisms
+used as food
+• Some are concerned about the creation of “super
+weeds” from the transfer of genes from GM crops
+to their wild relatives
+• Other worries include the possibility that
+transgenic protein products might cause allergic
+reactions
+
+• As biotechnology continues to change, so does
+its use in agriculture, industry, and medicine
+• National agencies and international organizations
+strive to set guidelines for safe and ethical
+practices in the use of biotechnology
+
+
