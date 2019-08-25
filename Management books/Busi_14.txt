@@ -1,0 +1,2431 @@
+An Introduction
+to Cooperation
+and Mutualism
+Michael Boland
+University of Minnesota
+
+An Introduction to Cooperation and Mutualism
+Copyright © 2017 by Michael Boland
+
+This work is licensed under a Creative Commons Attribution-NonCommerical
+4.0 International license.
+You are free to:
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+Under the following terms:
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way that suggests
+the licensor endorses you or your use.
+NonCommercial — You may not use the material for commercial purposes.
+Although every precaution has been taken to verify the accuracy of the information contained
+herein, the author(s) and publisher assume no responsibility for any errors or omissions. No liability is assumed for damages that may result from the use of information contained within.
+Edition: 1.0 (December 2017)
+University of Minnesota Libraries Publishing
+Minneapolis, Minnesota
+ISBN: 978-1-946135-38-4 (ebook) 978-1-946135-39-1 (print)
+Textbook: z.umn.edu/cooperative-textbook
+Teaching materials: z.umn.edu/cooperative-textbook-teaching-materials
+
+An Introduction
+to Cooperation
+and Mutualism
+Michael Boland
+University of Minnesota
+
+Preface .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . vii
+Introduction.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1
+Chapter One: Cooperatives and Mutuals are Firms .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+The success of a firm lies in its ability to have clear property rights.  .  .  .  .  .  .  . 3
+Who owns a firm?.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+Exhibit 1.0 What is the make-or-buy decision? . .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Exhibit 1.1 Dimension of job design in organizations with an
+application to a convenience store franchise .  .  .  .  .  .  .  .  . 6
+Corporate governance.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+Exhibit 1.2 What are articles of incorporation? . .  .  .  .  .  .  .  .  .  .  .  .  . 8
+Cooperatives are an example of a closely-held firm.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+Exhibit 1.3 What are bylaws?. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+Exhibit 1.4 What are policies? . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+Exhibit 1.5 Types of business forms. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10
+Summary.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  10
+References.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11
+
+Chapter Two: Cooperatives and mutuals are participatory organizations.  .  .  .  .  .  .  13
+
+Exhibit 2.0 The cooperative is a firm. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 13
+Exhibit 2.1 The mutual company .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 14
+Exhibit 2.2 International cooperative alliance values and principles
+of cooperation. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15
+Exhibit 2.3 The special case of fraternal benefit society. .  .  .  .  .  .  .  .  .16
+Cooperative principles and policies .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  17
+Exhibit 2.4 Rochdale Equitable Pioneers Society .  .  .  .  .  .  .  .  .  .  .  .  . 17
+Exhibit 2.5 The cooperative as the competitive yardstick. .  .  .  .  .  .  .  .18
+Participation in benefits.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  18
+Exhibit 2.6 What are examples of credit cooperatives?.  .  .  .  .  .  .  .  .  . 19
+Exhibit 2.7 What is the difference between a stock cooperative and a
+nonstock cooperative?.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20
+Participation in ownership .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  20
+Participation in control .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  20
+Exhibit 2.8 How are directors selected?. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .21
+Exhibit 2.9 Cooperatives and mutuals are not the same as loyalty
+programs and buying clubs .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 22
+Principles of cooperation.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  22
+Formation of cooperatives.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 23
+Summary.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  25
+References.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26
+
+Chapter Three: Income distribution and equity decisions .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 29
+Introduction .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  30
+Exhibit 3.1 The case of pooling cooperatives. .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 31
+Exhibit 3.2 Simplified cooperative income statement . .  .  .  .  .  .  .  .  .  .32
+Income statement.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 32
+Balance sheet.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  33
+Exhibit 3.3 A simplified cooperative balance sheet .  .  .  .  .  .  .  .  .  .  .  . 33
+Choices on distribution of patronage and non-patronage income.  .  .  .  .  .  .  34
+exhibit 3.4 Income distribution decision in a cooperative .  .  .  .  .  .  .  . 35
+Patronage income distribution choices and cooperative business units .  .  .  .  36
+Exhibit 3.5 Sources of equity in a cooperative . .  .  .  .  .  .  .  .  .  .  .  .  .  .37
+Choices on tax liability of patronage refunds.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  38
+Exhibit 3.6 The rationale for why cooperatives have single
+taxation of income . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 39
+Equity redemption program choice has implications for the balance sheet .  .  40
+Summary.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  41
+Exhibit 3.7 Equity redemption by patron birth year in certain
+farm supply and grain marketing cooperatives in the
+United States . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .41
+References.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 42
+
+Chapter Four: Special topics in cooperatives and mutualism .  .  .  .  .  .  .  .  .  .  .  .  .  . 43
+Limited exemption from antitrust laws .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  43
+Use in agricultural and community development programs.  .  .  .  .  .  .  .  .  .  . 43
+Pricing strategies.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  44
+Why is the number of agricultural cooperatives declining worldwide?.  .  .  . 44
+Organizing the governance of cooperatives.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  44
+Hybrid cooperative organizational forms.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  45
+The “new generation” cooperative phenomenon in the United States .  .  .  .  .  45
+Demutualization: a rare but often studied event in cooperatives
+and mutuals .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  47
+The current restructuring of ‘mixed’ or multi-purpose farm supply
+and grain / oilseed marketing cooperatives in the United States.  .  .  .  .  .  .  . 47
+Collective farming movements.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  48
+Economic impact of cooperatives and mutuals.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  48
+The role of faith in cooperative development.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  48
+Summary.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  49
+References.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 49
+
+Chapter Five: Summary and conclusions .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 51
+References.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 52
+Glossary. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+About the author.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  56
+
+»Preface
+When I was growing up, as the oldest of 12 children, my parents did a lot of
+business with the “co-op.” In this case, the co-op was Farmers Union Cooperative Oil Association of South St. Paul, which later became River Country Cooperative and remains a thriving business in east central Minnesota.
+It was the only business where my parents had credit. My parents had actually purchased common stock in the co-op in the late 1960s, which, as I
+discovered later, is unusual since most members are allowed to earn their
+way into a farm supply cooperative without having to formally purchase
+common stock. Our family had no credit cards and no home equity line of
+credit in the 1960s and 1970s. The fact that we lived from one paycheck to
+another meant that having credit at the co-op was a blessing, provided the
+account was paid off promptly every month, which it was. The co-op was
+where we purchased gas and where the car got fixed. Tires, batteries, oil
+filters, dog food, and other goods were bought at the co-op. And every year
+my family received a patronage refund. The co-op had operations in three
+counties and the nearest location was almost 15 miles away.
+We banked with a credit union and insurance was done with a
+mutual insurance company. My cousin, on whose farm we worked, was
+a member of three farm supply cooperatives and his insurance was in a
+township mutual insurance company. Childhood photos would invariably have someone in my family wearing a red Cenex (now part of CHS,
+Inc.) or green Land O’Lakes ball cap. Both were cooperatives. I worked
+at the co-op for four years; my brother later worked there, and ultimately
+became General Manager at a farm supply cooperative in WashingAN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+vii
+
+viii
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+ton state. My Aunt Maureen (known as Peg) was an executive secretary
+at what was then the St. Paul Bank for Cooperatives, and would relate
+her experiences there over a 30-odd year career. As children, we did not
+understand what a cooperative or mutual was. We knew that gas might
+be less expensive just down the road and did not require a 15-mile drive to
+get there! But it was just the way things were done at our house.
+As I attended graduate school at the University of Minnesota and then
+Purdue University, and began a career in academia at Kansas State University and now back at the University of Minnesota, I began to work
+within a network that involved frequent engagement with cooperative
+directors, managers, employees, and other stakeholders, including academics, accountants, attorneys, lenders, and state cooperative council
+leaders. I began to better understand the network of agricultural and consumer cooperatives and mutual insurance firms in our economy. None of
+my undergraduate classes in the business school discussed cooperatives.
+In fact, for one of my classes in which I was required to discuss a company’s annual report, I chose to discuss a firm that happened to be a cooperative. My professor intoned in a professorial voice that “Cooperatives
+were a socialistic idea” and promptly gave me a C. Historically, colleges
+of agriculture, rather than colleges of business, were home to collegiate
+courses on cooperatives.
+Cooperatives and mutuals are just a different form of business. Once
+you start looking closely, you begin to appreciate the extent to which they
+exist throughout the world. Like any business, they exist to make a profit
+and make their members—who are customers—better off by providing a
+product or service. The differences lie in how income is distributed, how
+they are financed, and how they are owned by members. All of these concepts are discussed in this book.
+For a number of years, I have been asked to write a textbook on cooperatives and mutuals. I have chosen to write an introductory textbook.
+Over the past ten years, we have seen many retirements of faculty who
+taught courses on cooperatives and provided many educational programs
+to directors and employees. The popularity of such courses has resulted
+in new faculty being hired who do not have the deep institutional knowledge that other instructors had developed over a long career. There are
+also new courses being taught in colleges and universities where there
+was no such course taught previously. Thus, I have chosen to write something for students who are taking their first course in cooperatives. An
+extensive set of teaching materials with detailed lessons plans, case studies, and information, accompanies this textbook; these materials should
+be useful for instructors and students.
+
+PREFACE
+I owe a great deal of gratitude to my parents for exposing my siblings
+and I to the cooperative and mutual form of business. My colleagues in
+the U.S. Department of Agriculture USDA NCERA 210 Multi-State Coordinating Committee of Land Grant University Faculty Focused on Research
+on Cooperatives have been a valuable sounding board for me. In particular, Phil Kenkel and Greg McKee have been great sounding boards for this
+textbook. I owe a lot of thanks to my long-time friend and colleague from
+Kansas State, David Barton, who was involved in the last textbook written
+on cooperatives in 1989 and kept a set of materials available for others to
+use over the years. And I owe much to my co-instructors who help teach
+the law school class on cooperatives and mutuals at the University of Minnesota. Chris Kopka, Tom Pierson, and Dave Swanson have deepened my
+knowledge of mutuals and cooperatives.
+Most importantly, I am deeply indebted to the thousands of directors, managers, employees, and stakeholders of cooperatives and mutuals who have educated me about their businesses over the past 25 years.
+This education has occurred through programs offered by state cooperative councils, cooperative annual meetings, regional workshops such as
+the Farmer Cooperatives conference and California Center for Cooperative Development education program, and the activities of the National
+Council on Farmer Cooperatives. I have had the opportunity to lecture
+or work in more than 100 countries, with much of this work related to
+cooperatives or mutuals. The issues are the same no matter where one
+goes! The relationships among all of these individuals have helped make
+my career very rewarding. My job involves a great deal of public-private
+partnerships with these individuals and I am very blessed with this network. I also want to thank to Jerry Ryan and the employees and producers
+of Arrabawn Co-op in Nenagh, Ireland, who provided my students and I
+an up-close look at Irish cooperatives as part of their study tour. I have
+led more than a dozen student agricultural study tours in Latin America,
+Australia and New Zealand, and South Africa, and cooperatives were an
+important stop for my students.
+Cooperative leaders had the foresight to create various endowments
+at a number of universities to ensure that faculty teach courses in cooperatives and create new knowledge about cooperatives. In that spirit, the
+CHS Foundation and CoBank have graciously helped provide funding in
+the development and editing of this book and its materials. I could not
+have done this without their help. Finally, I would remiss if I did not thank
+Kansas State University and University of Minnesota for allowing me to
+teach, research, and conduct extension and outreach programs on cooperatives as part of my career. It has been a great career choice for me.
+
+ix
+
+x
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+»Introduction
+The purpose of this textbook is to introduce the ideas of cooperation and
+mutualism. Consequently, it is likely to be used in an introductory course
+on cooperatives and mutuals as opposed to a graduate seminar course. As
+an economist, it stands to reason that much of my discussion is written
+through the eyes of economics. After all, a cooperative or mutual will not
+survive unless it achieves an economic purpose. Another goal I have with
+the book is to make it accessible, affordable, and easy to update.
+I began with roughly 320 pages of double-spaced text. As I tried to separate what should be in the teaching manual relative to the text, it gradually dawned on me that, with the many kinds of materials publicly available, I was making the book too unwieldy. No class is the same; some are
+taught once a week, some twice, some three times. The number of students differs, as does the classroom itself, with some courses taught in
+traditional lecture halls and others in active student learning classrooms.
+The real value to the instructor and reader is the teaching materials and
+how they are used. Virtually all instructors supplement a textbook with
+their own materials and the same will be true with this book as well.
+I thus looked at the materials and decided to make the book much
+smaller and more focused. Student feedback was overwhelmingly positive! This process resulted in moving much of the original material into
+the teaching manual and creating a shorter textbook. A number of my
+colleagues have contributed to the lesson plans in the teaching manual
+and I want to acknowledge their help and contributions.
+The last cooperative textbook, which was edited by David Cobia in
+1989 and includes chapters written by various cooperative scholars, made
+an outstanding contribution by creating a consistent set of cooperative
+terminology. I have tried to follow their practice, with the exception of
+one term: investor-oriented firm, or IOF, is a term I understand as an academic, but I believe it is confusing for readers in an introductory class.
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+1
+
+I have thus chosen to use the terms cooperatives and non-cooperative
+corporations. Finally, mutuals have never been discussed within previous
+textbooks on cooperatives and there is no widespread literature on them.
+Because there is so much overlap, and because many people who belong
+to a cooperative also belong to a mutual insurance firm and likely do not
+even realize it, I have chosen to add mutualism as an idea in this textbook.
+In keeping with the idea of making the book easily readable, I have
+chosen not to use explicit citations like those used in an academic journal
+article. Rather, I have compiled endnotes with information on the sources
+for particular concepts or ideas. I have tried to acknowledge original
+sources wherever possible, and to recognize individuals who helped popularize those concepts and ideas.
+The first chapter introduces the idea of a firm and how it is defined and
+organized. I then introduce the idea of property rights and governance. For
+the vast majority of students, this is the first time they will be exposed to
+this concept. Because a cooperative is a firm, it is important that students
+are grounded in these concepts. The formation of cooperatives and mutuals is introduced within the context of the firm’s Make or Buy decision.
+The second chapter defines cooperatives as participatory organizations
+in which members participate in economic and social benefits, ownership,
+and control. I introduce the importance of a cooperative using a business
+strategy to recognize that members are first and foremost customers, and
+lay out the various types of cooperatives. I also introduce some of the reasons why cooperatives have been used so widely in agriculture.
+The third chapter lays out cooperative accounting and finance concepts. Students taking a course in cooperatives may have little or no background in accounting, but such knowledge is needed to understand the
+ways in which members participate in their cooperative.
+The fourth chapter introduces several topics unique to cooperatives and
+mutuals, including policies, economic development, pricing strategies, and
+current issues in cooperatives. Chapter Five ties these concepts together.
+
+2
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+»Chapter One
+
+Cooperatives and Mutuals are Firms
+
+The purpose of a firm is to decide what to produce, how to produce it, and
+how to distribute what is produced. Legal forms of organizations include
+for-profit corporations, non-profit organizations, partnerships, and sole
+proprietorships. The majority of business organizations in the U.S. are
+corporations, and are referred to as C corporations because such organizations tax the corporation differently from the owners of the corporation.
+A number of these corporations are publicly traded, which means they
+issue stock that can be bought and sold by buyers and sellers in an organized stock exchange. Stock owners include institutional investors such
+as mutual funds, pension (private and public) funds, and life insurance
+companies. Cooperatives are a special case of corporations.
+This chapter describes how a firm is organized. Market economies such
+as those found in the U.S. and in many other parts of the world operate
+efficiently when firms are organized in the ways discussed in this chapter.
+The next chapter describes the organizational characteristics of a cooperative, while the third chapter describes the accounting and financial
+characteristics of a cooperative or mutual, with the economic transaction
+clearly showing why a cooperative is different from other forms of business. It is important for the reader to understand what a firm is in order to
+fully understand the concepts underpinning cooperation and mutualism.
+
+The success of a firm lies in its ability to have clear property rights
+
+A property right is a legally enforced right to select the uses of an economic
+good produced by a firm. Private property rights are those assigned to an
+individual person, while an alienable property right is one that can be given
+or transferred to someone else. For example, the government employs
+a police force and legal system to enforce these rights. Ownership of the
+property right includes the use of that right and its alienability or ability to
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+3
+
+4
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+give or transfer that right. These rights are separated such that, for example,
+a person can rent an apartment but cannot sell the apartment.
+Market economies have the ability to be highly efficient in organizing
+economic activity if the property rights are clearly known and assignable
+to individuals, and if the contracting costs such as search and information
+costs, bargaining and decision costs, and drafting, policing, and enforcement costs are known. Specific knowledge is important in decision-making,
+and individuals make more productive decisions when property rights are
+known and assignable. Firms exist because there are contracting costs to
+using markets, and these costs may be lower when done by firms.
+This is easy to understand in a business such as a proprietorship, where
+one person makes all decisions and signs all contracts. But it is more complex in a firm such as a cooperative or mutual. A considerable amount of
+research suggests that firms are actually a connection of a group of contracts. The firm signs contracts with 1) suppliers to purchase inputs to
+create something, 2) employees to help provide services with their labor,
+3) lenders, bondholders, preferred stockholders, or others who provide
+capital to the firm, 4) buyers who agree to purchase the products or services made by the firms, or 5) any other entity doing some form of business with the firm.
+In a cooperative, however, some of these contracts exist with owners
+and employees of the firm. In a consumer cooperative, the goods and services provided by the cooperative are consumed by the members, while
+in a producer cooperative the cooperative markets products supplied by
+the members. Cooperatives are successful if they are able to make something for their members either through purchasing supplies or providing
+inputs rather than having members do this in the market as individuals
+with no ownership. This Make or Buy decision has been widely studied
+within the context of the contractual arrangements that make up a firm.
+The concepts of ownership, property rights, and purpose of a firm are key
+to understanding the unique nature of a cooperative.
+
+Who owns a firm?
+
+An owner of a firm is someone who has the right to control the firm
+and the right to any residual earnings after the firm has contracted its
+expenses with its suppliers, employees, lenders, and others with whom
+it has a contractual arrangement. These two rights—control and residual
+claimant on earnings—are linked together or are obtained jointly in a
+corporation and are the fundamental basis of ownership. There are costs,
+however, associated with these two rights. For example, one key cost with
+regard to the right to residual earnings is the issue of risk and the firm’s
+
+CHAPTER ONE: COOPERATIVES AND MUTUALS ARE FIRMS
+strategy choice. More business units in a firm has may lead to greater
+diversification, which can reduce risk as long as the correlation between
+earnings in each of the business units is negative or close to zero.
+For the right to control the firm, there are costs of controlling managers and costs of collective decision-making. Monitoring the actions of
+management is difficult when there are many owners, as is often the case
+with cooperatives and mutuals. Owners can ensure that outside audits are
+conducted and internal controls are in place. In addition, they attempt to
+ensure that the board of directors is composed of individuals with the best
+knowledge possible to monitor management. As seen in the next chapter,
+cooperatives are limited in this regard because their directors must come
+from members. The costs of collective decision-making may be high if
+owners have differing opinions arising from different needs with regard to
+the cooperative’s products and services. The greater these differences, the
+greater the costs of collective decision-making.
+
+EXHIBIT 1.0 What is the make-or-buy decision?
+
+Can consumers
+or producers
+obtain benefits
+of volume premiums, volume
+discounts, or
+missing products or services
+on their own?
+
+If the answer is
+yes, is vertical
+coordination
+of the activities
+in the supply
+chain easy? If
+the answer is
+no, then buy
+the product or
+service.
+
+If the answer is
+no, would a supply agreement
+or alliance or
+similar arrangement work?
+
+If the answer is
+yes, is mutual
+benefit a solution to coordination rather
+than detailed
+production or
+marketing contracts? If the answer is no, then
+buy the product
+or service via
+contracting.
+
+If the answer is
+yes, then vertically integrate
+as a consumer
+or producer to
+make the product or service.
+
+If the answer is yes, create a
+supply agreement or alliance
+or similar arrangement to
+contract and buy the product
+or service. If the answer is no,
+then vertically integrate as
+a consumer or producer to
+make the product or service.
+
+5
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+Corporate governance
+
+Knowing the governance of a firm is important in understanding how it
+functions. In an organization such as a C corporation, decision rights are
+allocated between those internal to the firm such as shareholders, boards
+of directors, senior managers, and those external to the firm such as outside auditors, regulatory agencies, analysts, and other stakeholders. Organizations are designed to create jobs that address certain tasks which must
+be accomplished, and these jobs include varying levels of authority to
+decide how to best complete those tasks.
+Think about this concept in regard to a convenience store that sells
+refined fuels such as gasoline and diesel fuel, a limited selection of grocery
+products, convenience foods, and similar products. This store has two
+cash registers. Consider point A, where there are few tasks to accomplish
+and limited authority to make decisions. This job might be a clerk who
+is contracted to run the cash register and has limited authority to make
+decisions. Point B has more tasks to perform but limited decision-making
+authority. An example might be a shift leader who runs the cash register,
+is the supervisor for the other clerk, and may do certain jobs within the
+store such as stock shelves, but who has limited authority to make other
+
+EXHIBIT 1.1 Dimension of job design in organizations with
+an application to a convenience store franchise
+
+B: shift leader
+
+D: franchise
+owner
+
+A: cashier or clerk
+
+C: store manager
+
+Tasks to accomplish
+
+6
+
+Authority to make decision
+
+CHAPTER ONE: COOPERATIVES AND MUTUALS ARE FIRMS
+decisions. Point C involves more tasks and more authority. This would
+be the store manager who has supervisory responsibilities for all employees in the store and is responsible for inventory control. Point D involves
+many tasks and more authority to make decisions. The store owner or
+franchise owner who owns this store and perhaps other stores has the
+responsibility to make decisions regarding pricing, but is subject to the
+franchise contract with regard to brand selection, services being offered,
+and choice of suppliers.
+Organizations are complex as they grow in size. Managers with more
+and more responsibility thus find that the tradeoff between the authority to make decisions (decision rights) and the required tasks is complex,
+because now the manager is responsible for many employees who are
+themselves assigned tasks and decision rights. Achieving the right alignment between tasks and decision rights is difficult in larger organizations.
+The authority to make decisions can be broken down into a series of
+steps. An organization 1) seeks proposals to use resources such as capital,
+labor, and structure contracts to assign the resources to the appropriate
+user, 2) makes a decision to choose the appropriate proposal, 3) implements the decision, and 4) monitors the performance of the implemented
+decision, and rewards accordingly. Steps 1 and 2 are often called decision
+management while steps 3 and 4 are called decision control.
+The design of a corporation’s governance is crucial, and it is good practice to separate decision management from decision control. Otherwise,
+those making the decisions may choose what is best for themselves rather
+than for the organization. Many organizations have a board of directors that is responsible for monitoring the performance of the individual
+managing the firm, such as the Chief Executive Officer (CEO). The board
+has decision control, while the CEO has decision management. This separation of decision management from decision control leads to a hierarchical structure, as managers have decision management responsibilities
+in their job and decision control responsibilities over others below them
+who themselves have decision management responsibilities.
+Organizations are evaluated on their governance system through
+three different methods: 1) the motivation of value-maximizing decisions,
+2) protection of assets from unauthorized use, and 3) financial statements
+that comply with legal requirements. Because much of the ownership of
+publicly-traded corporations is by institutional investors who own a small
+amount of stock in the firm, there is separation of ownership and control.
+This is in contrast to a small business, where the manager owns and controls the business and has direct incentives to be very efficient with the use
+of assets.
+
+7
+
+8
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+There are many benefits to organizing a firm as a corporation. Access
+to equity capital can occur through sales of stock to investors. The cost
+of equity is less because these investors own diversified portfolios, so the
+premium paid to them for the risk associated with uncertainty in the corporation’s cash flows is less. The corporation serves as the center of many
+contracts and is always one party to these contracts signed with buyers,
+suppliers, employees, lenders, and other entities. These contracts specify
+the decision rights to each party. The corporate charter, which includes the
+articles of incorporation and bylaws, specifies the rights of shareholders.
+The top-level authority in a corporation is divided between shareholders, the board of directors, and senior management. The decision authority
+of shareholders includes the right to elect directors to a board, ratify the
+choice of an independent auditor, and be involved in other issues specified
+in the charter or bylaws including mergers, issuance of additional shares
+of stock, or changes in legal structure. Before an annual meeting, shareholders are sent information from the corporation that describes various
+proposals that require their vote, such as elections of directors to the board.
+Management, subject to board approval, makes recommendations to the
+shareholders regarding these issues. Shareholders are the residual claimants to the corporation in the event of dissolution. Thus, their voting control is often linked proportionally to their ownership interest.
+The primary legal authority for managing a corporation lies with its
+board, although it may delegate much of this to professional managers
+hired for that purpose. The board has top-level decision control to oversee
+the corporation and ratify important decisions. These decisions include
+recruiting, interviewing, hiring, evaluating, and compensating the CEO.
+Large capital expenditures require board approval. Boards have legal
+indemnification from lawsuits provided it can be shown that they were
+
+EXHIBIT 1.2 What are articles of incorporation?
+The articles of incorporation lay out the basic framework of the firm and are broader than
+its bylaws. In the case of a cooperative, the articles of incorporation describe the type of
+organization (non-stock cooperative, stock cooperative, cooperative association, etc.),
+purpose of the business, number of shares of common stock and any preferred stock that
+might be issued, number of directors and how a member votes on those directors, legal
+definition of membership, location of the headquarters (the legal address for the cooperative), and asset disposal upon liquidation. These articles are filed within the state where
+the cooperative is incorporated and any amendments to them must be voted on by the
+membership and refiled with the state. This can be tedious and expensive in time and
+treasure. Thus the most basic information is presented in the articles.
+
+CHAPTER ONE: COOPERATIVES AND MUTUALS ARE FIRMS
+acting prudently. Corporate boards generally have 9–12 directors, and
+usually include several members of senior management. A committee
+structure is used to handle nominating, compensation, audit, and other
+issues that are under the purview of the board. The CEO is the senior most
+individual in the corporation. The job of the CEO is to focus on the broad
+issues affecting the firm and develop, implement, and monitor its strategy.
+The CEO delegates decision rights among senior level managers.
+
+Cooperatives are an example of a closely-held firm
+
+Thus far, the discussion has focused on investor-benefit firms whose stock
+is traded on exchanges. However, there are other forms of corporations
+whose stock is not publicly-traded. Family-owned firms account for a large
+number of corporations in the food economy. There are non-family owned
+
+EXHIBIT 1.3 What are bylaws?
+Bylaws are the rules or policies that explain how any organization, including a cooperative,
+operates. For example, the bylaws of a cooperative define the purpose of the cooperative and its geographical location. The bylaws define who a member is and what rights
+are associated with membership. Bylaws specify a member’s responsibilities with the
+cooperative and what the role membership plays in setting the policies. The governance
+of a cooperative lies within the responsibilities of membership in voting on a board of
+directors and the committee structure used by the board and officers. Bylaws also address
+disputes that might occur, how a membership may be terminated, how an organization
+can change its rules and policies, how a meeting of the membership is to be held, and
+what can occur at that meeting. In general, the bylaws and articles reflect cooperative
+principles, and the legal statutes in each state reflect these principles. The nature of the
+business relationship between the members and the cooperative are typically contained
+in the bylaws, which is not the case for non-cooperative corporations. Bylaws contain
+information that is most likely to be updated periodically.
+
+EXHIBIT 1.4 What are policies?
+A policy is a wise or expedient rule of conduct or management. Policies are created by
+boards of directors to help guide the direction of the cooperative. In contrast to articles of incorporation or bylaws whose changes are voted on by the members, policies
+are voted on by just the board of directors, chosen by the membership. Policies must
+change with conditions to allow and encourage organizations such as cooperatives and
+mutuals to effectively fulfill their essential purposes. Policies should reinforce or at least
+be compatible with the cooperative definition and principles. Policies often reside in
+standard operating procedure documents, such as board of director policy manuals, or
+reflect decisions made by boards and contained in the minutes.
+
+9
+
+10
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+firms that are also privately held but whose shareholders are venture capital
+funds or similar entities whose members include management. In addition,
+there are many families who control the governance of a company through
+different classes of common stock with differing control rights.
+In a broad sense, firms can be thought of in three ways. A non-profit
+firm is organized to benefit the public. Its governance is volunteer-based
+with no ownership by anyone since it rarely has any assets. It is not taxed
+on its income, since non-profits are not designed to maximize profits. In
+a mutual-benefit firm—the subject of this book—income distribution
+is tied to members’ participation through use of the cooperative. Owners generally have one vote per member on governance issues, and the
+income from these types of organizations is either taxed once at the cooperative or mutual level or the income distributed to its members is taxed.
+Investor benefit firms link income distribution and governance with the
+proportion of ownership investment, are taxed on their income, and owners are taxed again on any dividend income.
+
+Summary
+
+Cooperatives are firms with the same structure and property rights as corporations or other types of firms. It is necessary to understand why firms
+exist to understand why cooperatives exist and why they are a special case
+of a corporation. Because the organizational structure of a cooperative is
+different with regards to the two property rights of control and residual
+claimant on earnings, it is important to understand these concepts. The
+
+EXHIBIT 1.5 Types of business forms
+
+Public benefit
+non-profit
+Volunteer governance
+No ownership
+Income tax exempt
+
+Mutual
+benefit co-ops
+& mutuals
+
+Investor
+benefit
+C corporation, LLCs, etc.
+
+Income distribution tied to
+participation in use
+
+Income distribution tied to
+ownership investment
+
+Owners are users who have
+one vote per member
+
+Governed by investors in
+proportion to ownership
+
+Taxed as firm or qualified member
+
+Taxed as firm and as
+investors
+
+CHAPTER ONE: COOPERATIVES AND MUTUALS ARE FIRMS
+survival of the cooperative depends upon its ability to achieve an economic purpose. Thus, it is crucial to understand how ownership and management of the firm are important aspects of corporate governance. The
+next chapter discusses why cooperatives have a formal governance structure just like other organizations, and describe the origins of that structure.
+
+References
+
+The discussion on the design of organizations and corporate governance builds upon
+concepts presented in Managerial Economics and Organizational Architecture, by
+James Brickley, Clifford Smith, and Jerold Zimmerman, and upon Henry Hansmann’s
+The Ownership of Enterprise. The Make or Buy Decision Tree is adapted from David
+Besanko, David Dranove, Mark Shanley, and Scott Schaefer, Economics of Strategy. The
+Make-or-Buy decision was first raised by Ronald Coase and published in “The Nature
+of the Firm,” Economica 4, 16(Nov. 1937):386–405. The Coase Theorem was published
+in “The Problem of Social Cost” Journal of Law and Economics 3,1(1960):1–44. Others,
+most notably Oliver Williamson, have further studied and written about this concept.
+Two papers by Williamson that are accessible to a lay reader are “The Theory of the Firm
+as Governance Structure: From Choice to Contract,” Journal of Economic Perspectives 16,
+3(2002): 171–195, and “The Economics of Governance,” The American Economic Review
+95,2(2005):1–18. Both Coase and Williamson have been recognized with the Sveriges
+Riksbank Prize in Economic Sciences in Memory of Alfred Nobel for their work in this
+area. Information about Coase and Williamson and summaries of these articles can be
+found at http://tinyurl.com/yaa7n3h9 and http://tinyurl.com/ybq272yu.
+The exhibit on job design is modified from Managerial Economics and Organizational
+Architecture by James Brickley, Clifford Smith, and Jerold Zimmerman.
+Exhibit 1.5 is based on an earlier figure done by Tom Pierson.
+Eugene Fama and Michael Jensen’s work is used as basis for the discussion on decision
+management and rights in “Agency Problems and Residual Claims,” Journal of Law and
+Economics 26(1983): 327–349. Fama was recognized with the Sveriges Riksbank Prize in
+Economic Sciences in Memory of Alfred Nobel; information about him can be found at
+http://tinyurl.com/y7zyxb9y.
+The discussion on articles and bylaws comes from a variety of conversations with cooperative attorneys over the years, but my colleague, attorney David Swanson, has had the
+most impact on me in this discussion.
+Information on legal statutes on cooperatives can be found at tinyurl.com/y8e8crw2.
+There are a number of sources for roles and responsibilities for directors. Probably the
+most succinct can be found at tinyurl.com/y74c86x2.
+A broad introduction to cooperatives is available at tinyurl.com/y8lyhgw8.
+
+11
+
+12
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+»Chapter Two
+
+Cooperatives and mutuals are
+participatory organizations
+
+The U.S. Department of Agriculture defines cooperatives as “user-owned
+and controlled business from which benefits are derived and distributed equitably on the basis of use.” This definition implies that cooperatives are owned by users who are customers. These users are also members, in general, and because they derive the benefits of membership, they
+are also called patrons because the economic benefits derived from the
+business done by them as a customer of the cooperative—referred to as
+patronage—are distributed proportionately based on that patronage. This
+gets complicated! Being a customer implies that you are also a patron
+(participate in economic benefits), owner (participate with equity investment), and member (participate in setting policies and governance).
+The overall purpose of a cooperative, which is often embedded in its
+mission statement, is to meet the needs of the customer using the cooperative. Patronage, ownership, and control are
+means to the end. The International Coop- Many cooperative bylaws say that a
+erative Alliance (ICA) defines cooperatives
+cooperative must do no more than
+as, “an autonomous association of persons
+50% of its business with non-members.
+
+EXHIBIT 2.0 The cooperative is a firm
+Members provide supplies to
+the cooperative
+to produce or
+market
+
+The cooperative
+is a firm whose
+members are
+jointly customers,
+patrons, owners,
+and members
+
+Members purchase goods and
+services that the
+cooperative sells
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+13
+
+14
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+EXHIBIT 2.1 The mutual company
+While many cooperatives are formed from a desire to improve a market failure
+situation, improve bargaining power, or create community-ownership, the formation
+of a mutual company has its roots in a desire to prevent something bad from happening. In many cases, these companies provide property and casualty insurance and
+life insurance.
+Mutualism has its roots in meeting a common need for a resource, such as life insurance or property insurance. Early mutual insurance companies were created around the
+idea that people living in a common geography who were likely to be friends would all
+collectively suffer if one of their homes caught on fire, because the fire would spread
+and all would be impacted. A home or business fire could literally wipe out a person’s
+wealth. Thus, mutual insurance was a concept whereby all of your neighbors would
+contribute insurance premiums to a common pool which would be used in the case of
+a fire. The owners were the policyholders. Members desire to keep the costs of insurance premium contributions and fees for management of this pool as low as possible.
+Creating a volunteer fire department in which everyone participates is another way of
+keeping fees low.
+Many of these mutual insurance companies were able to achieve scale in cities
+because of population density. In the latter half of the 19th century, when kerosene
+lamps were used for light and fireplaces for heat and cooking, fires were a common
+problem. In certain areas of the U.S., primarily the Upper Midwest, fire insurance mutual
+cooperatives were formed in rural communities, often at the township level. Community-based or township-based insurance recognized that, since there was no safety net,
+an individual’s loss from a fire had larger repercussions for the broader community. With
+fire insurance, individual consumers have specific needs and, within a group, similar
+risk profiles.
+As a result, a group of fire insurance companies called “class mutuals” evolved to
+address the needs of specific groups of consumers. These organizations— such as a
+creamery and cheese factory mutual, or a farmer-based mutual in a township— limited themselves to these groups. This form of organization resulted in expertise in the
+specific types of risk, the nature and validity of claims, and risk-prevention techniques,
+and they experienced a higher level of group cohesion. This allowed mutuals to flourish;
+non-mutual insurance companies had higher insurance premiums because they did
+not understand these risks.
+Today there is more data to assess these types of risks, and with consolidation many
+of these organizations have been incorporated into bigger insurance firms. Life insurance was slightly different. Mutuals flourished because they were able to provide a
+product for the entire life of the individual, similar to a savings account, and price it in
+a way that an average person could purchase such a policy; non-mutuals, in contrast,
+were providing mostly short-term policies. This changed over time. The International
+Cooperative and Mutual Insurance Federation reported more than 200 members from
+74 countries in 2015. Examples of well-known mutual insurance firms include Northwestern Mutual (USA), CountryFinancial (USA), State Farm Insurance Company (USA),
+and Länsförsäkringar (Sweden).
+Globally, the mutual insurance market share was just over 26% in 2015. Many countries
+in Western Europe have mutual insurance market shares of over 45%.
+
+CHAPTER TWO: COOPERATIVES AND MUTUALS ARE PARTICIPATORY ORGANIZATIONS
+
+EXHIBIT 2.2 International Cooperative Alliance values and principles of cooperation
+The International Cooperative Alliance advocates and promotes the cooperative business
+model in almost 100 countries. In 1995, it developed a values and principles statement
+for cooperatives. Cooperatives are based on the values of self-help, self-responsibility,
+democracy, equality, equity, and solidarity. In the tradition of their founders, cooperative
+members believe in the ethical values of honesty, openness, social responsibility, and
+caring for others. The co-operative principles are guidelines by which cooperatives put
+their values into practice.
+VOLUNTARY AND OPEN MEMBERSHIP Cooperatives are voluntary organizations, open
+to all persons able to use their services and willing to accept the responsibilities of membership, without gender, social, racial, political, or religious discrimination.
+DEMOCRATIC MEMBER CONTROL Cooperatives are democratic organizations controlled by their members, who actively participate in setting their policies and making
+decisions. Men and women serving as elected representatives are accountable to the
+membership. In primary co-operatives, members have equal voting rights (one member,
+one vote), and co-operatives at other levels are organized in a democratic manner.
+MEMBER ECONOMIC PARTICIPATION Members contribute equitably to, and democratically control, the capital of their co-operative. At least part of that capital is usually the
+common property of the cooperative. Members usually receive limited compensation, if
+any, on capital subscribed as a condition of membership. Members allocate surpluses for
+any or all of the following purposes: developing their cooperative, possibly by setting up
+reserves (part of which at least would be indivisible), benefiting members in proportion
+to their transactions with the co-operative, and supporting other activities approved by
+the membership.
+AUTONOMY AND INDEPENDENCE Cooperatives are autonomous, self-help organizations controlled by their members. If they enter into agreements with other organizations,
+including governments, or raise capital from external sources, they do so on terms that
+ensure democratic control by their members and maintain their cooperative autonomy.
+EDUCATION, TRAINING, AND INFORMATION Cooperatives provide education and
+training for their members, elected representatives, managers, and employees so they
+can contribute effectively to the development of their co-operatives. They inform the
+public, particularly young people and opinion leaders, about the nature and benefits
+of cooperation.
+COOPERATION AMONG COOPERATIVES Cooperatives serve their members most
+effectively and strengthen the cooperative movement by working together through local,
+national, regional, and international structures.
+CONCERN FOR COMMUNITY Cooperatives work for the sustainable development of
+their communities through policies approved by their members.
+
+15
+
+16
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+EXHIBIT 2.3 The special case of fraternal benefit society
+Fraternal benefit societies, a type of mutual insurance company, were founded on
+the basis of a “common bond,” a characteristic that members shared —geographic
+area, ethnicity, religion, profession, or gender. Among the common bonds of the
+fraternals, the strongest were religion, ethnicity, and geography, and these were
+the common bonds most understood by members of cooperatives. A fraternal
+benefit society is an organization that has the following four characteristics.
+First, fraternals must have a lodge system with local chapter organizations that
+meet regularly, have elected officers, and bind the members to the organization
+through both the financial contributions of the benefit products and time spent
+in philanthropic, charitable, or social activities. The lodges also provide “social
+outlets for those who [attend] regular meetings of the lodge.” Second, members
+of the organization must have a regular opportunity and a defined process to
+voice concerns or issues and to elect officers, ensuring that the strategic direction
+of the organization is consistent with the wishes of the member-owners. Third,
+the organization must pay some form of insurance benefit to its members. That
+benefit initially took the form of a lump-sum payment, or “death benefit,” to pay
+burial expenses at the time of a member’s death, but it evolved into a more fully
+developed life insurance product that was an actuarially based insurance product.
+Over time, fraternals started offering health insurance and, in some cases, a portfolio of financial products and services. Fourth, the organization must not operate
+on a for-profit basis.
+More informally, members of a fraternal are supposed to share a “common bond,”
+something that brings members of a group together. Examples of common bonds
+include faith (e.g., Lutherans, Catholics), ethnicity (e.g., Croatian Fraternal Union
+of America, Association of the Sons of Poland), a particular location (i.e., western
+Pennsylvania), women-only associations (i.e., Unity of Bohemian Ladies), professions (e.g., Railwaymen’s Relief Association of America), or any combination of
+these categories. The first fraternal dates back to 1868, and the industry experienced explosive growth in the latter half of the 19th century. During this time, fraternals served a variety of purposes, both formal and informal. Formally, they offered
+a life insurance product in communities where residents were mostly economically
+disadvantaged, and hence provided an early form of social safety net. This safety
+net was reinforced by the lodge system, which would frequently take a collection
+for a member in need and provide help to organized communities of similar people who looked to help each other. The lodge system created places where recent
+immigrants could celebrate their cultural heritages, find out about employment
+opportunities, or simply have a place to socialize. As such, lodges contributed to
+the development of group identities along the lines of bonding social capital. In
+the period around 1900, fraternals provided roughly as much life insurance to
+individuals as did commercial providers, with about five million people organized
+into approximately 600 fraternal organizations. Thrivent Financial and the Knights
+of Columbus are the largest fraternal benefit societies today. Both are faith-based
+fraternals, and that bond appears to be the most prevalent in surviving fraternal
+benefit societies today.
+
+CHAPTER TWO: COOPERATIVES AND MUTUALS ARE PARTICIPATORY ORGANIZATIONS
+united voluntarily to meet their common economic, social, and cultural
+needs and aspirations through a jointly owned and democratically controlled enterprise.” This definition is wider than the U.S. Department of
+Agriculture definition in that it encapsulates social and cultural purposes
+for cooperatives. Another way to think about the relationships implied in
+this definition is to consider how members participate in the cooperative.
+Cooperatives and mutuals are participatory organizations.
+
+Cooperative principles and policies
+
+A principle is described as a governing law of conduct, a general or fundamental truth, or a comprehensive or fundamental law. Many state cooperative incorporation statutes reflect principles. Many laws are based on a
+state’s view of appropriate principles. For example, one widely supported
+principle is democratic control. In some people’s views and according to
+some state laws this means “one member, one vote” with regard to control.
+For other people and state laws it means voting by members where voting
+power per member may include voting proportional to use of patronage.
+
+EXHIBIT 2.4 Rochdale Equitable Pioneers Society
+Cooperatives as they are known today trace their roots back to a cooperative formed in
+England in 1844. Others had formed prior to this, but were not as influential. The Rochdale
+Equitable Pioneers Society was envisioned as a multipurpose consumer cooperative that
+sold consumer products to its members. Sugar, flour, oatmeal, butter, and tallow candles
+were the first products sold, and market prices were charged to members on a cash basis.
+In addition, the society sought to improve the welfare of its members through a mutual
+self-help organization that would help improve the lives of its members. This cooperative,
+like others formed around that time, limited transactions to those who were members
+(and anyone could join regardless of political, religious, or other affiliation), and paid a dividend from the net income (referred to as surplus) generated from the member’s business
+(referred to as patronage). This dividend was paid based in proportion to the amount of
+patronage business done with that member. Voting on policies that affected members
+was done on a democratic (one-member, one-vote) basis. Members were required to contribute to equity capital through an initial investment followed by weekly contributions to
+until a minimum threshold was reached. The cooperative started a library to help educate
+its members, and women were allowed to join as members. As other cooperatives were
+started, they formed a wholesale distribution network to supply these consumer cooperatives and ensure that the food they were purchasing was safe and unadulterated. Food
+fraud was a common problem in the mid-19th century before standards and regulations
+were passed. All cooperatives today derive their operating principles from these early
+principles, which have been modified over time to allow proportional voting and use of
+credit for doing business. Their principles have become the foundation for the ICA principles described in Exhibit 2.2.
+
+17
+
+18
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+Substantial flexibility exists in following practices that help achieve
+the objectives of the business while simultaneously remaining compatible
+with the cooperative definition, principles, and policies, and recognizing
+the need to achieve an economic purpose. However, guidelines that are
+called cooperative principles are generally applicable to
+all cooperatives and are compatible with the definition of a
+HEALTH CARE COOPERATIVES
+cooperative and its ability to provide the benefits desired by
+are a lot like mutual
+members who are customers. Many of these principles have
+insurance firms in that
+their roots in early cooperatives formed in the United Kingtheir objective is to pool
+dom in the early 19th century.
+risk across its members
+and provide health care
+with lower fees. Examples
+of health care cooperatives
+include HealthPartners and
+Group Health Cooperative.
+
+Participation in benefits
+
+Customers who use the cooperative or mutual are expected
+to share in the economic benefits derived from their business with it. These benefits may include an overall cost effi-
+
+EXHIBIT 2.5 The cooperative as the competitive yardstick
+The cooperative as a competitive yardstick is a well-known analogy for justifying why
+cooperatives are often thought of as promoting competition. The main tenets underlying
+the cooperative yardstick are:
+A. Cooperatives must establish organizations with bottom-up democratic cooperative
+philosophy and with an informed and participating membership. This type of structure is difficult to achieve as a business because it involves collective action, but it has
+long-run benefits.
+B. Cooperatives are an integral segment of existing capitalistic systems, and designed
+not to displace other types of businesses but to supplement them as an alternative
+form of business.
+C. Cooperatives help build the efficiency of total economic systems or value chains
+because of their transparency regarding costs.
+D. Cooperatives should control a minimum share of the commodity, supply, or service
+market segment in order to achieve economies of size and scale.
+E. Cooperatives help keep other forms of business competitive by being as
+cost-efficient as possible.
+F. Cooperatives should preserve individual producer freedom of decision making
+because the cooperative is a vertical extension of the farming enterprise.
+G. Cooperatives should be organized only if competitive influence is necessary because
+the market has failed or because countervailing bargaining power is needed.
+.
+
+CHAPTER TWO: COOPERATIVES AND MUTUALS ARE PARTICIPATORY ORGANIZATIONS
+
+19
+
+ciency or bargaining power through the vertical extension of a farming
+operation or household through the cooperative; the opportunity to buy
+from the closed supply channel or sell to the closed marketing channel;
+and the benefits of competitive markets arising through the role of the
+cooperative’s competitive yardstick. Many of these reasons are embedded
+in business strategies designed to improve a farmer’s income
+A WORKER COOPERATIVE is a
+by lowering production and transactions costs to improve
+business entity owned and
+market power and lower the variability of annual net farm
+controlled by members who
+income. The move to closer supply chains built on market or
+are laborers and work in
+production contracts has resulted in greater differentiation
+the business. The number of
+by cooperatives which are using business strategies to add
+workers is defined and linked
+value to a farmer’s products.
+with a physical measure such
+For most consumers and producers, however, the most
+as hours worked. The coopertangible economic benefit is the opportunity to share in
+ative may have laborers who
+any distributions of income from the cooperative based on
+are not members, and the CEO
+the proportional share of business done as a member of the
+is not a member. An upfront
+cooperative. These are commonly referred to as patronage
+equity investment is needed
+refunds or per unit retains, which is why customers using
+before a worker can become
+the cooperative are often called patrons. Doing business on
+a member, and patronage
+a patronage level with customers implies that the supply
+refunds are based on hours
+or marketing channel is closed because cooperatives are,
+respectively, supplying products and services to only cus- worked. Probably the oldest
+tomers using the cooperative or only marketing the prod- and most studied worker
+cooperative is the Mondragón
+ucts and services of these users. A cooperative may have
+customers who may not have a membership in the cooper- Corporation in Spain, which is
+a cooperative whose members
+ative because they do not legally qualify (e.g., a government
+are other worker cooperatives.
+entity) or because they do not wish to have a membership
+
+EXHIBIT 2.6 What are examples of credit cooperatives?
+Credit unions were formed to receive deposits from members, provide lower-fee financial
+services such as checking (called share drafts), and provide loans to their members for
+homes, vehicles, or other consumer products. Like fraternal benefit societies, credit unions
+have a common bond such as geography, employer, religion, or unions membership. The
+Farm Credit System was formed to create associations to sell securities and provide operating loans to agricultural producers, and operating and term loans (e.g., land or housing)
+to cooperatives owned by farmers or others living in rural areas. The members of these
+credit cooperatives are farmer and rural consumers. For the case of associations who lend
+to cooperatives, the member may be a cooperative owned by farmers. The National Cooperative Bank lends to cooperatives who are not eligible to borrow from the Farm Credit
+System or from rural electric utility banks.
+
+20
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+(e.g., a customer from another geographic region who makes a purchase
+at a food cooperative).
+
+Participation in ownership
+
+As members, customers who use the cooperative are expected to have
+ownership in the cooperative. In economic terms, this means that the
+equity of the cooperative is owned by the members. The easiest way to
+think about equity investment is direct investment through purchase of
+equity shares. As discussed in the next chapter, most members accumulate equity investment through the retention of patronage refunds or per
+unit retains in a year, which may be redeemed in the future subject to policies set by the board of directors. This is why customers are often called
+equity holders. The equity can only be properly valued upon liquidation,
+an outcome the cooperative members do not intend to
+A number of dairy cooperatives
+have happen as long as the cooperative is achieving its
+manufacture cheese, butter and
+economic purpose and satisfying its customers.
+powdered milk. All sugar beets
+are processed through sugar beet
+cooperatives such as American
+Crystal Sugar. Nor-Pac processes
+vegetables into canned and frozen
+packages. Minnesota Soybean
+Processors crushes soybeans into
+co-products such as oil and meal
+and manufactures soy-diesel.
+
+Participation in control
+
+Customers participate in control by setting policies,
+including the governance structure of the cooperative.
+These policies are embedded in the bylaws of the organization, which include 1) classes of membership and
+their qualifications, 2) the governance system, including
+the role and responsibilities of the board of directors and how they are elected, and 3) rules for certain
+
+EXHIBIT 2.7 What is the difference between a stock cooperative
+and a nonstock cooperative?
+Prior to 1922 when the Capper-Volstead Act was created to formally allow cooperatives
+a “right-to-exist,” there were a number of efforts to create legal entities in state statutes
+that got around efforts by those who were against the formation of cooperatives. In a
+stock cooperative, capital is divided into shares of common stock owned by members,
+which is specified in the articles of incorporation. Some stock cooperatives issue preferred
+stock and other forms of equity, such as membership certificates, which may or may
+not be owned by members. The articles of incorporation do not allow stock transfer to
+non-qualifying member-patrons. One share of common stock is often a requirement for
+membership with small par value. A nonstock cooperative, called a membership cooperative, uses membership certificates that are given to members upon payment of membership fees. Capital certificates were sometimes created to sell directly to members or issued
+as a patronage refund.
+
+CHAPTER TWO: COOPERATIVES AND MUTUALS ARE PARTICIPATORY ORGANIZATIONS
+actions such as annual meetings, bylaw amendments, or
+dissolution. Members who
+are eligible to vote are called
+voting members. Membership
+in a cooperative implies that
+a customer has applied and
+been accepted by the board of
+directors as a member of the
+cooperative. Different cooperatives have different rules on
+membership but, in general,
+
+21
+
+Ace Hardware and True Value Hardware are
+WHOLESALING COOPERATIVES which are independently-owned
+hardware stores. They are able to negotiate better prices, purchase much larger volumes of hardware and related products,
+and distribute them to their members, who could not obtain
+these savings on their own. A number of fast-food restaurant franchise owners have formed purchasing cooperatives,
+including United Foodservice Purchasing Cooperative, which is
+owned by Yum! Brands franchise operators, and Independent
+Purchasing Co-operative, which is owned by Subway franchisees. Independent grocers have formed purchasing cooperatives
+such as Associated Wholesale Grocers and Wakefern Foods.
+
+EXHIBIT 2.8 How are directors selected?
+The manner in which C corporate directors are chosen is straight-forward. Any natural
+person can be selected to the board. The board has created policies whereby directors
+are assumed to have some core of knowledge such as accounting or finance, governance,
+human resources, or strategy. The board desires a broad diversity of background in core
+areas of knowledge plus additional attributes such as diversity including age since many
+boards have a policy that directors must retire at age 72, gender, and background. The
+use of internal or external board evaluations are used to help the board assess itself. In
+addition, two members of management, which include the CEO and another senior leader
+often serve on the board. Nominating committees are used to help identify directors with
+certain skill sets. Thus, directors are chosen at-large subject to meeting the needs identified by the board. Shareholders in the firm vote for the board based on their proportion of
+shares with number of votes linked with their share of equity. Votes are cast for the entire
+slate of directors as opposed to each director separately. Director compensation is often
+linked with the responsibilities of the directors and size of the firm.
+Many cooperatives follow similar practices as those described above. However, cooperatives have one important difference in selecting directors over non-cooperative corporations. Namely, directors are selected from their customers who are members. Some cooperatives use similar tools to identify directors in an effort to identify suitable candidates
+for the board. However, because of their unique nature, directors are often chosen based
+on geography whereby the cooperative creates districts based on the population of its
+members. Thus, nominating committees considers the pool of directors in that geographical district. Board elections in a cooperative ask each member to vote for each director
+individually rather than a slate of directors that is presented to the membership. In some
+cooperatives with a broader purpose, the board may have informal policies that result in
+a director representing a commodity or line of business in the cooperative. A number of
+cooperatives with smaller geographic base elect directors at large. Mutuals tend to elect
+directors similar to corporations at-large based on qualifications although some regionally-based mutual may use geographic districts.
+
+22
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+cooperatives tend to have a low threshold on membership qualifications.
+In many cases, cooperatives use a one member, one vote principle, which
+is often called democratic control. Control is typically evidenced by the
+ownership of a share of common stock in the case of a stock cooperative,
+or by a certificate of membership in the case of membership or non-stock
+cooperatives. Cooperatives thus use a voting process to select directors for
+the board or make changes in their articles or bylaws; this differs from a
+non-cooperative corporation, which is based on investment ownership
+(as described in Chapter One).
+
+Principles of cooperation
+
+The U.S. Department of Agriculture defines the three principles of cooperation as user-owner, user-control, and user-benefits. Users must own and
+finance the cooperative and are responsible for the control of the cooperative, and benefit from their use of the cooperative. Note that these are all
+joint decisions, That is, becoming a member of a cooperative to participate
+in the benefits also means participation in ownership and control.
+Some customers of a cooperative do not participate in these three roles,
+but do business with the cooperative as a non-member. The percentage of
+
+EXHIBIT 2.9 Cooperatives and mutuals are not the same as
+loyalty programs and buying clubs
+Cooperatives and mutuals are not the same as loyalty programs because customers or
+users of the loyalty program do not participate in control or ownership. They do receive
+economic benefits, but these are not linked with the profitability and, hence, the earnings of the business. Early loyalty programs featured tokens or trading stamps given to
+a customer based on a certain volume of sales. These trading stamps were then used to
+acquire certain products from the retailer distributing the stamps, and value was linked to
+the number of stamps. Firms such as tobacco companies used trading stamps, while consumer packaged goods firms such as General Mills used box tops; other firms began similar programs. By the end of the 20th century, a number of similar programs were in place
+including frequent flier programs and points with credit card companies. Rebates also
+exist when paying by cash instead of credit card. Other loyalty programs include those at
+hotels offering one night free after a certain number of paid nights, or reward programs at
+fast food restaurants. The advent of cellular telephones has meant that customized apps
+can be used to provide rebates or coupons electronically to members of a loyalty program.
+Clubs based on membership with an application fee are used by some retailers such as
+Amazon (Prime membership), Wal-Mart’s Sam’s Club, and CostCo. An annual membership
+fee entitles members to shop at the store or use certain services such as free delivery.
+Membership in these loyalty programs and clubs is not the same as being a member of a
+cooperative because members do not participate in the same way. They receive an economic benefit, but it is not linked with control, ownership, and earnings.
+
+CHAPTER TWO: COOPERATIVES AND MUTUALS ARE PARTICIPATORY ORGANIZATIONS
+
+23
+
+non-member business is quite small in most cooperatives because boards
+of directors recognize that these members are free riders in the sense that
+they benefit from the cooperative’s presence in the market place but are
+not members. Thus, cooperatives tend to use pricing strategies that discourage producers from not being members.
+
+Formation of cooperatives
+
+Firms such as cooperatives are formed through collective action by individuals to solve a common problem. Cooperatives work best when the
+solution created by collective action leads to benefits being provided
+only to members, and when these benefits are unique. In doing so, the
+cooperative is often formed because the costs of the Make or Buy decision
+are lowest if the rights of ownership are assigned
+to those who use the cooperative as a customer.
+A MARKETING AGENCY-IN-COMMON is a
+Some cooperatives may be examples of social
+cooperative whose members are other
+entrepreneurship in that they help solve social,
+cooperatives who have joined to jointly
+cultural, or economic issues. Most cooperatives
+market the products of all members.
+are formed to address an economic objective or
+The rationale for doing so is that the
+purpose. Because cooperatives are composed of
+costs of each co-op individually develmembers, however, there is often a social purpose
+oping and marketing an industrial or
+many members desire in being a member of a
+consumer product can be significant.
+cooperative. This is no different from the reason
+Typical marketing agencies-in-common
+why people join social clubs such as country clubs
+exist for products such as sugar beet
+or professional trade associations.
+co-products or dairy products.
+This social and sometimes cultural purpose is
+often linked with the formation of a cooperative.
+BARGAINING COOPERATIVES negotiate with
+Examples of these social purposes might be ethprocessors and other first handlers for
+nicity, geography, or religion. Rural utility coopa collective price and terms of trade
+eratives were formed based on geography. Credit
+for their members. These cooperatives
+unions were formed around a common bond such
+represent contract growers selling to
+as geography, and fraternal benefit societies often
+processors, or growers performing
+had a common bond of religion or ethnicity. Food
+production management functions
+cooperatives often include members who want
+for corporate integrators. Examples
+to patronize locally-owned businesses and have a
+include many dairy cooperatives who
+desire to be part of something in their community.
+bargain in milk marketing orders. Other
+All of these are mechanisms to collectively orgabargaining cooperatives include the
+nize for mutual benefit. Cooperatives are a means
+California Canning Peach Association,
+to an end, which is meeting the needs of users.
+Prune Bargaining Association, Walnut
+The social purpose of cooperatives can best be met
+Bargaining Association, Olive Council
+by ensuring that the cooperative understands and
+Growers Council of California, Calsucceeds in its economic purpose.
+ifornia Tomato Growers Association,
+and Raisin Bargaining Association.
+
+24
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+Cooperatives that quickly understand their commonality of purpose
+(based on an economic purpose for their members) and position themselves on that purpose are able to create long-lasting value to their members.
+Cooperatives are often formed by a desire to improve something. For
+example, many farm input supply or marketing cooperatives were formed
+by individuals who wanted to see reform in agrarian economy and were
+associated with the Populist, Farm Bureau, Farmers Union, Grange, or
+Equity movements.
+Cooperatives that supply products to consumers, farmers, and businesses are often formed to obtain the economic advantages of purchasing
+supplies or providing services in bulk and passing along the volume discounts to their members. In doing so, the members are vertically integrated
+“backwards” through the cooperative. For example, farmELECTRIC UTILITY COOPERATIVES
+ers may not be able to finance agronomy equipment that
+exist in most rural areas as, to
+is needed to apply crop protectants seasonally or purchase
+a lesser extent, do telephone
+crop nutrients at a favorable price because their individual
+cooperatives. Electric utility
+volumes are too small. Forming a cooperative that can
+cooperatives were developed in
+obtain the economic benefits of purchasing size and scale
+the 1930s to provide electricity.
+has value to these farmers. Similarly, consumers may wish
+st
+In the 21 century, many are
+to purchase certain types of food products such as organic
+providing internet capability
+or locally-grown, and do so through a food cooperative.
+through satellites or broadband.
+Services such as electricity or credit are more cost effecCooperatives have been formed
+tive for a cooperative to provide than for a consumer or
+to provide recordkeeping services
+producer to obtain on their own.
+and testing of milk through dairy
+Marketing the output of a consumer, farmer, or busiherd improvements associations.
+ness enables a cooperative to obtain premiums associated with volume, and members are integrated “forward”
+A HOUSING COOPERATIVE owns the
+from the cooperative. The same is true for services. In
+land, facility, and common areas
+addition to volume premiums, cooperatives can provide
+such as indoor or outdoor recreservices such as constructing storage for a farmer’s feed
+ational equipment and common
+grain or oilseeds. Members may also integrate forward
+meeting space. Members buy a
+by forming a corn-ethanol cooperative to market their
+share in the cooperative, which
+corn or a soybean crushing plant to process soybeans
+is an ownership interest in a unit
+into oil and meal products.
+within the housing cooperative.
+The same is true for marketing information such as
+There are many different types of
+supply variables (including the bearing age of trees and
+housing cooperatives. Members
+vineyards, rate of tree pull outs and replantings, and
+pay a monthly fee for budgeted
+varietal selection of fruits and nuts) and adoption rates
+expenses such as operating
+for mechanization technologies; these are useful for barcosts and capital investments to
+gaining cooperatives that negotiate a price for a crop such
+maintain the cooperative’s assets.
+as peaches.
+
+CHAPTER TWO: COOPERATIVES AND MUTUALS ARE PARTICIPATORY ORGANIZATIONS
+As discussed earlier, this integration decision is called the “Make-orBuy Decision.” Strictly speaking, members of cooperatives are not vertically integrated through a cooperative because there is no common ownership of the farm or household by the cooperative. Nevertheless, there is
+collective ownership of the cooperative and alignment of the cooperative
+business model with the consumer or farmer.
+Many agricultural marketing cooperatives were formed to help pool
+risk from all producers and manage this risk within the cooperative. In
+the northern hemisphere, for example, a marketing year generally starts
+September 1 or October 1 in one year and is finished 12 months later, on
+August 31 or September 30. The crop is harvested in September or October,
+and over the course of the year the value of the crop becomes known as
+the cooperative discovers its value during the marketing year. Because
+many agricultural products are perishable, the price is always lowest at
+the beginning of the market year when supplies are greatest and tend to
+increase over the marketing year as the supply decreases and more information (e.g., quality) is known about the crop. The cooperative bears the
+price and quality risk by purchasing the farmers output at the beginning of
+the marketing year, and pays the farmer a competitive price at harvest. The
+members finance the capital needed by the cooperative to build storage and
+processing assets to add value to the crop throughout the marketing year.
+Most farmers cannot manage this price risk on their own and instead
+manage it through their membership in a cooperative. In doing so, they
+also obtain additional marketing margin, and have increased bargaining
+power to countervail the bargaining power held by buyers who could buy
+the crop at its lowest price at harvest when supplies are greatest, and to
+manage the crop inventory throughout the year to obtain more favorable
+prices. As consumers or farmers integrate backwards or forwards, the
+cooperative becomes the competitive yardstick in an industry.
+
+Summary
+
+Cooperatives are participatory organizations in that customers participate in ownership, control, and benefits. As such, a cooperative is a closed
+marketing channel. Each of these participatory roles carries responsibilities. Membership in a cooperative has implications for benefits and
+responsibilities, use of the cooperative, and the transactions undertaken
+with it. Thus, cooperatives are uniquely structured to: 1) distribute benefits such as patronage in proportion to use, 2) align their business strategy
+on their customers who are selected to the board of directors to control
+the cooperative, and 3) make decisions based on the long-term goals of
+their members who own the cooperative.
+
+25
+
+26
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+The cooperative business model exists in many industries around the
+world. Cooperatives have unique common bonds that underlie their formation and often have an economic and social purpose. Principles of
+cooperation are embedded in state incorporation statutes that underlie the
+charter of a cooperative, which includes its articles of incorporation and
+bylaws, which are based on historical use. The benefits of participating
+with a cooperative and its social purpose are likely the easiest to explain
+relative to the benefits of participating in ownership. Thus, constant education is needed with members who are customers. Cooperatives were
+formed because there were economic reasons why it was easier to vertically
+integrate forward or backwards for all of the cooperative’s members. There
+are many reasons why cooperatives form but, in a broad sense, the cooperative is able to obtain volume discounts and pass those discounts back to
+members, or to obtain volume premiums and market members’ products
+throughout the marketing year to obtain better prices for larger volumes of
+similar quality. The concept of a marketing year is crucial in understanding
+the operations of agricultural cooperatives.
+
+References
+
+The discussion of cooperative formation begins with concepts from Mancur Olson’s classic book The Logic of Collective Action.
+Additional information on cooperatives as participatory organizations can be found at
+tinyurl.com/ycvp2wnz.
+The notion that a cooperative acts as a “competitive yardstick” is associated with Edwin
+Nourse, and is described in “The Place of the Cooperative in Our National Economy,”
+available at http://tinyurl.com/yazt5377. The discussion on principles and policies
+is adapted from David Barton’s chapter in Cooperatives in Agriculture, David Cobia,
+ed., 1989.
+The fraternal benefit society’s discussion is taken from Jim White, a former doctoral student of mine, and can be found in “Fraternal Benefit Societies,” Journal of Cooperatives
+31(2016):1-31, available at http://tinyurl.com/yaxpx237. I have benefited immensely from
+conversations with Chris Kopka on this topic.
+There is a great deal of information on the “Rochdale Pioneers;” my discussion comes from Weavers of Dreams by David Thompson, which can be found at
+http://tinyurl.com/yb7xb2sk and Brett Fairbairn’s The Meaning of Rochdale, available at
+http://tinyurl.com/y7hampak.
+Much of my exposure to worker and housing cooperatives come from Tom Pierson, who
+has researched and studied worker cooperatives in depth.
+
+CHAPTER TWO: COOPERATIVES AND MUTUALS ARE PARTICIPATORY ORGANIZATIONS
+The history of loyalty programs and clubs comes from a variety of sources and there is no
+one single reference piece that I am aware of now.
+The USDA definition of a cooperative and of the three principles of cooperation were created in the early 1980s by a national task force of cooperative scholars, and have been
+widely disseminated. One place to find them is the USDA Cooperative Information
+Report 11 entitled “Co-op Essentials: What They Are and the Role of Members, Directors,
+Managers, and Employees,” which can be found at http://tinyurl.com/ycvp2wnz. The ICA
+principles in relation to these principles can be found at tinyurl.com/y93j4zg2.
+The marketing year has been well studied. My earliest exposure to it was through publications read in graduate school and authored by agricultural economists associated with
+the Giannni Foundation of Agricultural Economics and based at the University of California campuses at Berkeley and Davis. Much of this work was later summarized in a
+chapter by Richard Sexton and Julian Alston entitled “The Giannni Foundation and the
+Economics of Collective Action in the Marketing of California Farm Products,” which
+was published in 2009 in Foundation Contributions to California Agriculture, and is
+available at http://tinyurl.com/ybonm6wp.
+The information on commonality of purpose is presented in many previous textbooks
+on cooperatives. The examples cited are ones used by my colleagues Chris Kopka, Tom
+Pierson, David Swanson, and myself in a class we teach in the University of Minnesota
+Law School.
+Very little has been formally written about mutualism within the context of mutual
+insurance. The information presented here comes from discussions with my colleague
+Chris Kopka as well as work done with Jim White. One of his essays on a certain type of
+mutual can be found in a joint publication in “Minnesota Township Mutual Fire Insurance: Determinants of Survival, 1974–2010,” Journal of Cooperatives, 28(2014):1-26, available at http://tinyurl.com/ydg9q3ft.
+There appears to be no one who has articulated the neoclassical economic theory of
+mutualism; it would be a good research topic for a graduate student.
+
+27
+
+28
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+»Chapter Three
+
+Income distribution and equity decisions
+
+The first chapter described the features shared by cooperatives and
+mutual and non-cooperative corporations, while Chapter Two discussed
+features that are unique with regard to how members participate in benefits, control, and ownership. This chapter focuses on participation in
+benefits and how cooperatives distribute income, because that is how
+most members think about their membership in a cooperative. Cooperatives and mutuals must be competitive like any business and aligned on
+customer needs. They must be managed as businesses that can compete
+in a capitalistic and highly competitive market economy. Many cooperatives operate simply to allow producers to achieve economies of scale
+and increased bargaining power in purchasing inputs and marketing
+their commodities. The same can be said about consumer cooperatives
+and mutual insurance firms.
+Irrespective of its purpose and role, a cooperative should strive to be
+as profitable as possible and then distribute those profits to its patrons. A
+core principle of the cooperative and mutual business model is service
+or operation at cost. This does not imply that the cooperative or mutual
+should set prices to eliminate the opportunity for a profit. Instead, a cooperative should implement this principle by being competitive in the market place, making as much profit as possible, and then distributing profits
+and residual cash to patron-owners. Profits should be distributed in a way
+that maximizes the long-run benefits to members, keeping in mind that
+members have heterogeneous interests due to their unique places in their
+business and personal life cycles. This distribution of patronage refunds
+or per unit retains implements the service at cost principle of cooperatives.
+Patron-owners get what is left over through a combination of cash patronage payments (e.g., immediate redemption), cash equity redemption payments, and cash payments of net marketing proceeds. A member’s life cycle
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+29
+
+30
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+encompasses their use as a customer of the cooperative, which differs as
+they age and begin, expand, or contract their business or household.
+As mentioned in Chapter Two, cooperatives are participatory organizations. Two of the three ways that members participate include benefits and ownership. The easiest way to understand these concepts is to
+observe their impact on the income statement and balance sheet. The
+three ways in which members participate in a cooperative comprise an
+interrelated set of decisions that influence each member and provide
+unique challenges for boards of directors and management to develop a
+business strategy that takes into account the impacts on a cooperative’s
+balance sheet.
+
+Introduction
+
+Cooperative firms are unique in that they create equity when they pay
+patronage refunds in the form of common stock, and they destroy equity
+when they redeem previously issued equity for cash. Cooperatives should
+actively manage their balance sheet when making decisions on income
+distribution and equity redemption. A cooperative must position and
+protect the business for short-run and long-run sustainability by adhering
+to a balance sheet management philosophy that manages both liquidity
+and solvency. Adequate risk capital must be provided by retaining and
+managing equity as an element in the overall business strategy. Then the
+cooperative should pay out to patron-owners any residual cash as cash
+patronage refunds and equity redemptions. As discussed in Chapter One,
+owners, as residual claimants, get what is left over in any business.
+The evaluation and choice of alternative strategies must be done within
+an integrated and comprehensive finance, strategy, and risk management
+framework. For cooperatives, this should include both the patron-producer or patron-consumer perspective and the cooperative business perspective. In other words, a cooperative can be viewed as an extension of the
+patron’s business, such as a farm or house, or as an independent firm that
+attempts to prosper in a market economy. Both perspectives are important.
+Most members of agricultural cooperatives are unique in that they
+seek to remain farmers in their own geography. That is, a member will
+not typically sell their farm and move to a geographic region or country
+to begin farming again. With that in mind, a member utilizes a cooperative to receive goods and services at a lower cost than they could by doing
+it themselves. Thus, a cooperative should align itself on the needs of its
+customers who are its members and owners, and help make them profitable and cost efficient so they can achieve the goal of remaining farmers in
+
+CHAPTER THREE: INCOME DISTRIBUTION EQUITY DECISIONS
+that geography. Many remain in multi-generational farming families and
+patronize the cooperative over generations.
+Generally accepted accounting principles (GAAP), and the basic structure and rationale of income, cash flow, statement of changes in equity,
+and balance sheets look the same for cooperatives as for other business
+
+EXHIBIT 3.1 The case of pooling cooperatives
+For many agricultural crops processed as ingredients into other food products or processed
+into a consumer product, the value of the crop grown by the producer as a raw material
+for these ingredient and consumer products is not known at harvest but becomes known
+over the next 12 months as the supply of the crop is processed and before the new harvest
+occurs. This 12-month period is known as the marketing year, and in the northern hemisphere typically begins September 1 or October 1 in the current year, which is harvest when
+the supply of the crop is greatest, and ends August 31 or September 30 of the next year.
+These cooperatives will pay the member an advance payment at harvest corresponding
+to some percentage—often enough for the producer to pay the operating loan needed
+to plant that crop—of what the cooperative projects the total value of the crop to be
+once all the products have been created and sold. This is a delayed pricing situation. The
+cooperative commits to purchasing 100 percent of the members’ crop or whatever percentage the producer has committed to the cooperative, as some of these cooperatives
+have multi-year written marketing agreements to purchase a certain volume or acreage
+of volume from the member. This allows members to pool their risk, provides “a home” for
+all of the members’ products, and creates opportunities for greater shared sales revenue and income.
+As such, the cooperative may not know what that volume will be because of unique
+growing conditions in that year. For example, many marketing cooperatives in California
+grow crops such as figs, almonds, peaches, prunes, raisin grapes, oranges, lemons, and
+other crops in a localized region. Climatic factors such as lack of rain, too much rain or
+frost, or too much heat can cause a decrease in volume. Similarly, certain orchard crops
+such as apples and pears, some stone fruits such as apricots and plums, and certain table
+olives may exhibit alternate bearing tendencies, with a large volume one year followed
+by a small volume the next year. All of these issues affect the value of the crop over the
+marketing year. As the value becomes known over the course of the marketing year, the
+cooperative provides another payment to producers, generally 4–6 months after harvest,
+and a final payment at the end of the year when the total value of the crop is known and
+that year’s pool is closed. The cooperative deducts the operating expenses needed to
+process the crop.
+In this way, the cooperative has essentially little or no net income at the end of its fiscal
+year, which is typically on August 31. The board creates equity for asset investments by
+deducting or withholding a portion of the value of the crop and assessing each member
+a per-unit capital retain based on the members’ volume of business, according to the
+process described in the cooperative bylaws.
+
+31
+
+32
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+entities. However, cooperative principles are embedded in these statements just like in legal statutes. They reflect the nature of transactions
+being done with members. It is important to have an understanding of
+accounting and finance to fully understand how a member participates in
+benefits and ownership. A good way to do this is to understand the impact
+of the economic transaction a member does with the cooperative as a customer, and observe its impact on the income statement and balance sheet.
+
+Income statement
+
+The income statement begins with gross receipts which, for a farm supply
+or consumer food cooperative or service cooperative, are the sum of all
+products or services sold by the cooperative multiplied by their respective prices. In the case of a marketing or pooling cooperative, this is the
+sum of all products bought from the members and sold at the competitive
+market price. For a processing cooperative, this is the total sales from, for
+example, selling corn-ethanol and its co-products or soybean meal and
+its co-products. Gross receipts was traditionally used because it denoted
+receipt of value of sales done with members. Many cooperatives have
+moved to a more traditional language, referring to these as gross revenues
+or total sales. Costs of Goods Sold or Costs of Sales are variable costs and
+subtracted from these gross receipts.
+For a farm supply cooperative these variable expenses include the costs
+of buying raw material products such as crop nutrients, seed, and crop
+protectants; energy products such as refined
+fuels and propane; raw material inputs such
+EXHIBIT 3.2 Simplified cooperative
+as corn to manufacture animal nutrition
+income statement
+products; and the technology and labor
+needed to provide services associated with
+Gross Revenues
+these products. An electrical utility cooperative
+has similar costs in purchasing electricLess: Cost of Sales
+ity and supplying that electricity, whereas
+Gross Margin
+a consumer food cooperative has variable
+Less: Operating Costs
+costs in purchasing food products and merchandising that food to members. Note that
+Operating Income
+the conversion of these raw material inputs
+Plus: Interest Income
+into a product purchased by producers
+and consumers is a production function or
+Plus: Patron Finance Charges
+technology.
+Plus: Patronage Refunds Received
+The difference between the gross receipts
+Patronage Refunds
+and these variable costs is often called Gross
+Margin or Gross Profit Margin. Virtually
+
+CHAPTER THREE: INCOME DISTRIBUTION EQUITY DECISIONS
+all cooperatives develop a pricing strategy based on operating at a fixed
+margin per unit because they are “price takers,” so the Gross Margin is
+an important measure to understand, and it does not change regardless
+of changes in input or output prices, which change the value of total sales.
+Operating costs, which are fixed in nature, must be subtracted from this
+margin. These costs are typically selling and administrative costs, which
+are typically salaried employees(with benefits) whose wages cannot be
+attributed directly to the product or technology sold by the cooperative.
+These costs also include purchase of new assets such as equipment.
+The difference between Gross Margin and Operating Expenses is Operating Income, which includes interest income received by the cooperative,
+finance charges from operating loans made to members (Patron Finance
+Charges), and any other expenses or revenues received by the cooperative. Cooperatives often do business with other cooperatives and receive
+Patronage Refunds as income. The difference between these items and
+Operating Income is called Patronage Refunds. Sometimes the phrase
+net savings, net margin, net proceeds, or net surplus is used to denote any
+income left over after the cooperative has received all of its revenues in that
+year and paid all of its costs in that year. The correct terminology, however,
+is Patronage Refunds, also called patronage dividends, which are amounts
+paid to patrons from the net income of the cooperative on the basis of
+quantity or value of business done with these members. These refunds can
+be made in cash or retained as equity in the cooperative.
+
+EXHIBIT 3.3 A simplified cooperative balance sheet
+Assets
+
+Liabilities
+
+Current Assets
+
+Current Liabilities
+
+Fixed Assets
+
+Patronage Refunds Payable
+
+Investment in other Cooperatives
+
+Term Debt
+
+Members’ Equity
+Common Stock
+Allocated Equity
+Unallocated Equity
+
+33
+
+34
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+Balance sheet
+
+A balance sheet summarizes the book value of the assets of a corporation; its liabilities, which are debts that must be repaid; and the member
+or owners’ equity or net worth. The accounting identity is that the assets
+must equal or be balanced by the sum of liabilities and owners’ equities.
+The assets on the cooperative’s balance sheet looks much the same as for a
+non-cooperative corporation, but there is one key difference: Investments
+in Other Cooperatives reflects any equity a cooperative has in another
+cooperative. For example, a cooperative that borrows from a cooperative lender such as CoBank has equity in CoBank. This equity comes
+from the patronage refunds retained by CoBank as equity. It is an asset
+on the balance sheet for the cooperative and equity on the balance sheet
+for CoBank. Patron Refunds Payable is a liability a cooperative must document to account for the cash portion of patronage refunds that are being
+paid to members. This term is Dividends Payable in a non-cooperative
+corporation.
+The members’ equity section of a cooperative’s balance sheet is
+the biggest difference in terminology relative to the non-cooperative
+corporation. Common Stock or Membership Fees is the value of the membership fee paid by each member. These are fees for a share of purchased
+common stock in a stock cooperative or the value of membership certificates in the case of a non-stock cooperative. Allocated Equity, sometimes called Patronage Ledger Credits, Retained Refunds, Capital Retains,
+or Revolving Capital, is the value of the patronage refunds retained by
+the cooperative equity. The word allocated is used to denote that this is
+equity, which has been allocated to the member on the basis
+Organizations such as
+of patronage. Unallocated Equity, which can be thought of
+school districts or similar
+as unallocated, retained earnings, or Unallocated Reserves
+government organizations
+or Surplus, is equity not allocated to the member based on
+may not be eligible for mempatronage. For most cooperatives, this is non-patronage
+bership in a cooperative.
+income or any other income on which the cooperative has
+Similarly, some agricultural
+paid corporate income tax. In a worker cooperative, this is
+cooperatives may not be
+called Collective Account. All of this is Retained Earnings in
+able to extend membership
+a non-cooperative corporation. Some food and farm supply
+to non-farmers. The coopercooperatives issue purchased stock, which is Preferred Stock,
+ative, however, can provide
+but this is an uncommon practice.
+
+patronage refunds based on
+their patronage levels. This
+is common in cooperatives
+with an energy business unit.
+
+Choices on distribution of patronage
+and non-patronage income
+
+A board of directors hires an auditing firm to conduct an
+audit. As part of the audit process, the board is informed as
+
+CHAPTER THREE: INCOME DISTRIBUTION EQUITY DECISIONS
+
+35
+
+to the dollar value of income derived from business done with members
+on a patronage basis and the dollar value of income derived from business
+that was not done on a patronage basis. The board, with input from management, has to decide how to distribute these two types of income, and
+has many options from which to choose.
+The easiest decision is the distribution of business that is not derived
+from patronage done with members. An example of this might be purchases done at a convenience store, such as fuel or in-store purchases. The
+cooperative owns the convenience store and members may do business
+there on a patronage basis, but it would be expected that nonmembers do
+business there as well. This income from nonmembers is not derived from
+
+EXHIBIT 3.4 Income distribution decision in a cooperative
+Source
+of income
+
+Allocation
+of income
+
+Tax deductibility
+of income
+
+Distribution
+of income
+Cash patronage
+refunds
+
+Qualified
+
+Allocated
+Nonqualified
+
+Patronagesourced
+Unallocated
+
+Nonqualified
+
+Allocated
+
+Nonqualified
+
+Unallocated
+
+Nonqualified
+
+Net
+income
+
+Nonpatronage
+
+Retained patronage refunds
+
+36
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+patronage and is consequently the same as income of a non-cooperative
+corporation. Thus, the tax treatment is the same. The cooperative pays
+corporate taxes on this income and retains it as equity in the form of
+retained earnings in the same way as a non-cooperative corporation. In
+this case, the cooperative retains it as Unallocated Equity. A board could
+choose to distribute this income to its members as dividends just like a
+non-cooperative corporation would do. In that case, the income would be
+taxed twice—as corporate income and as individual income. A common
+practice by boards of directors is not to allocate this nonmember income
+and to retain it as equity.
+The board has many choices on how to distribute income derived from
+members on a patronage basis. The goal is to implement the service at cost
+principle because that is how the member participates in the benefits from
+the cooperative. These Patronage Refunds are allocated distributions of net
+income to members in proportion to the value or quantity of
+their patronage. The distribution process is often referred to
+UNALLOCATED EQUITY is
+as the allocation decision. Allocating income to members as
+sometimes referred to as
+patronage refunds is especially compelling for income that
+permanent capital and is
+arises from patronage business with members. The board
+similar to retained earnmust make a decision on how to allocate this income in the
+ings in a non-cooperative
+form of Patronage Refunds.
+corporation because it is
+permanently on the balance
+sheet as equity until the
+corporation is dissolved. It
+is equity which will never
+be subject to redemption by
+the board of directors, while
+their allocated equity may
+be redeemed. The amount
+of unallocated equity, as a
+percentage of total equity,
+has been increasing in most
+cooperatives in recent years
+for a number of reasons,
+which include advice from
+cooperative lenders who
+are required because of
+financial regulations to
+have additional permanent
+capital and are requiring
+the same of their members.
+
+Patronage income distribution choices
+and cooperative business units
+
+A board’s choice must take into account the business units of
+the cooperative. Consider a cooperative that has one line of
+business, which is buying milk from its members and manufacturing it into liquid milk and some butter or cheese
+products for consumer consumption. Member are vertically
+aligned with the cooperative in one way through milk from
+their cows. The cooperative is using one raw material product, milk, to create several types of products. As such, it is reasonable to assume that the cooperative agrees to pool all of
+the income derived from the sale of these products into one
+patronage pool. All dairy producers share equally, despite
+the fact that milk from different members might have different end uses. This is equitable from the members’ perspective
+because the overall operation of the plant has similar costs of
+processing the raw material product into different end uses.
+Each member thus participates equally because of the similar costs of manufacturing the milk into processed products.
+
+CHAPTER THREE: INCOME DISTRIBUTION EQUITY DECISIONS
+
+37
+
+The physical unit of raw material, pounds of milk, is easy to measure, and
+the cooperative would link the patronage refund with the quantity of milk
+each member sold to the cooperative.
+Many cooperatives have just one line of business and it is relatively easy
+to treat each member equitably by pooling income from all products into
+one patronage pool and, thus, into one level of allocation. Some cooperatives, however, particularly in the farm supply business, have multiple lines
+of business including supply of products such as crop nutrients, crop protectants, animal nutrition, refined fuels and related energy products, and
+various services associated with agronomy, grain and oilseeds, and energy.
+
+EXHIBIT 3.5 Sources of equity in a cooperative
+Unit
+retains or
+patronage
+refunds
+Allocated
+Common
+stock
+
+Patronage
+income
+
+Total Equity
+
+Nonpatronage income
+
+Unallocated
+
+Retained
+earnings
+
+Unallocated
+
+Retained
+earnings
+
+Common
+stock
+Purchased
+
+Allocated
+Preferred
+stock
+
+38
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+Each of these products and services has differing costs and net margins,
+and there are different risk profiles associated with each product based on
+the tools available to the cooperative. In addition, not every member needs
+or purchases all of these products and services, and many supply cooperatives also market a members’ feed grains and oilseeds. It thus makes
+sense to create multiple patronage pools in order to be equitable with each
+member in allocating income from that line of business to the member.
+In this example, the physical units are different. Crop nutrients are sold
+and measured in tons, crop protectants and refined fuels are measured in
+gallons or liters, and grain and oilseeds might be measured in bushels or
+tons. Furthermore, services are often bundled with the sale of the product.
+A cooperative might have one price for nitrogen fertilizer and application
+services and a different price for the purchase of that fertilizer alone. All
+of these products likely have different costs and different net margins per
+physical unit, and there is likely sharing of variable costs such as labor and
+fixed costs such as management. A members’ participation in the benefits
+from each product may thus be difficult to determine. Some products may
+not have physical units such as a farm equipment tires or credit (in the
+case of a financial services cooperative). In such a case, the board would
+typically create a patronage pool based on total value rather than physical units, and patronage allocated to the member could be linked with
+the members’ proportion of the total value of these types of products. The
+board may elect to allocate some of the income derived from members’
+patronage into unallocated equity. In doing so, the cooperative must pay
+corporate taxes on that income. This choice is not common, but may be
+used if the board decides it needs that equity on its balance sheet.
+In summary, the board of directors, based on input from management,
+makes a decision on the distribution of income. In doing so, it has several choices on handling patronage-sourced and non-patronage sourced
+income. Virtually all cooperatives choose to pay corporate taxes on the
+non-patronage sourced income and retain it as unallocated equity. On
+patronage-sourced income, the board decides how many patronage pools
+to operate and how to distribute income from those pools to members.
+These choices can be thought of as dividing the income into corporate
+taxes, patronage refunds, and retention as unallocated equity. The board
+should do what is in the best interest of the member which is to maximize
+the after-tax income available as patronage refunds. Operationally, what
+boards tend to do is retain the non-patronage sourced income as unallocated equity by paying corporate taxes upon it and distribute the patronage-sourced income as patronage refunds.
+
+CHAPTER THREE: INCOME DISTRIBUTION EQUITY DECISIONS
+
+Choices on tax liability of patronage refunds
+
+When patronage refunds are properly made in accordance with U.S.
+Internal Revenue Service tax regulations, they are referred to as qualified
+and are deductible for corporate income tax purposes. Thus, cooperatives do not pay corporate taxes which are based on income on qualified
+patronage refunds. As described earlier, a non-cooperative corporation is
+taxed twice—at both the corporate and individual level—upon distribution of dividends. The majority of boards of directors choose to allocate
+patronage-sourced income as a qualified distribution.
+A board of directors may choose to allocate the patronage-sourced
+income as nonqualified patronage refunds. This is the reverse of distributing patronage refunds as a qualified distribution in that the cooperative pays the corporate income tax on a nonqualified patronage refund.
+The member does not pay income tax on this patronage refund until it is
+received in cash from the cooperative. Single taxation continues to exist
+with nonqualified refunds.
+The patronage-sourced income not paid in cash is called a retained
+patronage refund, which is the noncash portion of qualified or nonqualified patronage refunds. These patronage refunds are placed on the balance
+sheet as allocated equity and members are notified in writing of the value
+
+EXHIBIT 3.6 The rationale for why cooperatives have single taxation of income
+The idea that marketing and purchasing cooperatives were not required to pay U.S.
+income tax on net income distributed as patronage refunds is based on the concept that
+members are extensions of the members’ business through the cooperative, as shown
+in the Make or Buy decision. The principle of single-taxation ensures that a cooperative’s net savings are taxed at the cooperative level or the patron level, but not at both.
+Non-cooperative corporations have double-taxation, as the net income is taxed at the
+corporate level as corporate income and upon distribution to shareholders as corporate
+dividends. Business done with nonmembers is treated the same as non-cooperative
+businesses and taxed by the cooperative. This taxation of farmer cooperatives, as well as
+of other corporations operating on a cooperative basis, is defined in subchapter T of the
+Internal Revenue Code. This difference reflects cooperatives’ distinct way of distributing
+net margins to their patrons based on use, rather than to investors based on investment.
+It was the intent of policymakers to have single taxation because the patronage refunds
+or dividends were either rebates to patrons of a part of the price initially paid by them on
+purchases made through a cooperative or an additional cost paid by a marketing cooperative to patrons for products sold to the cooperative. The U.S. Internal Revenue Service
+Subchapter T applies to “any corporation operating on a cooperative basis” except mutual
+savings banks, mutual insurance companies, and cooperatives engaged in furnishing
+electric energy or telephone service to rural areas. Cooperatives can exclude from their
+taxable income certain distributions of net income or allocations paid patrons.
+
+39
+
+40
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+of these patronage refunds allocated but not paid in cash. Remember that
+the accounting identity states that equity is equivalent to the difference
+between assets and liabilities. Thus, these retained patronage refunds
+represent investments in new assets or reinvestment in existing assets to
+maintain them in good condition to provide the products and services
+desired by members to satisfy them as customers. Remember also that
+total equity is the sum of allocated equity and unallocated equity. Historically, boards of directors have chosen to have as much of their equity
+as possible in allocated equity relative to unallocated equity, although in
+recent years boards have chosen to increase their unallocated equity.
+
+Equity redemption program choice has implications for the balance sheet
+
+Patronage refunds retained by a board of directors may be redeemed in
+the future if the board decides it no longer needs that equity. Allocated
+equity is created through retention of patronage refunds, while redemption of retained patronage refunds can be thought of as destroying allocated equity. This has implications for a cooperative’s balance sheet.
+There are two situations in which a board must have a policy to handle retained patronage refunds. The first is when a member stops being
+a member. Cooperatives universally operate on the philosophy that if a
+member stops being a member, any equity that member has in the form
+of retained patronage refunds should be redeemed. In general, consumers
+are no longer members of a cooperative if they move geographically from
+the community or some period of time elapses in which they no longer
+patronize the cooperative. Farmers are no longer members of an agricultural cooperative if they retire or exit their farming operation. Obviously,
+consumers and farmers are no longer members when they die. The second
+situation is a determination of much equity is needed by the cooperative.
+If a cooperative continues to create allocated equity each year by retaining
+patronage refunds, the cooperative may have excess allocated equity that
+may not be needed for asset investment or replacement of existing assets.
+Boards of directors have set up various practices to handle these situations. First, a board must determine whether it has the ability to redeem
+this allocated equity without disrupting its existing loan covenants or
+asset expenditures. If a member dies, the board of directors typically
+redeems the allocated equity, which is that member’s retained patronage
+refund. This might be done monthly or annually. For a member who is
+alive but no longer a member, the board creates a policy to redeem that
+equity. A common policy is to redeem a portion of the allocated equity
+over a period of time, which could be four or five years in the future.
+
+CHAPTER THREE: INCOME DISTRIBUTION EQUITY DECISIONS
+The second situation is where the board considers redeeming retained
+patronage refunds for a member who is still an active member. Once the
+board makes the determination that it does not need additional equity,
+boards must create a policy to handle this situation. The universal practice
+is to redeem the allocated equity based on the birth year of the patronage
+refund, with the oldest equity being redeemed first. This practice is fair
+since there is no dividend being paid on the allocated equity which was
+created when the patronage refund was retained. There is no trigger to
+redeem the equity, but in practice, many boards of directors try to manage member expectations by redeeming the retained patronage refunds in
+a timely manner with a pattern of behavior. For cooperatives that operate
+on a pooling basis where the deduction of a per capita retain is analogous
+to the retained patronage refund, these deductions may be significant,
+and the board seeks to have a rapid redemption period in perhaps five to
+ten years. In cooperatives where the retained patronage refund may not
+be as high, a redemption period may be longer. For example, a member of
+an electrical utility cooperative may have a redemption period of decades,
+since the member uses electricity for the span of their lifetime. In general, however, boards of directors try to redeem these retained patronage
+refunds as quickly as possible without compromising the balance sheet.
+
+Summary
+
+Two of the three ways members participate in a cooperative or mutual
+are through benefits received and physical ownership. The impacts of
+
+EXHIBIT 3.7 Equity redemption by patron birth year in certain farm supply
+and grain marketing cooperatives in the United States
+For various reasons related to a competitive environment, taxes, the nature of their relationship with wholesale supply cooperatives, and desire to provide a retirement income,
+many farm supply and grain marketing cooperatives in the early 1960s chose to redeem
+retained patronage refunds at a trigger point, based on the birth year of the member. A
+common practice was to redeem allocated equity when a member turned 65 years of age,
+because it was assumed that the farmer would retire from farming. This practice helped the
+cooperative’s cash flow at first, since few farmers were that old. However, because many
+farmers were of similar age, it became a major problem. In addition, young farmers did not
+like the idea of having patronage refunds retained for decades until redemption. In multigenerational farming families, the oldest member has an incentive to purchase all of the
+products and services in that member’s name to have their equity redeemed faster, which
+results in the younger member being-under invested in the cooperative. The majority of
+cooperatives practicing this method have transitioned off these programs to a revolving
+fund whereby the oldest equity is redeemed first.
+
+41
+
+42
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+these on an individual member can be seen by observing the impact of
+the economic transaction between the member and the cooperative or
+mutual. These impacts can be traced through the income statement and
+balance sheet, and the decisions of the board of directors who are elected
+by the members and management are observable. Boards of directors create policies regarding income distribution and equity generation, which
+are embedded in principles contained in legal statutes and accounting
+standards. It is important for members to understand these concepts to
+fully understand the role of their membership in a cooperative or mutual
+and their impact on the decision-making by the board and management.
+Members participate in the control of the cooperative by electing directors
+who make these decisions on ownership and benefits on their behalf.
+
+References
+
+Some of the material in this chapter is taken from a publication of mine entitled “Cooperative Finance and Equity Management,” which is available at http://tinyurl.com/y88n2k4e.
+I am indebted to David Barton for an introduction to cooperative accounting and
+finance as I began my academic career. In addition, I have benefited from conversations
+with Phil Kenkel on various accounting and finance issues. A number of people have
+written on this topic over the years, and a literature review can be found in “Overview of
+Research on Cooperative Finance,” Journal of Cooperatives 27(2013):1–14, which is written by David Barton and myself and available at http://tinyurl.com/yc7xunzl. Jim Baarda,
+David Barton, David Cobia, Don Frederick, and Phil Kenkel have written widely about
+equity management and finance decisions by a board.
+While the relationship of cooperative principles to legal and tax statutes has been widely
+discussed by many cooperative thought leaders, Jim Baarda and Don Frederick have
+written the most in this area. An example of tax treatment summary may be found in
+Don Frederick’s “Income Tax Treatment of Treatment of Cooperatives,” U.S. Department
+of Agriculture Rural Business Services Cooperative Information Report 44, Part I, which
+can be found at http://tinyurl.com/y8peseg6.
+Thanks to Dan Sumner and Jeremy Murdock at the University of California, Davis, for
+clarifying which types of olives were alternate bearing.
+
+»Chapter Four
+
+Special topics in cooperatives and mutualism
+
+The previous chapters discuss cooperatives as firms, member participation
+in cooperatives or mutuals, and how participation is carried out through a
+cooperative’s financial statements and board decisions. This chapter introduces a number of current topics in cooperation and mutualism.
+
+Limited exemption from antitrust laws
+
+Many countries with market economies have laws designed to ensure
+certain fair business practices are followed. One practice is to prohibit
+restraints or attempts to monopolize trade or commerce by businesses.
+This includes investigation of mergers that might lead to restraints or possible monopolies of trade or commerce. Price fixing is one practice that is
+illegal. Because farmers are individual businesses, the formation of a cooperative to collectively set a price at which the cooperative might sell the
+members agricultural products was considered price fixing. Legislation
+such as the Capper-Volstead Act in the U.S. was created to enable cooperatives to engage in certain practices—to collectively market and bargain,
+set prices, cooperate with other cooperatives, create contracts with buyers
+and suppliers, or limit membership. Cooperatives have this exemption
+only if they have members who are agricultural producers, cannot engage
+in predatory pricing, and cannot attempt to create a vertical supply curve
+by engaging in practices to limit the supply of members’ products. These
+laws are unique to cooperatives. Baseball has a limited exemption from
+antitrust, and other industries have legal protections for manufacturer-imposed dealings or requirements contracts.
+
+Use in agricultural and community development programs
+
+Many international development programs that operate in agriculture
+and rural development promote the cooperative structure of business. The
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+43
+
+44
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+rationale is that, because of its foundations in principles associated with
+democracy and collective decision-making, the structure is appealing to
+economic development at a grass roots level. It has been widely used to create food marketing cooperatives in such products as cocoa, coffee, dairy,
+and certain types of vegetables, and in many African, Southeast Asian, Oceania, and Latin American countries. Many countries have adopted favorable practices to encourage the development of cooperatives, including
+public investments in applied research, technical assistance, and studies on
+the economic impact of cooperatives and mutual insurance firms.
+
+Pricing strategies
+
+The cooperative principle of “service at cost” was widely used as an idea of
+how cooperatives should operate. While it sounds reasonable, its application as a management strategy has problems if taken literally. Some members interpret it to mean that cooperatives should operate as non-profits,
+with zero or close to zero patronage refunds each year. Others see it as a
+requirement to follow an average cost or uniform pricing strategy and set
+the price the same for all of their members, regardless of size or volume.
+When cooperatives are first formed, often times the members are considered homogeneous in that the farms are of similar size or scale and with
+a similar social purpose. Neither of these practices, however, will lead to a
+cooperative achieving an economic purpose and surviving. In the first case,
+there will never be any income to reinvest in the cooperative’s assets. In the
+second case, there is a better and more equitable pricing strategy, which is
+equal margin pricing, which recognizes that there are differences in providing a product or service and as long as the cooperative charges the same
+margin per member, volume discounts or premiums are justifiable.
+
+Why is the number of agricultural cooperatives declining worldwide?
+
+Much has been written about the declining number of cooperatives and
+membership in cooperatives, especially in agricultural cooperatives in
+the U.S. and Western Europe. However, when compared to the number
+of agricultural producers, data suggest that the number of producers has
+declined more rapidly than the number of cooperatives. Public data on
+cooperatives in the U.S. suggests that by far the most common reason for
+the decline in numbers is mergers or unifications between cooperatives,
+and this consolidation is expected to continue.
+
+Organizing the governance of cooperatives
+
+Globally, cooperatives have organized themselves in one of three types of
+membership structures: centralized, federated, and a combination of cen-
+
+CHAPTER FOUR: CURRENT ISSUES IN COOPERATIVES AND MUTUALISM
+tralized and federated. There is no right or wrong structure. A centralized
+structure is one in which members are individuals. This model works well
+when members are in close geographical proximity to the cooperative,
+and has the advantage of communication about the cooperative’s purpose and ability to operate as a true democratic form of governance system. Directors are elected from the membership based on geographical
+districts or chosen at large. Some wholesaling cooperatives have centralized their structure entirely by merging some or all individual cooperative
+members into one cooperative. In federated cooperatives, each member
+is a cooperative. This resembles a republican form of government such as
+the U.S. and its 50 states. Directors are chosen from among the members
+of the cooperative, can include managers, farmers, or consumers, and
+often reflect proportional voting based on business volume.
+Some wholesaling type cooperatives have a combination of the two
+structures. There is no right or wrong answer, but members should
+choose the structure that best fits and communicates the cooperative’s
+economic purpose, and consider its impact on the three ways members
+participate in the cooperative: 1) governance (which structure provides
+the best qualified directors), 2) benefits (which structure creates the
+best customer transaction and after-tax cash flow to the members), and
+3) ownership (which structure creates the best equity structure that takes
+into account the member’s life cycle and ensures that they are invested
+proportional to their use in the cooperative).
+
+Hybrid cooperative organizational forms
+
+Some cooperatives have organized themselves into so-called hybrids by
+retaining their cooperative governance as much as possible but allowing
+outside investors to invest in the cooperative. In the U.S., these blend elements of mutual-benefit companies and investor-benefit firms, especially
+limited liability companies. These are rare in the U.S. relative to traditional cooperatives. In all cases, members control the board of directors
+with a supermajority and retain the board chairmanship; non-members
+are allowed on the board of directors. In certain countries in the European Union, legislation states that members of employee unions or management may be on the board of directors.
+
+The “new generation” cooperative phenomenon in the United States
+
+The so-called “new generation cooperatives” began occurring in the U.S.
+in the late 1990s, with producers vertically integrating into processing
+cooperatives such as corn-ethanol, durum wheat for pasta, sugar beets
+for sugar and co-products, and other commodities. These cooperatives
+
+45
+
+46
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+were referred to as “new-generation” because they differed from previous
+types of cooperative formation. The membership was defined and linked
+explicitly through contractual marketing agreements with the capacity of
+the processing plant. For example, a 50 million gallon corn-ethanol plant
+might require 18 million bushels of corn. Thus, the cooperative would sell
+18 million delivery rights linked with physical units such as bushels, and
+commit members to physically deliver 18 million bushels of corn.
+These delivery rights might require a minimum investment such as
+10,000 bushels, in which case the membership would be defined as no
+more than 1,800 members (18 million bushels divided by 10,000 bushels).
+The total cost of the processing plant would be determined through a
+business plan and members would be required to invest up to a certain
+amount, which might be 70% of the total cost. If this corn-ethanol plant
+had a cost of $35 million, then $24.5 million would be required before
+the business plan would be implemented. The upfront cost per producer
+would be $1.36 per bushel ($24.5 million divided by 18 million bushels)
+or a minimum investment of $13,611 ($1.36 multiplied by 10,000 bushels).
+Thus, a member would be entitled to a patronage refund obtained from
+the processing of corn into ethanol and its co-products.
+This patronage refund would be expressed in dollars per bushel and
+would be the value obtained above and beyond the market price of corn
+received when the cooperative purchased the corn from the member.
+A new generation cooperative had a defined membership with defined
+responsibilities of each member, including a contractual delivery right
+and corresponding share in control through participation in governance.
+Data from the U.S. Department of Agriculture suggests that more than
+200 business plans were written for investments in processing assets,
+with less than half actually conducting membership drives for investment and perhaps 75 actually building a processing plant. Sugar beet processing and corn-ethanol plants had government policies, which helped
+their formation and economic viability. Several others had great success,
+including U.S. Premium Beef and Dakota Growers Pasta, but they demutualized and were acquired by outside investors. Others, such as South
+Dakota Soybean Processors and a number of corn-ethanol cooperatives,
+converted to different forms of closely held organizations. In 2017, there
+are estimated to be less than 30 cooperatives who have maintained their
+“new generation” cooperative status.
+
+CHAPTER FOUR: CURRENT ISSUES IN COOPERATIVES AND MUTUALISM
+
+Demutualization: a rare but often studied
+event in cooperatives and mutuals
+
+When members of a cooperative or mutual insurance company decide
+to sell their cooperative or convert to a publicly-held company, which is
+referred to as demutualization, it gets a lot of attention. Historically, this
+is a very rare event, with less than 0.01% of the cooperatives tracked over
+time by the U.S. Department of Agriculture voting to be acquired by a
+non-cooperative corporation or to demutualize. Cooperatives that were
+acquired by other firms include Birds Eye Foods, U.S. Premium Beef, and
+Dakota Growers Pasta. Examples of demutualization include Diamond
+Walnut Growers, California Avocado Cooperative, FCStone, and Goldkist. A number of processing cooperatives formed in the late 1990s and
+early 2000s converted from cooperatives to limited liability partnerships
+because of tax issues; these are not demutualizations since they are still
+held by members. Common reasons why cooperatives may experience
+internal conflict among their membership include free ridership, differing
+time horizons among members with regard to investments in long-term
+assets, differing tolerance for risk among asset investments, issues in control with regards to information between management and members, and
+influence costs as the complexity grows in an organization with more lines
+of business units. These problems are more likely as a cooperative becomes
+larger and more complex. Despite these issues, cooperatives have flourished in the U.S. and worldwide. The fact that most cooperative members
+come from multi-generational farming families is likely a reason why there
+are so few bankruptcies or demutualizations in U.S. agricultural cooperatives. The very few that have happened can trace the reasons to one or
+more of the issues above; many were wholesaling type cooperatives.
+
+The current restructuring of ‘mixed’ or multi-purpose farm supply
+and grain / oilseed marketing cooperatives in the United States
+
+Farm supply and grain marketing cooperatives in the U.S. have made billions of dollars in asset investments since 2004. This is the biggest change
+in this particular cooperative sector since these cooperatives were first
+formed. There are various reasons for this level of investment. Crop volumes have increased in the U.S. as crop yields in corn and soybeans have
+increased through improvements in seed varieties and planting technologies (such as narrower rows resulting in increased seed densities per
+acre). In addition, cropping patterns have changed as corn and soybean
+seed varieties have been developed for geographic regions that historically
+could produce only small grains such as wheat and barley. Finally, reductions in the average planting and harvesting times, which have almost been
+
+47
+
+48
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+halved due to greater horsepower being used by farmers, have placed a
+strain on logistics.
+
+Collective farming movements
+
+Communal ownership of agricultural land exists in different places in the
+world. One well-known example is the kibbutzim in Israel, which collectively owned agricultural land and were governed much like a cooperative. Hutterite colonies in North America follow a similar process, with
+the exception that women have no role in governance. Communal ownership of land did exist in Eastern Europe and the former Soviet Union with
+the collectives and communes. Members, however, did not participate in
+governance, so strategic decisions such as what to plant and what machinery to purchase were not made by the board in a manner associated with
+democratic control. Furthermore, the development of these structures
+was not voluntary. Other countries with communist or socialist governments experimented with similar type structures during the 20th century.
+
+Economic impact of cooperatives and mutuals
+
+The University of Wisconsin at Madison conducted a multi-year research
+project to document the economic impact of cooperatives, including
+mutuals, in the U.S. economy. This extensive and well-done research has
+resulted in greater understanding of the role cooperatives play in the U.S.
+economy. For the year 2013, they report that nearly 30,000 U.S. cooperatives operated at 73,000 places of business throughout the country, with
+more than $3 trillion in assets generating over $500 billion in gross revenues. The study reported almost 340 million consumer co-op memberships and another 10 million agricultural cooperative memberships.
+
+The role of faith in cooperative development
+
+Religious neutrality has been a hallmark of cooperative principles regarding membership. Despite that, various faith-based organizations have
+played key roles in several countries with the development of cooperatives
+and mutuals. For example, the Catholic Worker Movement helped form
+manufacturing type worker cooperatives in the greater Mondragón region
+in Spain. Similarly, in the Emilia-Romagna region in Italy, the Catholic
+Worker Movement helped form a broad collection of consumer cooperatives engaged in various retail businesses. The Knights of Columbus is
+based in Catholic parishes and provides a strong set of community-based
+volunteer efforts. Thrivent Financial was formerly a fraternal benefit mutual insurance with membership limited to Lutherans. It has since broad-
+
+CHAPTER FOUR: CURRENT ISSUES IN COOPERATIVES AND MUTUALISM
+ened its membership to a broader set of Christians and is active in community volunteerism, especially Habitat for Humanity.
+
+Summary
+
+Cooperatives and mutual continue to thrive globally. These forms of collective action are not the solution to every economic or social problem.
+Changes in how various forms of collective action utilize these models
+is to be expected and, as discussed earlier, cooperatives that move from
+strictly a social purpose to an economic purpose tend to succeed over
+time. It is important to maintain some social purpose within the collection action to help members understand their membership roles and
+responsibilities. Periodically, some academics and practitioners become
+concerned that cooperatives and mutuals are outdated or have lost their
+way. The measurable evidence is quite clear that this is not the case. Legal
+business forms change over time as policy and legislation change often in
+response to tax treatment of income. Mutual benefit organizational forms
+such as cooperatives and mutuals continue to play an important role in
+the global economy.
+
+References
+
+Michael Cook has helped inform many educators and researchers, including myself, by
+introducing concepts from the organizational economics literature and applying them to
+the cooperative business model. The discussion on demutualization and reasons cooperatives might fail can be found in his paper entitled “The Future of U.S. Agricultural
+Cooperatives: A Neo-Institutional Approach,” American Journal of Agricultural Economics 77,5(1995):1153–1159.
+Additional information about new generation cooperatives can be found at tinyurl.
+com/y7akyd8c.
+Information on Capper-Volstead is available at tinyurl.com/y8mrz56h.
+Elinor Ostrom has written widely about common pool resources and how they can be
+used to solve problems such as collective ownership of forests, irrigation systems, and
+other similar resources. Her Nobel Prize in Economic Sciences address can be found at
+http://tinyurl.com/ybjkd7va.
+The University of Wisconsin Center for Cooperative economic impact studies, led by
+Brent Hueth, can be found at http://tinyurl.com/yddmon88.
+
+49
+
+50
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+»Chapter Five
+
+Summary and conclusions
+
+Cooperatives and mutuals are firms. The choice of organizational form is
+based on a number of issues. As discussed in these chapters, these choices
+depend on the economic costs of the Make or Buy Decision and the ownership structure desired, which may include consumers, investors, producers, suppliers, and workers. Cooperation and mutualism are based on
+the desire to Make something which is owned by consumers, producers,
+suppliers, and workers, but not by investors. These owners have chosen
+to vertically integrate their business or household through a cooperative
+or mutual. Social reasons may underlie why they decide to do so but ultimately, in a market economy, the economic transaction by a customer will
+determine the success of the cooperative or mutual.
+A number of thought leaders, including Nobel Prize Laureates, have
+been recognized for their contributions into understanding this Make or
+Buy decision. A cooperative or mutual is collectively owned, in most cases,
+by a large group of consumers, producers, suppliers, and workers. A large
+ownership structure helps create an equity structure on a balance sheet
+that enables the cooperative or mutual to survive business shocks and
+cycles. For example, in an agricultural cooperative with highly perishable
+perennial crops, the concept of a marketing year is important. Building an
+ownership structure that enables the cooperative to simultaneously help
+its owners survive each year and add value to their agricultural commodities over the coming marketing year when the full value is not known until
+12 months after harvest is crucial. Similarly, a mutual insurance firm must
+have an ownership structure that enables it to insure the risk profile of its
+members, which may not be fully understood but yet allow it to offer competitive premiums to purchase the insurance.
+This decision to Make something must be understood within the
+context that ownership structure also includes those who patronize the
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+51
+
+52
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+cooperative or mutual and share in its economic success based on the volume of business transacted with the cooperative or mutual. These owners participate in the control of the cooperative or mutual through their
+election of directors who monitor their ownership and through their
+direct participation in certain activities as presented in their articles of
+incorporation and bylaws. This control function, which is part of corporate governance, may be accomplished through democratic voting (onemember-one-vote), proportional voting based on business volume, or a
+combination of the two.
+Members in a cooperative and mutual thus participate in the economic benefits, ownership, and control of the firm. Because of this participation, an important function of cooperatives and mutuals is education of their members. This education includes knowledge on the three
+ways of participation and the roles of responsibilities of membership. As
+a closed buying or supply channel, cooperatives function best when the
+majority of their business is done with members. The financial decisions
+of a cooperative are probably hardest for any member to understand due
+to economic and social issues.
+There is no evidence to suggest that the cooperative or mutual form
+of business is no longer a viable business model. Indeed, many examples
+of successful cooperatives and mutuals exist globally. Certainly industry
+conditions may change, and if a cooperative or mutual does not change
+its strategy to reflect changing industry conditions, the economic viability of the business may be called into question. Furthermore, if issues of
+property rights are not clarified, members may become dissatisfied with
+remaining a member of the cooperative or mutual and may seek to demutualize. Such incidences are rare but widely studied by academics.
+
+References
+
+These Nobel Prize laureate thought leaders include Ronald Coase, Oliver Hart, Bengt
+Holmström, Douglass North, Elinor Ostrom, and Oliver Williamson. Information
+about Hart, Holmström, and North can be found at http://tinyurl.com/y9tlpkmh, http://
+tinyurl.com/ybkzq25t, and http://tinyurl.com/ybuljxxu.
+
+GLOSSARY
+
+Glossary
+
+The accounting identity states that Total Assets is equal to the sum of Total Liabilities and Total Equity.
+Allocated equity is sometimes called Patronage Ledger Credits, Retained Refunds,
+Capital Retains, or Revolving Capital, and is the value of the patronage refunds retained
+by the cooperative equity. The word allocated is used to denote that this is equity, which
+has been allocated to the member based on patronage.
+Articles of incorporation for a cooperative describe the type of organization,
+purpose, number of shares of common stock and any preferred stock, number of directors and how a member votes on those directors, legal definition of membership, location of the headquarters (the legal address for the cooperative), and asset disposal upon
+liquidation.
+Bargaining cooperatives negotiate with processors and other first handlers for a
+collective price and terms of trade for their members.
+Bylaws are the rules or policies that explain how any organization, including cooperatives, operates. The bylaws of a cooperative define the purpose of the cooperative and its
+geographical location, who a member is and what rights are associated with membership, how disputes are addressed, how membership may be terminated, how the organization can change its rules and policies, how a meeting of the membership is to be held,
+and what can occur at that meeting.
+The cooperative as a competitive yardstick is a well-known analogy for justifying why cooperatives are often thought of as promoting competition because they
+allow members to join together to obtain marketing power to negotiate on behalf of
+their members.
+Cooperation refers to businesses formed for mutual benefit, controlled by users who
+are customers, and operated principally to provide benefits to users. The benefits are
+provided to users based on participation, not ownership, and include the purchasing or
+selling business transactions customers have with the cooperative and the profits earned
+by the cooperative on those transactions that are returned to the users.
+In a consumer cooperative, the goods and services provided by the cooperative are
+consumed by the members.
+
+53
+
+54
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+Electric utility cooperatives were developed in the 1930s to provide electricity. In
+the 21st century, many are providing internet capability through satellites or broadband.
+Free rider problem exists when the value of membership is diluted because nonmembers can share in benefits without having to be a member.
+Health care cooperatives are a lot like mutual insurance firms in that their objective is to pool risk across members and provide health care with lower fees.
+A housing cooperative owns the land, facility, and common areas such as indoor
+or outdoor recreational equipment and common meeting space. Members buy a share
+in the cooperative, which is an ownership interest in a unit within the housing cooperative. There are many types of housing cooperatives. Members pay a monthly fee for
+budgeted expenses such as operating costs and capital investments to maintain the cooperative’s assets.
+Governance is a system of system of processes by which a company is directed and
+controlled. Governance of cooperatives involves balancing the interests of the members
+with the goals of the cooperative as a business.
+Make-or-buy decision refers to a decision by a producer or consumer to make a
+choice of vertically integrating through their membership in the cooperative to produce
+a product or simply buying it from the market.
+A marketing agency-in-common is a cooperative whose members are other cooperatives who have joined together to jointly market the products of all members.
+Marketing year For many agricultural crops that are processed as ingredients into
+other food products or processed into a consumer product, the value of the crop grown
+by the producer as a raw material for these ingredient and consumer products is not
+known at harvest but becomes known over the next 12 months as the supply of the crop
+is processed and before the new harvest occurs. This 12-month period is known as the
+marketing year and in the northern hemisphere typically begins September 1 or October
+1 in the current year, which is harvest when the supply of the crop is greatest, and ends
+August 31 or September 30 of the next year.
+Mutualism is often linked with mutual insurance firms which are owned by their policyholders, and income is retained to reduce future insurance premiums.
+Participation describes how a member uses the cooperative to share in its benefits.
+Investor-benefit businesses do not require participation in the business as a customer.
+Patronage refund is analogous to net income, but is income from doing business
+with members which is linked with a members’ participation in the cooperative. It is the
+patronage income derived from the operation of the cooperative on a cooperative basis.
+In a producer cooperative the cooperative markets products supplied by members.
+
+GLOSSARY
+A property right is a legally enforced right to select the uses of an economic good
+produced by a firm
+Unallocated equity, which can be thought of as unallocated, retained earnings, or
+Unallocated Reserves or Surplus, is equity not allocated to the member based on their
+patronage. For most cooperatives, this is non-patronage income or any other income on
+which the cooperative has paid corporate income tax.
+A worker cooperative is a business entity that is owned and controlled by the members who are laborers and work in the business.
+
+55
+
+56
+
+AN INTRODUCTION TO COOPERATION AND MUTUALISM
+
+About the author
+
+Michael Boland (boland@umn.edu)
+Koller Professor and Director, University of Minnesota
+Michael Boland (Mike) holds the Koller-endowed Professorship in Agribusiness Management and Information Technology at the University of Minnesota. He teaches classes
+on agricultural and consumer cooperatives, credit unions, and mutual insurance firms;
+an MBA course on agribusiness and food policy issues in the Carson School of Management; and a graduate course on food policy for students in public affairs, public health,
+law, veterinary medicine, and agricultural sciences. He is an adjunct professor in the
+Mondale School of Law and the Carlson School of Management. The Koller Professorship was funded by agricultural cooperatives (CHS, Land O’Lakes, CoBank, and Country
+Financial) and Koller friends, family, and colleagues.
+Prior to this new position, Mike worked at Kansas State University in the Arthur Capper
+Cooperative Center. He serves on the planning committee for the annual Farmer Cooperatives program, the National Council on Farmer Cooperatives director education
+programs, the Kansas State CEO Roundtable, and the California Center for Cooperative
+Development education program. He has worked with more than 45 master’s and doctoral students. Mike teaches educational modules on finance, governance, and strategic thinking in boards of director leadership programs for cooperatives, credit unions,
+and mutual insurance firms. These programs have been taught in 14 states to more than
+4,000 senior employees and directors.
+Mike has worked with agribusinesses and cooperatives in Latin America, China, South
+Africa, Australia, and Europe. He is a member of Harvard’s Private and Public, Scientific,
+Academic, and Consumer Food Policy Group. Mike’s Ph.D. in agricultural economics
+is from Purdue University, where he worked on programs in the Center for Food and
+Agricultural Business. He is the oldest of 12 children and grew up in Minnesota. His work
+experience includes a farm supply cooperative, a regional cooperative, and a cooperative
+state council.
+
+
