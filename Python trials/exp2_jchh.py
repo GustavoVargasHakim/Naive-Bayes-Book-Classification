@@ -6,6 +6,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
 import fileinput
 import sys, glob
+import time
 
 # Toma cualquier nombre del libro con comienzo "Busi_" y terminación ".txt"
 archivos = glob.glob("../Management books/Busi_*.txt")
@@ -35,17 +36,30 @@ for linea in fileinput.input(archivos, openhook=fileinput.hook_encoded("utf-8"))
                       'ω', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N',
                       'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Ω', 'Ψ', 'Σ', 'Π', 
                       'Ξ', 'Λ', 'Θ', 'Δ', 'Γ', 'aβ', 'aβj', 'βj', 'gf', 'pn', 'bp', 'zp', 
-                      'bch', '1', '2', '3', '4', '5', '6', '7', '8', '9', '|', '°', '¬', '!', '#', 
+                      'bch', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '|', '°', '¬', '!', '#', 
                       '$', '%', '&', '/', '(', ')', '=', '?', '¡', '¿', ',', ';', ':', '.', '-', '_',
                       '*', '+', '{', '}', '[', ']', '◦', '→', '➨', '∑')
 
         filtered_book = [w for w in filtered_book if not w in single_character]
 
         print(" -------- LIBRO -------- ")
+
+        # Abre nuevo archivo para almacenar lista filtered_book
         file = open("archivoEj.txt", "w", encoding="utf-8")
-        #file.write(filtered_book)
+
+        # Arreglo de caracteres numéricos
+        number_caracter = ('1', '2', '3', '4', '5', '6', '7', '8', '9', '0')
         
+        # Recorrido para escribir en archivo la lista fitered_book
+        # Por cada item (palabra) en la lista filtered_book
         for item in filtered_book:
-            file.write('\r%s' % item)
+            # Si el primer caracter de cada item en la lista no es un número dentro de la lista number_caracter
+            if not item[0] in number_caracter:
+                # Escribe en el archivo
+                file.write('\r%s' % item)
 
         file.close()
+        print("Terminado")
+
+        # Terminar con ctrl + c
+        time.sleep(30)
