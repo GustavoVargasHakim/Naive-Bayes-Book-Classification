@@ -7,7 +7,7 @@ import sys, glob
 import time
 
 # Toma cualquier nombre del libro con comienzo "Busi_" y terminación ".txt"
-archivos = glob.glob("../Social Sciences books/Soci_*.txt")
+archivos = glob.glob("../Social Sciences books/training/Soci_*.txt")
 archivos.sort()
 
 for linea in fileinput.input(archivos, openhook=fileinput.hook_encoded("utf-8")):
@@ -35,7 +35,7 @@ for linea in fileinput.input(archivos, openhook=fileinput.hook_encoded("utf-8"))
                               'ω', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N',
                               'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Ω', 'Ψ', 'Σ', 'Π',
                               'Ξ', 'Λ', 'Θ', 'Δ', 'Γ', 'aβ', 'aβj', 'βj', 'gf', 'pn', 'bp', 'zp',
-                              'bch')
+                              'bch', 'http://')
 
         filtered_book = [w for w in filtered_book if not w in single_character]
 
