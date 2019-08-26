@@ -1,0 +1,2508 @@
+Business Plan Development Guide
+
+Business Plan Development Guide
+
+Lee A. Swanson
+
+SASKATOON, SASKATCHEWAN
+
+Business Plan Development Guide by Lee A. Swanson is licensed under a Creative Commons Attribution-ShareAlike 4.0 International
+License, except where otherwise noted.
+CC BY-SA Lee A. Swanson
+
+Contents
+
+Business Plan Development Guide
+
+vi
+
+Acknowledgements
+
+vii
+
+Introduction
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+Chapter 1 – Developing a Business Plan
+Chapter 2 – Essential Initial Research
+Chapter 3 – Business Models
+Chapter 4 – Initial Business Plan Draft
+Chapter 5 – Making the Business Plan Realistic
+Chapter 6 – Making the Plan Appeal to
+Stakeholders and Desirable to the Entrepreneur
+7. Chapter 7 – Finishing the Business Plan
+8. Chapter 8 - The Business Plan Pitch
+
+1
+
+2
+14
+25
+32
+58
+63
+74
+78
+
+References
+
+80
+
+Appendix A – Business Plan Development Checklist
+and Project Planner
+
+81
+
+Appendix B - Business Plan Template
+
+89
+
+Appendix C - Business Plan Excel Template
+
+90
+
+Business Plan Development Guide
+
+Lee A. Swanson
+8th Edition
+Publishing Date 2017
+
+Acknowledgements
+
+I am thankful for the feedback provided by my MBA and undergraduate students as they used previous versions
+of this book. Its current form reflects their suggestions and advice.
+Thanks also to Grant Wilson for his help in converting this book from its print form into this open access format.
+
+Introduction
+
+This textbook and its accompanying spreadsheet templates were designed with and for students wanting a
+practical and easy-to-follow guide for developing a business plan. It follows a unique format that both explains
+what to do and demonstrates how to do it.
+
+Chapter 1 – Developing a Business Plan
+
+Learning Objectives
+
+After completing this chapter, you will be able to
+• Describe the purposes for business planning
+• Describe common business planning principles
+• Explain common business plan development guidelines and tools
+• List and explain the elements of the business plan development process
+• Explain the purposes of each element of the business plan development process
+• Explain how applying the business plan development process can aid in developing a business
+plan that will meet entrepreneurs’ goals
+
+Overview
+This chapter describes the purposes, principles, and the general concepts and tools for business planning, and the
+process for developing a business plan.
+
+Purposes for Developing Business Plans
+Business plans are developed for both internal and external purposes. Internally, entrepreneurs develop business
+plans to help put the pieces of their business together. Externally, the most common purpose is to raise capital.
+Internal Purposes
+As the road map for a business’s development, the business plan
+• Defines the vision for the company
+• Establishes the company’s strategy
+
+3 • LEE A. SWANSON
+
+• Describes how the strategy will be implemented
+• Provides a framework for analysis of key issues
+• Provides a plan for the development of the business
+• Helps the entrepreneur develop and measure critical success factors
+• Helps the entrepreneur to be realistic and test theories
+External Purposes
+The business plan provides the most complete source of information for valuation of the business. Thus, it is
+often the main method of describing a company to external audiences such as potential sources for financing and
+key personnel being recruited. It should assist outside parties to understand the current status of the company, its
+opportunities, and its needs for resources such as capital and personnel.
+
+Business Plan Development Principles
+Hindle and Mainprize (2006) suggested that business plan writers must strive to effectively communicate
+their expectations about the nature of an uncertain future and to project credibility. The liabilities of newness
+make communicating the expected future of new ventures much more difficult than for existing businesses.
+Consequently, business plan writers should adhere to five specific communication principles.
+First, business plans must be written to meet the expectations of targeted readers in terms of what they need to
+know to support the proposed business. They should also lay out the milestones that investors or other targeted
+readers need to know. Finally, writers must clearly outline the opportunity, the context within the proposed venture
+will operate (internal and external environment), and the business model (Hindle & Mainprize, 2006).
+There are also five business plan credibility principles that writers should consider. Business plan writers should
+build and establish their credibility by highlighting important and relevant information about the venture team.
+Writers need to elaborate on the plans they outline in their document so that targeted readers have the information
+they need to assess the plan’s credibility. To build and establish credibility, they must integrate scenarios to show
+that the entrepreneur has made realistic assumptions and has effectively anticipated what the future holds for
+their proposed venture. Writers need to provide comprehensive and realistic financial links between all relevant
+components of the plan. Finally, they must outline the deal, or the value that targeted readers should expect to
+derive from their involvement with the venture (Hindle & Mainprize, 2006).
+
+General Guidelines for Developing Business Plans
+Many businesses must have a business plan to achieve their goals. Using a standard format helps the reader
+understand that the you have thought everything through, and that the returns justify the risk. The following are
+some basic guidelines for business plan development.
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 4
+
+As You Write Your Business Plan
+1. If appropriate, include nice, catchy, professional graphics on your title page to make it appealing to targeted
+readers, but don’t go overboard.
+2. Bind your document so readers can go through it easily without it falling apart. You might use a three-ring
+binder, coil binding, or a similar method. Make sure the binding method you use does not obscure the information
+next to where it is bound.
+3. Make certain all of your pages are ordered and numbered correctly.
+4. The usual business plan convention is to number all major sections and subsections within your plan using the
+format as follows:
+1. First main heading
+1.1 First subheading under the first main heading
+1.1.1. First sub-subheading under the first subheading
+2. Second main heading
+2.1 First subheading under the second main heading
+Use the styles and references features in Word to automatically number and format your section titles and to
+generate your table of contents. Be sure that the last thing you do before printing your document is update your
+automatic numbering and automatically generated tables. If you fail to do this, your numbering may be incorrect.
+5. Prior to submitting your plan, be 100% certain each of the following requirements are met:
+• Everything must be completely integrated. The written part must say exactly the same thing as the
+financial part.
+• All financial statements must be completely linked and valid. Make sure all of your balance sheets
+balance.
+• Everything must be correct. There should be NO spelling, grammar, sentence structure, referencing, or
+calculation errors.
+• Your document must be well organized and formatted. The layout you choose should make the
+document easy to read and comprehend. All of your diagrams, charts, statements, and other additions
+should be easy to find and be located in the parts of the plan best suited to them.
+• In some cases it can strengthen your business plan to show some information in both text and table or
+figure formats. You should avoid unnecessary repetition, however, as it is usually unnecessary—and
+even damaging—to state the same thing more than once.
+• You should include all the information necessary for readers to understand everything in your
+
+5 • LEE A. SWANSON
+
+document.
+• The terms you use in your plan should be clear and consistent. For example, the following statement in
+a business plan would leave a reader completely confused:
+“There is a shortage of 100,000 units with competitors currently producing 25,000. We can help fill
+this huge gap in demand with our capacity to produce 5,000 units.”
+This statement might mean there is a total shortage of 100,000 units, but competitors are filling this
+gap by producing 25,000 per year; in which case there will only be a shortage for four years. However,
+it could mean that the annual shortage is 100,000 units and only 25,000 are produced each year, in
+which case the total shortage is very high and is growing each year.
+• You must always provide the complete perspective by indicating the appropriate time frame, currency,
+size, or other measurement.
+• If you use a percentage figure, you must indicate to what it refers—otherwise the number is
+meaningless to a reader.
+• If your plan includes an international element, you must indicate in which currency or currencies the
+costs, revenues, prices, or other values are quoted. This can be solved by indicating up-front in the
+document in which currency all values will be quoted. Another option is to indicate each time which
+currency is being used, and sometimes you might want to indicate the value in more than one currency.
+Of course, you will need to assess the exchange rate risk to which you will be exposed and describe
+this in your document.
+6. Ensure credibility is both established and maintained (Hindle & Mainprize, 2006).
+• If a statement presents something as a fact when this fact is not generally known, always indicate the
+source. Unsupported statements damage credibility.
+• Be specific. A business plan is simply not of value if it uses vague references to high demand,
+carefully set prices, and other weak phrasing. It must show hard numbers (properly referenced, of
+course), actual prices, and real data acquired through proper research. This is the only way to ensure
+your plan is considered credible.
+• Your strategies must be integrated. For example, your pricing strategy must complement and mesh
+perfectly with your product/service strategy, distribution strategy, and promotions strategy. For
+example, you probably shouldn’t promote your product as a premium product if you plan to charge
+lower-than-market prices for it.
+7. Before finalizing your business plan, re-read each section to evaluate whether it will appeal to your targeted
+readers.
+
+Useful Resources for Business Planning
+Canada Business Network
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 6
+
+• http://www.canadabusiness.ca/eng/
+Innovation, Science and Economic Development Canada: Financial Performance Data
+• http://www.ic.gc.ca/eic/site/pp-pp.nsf/eng/Home
+BizPal site for accessing licensing and other needs
+• http://www.bizpal.ca/
+Canada Revenue Agency site for CRA asset classifications
+• http://www.cra-arc.gc.ca/tx/bsnss/tpcs/slprtnr/rprtng/cptl/dprcbl-eng.html
+Canadian Company Capabilities database to use to find suppliers and buyers
+• http://www.ic.gc.ca/eic/site/ccc-rec.nsf/eng/home
+For finding possible Canadian Government contracts
+• http://www.merx.com/
+The Conference Board of Canada
+• http://www.conferenceboard.ca/
+Bank of Canada
+• http://www.bankofcanada.ca/
+Bank Sites
+• http://www.td.com/
+• http://www.rbc.com/
+• http://www.scotiabank.com/
+• http://www.bmo.com/
+• http://www.cibc.com/
+Business Loan Calculator
+• http://www.rbcroyalbank.com/cgi-bin/business/loan_calc/loans.cgi
+The business area within our library site
+• http://library.usask.ca/
+
+7 • LEE A. SWANSON
+
+Employee compensation calculators
+• https://www.payscale.com/research/CA/Country=Canada/Salary
+• https://www.glassdoor.ca/Salaries/index.htm
+Existing business plans
+The Word and Excel templates in this book
+• Business Plan Template (Word)
+• Business Plan Template (Excel)
+
+Business Plan Development Tools
+Credibility and Communication
+According to Hindle and Mainprize (2006), strong business plans effectively communicate the necessary
+information to the targeted readers while also establishing the credibility of the plan and the entrepreneur. The
+Credibility and Communication Meter icon is used throughout this book to highlight where and how business plan
+writers can improve the quality of the information and enhance their and their plan’s credibility.
+
+Credibility and Communication Meter
+
+Use the following tools to improve the information in and credibility of your plans:
+The Ratchet Effect
+A ratchet is a tool that most of us are familiar with. It is useful because it helps its user accomplish something with
+each effort expended while guarding against losing past advancements.
+With each word, sentence, paragraph, heading, chart, figure, and table you include in your final business plan, the
+ratchet should move ahead a notch because you achieve two important things.
+First, only needed and relevant information is included.
+Second, your additions build credibility in a relevant way.
+Apply the ratchet effect by making sure that each and every sentence and paragraph conveys needed and relevant
+information that adds to your and your plan’s credibility. Use the following principles:
+Rarely—and only if it truly needs to be said again—repeat something that you have already said in your plan.
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 8
+
+Avoid using killer phrases, like “there is no competition for our product” or “our product will sell itself, so we
+will not need to advertise it.” Any savvy reader will understand that these kinds of statements are naive and
+demonstrate a lack of understanding about how the market and other real-life factors actually work.
+Avoid contradicting yourself. Make sure that what is said in the written part of your plan completely syncs with
+what is said in the other parts of your plan. Likewise, ensure that what you include in the financial parts of your
+plan is completely in sync with what is said the written part.
+The Magic Formula
+Apply the following magic formula throughout your write your plan.
+(a)… consideration X affects my business because …
+(b)… consideration X is subject to this trend into the future …
+(c)… which means that we have decided to do this … (or) will implement this strategy … in response to how the
+expected trends for consideration X will affect my business
+Here is an example of how you can use the magic formula to develop part of the pricing strategy in the marketing
+plan part of your business plan:
+We expect that our expenses to run our business will rise with the rate of inflation, which means that we must plan
+to increase the prices on our products to establish and maintain our profitability. The Bank of Canada (201x) has
+projected that the general inflation rate in <the city in which my business will operate> will be 3.0% in 201x, 3.5%
+in 201y, and 4.0% in 201z. In our projected financial statements, therefore, we have inflated both our expenses
+and our prices by those rates in those years.
+Context and Framing
+You must provide the right context when you describe situations, strategies, and other components of your plan.
+Business plan readers should never be left to guess why you indicate in a business plan that you will do something.
+Proper context is needed to help you frame the information you present.
+When you frame the stories you tell correctly, the ratchet effect will happen and your plan will be stronger. One
+example of effective framing is when you, as the writer of the plan and the entrepreneur, clearly indicate how your
+education, expertise, relevant experiences, and network of contacts will make up for any lack of direct experience
+you have in running this particular kind of business. An example of ineffective framing is when you indicate that
+you lack experience with this type of business, or when you fail to specify how and why your levels of experience
+will affect the business’s development.
+Prioritizing Problems
+Don’t get hung up on something that doesn’t need an immediate solution. Instead, flag it for future consideration
+
+9 • LEE A. SWANSON
+
+and move on. When you return to re-address the issue, it might no longer be a problem or you might have by then
+figured out a solution.
+
+Process for Developing Business Plans
+The business plan development process described next has been extensively tested with entrepreneurship students
+and has proven to provide the guidance entrepreneurs need to develop a business plan appropriate for their needs:
+a high power business plan.
+Developing a high power business plan has six stages, which can be compared to a process for hosting a dinner for
+a few friends. A host hoping to make a good impression with their anticipated guests might analyze the situation
+at multiple levels to collect data on new alternatives for healthy ingredients, what ingredients have the best prices
+and are most readily available at certain times of year, the new trends in party appetizers, what food allergies the
+expected guests might have, possible party themes, and so on. This analysis is the Essential Initial Research stage.
+In the Business Model stage, the host might construct a menu of items to include with the meal along with a list
+of decorations to order, music to play, and costume themes to suggest to the guests. The mix of these kinds of
+elements chosen by the host will aid in the success of the party.
+The Initial Business Plan Draft stage is where the host rolls up their sleeves and begins to make some of the food
+items, puts up some of the decorations, and generally gets everything started for the party.
+During this stage, the host will begin to realize that some plans are not feasible and that changes are needed. The
+required changes might be substantial, like the need to postpone the entire party and ultimately start over in a
+few months, and others might be less drastic, like the need to change the menu when an invited guest indicates
+that they can’t eat food containing gluten. These changes are incorporated into the plan during the Making the
+Business Plan Realistic stage to make it realistic and feasible.
+The Making the Plan Appeal to Stakeholders and Desirable to the Entrepreneur stage involves further changes to
+the party plan to make it more appealing to both the invited guests and to make it a fun experience for the host.
+For example, the host might learn that some of the single guests would like to bring dates and others might need
+to be able to bring their children to be able to attend. The host might be able to accommodate those desires or
+needs in ways that will also make the party more fun for them—maybe by accepting some guests’ offers to bring
+food or games, or maybe hiring a babysitter to entertain and look after the children.
+The final stage—Finishing the Business Plan—involves the host putting all of the final touches in place for the
+party in preparation for the arrival of the guests.
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 10
+
+Figure 1 – Business Plan Development Process (Illustration by Lee A. Swanson)
+
+11 • LEE A. SWANSON
+
+Essential Initial Research
+A business plan writer should analyze the environment in which they anticipate operating at each of the levels
+of analysis: Societal, Industry, Market, and Firm. This stage of planning is called the Essential Initial Research
+stage, and it is a necessary first step to better understand the trends that will affect their business and the decisions
+they must make to lay the groundwork for, which will improve their potential for success.
+In some cases, much of this research should be included in the developing business plan as its own separate
+section to help show readers that there is a market need for the business being considered and that it stands a good
+chance of being successful.
+In other cases, a business plan will be stronger when the components of the research are distributed throughout
+the business plan to provide support for the outlined plans and strategies outlined. For example, the industryor market-level research might outline the pricing strategies used by identified competitors, which might be best
+placed in the Pricing Strategy part of the business plan to support the decision made to employ a particular pricing
+strategy.
+Business Model
+Inherent in any business plan is a description of the Business Model chosen by the entrepreneur as the one that they
+feel will best ensure success. Based upon their analysis from the Essential Initial Research stage, an entrepreneur
+should determine how each element of their business model—including their revenue streams, cost structure,
+customer segments, value propositions, key activities, key partners, and so on—might fit together to improve the
+potential success of their business venture (see Chapter 3 – Business Models).
+For some types of ventures, at this stage an entrepreneur might launch a lean start-up (see the “Lean Start-up”
+section in Chapter 2 – Essential Initial Research) and grow their business by continually pivoting, or constantly
+adjusting their business model in response to the real-time signals they get from the markets’ reactions to their
+business operations. In many cases, however, an entrepreneur will require a business plan. In those cases, their
+initial business model will provide the basis for that plan.
+Of course, throughout this and all of the stages in this process, the entrepreneur should seek to continually
+gather information and adjust the plans in response to the new knowledge they gather. As shown in Figure 1
+by its enclosure in the Progressive Research box, the business plan developer might need to conduct further
+research before finishing the business model and moving on to the initial business plan draft.
+Initial Business Plan Draft
+The Initial Business Plan Draft stage involves taking the knowledge and ideas developed during the first two
+stages and organizing them into a business plan format. Many entrepreneurs prefer to create a full draft of the
+business plan with all of the sections, including the front part with the business description, vision, mission,
+values, value proposition statement, preliminary set of goals, and possibly even a table of contents and lists of
+tables and figures all set up using the software features enabling their automatic generation. Writing all of the
+operations, human resources, marketing, and financial plans as part of the first draft ensures that all of these parts
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 12
+
+can be appropriately and necessarily integrated. The business plan will tell the story of a planned business startup
+in two ways: 1) by using primarily words along with some charts and graphs in the operations, human resources,
+and marketing plans and 2) through the financial plan. Both must tell the same story.
+The feedback loop shown in Figure 1 demonstrates that the business developer may need to review the business
+model. Additionally, as shown by its enclosure in the Progressive Research box, the business plan developer
+might need to conduct further research before finishing the Initial Business Plan Draft stage and moving on to
+the Making Business Plan Realistic stage.
+Making Business Plan Realistic
+The first draft of a business plan will almost never be realistic. As the entrepreneur writes the plan, it will
+necessarily change as new information is gathered. Another factor that usually renders the first draft unrealistic
+is the difficulty in making certain that the written part—in the front part of the plan along with the operations,
+human resources, and marketing plans—tells the exact same story as the financial part does. This stage of work
+involves making the necessary adjustments to the plan to make it as realistic as possible.
+The Making Business Plan Realistic stage has two possible feedback loops. The first means going back to the
+Initial Business Plan Draft stage if the initial business plan needs to be significantly changed before it is possible
+to adjust it so that it is realistic. The second feedback loop circles back to the Business Model stage if the business
+developer needs to rethink the business model. As shown in Figure 1 by its enclosure in the Progressive Research
+box, the business plan developer might need to conduct further research before finishing the Making Business
+Plan Realistic stage and moving on to the Making Plan Appeal to Stakeholders stage.
+Making Plan Appeal to Stakeholders and Desirable to the Entrepreneur
+A business plan can be realistic without appealing to potential investors and other external stakeholders, like
+employees, suppliers, and needed business partners. It might also be realistic (and possibly appealing to
+stakeholders) without being desirable to the entrepreneur. During this stage, the entrepreneur will keep the
+business plan realistic as they adjust plans to appeal to potential investors, stakeholders, and themselves.
+If, for example, investors will be required to finance the business’s start, some adjustments might need to be
+relatively extensive to appeal to potential investors’ needs for an exit strategy from the business, to accommodate
+the rate of return they expect from their investments, and to convince them that the entrepreneur can accomplish
+all that is promised in the plan. In this case, and in others, the entrepreneur will also need to get what they want out
+of the business to make it worthwhile for them to start and run it. So, this stage of adjustments to the developing
+business plan might be fairly extensive, and they must be informed by a superior knowledge of what targeted
+investors need from a business proposal before they will invest. They also need to be informed by a clear set of
+goals that will make the venture worthwhile for the entrepreneur to pursue.
+The caution with this stage is to balance the need to make realistic plans with the desire to meet the entrepreneur’s
+goals while avoiding becoming discouraged enough to drop the idea of pursuing the business idea. If an
+entrepreneur is convinced that the proposed venture will satisfy a valid market need, there is often a way to
+
+13 • LEE A. SWANSON
+
+assemble the financing required to start and operate the business while also meeting the entrepreneur’s most
+important goals. To do so, however, might require significant changes to the business model.
+One of the feedback loops shown in Figure 1 indicates that the business plan writer might need to adjust the draft
+business plan while ensuring that it is still realistic before it can be made appealing to the targeted stakeholders
+and desirable to the entrepreneur. The second feedback loop indicates that it might be necessary to go all the way
+back to the Business Model stage to re-establish the framework and plans needed to develop a realistic, appealing,
+and desirable business plan. Additionally, this stage’s enclosure in the Progressive Research box suggests that the
+business plan developer might need to conduct further research.
+Finishing the Business Plan
+The final stage involves putting the important finishing touches on the business plan so that it will present well to
+potential investors and others. This involves making sure that the math and links between the written and financial
+parts are accurate. It involves ensuring that all the needed corrections are made to the spelling, grammar, and
+formatting. The final set of goals should be written to appeal to the target readers and to reflect what the business
+plan says. An executive summary should be written and included as a final step.
+
+Chapter Summary
+This chapter described the internal and external purposes for business planning. It also explained how business
+plans must effectively communicate while establishing and building credibility for both the entrepreneur and the
+venture. The general guidelines for business planning were covered as were some important business planning
+tools. The chapter concluded with descriptions of the stages of the business development process for effective
+business planning.
+
+Chapter 2 – Essential Initial Research
+
+Learning Objectives
+
+After completing this chapter, you will be able to
+• Apply analytical skills to assess how the nature of the entrepreneurial environment can
+influence entrepreneurial outcomes
+• Apply the right tools to do impactful analyses at each of the societal, industry, market, and firm
+levels to evaluate entrepreneurial and other business opportunities
+
+Overview
+This chapter introduces the distinct levels of analyses that must be considered while stressing the importance of
+applying the appropriate tools to conduct the analyses at each level.
+
+15 • LEE A. SWANSON
+
+Figure 2 – Essential Initial Research (Illustration by Lee A. Swanson)
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 16
+
+Support Information
+It is important to conduct the essential initial research. All information and items in the plan should be backed
+with facts from valid primary or secondary sources. Alternatively, some entrepreneurs can make valid claims
+based on experience and expertise. As such, their background and experiences should be delineated to support the
+claims made in their business plan.
+
+Evidence-based claims make the business plan stronger.
+
+Levels of Analyses
+When evaluating entrepreneurial opportunities—sometimes called idea screening—an effective process involves
+assessing the various venture ideas being considered by applying different levels and types of analyses.
+Entrepreneurs starting ventures and running existing businesses should also regularly analyze their operating
+environments at the societal, industry, market, and firm levels. The right tools, though, must be applied at
+each level of analysis (see Figure 3). It is critical to complete the essential initial research at all four levels
+(societal, industry, market, and firm). The initial scan should be high-level, designed to assist in making key
+decisions (i.e. determining if there is a viable market opportunity for the venture). Secondary scans should
+be continuously conducted to support each part of the business plan (i.e. operations, marketing, and finance).
+However, information should only be included if it is research-based, relevant, and adds value to the business
+plan. The results from such research (i.e. the Bank of Canada indicates that interest rates will be increasing in
+the next two years) should support business strategies within the plan (i.e. debt financing may be less favourable
+than equity financing). Often, obtaining support data (i.e. construction quotes) is not immediate, so plant a flag
+and move forward. Valid useful resources may include information from Statistics Canada, Bank of Canada, IBIS
+World Report, etc.
+Societal Level
+At a societal level, it is important to understand each of the political, economic, social, technological,
+environmental, and legal (PESTEL) factors—and, more specifically, the trends affecting those factors—that will
+affect a venture based on a particular idea. Some venture ideas might be screened out and others might be worth
+pursuing at a particular time because of the trends occurring with those PESTEL factors. When including this
+research in your business plan, avoid using technical jargon or informal language that may distract readers (i.e.
+rivalry among firms) and use simpler language (i.e. competitive environment).
+Industry Level
+Analysis of the industry level will focus on the sector of the economy in which you intend to operate. Because the
+right analysis tool must be used for the assessment to be effective, apply Porter’s (1985) Five Forces Model, or
+a similar tool, to assess industry-level factors. Again, avoid technical jargon (i.e. threat of new entrants) and use
+
+17 • LEE A. SWANSON
+
+simpler wording (i.e. difficulty of entering the market) or flip to an analysis of the threat (i.e. strategies to establish
+and maintain market share).
+Market Level
+At the market level, you need to use a tool to generate information about the part of the industry in which your
+business will compete. This tool might be a set of questions designed to uncover information that you need to
+know to help develop plans to improve your proposed venture’s success.
+Firm Level
+At a firm level, both the internal organizational trends and the external market profile trends should be analyzed.
+There are several tools for conducting an internal organizational analysis, and you should normally apply many of
+them.
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 18
+
+Analyzing the Trends at Each Level
+
+Figure 3 – Different Levels of Analysis (Illustration by Lee A. Swanson)
+
+Analyze Societal-Level Trends
+Use an appropriate tool like the PESTEL Model to assess both the current situation and the likely changes that
+may affect your venture in the future:
+• Political factors – federal & provincial & municipal government policy, nature of political decisions,
+
+19 • LEE A. SWANSON
+
+potential political changes, infrastructure plans, etc.
+• Economic factors – interest rates, inflation rates, exchange rates, tax rates, GDP growth, health of the
+economy, etc.
+• Social factors – population characteristics like age distribution and education levels, changes in
+demand for types of products and services, etc.
+• Technological factors – new processes, new products, infrastructure, etc.
+• Environmental factors – effects of climate / weather, water availability, smog and pollution issues, etc.
+• Legal factors – labour laws, minimum wage rates, liability issues, etc.
+After assessing these factors, analyze the impact these trends have upon the venture:
+• Do the trends uncover opportunities and threats?
+• Can opportunities be capitalized on?
+• Can problems be mitigated?
+• Can the venture be sustained?
+Analyze Industry-Level Trends
+Use an appropriate tool like the Five Forces Model (Porter, 1985) to analyze the industry in which you expect to
+operate:
+• Horizontal relationships – threat of substitutes, rivalry among existing competitors, threat of new
+entrants, etc.
+• Vertical Relationships – bargaining power of buyers, bargaining power of suppliers, etc.
+Analyze Market-Level Trends
+Use an appropriate method like a market profile analysis to assess the position within the industry in which you
+expect to operate. To do so, determine the answers to questions like the following:
+• How attractive is the market?
+• In what way are competitors expected to respond if you enter the market?
+• What is the current size of the market and how large is it expected to become?
+• What are the current and projected growth rates?
+• At what stage of the development cycle is the market?
+• What level of profits can be expected in the market?
+• What proportion of the market can be captured? What will be the cost to capture this proportion and
+what is the cost to capture the proportion required for business sustainability?
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 20
+
+Prior to a new business start-up, the customers that the new business wishes to attract either already purchase the
+product or service from a competitor to the new business—or do not yet purchase the product or service at all.
+A new venture’s customers, therefore, must come from one of two sources. They must be attracted away from
+existing (direct) competitors or be convinced to make different choices about where they spend their money so
+they purchase the new venture’s product or service instead of spending their money in other ways (with indirect
+competitors). This means an entrepreneur must decide from which source they will attract their customers, and
+how they will do so. They must understand the competitive environment.
+According to Porter (1996), strategy is about doing different things than competitors or doing similar things but
+in different ways. In order to develop an effective strategy, an entrepreneur must understand the competition.
+To understanding the competitive environment, entrepreneurs must do the following:
+• Determine who their current direct and indirect competitors are and who the future competitors may be
+• Understand the similarities and differences in quality, price, competitive advantages, and other factors
+that exist between their proposed business and the existing competitors
+• Establish whether they can offer different products or services—or the same products or services in
+different ways—to attract enough customers to meet their goals
+• Anticipate how the competitors will react in response to the new venture’s entry into the market
+Analyze Firm-Level Trends (organizational analysis)
+There are several tools available for firm-level analysis, and usually several of them should be applied because
+they serve different purposes.
+Tools like a SWOT Analysis or TOWS Matrix can formulate and evaluate potential strategies to leverage
+organizational strengths, overcome/minimize weaknesses, take advantage of opportunities, and overcome/
+minimize threats. You will also need to do a financial analysis and consider the founder fit and the competencies
+a venture should possess.
+• SWOT Analysis – identify organizational strengths and weaknesses and external opportunities and
+threats
+• TOWS Matrix – develop strategies to
+◦ Leverage strengths to take advantage of opportunities
+◦ Leverage strengths to overcome threats
+◦ Mitigate weaknesses by taking advantage of opportunities
+◦ Mitigate weaknesses while minimizing the potential threats or the potential outcomes from
+threats
+To analyze a firm’s strategy, apply a VRIO Framework analysis, as Barney (1997) and Barney and Hesterly
+
+21 • LEE A. SWANSON
+
+(2006) outline. While conceptualizing the resource-based view (RBV) of a firm, they identified the following four
+considerations regarding resources and their ability to help a firm gain a competitive advantage. Together, the
+following four questions make up the VRIO Framework, which can assess a firm’s capacity and determine what
+competencies a venture should have. To use this tool, you need to determine whether competencies are valuable,
+rare, inimitable, and organized in a way that they can be exploited:
+• Value – Is a particular resource (financial, physical, technological, organizational, human, reputational,
+innovative) valuable to a firm because it helps it take advantage of opportunities or eliminate threats?
+• Rarity – Is a particular resource rare in that it is controlled by or available to relatively few others?
+• Imitability – Is a particular resource difficult to imitate so that those who have it can retain cost
+advantages over those who might try to obtain or duplicate it?
+• Organization – Are the resources available to a firm useful to it because it is organized and ready to
+exploit them?
+To assess the financial attractiveness of the venture, analyze
+• Similar firms in industry
+◦ Comparative ratio and financial analysis (Vesper, 1996, p. 145-148) can help determine
+industry norm returns, turnover ratios, working capital, operating efficiency, and other
+measures of firm success.
+• Projected market share
+◦ Analyzes the key industry players’ relative market share, and make judgments about how the
+proposed venture would fare within the industry.
+◦ Uses information from market profile analysis and key industry player analysis.
+• Margin analysis
+◦ Involves projecting expected margins from venture
+◦ Useful information might come from financial analysis, market profile analysis, and NAICS
+(North American Industry Classification System) codes (six digit codes used to identify an
+industry—first five digits are standardized in Canada, the United States, and Mexico—is
+gradually replacing the four digit SIC [Standard Industrial Classification] codes)
+• Break-even analysis
+◦ Involves using information from margin analysis to determine break-even volume and break
+even sales in dollars
+◦ Is there sufficient volume to sustain the venture?
+• Pro forma analysis
+◦ Forecasts income and assets required to generate profits
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 22
+
+• Sensitivity analysis
+◦ What will be the likely impact if some assumed variable values change?
+• Return on investment (ROI) projections
+◦ Projects the ROI from undertaking the venture
+◦ What is the opportunity cost of undertaking the venture?
+Founder fit is an important consideration for entrepreneurs screening venture opportunities. While there are
+plenty of examples of entrepreneurs successfully starting all types of businesses, “technical capability can be an
+important if not all-important factor in pursuing ventures success” (Vesper, 1996, p. 149). Factors such as the
+experience, training, credentials, reputation, and social capital an entrepreneur has can play an important role
+in their success or failure in starting a new venture. Even when an entrepreneur can recruit expert help through
+business partners or employees, it might be important that he or she also possess technical skills required in that
+particular kind of business.
+• A common and useful way to help screen venture options is to seek input from experts, peers, mentors,
+business associates, and perhaps other stakeholders like potential customers and direct family
+members.
+Completing a TOWS Matrix develops strategies from the SWOT Analysis and strengthens your business plan.
+Reference your technical skill, as this is a major factor in your venture’s success.
+
+Lean Start-up
+Ries (2011) defines a lean start-up as “a human institution designed to create a new product or service under
+conditions of extreme uncertainty” (p. 27). The lean-start-up approach involves releasing a minimal viable product
+to customers with the expectation that this early prototype will change and evolve frequently and quickly in
+response to customer feedback. This is meant to be a relatively easy and inexpensive way to develop a product or
+service by relying on customer feedback to guide the pivots in new directions that will ultimately—and relatively
+quickly—lead to a product or service with the appeal required for business success. It is only then that the actual
+business will truly emerge. As such, entrepreneurs that apply the lean-start-up approach—because their business
+idea allows for it—actually forgo developing a business plan, at least until they might need one later to get
+financing, because introducing a minimum viable product helps “entrepreneurs start the process of learning as
+quickly as possible” (Ries, 2011, p. 93). This is followed by ever improving versions of their products or services.
+However, all entrepreneurs must directly consult with their potential target purchasers and end users to assess
+if and how the market might respond to their proposed venture. The Essential Initial Research and Progressive
+Research stages should include purposeful and meaningful interactions between the entrepreneur and the target
+purchasers and end users.
+Ries’s (2011) five lean-start-up principles start with the idea that entrepreneurs are everywhere and that anyone
+
+23 • LEE A. SWANSON
+
+working in an environment where they seek to create new products or services “under conditions of extreme
+uncertainty” (p. 27) can use the lean-start-up approach. Second, a start-up is more than the product or service: it
+is an institution that must be managed in a new way that promotes growth through innovation. Third, start-ups
+are about learning “how to build a sustainable business” (p. 8-9) by validating product or service design through
+frequent prototyping that allows entrepreneurs to test the concepts. Forth, start-ups must follow this process or
+feedback loop: create products and services; measure how the market reacts to them; and learn from that to
+determine whether to pivot or to persevere with an outcome the market accepts. Finally, Ries (2011) suggested
+that entrepreneurial outcomes and innovation initiatives need to be measured through innovative accounting.
+
+Figure 4 – Business Model and Lean Start-Up Books (Picture by Lee A. Swanson)
+
+Chapter Summary
+By applying the right tools to analyze the operating environment at each of the societal, industry, market, and
+firm levels, entrepreneurs screen venture ideas, plan new venture development, and potentially detect factors that
+might affect their business operations. The lean start-up is an alternative that can be used to circumvent the usual
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 24
+
+planning steps in favour of continuous innovation. See Figure 4 for other resources on business models and lean
+start-ups.
+
+Chapter 3 – Business Models
+
+Learning Objectives
+
+After completing this chapter, you will be able to
+• Describe what a business model is
+• Analyze existing and proposed businesses to determine what business models they are applying
+and what business models they plan to apply
+• Develop and analyze alternative business models for new entrepreneurial ventures
+
+Overview
+In this chapter the concept of the business model is introduced. One concept of the business model in particular,
+the Business Model Canvas, is explored as a way to conceptualize and categorize elements of a business model.
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 26
+
+Figure 5 – Business Model (Illustration by Lee A. Swanson)
+
+27 • LEE A. SWANSON
+
+What are Business Models?
+Magretta (2002) described business models as “stories that explain how enterprises work” (p. 87) and
+Osterwalder, Pigneur, and Clark (2010) noted that they reveal “the rationale of how an organization creates,
+delivers, and captures value” (p. 14). Chatterjee (2013) said that “A business is about selling what you make for
+a profit. A business model is a configuration (activity systems) of what the business does (activities) and what it
+invests in (resources) based on the logic that drives the profits for a specific business” (p. 97).
+Osterwalder et al. (2010) said that a start-up is something quite different than an ongoing venture. A start-up
+should not be viewed as a smaller version of a company because it requires very different skills to start up a
+company than it does to operate one. A start-up that is still a start-up after some time has passed—maybe after
+a couple of years for some kinds of start-ups—is actually a failed enterprise since it hasn’t converted into an
+ongoing venture. Entrepreneurs who develop a business model for their ventures that deliver value to the targeted
+customers and to the entrepreneur stand a better chance of converting their start-up into an ongoing venture.
+
+The Business Model Canvas
+The business model canvas is made up of nine parts that, together, describe the business model (see Figure 6).
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 28
+
+Figure 6 – Business Model Canvas from https://strategyzer.com/ (Designed by: Strategyzer AG, strategyzer.com, Creative Commons
+Attribution-Share Alike 3.0 Unported License)
+
+The following elements of the Business
+http://www.businessmodelgeneration.com.
+
+Model
+
+Canvas
+
+were
+
+taken,
+
+with
+
+permission,
+
+from
+
+• Key partners
+◦ Who are our key partners?
+◦ Who are our key suppliers?
+◦ Which key resources are we acquiring from partners?
+◦ Which key activities do partners perform?
+◦ Motivations for partnerships: optimization and economy; reduction of risk and uncertainty;
+acquisition of particular resources and activities
+• Key activities
+◦ What key activities do our value propositions require?
+◦ Our distribution channels?
+◦ Customer relationships?
+◦ Revenue streams?
+◦ Categories: production; problem solving; platform/network
+• Key resources
+◦ What key resources do our value propositions require?
+◦ Our distribution channels?
+◦ Customer relationships?
+◦ Revenue streams?
+◦ Types of resources: physical; intellectual (brand patents, copyrights, data); human; financial
+• Value propositions
+◦ What value do we deliver to the customer?
+◦ Which one of our customer’s problems are we helping to solve?
+◦ What bundles of products and services are we offering to each customer segment?
+◦ Which customer needs are we satisfying?
+◦ Characteristics: newness; performance; customization; “getting the job done”; design; brand/
+status; price; cost reduction; risk reduction; accessibility; convenience/usability
+• Customer relationships
+
+29 • LEE A. SWANSON
+
+◦ What type of relationship does each of our customer segments expect us to establish and
+maintain with them?
+◦ Which ones have we established?
+◦ How are they integrated with the rest of our business model?
+◦ How costly are they?
+◦ Examples: personal assistance; dedicated personal assistance; self-service; automated
+services; communities; co-creation
+• Customer segments
+◦ For whom are we creating value?
+◦ Who are our most important customers?
+◦ Mass market; niche market; segmented; diversified; multi-sided platform
+• Channels
+◦ Through which channels do our customer segments want to be reached?
+◦ How are we reaching them now?
+◦ How are our channels integrated?
+◦ Which ones work best?
+◦ Which ones are most cost-efficient?
+◦ How are we integrating them with customer routines?
+◦ Channel phases:
+▪ awareness – How do we raise awareness about our company’s products and
+services?
+▪ evaluation – How do we help customers evaluate our organization’s value
+proposition?
+▪ purchase – How do we allow customers to purchase specific products and
+services?
+▪ delivery – How do we deliver a value proposition to customers?
+▪ after sales – How do we provide post-purchase customer support?
+• Revenue streams
+◦ For what value are our customers really willing to pay?
+◦ For what do they currently pay?
+◦ How are they currently paying?
+◦ How would they prefer to pay?
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 30
+
+◦ How much does each revenue stream contribute to overall revenues?
+◦ Types: asset sale; usage fee; subscription fees; lending/renting/leasing; licensing; brokerage
+fees; advertising
+◦ Fixed pricing: list price; product feature dependent; customer segment dependent; volume
+dependent
+◦ Dynamic pricing: negotiation (bargaining); yield management; real-time-market
+• Cost structure
+◦ What are the most important costs inherent in our business model?
+◦ Which key resources are most expensive?
+◦ Which key activities are most expensive?
+◦ Is our business more cost driven (leanest cost structure, low price value proposition,
+maximum automation, extensive outsourcing) or value driven (focused on value creation,
+premium value proposition)?
+◦ Sample characteristics: fixed costs (salaries, rents, utilities); variable costs; economies of
+scale; economies of scope
+The idea is to keep adding descriptions or plans to the nine components to create the initial business model and
+then to actually do the start-up activities and replace the initial assumptions in each of the nine parts with newer
+and better information or plans and let the business model evolve. This model is partly based on the idea that
+the owner should be the one interacting with potential customers so they fully understands what these potential
+customers want. These interactions should not only be done by hired sales people, at least until the business model
+has evolved into one that works, because this evolution can only happen when the venture owner is completely
+engaged with the potential customers and the other business operations (Osterwalder et al., 2010).
+A business plan shouldn’t be created until the above has been done because you need to know what your business
+model is before you can really create a business plan (Osterwalder et al., 2010). Thus, the Business Model Canvas
+is best suited to technology-based and other types of companies that can be started and operated in some way and
+later converted into an ongoing venture. By starting operations and making adjustments as you go along, you are
+actually doing a form of market research that can be compiled into a full business plan when one is needed.
+According to Osterwalder et al. (2010), the things we typically teach people in business school are geared
+to helping people survive in larger, ongoing businesses. What is taught—including organizational structures,
+reporting lines, managing sales teams, advertising, and similar topics—is not designed to help students understand
+how a start-up works and how to deal with the volatile nature of new ventures. The Business Model Canvas tool
+is meant to help us understand start-ups better.
+The Business Model Canvas tool is intended to be applied when business operations can be started on a small
+scale and adjustments can be made continually until the evolving business model works in real life. This contrasts
+the more traditional approach of pre-planning everything, going through the set-up and start-up processes, and
+
+31 • LEE A. SWANSON
+
+ending up with a business venture that opens for business one day without having proven at all that the business
+model it is founded upon will even work. These traditional start-ups sometimes flounder along as the owners find
+that their plans are not quite working out and they try to make adjustments on the fly. It can be difficult to adjust,
+though, because the processes are already set up. For example, sales teams might be in the field trying to make
+sales and blaming the product developers for the difficulty they are having, and the product developers might be
+blaming the sales teams for not being able to sell the product properly. The real issue might be that the company
+simply isn’t meeting customers’ needs and they don’t have any good mechanism for detecting, understanding, and
+fixing this problem.
+
+Chapter Summary
+This chapter described business models and presented the Business Model Canvas as a tool that entrepreneurs can
+use to develop and define their own business models.
+
+Chapter 4 – Initial Business Plan Draft
+
+Learning Objectives
+
+After completing this chapter, you will be able to
+• Develop a comprehensive business plan draft
+
+Overview
+This chapter describes an approach to writing your draft business plan. It also outlines the elements of a
+comprehensive business plan that can be used as a template for starting your business plan.
+
+33 • LEE A. SWANSON
+
+Figure 7 – Initial Business Plan Draft (Illustration by Lee A. Swanson)
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 34
+
+Effective Business Plans
+Effective business plans
+• Provide statements that are backed by evidence or data
+• Include context and references with every table, figure, or illustration
+• Include relevant, clear, concise tables and financial information, and exclude unnecessary material
+• Present timelines for distinct purposes
+• Use clear sections customized to the particular business or its environment rather than generic sections
+Evidence-based claims strengthen your business plan.
+Providing context for tables and figures is critical.
+
+Writing the Draft Business Plan
+Although there are various ways to approach the task of writing a draft business plan, one effective approach is to
+do the following:
+• Use the following sections of this chapter to prepare an outline for your business plan. You should use
+the headings feature in Word so that you can later automatically generate a table of contents
+◦ This will provide you with a template for the information needed for your plan.
+• Insert the relevant parts of the written work produced during essential initial research into your new
+business plan template. You can do this in one of two ways:
+◦ You can copy and paste the results of your essential initial research into the sections of your
+business plan template where you believe that they can be used to support or justify the
+strategies and other decisions you will later describe in those sections. Of course, you can
+later move those parts of your environmental scan as needed as you develop your plan. In
+general, this strategy results in a stronger business plan.
+◦ Or you can insert the results from your societal-level and industry-level analyses in an
+Operating Environment section as listed in the outline below. As described below, the
+market-level analysis will probably always fit best within the Marketing Plan and the firmlevel analysis might fit across all of the plans within the business plan.
+▪ Completing this step will give you the satisfaction of seeing some of your work so
+far taking shape in the form of a business plan.
+▪ Also, inserting the results from your environmental scan into the relevant sections
+of your plan should later provide you with the stimulus and support you will need
+to develop solid, realistic, evidence-based strategies and decisions for those
+
+35 • LEE A. SWANSON
+
+sections.
+• Incorporate your business model into your new business plan template. As there is no section in a
+business plan in which you specifically describe your business model, you will need to incorporate
+your business model elements into appropriate sections of your plan.
+• Fill in as much relevant information as you can under as many of the headings on your business plan
+template as possible.
+◦ You will normally include both information that you got from particular sources and
+information based on an assumption you made (and that you might intend to replace later
+with more accurate information from valid sources).
+Follow these practices as you develop your plan:
+• Every time that you insert something into your business plan template that you got from a supplier’s
+catalogue, clearly indicate from where you got that information. For example, if you list the office
+equipment and furniture that you need along with their exact costs as taken from suppliers’ catalogue,
+clearly indicate from which catalogue(s) you got the information. Similarly, if you spoke to an industry
+expert who recommended that you manufacture your product in a particular way, clearly indicate who
+you spoke to and what their credentials are, if you got the person’s permission to do so.
+◦ When you do this, you help establish your credibility as a business plan writer, and your
+business plan’s credibility. It also might save you time later when you discover that you need
+to add a similar item along with its cost to your list.
+◦ Note: Do not reinvent the wheel by “inventing” your own method to reference your sources
+and do not use multiple methods. Use one (and only one) proper and well-established
+referencing method, like APA. This will improve the degree of professionalism of your plan.
+• Every time that you insert something into your plan that did not come from a source, a best practice is
+to highlight that part of your plan, possibly by using a distinct font color. The objective will be to
+ultimately replace all of those assumptions with source-backed information. When you do so, change
+the font to its regular color so you can quickly and easily see what still needs to be sourced.
+◦ Note: if you are an expert source on something—maybe you are a construction expert that
+business plan readers will trust to do estimates on building costs—you should establish your
+credentials and clearly indicate when some of the information in your plan is based on your
+own expert knowledge.
+◦ When you flag your assumptions in this way, you can quickly and easily see what
+information needs to be replaced with sourced information before you finalize your business
+plan.
+• Use the appropriate schedule in the spreadsheet templates to record estimated sales revenue for each
+month. You must base these sales projections on well-reasoned criteria and set them up in your
+spreadsheets using formulas so that if you need to change a criterion later, you can change a number in
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 36
+
+one cell or a limited number of cells rather than having to change all of them.
+◦ Projecting realistic sales can be difficult, but setting up a method for doing so early gives
+business plan writers a significant start toward completing their business plan. A welldeveloped sales model that takes advantage of the powers of electronic spreadsheets gives
+business plan writers the opportunity to relatively quickly and easily make necessary
+changes to their assumptions and overall estimates when needed.
+• Use the spreadsheet templates by filling in all of the numbers you have in the various schedules. As
+you are doing in the written part of your plan, use a distinct font to flag numbers that are based on
+assumptions. When you have actual numbers, be certain that it is clear to a reader what sources you
+used to get those numbers.
+◦ When you use the schedules provided on the spreadsheet templates, and any others that you
+add, you will be well on your way to developing the financial component of your business
+plan.
+
+Providing references strengthens the credibility of claims and makes the business plan stronger.
+
+General Business Plan Format
+Letter of Transmittal
+A letter of transmittal is similar to the cover letter of a resume. The letter of transmittal should be tailored to the
+reader, clearly identifying the customized ask of the potential investor or lender. It should be short and succinct,
+delineating the ask (i.e. funding, specialized recruiting, purchasing a product or service, obtaining advice, etc.)
+within a few paragraphs. It should not summarize the business plan, as that is the job of the executive summary.
+Title Page
+• Includes nice, catchy, professional, appropriate graphics to make it appealing for targeted readers
+Executive Summary
+• Can be longer than normal executive summaries—up to three pages
+• Written after remainder of plan is complete
+• Includes information relevant to targeted readers as this is the place where they are most likely to form
+their first impressions of the business idea and decide whether they wish to read the rest of the plan
+
+37 • LEE A. SWANSON
+
+Table of Contents
+List of Tables
+• References every table, figure, and appendix within the text of the plan so the relevance of each of
+these elements is clear.
+List of Figures
+Introduction
+• Indicates the purpose for the plan
+• Appeals to targeted readers
+Business Idea
+• May include description of history behind the idea and the evolution of the business concept if relevant
+Value Proposition
+• Explains how your business idea solves a problem for your expected customers or otherwise should
+make them want to purchase your product or service instead of a competitor’s
+Vision
+• Outlines what you intend for the venture to be
+• Inspires all members of the organization
+• Helps stakeholders aspire to achieve greater things through the venture because of the general direction
+provided through the vision statement
+After articulating a good vision, the business plan writer should consider what achieving the vision looks like.
+Many business plan writers write their vision and leave it at that. The problem with this approach is that they
+often then do not take the necessary steps to illustrate how the strategies they outline in their plan will move them
+toward achieving their vision. If they make this mistake, their strategies might indicate that they are fulfilling their
+current mission, but are not taking steps to move beyond that.
+
+Vision statements should be clear with context throughout the business plan. For example, if the goal is to be
+the premier business operating in that industry in Saskatchewan, does that mean you have one location and are
+considered the best at what you do it even though you only have a small corner of the market, or does it mean that
+you have many locations across the province and enjoy a large market share?
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 38
+
+Vision statements should be clear with context throughout the business plan.
+
+Mission
+• Should be very brief—a few sentences or a short paragraph
+• Indicates what your organization does and why it exists—may describe the business strategy and
+philosophy
+Values
+• Consists of five to ten short statements indicating the important values that will guide everything the
+business will do
+• Outlines the personal commitments members of the organization must make, and what they should
+consider to be important
+• Defines how people behave and interact with each other
+• Should be reflected in all of the decisions outlined in the business plan, from hiring to promotions to
+location choices
+• Helps the reader understand the type of culture and operating environment this business intends to
+develop
+Major Goals
+• Describes the major organizational goals
+• Ensures each goal is
+◦ Specific, Measurable, Action oriented, Realistic, and Timely [SMART]
+◦ Realistic, Understandable, Measureable, Believable, and Achievable [RUMBA]
+• Aligns with everything in plan
+• Written, or re-written as the second last thing you do before finalizing your business plan by
+proofreading, polishing, and printing it (writing the Executive Summary is the final thing you should
+write)
+
+SMART and RUMBA goals strengthen the business plan.
+
+39 • LEE A. SWANSON
+
+Operating Environment
+Trend Analysis
+• Usually includes an analysis of how the current and expected trends in the political, economic, social,
+technological, environmental, and legal (PESTEL) factors will impact the development of this business
+◦ However, consider whether this is the right place for this analysis: it may be better
+positioned, for example, in the Financial Plan section to provide context to the analysis of
+the critical success factors, or in the Marketing Plan to help the reader understand the basis
+for the sales projections.
+Industry Analysis
+• Includes an analysis of the industry in which this business will operate
+• Typically applies the Five Forces Model (Porter, 1985)
+◦ As above, consider whether this is the right place for this analysis: it may be better placed,
+for example, in the Marketing Plan to enhance the competitor analysis, or in the Financial
+plan to provide context to the industry standard ratios in the Investment Analysis section.
+Of course, your trend analysis will also include a market-level analysis (using a set of questions, like those listed
+in Chapter 2) and a firm-level analysis (using tools like a SWOT Analysis / TOWS Matrix, various forms of
+financial analyses, a founder fit analysis, and so on), but those analyses are usually best placed in other sections of
+your plan to support the strategies and decisions you present there. The market-level analysis will inevitably fit in
+the Marketing Plan section, but the firm-level analysis might be spread across some or all of the Operating Plan,
+Human Resources Plan, Marketing Plan, and Financial Plan sections.
+Operations Plan
+• Answers the following key questions :
+◦ What constraints are you operating under that will restrict your capacity to produce and sell
+your product?
+▪ Given these constraints, what is your operating capacity (in terms of production,
+sales, etc.)?
+◦ What is the work flow plan for your operation?
+◦ What work will your company do and what work will you outsource?
+Operations Timeline
+• Answers the following questions:
+◦ When will you make the preparations, such as registering the business name and purchasing
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 40
+
+equipment, to start the venture?
+◦ When will you begin operations and make your first sales?
+◦ When will other milestone events occur such as moving operations to a larger facility,
+offering a new product line, hiring new key employees, and beginning to sell products
+internationally?
+◦ Sometimes it is useful to include a graphical timeline showing when these milestone events
+have occurred and are expected to occur.
+
+Completing the operation plans further adds to the overall business plan.
+
+Business Structure and other Set-up Elements
+• Indicates the legal structure your venture will take:
+◦ Sole Proprietorship
+◦ Partnership
+◦ Limited Partnership
+◦ Corporation
+◦ Cooperative
+Note: Your financial statements, risk management strategy, and other elements of your plan are affected by the
+type of legal structure you choose for your business. For example, all partnerships should have a clear agreement
+outlining the duties, expectations, and compensation of all partners as well as the process of dissolution.
+Spreadsheet templates are formatted for corporations and will need to be formatted for other forms of businesses.
+• Describes your decisions related to the following:
+◦ Naming
+◦ Zoning, equipment prices, suppliers, etc.
+◦ Location
+◦ Leasing terms, leasehold improvements, signage, pay deposits, etc.
+◦ Getting business license, permits, etc.
+◦ Setting up banking arrangements
+◦ Setting up legal and accounting systems (or professionals)
+◦ Ordering equipment, locks and keys, furniture, etc.
+◦ Recruiting employees, setting up the payroll system and benefit programs, etc.
+
+41 • LEE A. SWANSON
+
+◦ Training employees
+◦ Testing the products/services that will be offered
+◦ Testing the systems for supply, sales, delivery, and other functions
+◦ Creating graphics, logos, promotional methods, etc.
+◦ Ordering business cards, letter head, etc.
+◦ Setting up supplier agreements and outlining why those sellers are preferred
+◦ Buying inventory, insurance, etc.
+◦ Revising business plan
+◦ And many more things, including, when possible, attracting purchased orders in advance of
+start-up through personal selling (by the owner, a paid sales force, independent
+representatives, or by selling through brokers wholesalers, catalogue houses, retailers), a
+promotional campaign, or other means
+Note: As part of your business set-up, you need to determine what kinds of control systems you should have in
+place, establish necessary relationships with suppliers prior to your start-up, and generally deal with a list of issues
+like those mentioned above.
+Start-up
+• Answers the following questions:
+◦ What is required to start-up your business including the purchases and activities that must
+occur before you make your first sale?
+◦ When identifying capital requirements for start-up, a distinction should be made between
+fixed capital requirements and working capital requirements.
+Fixed Capital Requirements
+• Answers the following question:
+◦ What fixed assets, including equipment and machinery, must be purchased so your venture
+can conduct its business?
+• May include a start-up budget showing the machinery, equipment, furnishings, renovations, and other
+capital expenditures required prior to operations commencing
+◦ May also show the financing required, often in the form of longer-term loans
+Working Capital Requirements
+• Answers the following question:
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 42
+
+◦ What money is needed to operate the business (separately from the money needed to
+purchase fixed assets) including the money needed to purchase inventory and pay initial
+expenses?
+• May include a start-up budget showing the cash required to purchase starting inventories, recruit
+employees, conduct market research, acquire licenses, hire lawyers, and other operating expenditures
+required prior to starting operations
+◦ May also show the financing required. Working capital is usually financed with operating
+loans, trade credit, credit card debt, or other forms of shorter-term loans
+Risk Management Strategies
+• Includes descriptions of the organization’s risk exposure
+◦ Enterprise – liability exposure for things like when someone accuses your employees or
+products you sell of injuring them
+◦ Financial – securing loans when needed and otherwise having the right amount of money
+when you need it
+◦ Operational – securing needed inventories, recruiting needed employees in tight labour
+markets, operating when customers you counted on not purchasing product as you had
+anticipated, managing theft, arson, and natural disasters like fires and floods, etc.
+• Always includes descriptions of the planned strategies for managing each of the risks identified.
+Identifies potential risk exposures, their consequences, risk potential, and mitigation strategies (Figure
+8).
+◦ Avoid – choose to avoid doing something, outsource, etc.
+◦ Reduce – through training, assuming specific operational strategies, etc.
+◦ Transfer – insure against, outsource, etc.
+◦ Assume – self-insure, accept, etc.
+
+Figure 8 – Risk Management Strategies (Illustration by Lee A. Swanson)
+
+Completing a risk management plan further adds to the overall business plan.
+
+43 • LEE A. SWANSON
+
+Operating Processes
+• Answers the following key questions:
+◦ What operating processes will you apply?
+◦ Depending upon the type of business, describes things like
+▪ Retail and wholesale operations
+▪ How will you ensure your cash is managed effectively?
+▪ How will you schedule your employees?
+▪ How will you manage your inventories?
+▪ If you will have a workforce, how will you manage them?
+▪ etc.
+▪ Service operation
+▪ How will you bill out your employee time?
+▪ How will you schedule work on your contracts?
+▪ etc.
+▪ Manufacturing operation
+▪ How you will manufacture your product (process flow, job shop, etc.?)
+▪ How will you maintain quality?
+▪ How will you institute and manage effective financial monitoring and
+control systems that provide needed information in a timely manner?
+▪ How will you manage expansion?
+▪ etc.
+Facilities
+• May include planned layouts for facilities
+• Answers the following questions:
+◦ What are your facility plans?
+◦ Where will your facility be located?
+▪ Expressed as a set physical location
+▪ Expressed as a set of requirements and characteristics
+◦ How large will your facility be and why must it be this size?
+◦ How much will it cost to buy or lease your facility?
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 44
+
+◦ What utility, parking, and other costs must you pay for this facility?
+◦ What expansion plans must be factored into the facility requirements?
+◦ What transportation and storage issues must be addressed by facility decisions?
+◦ What zoning and other legal issues must you deal with?
+◦ What will be the layout for your facility and how will this best accommodate customer and
+employee requirements?
+Organizational Structure
+• May include information on Advisory Boards or Board of Directors from which the company will seek
+advice or guidance or direction
+• May include an organizational chart
+• Can be a nice lead-in to the Human Resources Plan
+Human Resources Plan
+• Key questions answered by human resources plans:
+◦ How do you describe your desired corporate culture?
+◦ What are the key positions within your organization?
+◦ How many employees will you have?
+◦ What characteristics define your desired employees?
+◦ What is your recruitment strategy? What processes will you apply to hire the employees you
+require?
+◦ What is your leadership strategy and why have you chosen this approach?
+◦ What performance appraisal and employee development methods will you use?
+◦ What is your organizational structure and why is this the best way for your company to be
+organized?
+◦ How will you pay each employee (wage, salary, commission, etc.)? How much will you pay
+each employee?
+◦ What are your payroll costs, including benefits?
+◦ What work will be outsourced and what work will be completed in-house?
+◦ Have you shown and described an organizational chart?
+Recruitment and Retention Strategies
+• Includes how many employees are required at what times
+
+45 • LEE A. SWANSON
+
+• Estimates time required to recruit needed employees
+• Estimates all recruitment costs including:
+◦ Employment advertisements
+◦ Contracts with employment agency or search firms
+◦ Travel and accommodations for potential employees to come for interviews
+◦ Travel and accommodations for interviewers
+◦ Facility, food, lost time, and other interviewing costs
+◦ Relocation allowances for those hired including flights, moving companies, housing
+allowances, spousal employment assistance, etc.
+• May include a schedule showing the costs of initial recruitment that then flows into your start-up
+expense schedules
+Leadership and Management Strategies
+• Outlines your leadership philosophy
+• Explains why it is the most appropriate leadership approach for this venture
+Training
+• Answers the following key questions:
+◦ What training is required because of existing rules and regulations?
+◦ How will you ensure your employees are as capable as required?
+◦ In which of the following areas will you provide training for your employees?
+▪ Health and safety (legislation, WHMIS, first aid, defibulators, etc.)
+▪ Initial workplace orientation
+▪ Management
+▪ Financial systems
+▪ Sales
+▪ Contracts
+▪ Product features
+▪ Other
+Performance Appraisals
+• Identifies how you will manage your performance appraisal systems
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 46
+
+Health and Safety
+• Notes any legal requirements (and also legal requirements for other issues that may be included in
+other parts of the plan)
+• Identifies accreditation you might pursue, such as ISO 9000, and if so, evaluates the costs, benefits,
+and time frame
+• Outlines training for employees, such as WHMIS training or machinery handling training
+Compensation
+• Always justifies your planned employee compensation methods and amounts
+• Always includes all components of the compensation (CPP, EI, holiday pay, etc.)
+• Identifies how you will ensure both internal and external equity in your pay systems
+• Describes any incentive-based pay or profit sharing systems planned
+• May include a schedule that shows the financial implications of your compensation strategy and
+supports the cash flow and income statements shown later
+Key Personnel
+• May include brief biographies of the key organizational people
+
+Completing the human resources plan further adds credibility to the overall business plan.
+
+Marketing Plan
+• Identifies the primary and secondary research you have done
+◦ You must show evidence of having done proper research, both primary and secondary. If you
+make a statement of fact, you must back it up with properly referenced supporting evidence.
+If you indicate a claim is based on your own assumptions, you must back this up with a
+description as to how you came to the conclusion.
+• Shows an effective analysis of the economic environment relevant to your business
+◦ It is a given that you must provide some assessment of the economic situation as it relates to
+your business. For example, you might conclude that the current economic crisis will reduce
+the potential to export your product and it may make it more difficult to acquire credit with
+which to operate your business. Of course, conclusions such as these should be matched with
+your assessment as to how your business will make the necessary adjustments to ensure it
+will thrive despite these challenges, or how it will take advantage of any opportunities your
+
+47 • LEE A. SWANSON
+
+assessment uncovers.
+• Shows an effective assessment of the industry within which your venture will operate
+◦ You must provide an assessment of the industry coupled with descriptions of how your
+venture will prosper in those circumstances. A common approach used to assess the industry
+is to apply Porter’s (1985) Five Forces Model.
+▪ If you apply the Five Forces Model, do so in the way in which it was meant to be
+used to avoid significantly reducing its usefulness while also harming the viability
+of your industry analysis. This model is meant to be used to consider the entire
+industry, not a subcomponent of it (and it usually cannot be used to analyze a
+single organization).
+◦ Your competitor analysis might fit within your assessment of the industry, or it might be best
+as a section within your marketing plan. Usually a fairly detailed description of your
+competitors is required, including an analysis of their strengths and weaknesses. In some
+cases, your business may have direct and indirect competitors to consider. Maintain
+credibility by demonstrating that you fully understand the competitive environment.
+◦ Assessments of the economic conditions and the state of the industry appear incomplete
+without accompanying appraisals outlining the strategies the organization can/should employ
+to take advantage of these economic and industry situations. So, depending upon how you
+have organized your work, it is usually important to couple your appraisal of the economic
+and industry conditions with accompanying strategies for your venture. This shows the
+reader that you not only understand the operating environment, but that you have figured out
+how best to operate your business within that situation.
+• Outlines an effective analysis of your venture (see the Organizational Analysis section below)
+Primary and secondary data further add to the strength of the business plan.
+Completing the marketing plan further adds to the overall business plan.
+
+Market Analysis
+• Usually contains customer profiles, constructed through primary and secondary research, for each
+market targeted
+• Contains detailed information on the major product benefits you will deliver to the markets targeted
+• Describes the methodology used and the relevant results from the primary market research completed
+• If there was little primary research completed, justifies why it is acceptable to have done little of this
+kind of research and/or indicate what will be done and by when
+• Includes a complete description of the secondary research conducted and the conclusions reached
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 48
+
+• Describes the potential customers
+◦ Define your target market in terms of identifiable entities sharing common characteristics.
+For example, it is not meaningful to indicate you are targeting Canadian universities. It is,
+however, useful to define your target market as Canadian university students between the
+ages of 18 and 25, or as information technology managers at Canadian universities, or as
+student leaders at Canadian universities. Your targeted customer should generally be able to
+make or significantly influence the buying decision.
+◦ You must usually define your target market prior to describing your marketing mix,
+including your proposed product line. Sometimes the product descriptions in business plans
+seem to be at odds with the described target market characteristics. Ensure your defined
+target market aligns completely with your marketing mix (including product/service
+description, distribution channels, promotional methods, and pricing). For example, if the
+target market is defined as Canadian university students between the ages of 18 and 25, the
+product component of the marketing mix should clearly be something that appeals to this
+target market.
+◦ Carefully choose how you will target potential customers. Should you target them based on
+their demographic characteristics, psychographic characteristics, or geographic location?
+• Identify how your targeted customers make their buying decisions
+◦ You will need to access research to answer this question. Based on what you discover, you
+will need to figure out the optimum mix of pricing, distribution, promotions, and product
+decisions to best appeal to how your targeted customers make their buying decisions.
+Competition
+• Fully describes the nature of your competitors
+◦ However, this information might fit instead under the market analysis section.
+• Describes all your direct competitors
+• Describes all your indirect competitors
+• If you can, includes a competitor positioning map to show where your product will be positioned
+relative to competitors’ products
+◦ If you include a competitor positioning map, insure that the x-axis and y-axis are
+meaningful. Often, competitor maps include quality and price as axes. Unless you can
+clearly articulate the distinction between high quality and low quality, it may be more
+valuable to have more meaningful axes or describe your value proposition relative to your
+competitors in the absence of a positioning map.
+
+49 • LEE A. SWANSON
+
+Figure 9 – Competitor Positioning Map (Illustration by Lee A. Swanson)
+
+• Identifies your competitive advantage, your venture`s value proposition, and what distinguishes your
+business from that of your competitors in a way that will ensure your sales forecasts will be met
+◦ You must clearly communicate the answers to these questions in your business plan in order
+to attract the needed support for your business. One caution is that it may sound appealing to
+claim you will provide a superior service to the existing competitors, but the only
+meaningful judge of your success in this regard will be customers. Although it is possible
+some of your competitors might be complacent in their current way of doing things, it is very
+unlikely that all your competitors provide an inferior service to that which you will be able to
+provide.
+
+Demonstrating a competitive advantage makes the business plan stronger. A competitor positioning map provides
+context as to where your venture fits in the competitive landscape.
+
+Marketing Strategy
+• Covers all aspects of the marketing mix: your promotional decisions, product decisions, distribution
+decisions, and pricing decisions
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 50
+
+• Outlines how you plan to influence your targeted customers to buy from you (your optimum marketing
+mix, and why is this one better than the alternatives)
+Organizational Analysis
+• Leads in to your marketing strategy or is positioned elsewhere depending upon how your business plan
+is best structured
+• Often applies a SWOT Analysis to analyze the organization
+◦ If doing so, ALWAYS ensure this analysis results in more than a simple list of internal
+strengths and weaknesses and external opportunities and threats. A SWOT analysis should
+always prove to the reader that there are organizational strategies in place to address each of
+the weaknesses and threats identified and to leverage each of the strengths and opportunities
+identified.
+◦ An effective way to ensure an effective outcome to your SWOT Analysis is to apply a
+TOWS Matrix approach to develop strategies to take advantage of the identified strengths
+and opportunities while mitigating the weaknesses and threats. A TOWS Matrix evaluates
+each of the identified threats along with each of the weaknesses and then each of the
+strengths. It does the same with each of the identified opportunities. In this way strategies are
+developed by considering pairs of factors.
+◦ The TOWS Matrix is a framework with which to help you organize your thoughts into
+strategies. Most often you would not label a section of your business plan as a TOWS Matrix
+because this would not add value for the reader. Instead, you should describe the resultant
+strategies—perhaps while indicating how they were derived from your assessment of the
+strengths, weaknesses, opportunities, and threats. For example, you could indicate that
+certain strategies were developed by considering how internal strengths could be employed
+toward mitigating external threats faced by the business.
+Product Strategy
+• Identifies your product/service and why this particular product/service will appeal to your targeted
+customers more than the alternatives
+◦ If your product or service is standardized, you will need to compete on the basis of
+something else—like a more appealing price, having a superior location, better branding, or
+improved service. If you can differentiate your product or service, you might be able to
+compete on the basis of better quality, more features, appealing style, or something else.
+When describing your product, you should demonstrate that you understand this.
+Pricing Strategy
+• Outlines your pricing strategies and explains what makes these strategies better than the alternatives
+
+51 • LEE A. SWANSON
+
+◦ If you intend to accept payment by credit card (which is probably a necessity for most
+companies), you should be aware of the fee you are charged as a percentage of the value of
+each transaction. If you don’t account for this you risk overstating your actual revenues by
+perhaps one percent or more.
+• Identifies your sales forecasts and explains why these are realistic
+◦ Sales forecasts must be done on at least a monthly basis if you are using a projected cash
+flow statement. These must be accompanied by explanations designed to establish their
+credibility for readers of your business plan. Remember that many readers will initially
+assume your planned time frames are too long, your revenues are overstated, and you have
+underestimated your expenses. Well crafted explanations for all of these numbers will help
+establish credibility.
+Distribution Strategy
+• Explains your distribution strategies and what makes these strategies better than the alternatives
+◦ If you plan to use e-commerce, you should include all the costs associated with maintaining
+a website and accepting payments over the Internet.
+Promotions Strategy
+• Answers the following key questions:
+◦ As a new entrant into the market, must you attract your customers away from your
+competitors they currently buy from or will you be creating new customers for your product
+or service (i.e. not attracting customers away from your competitors)?
+◦ If you are attracting customers away from competitors, how will these rivals respond to the
+threat you pose to them?
+◦ If you intend to create new customers, how will you convince them to reallocate their dollars
+toward your product or service (and away from other things they want to purchase)?
+◦ In what ways will you communicate with your targeted customers? When will you
+communicate with them? What specific messages do you plan to convey to them? How
+much will this promotions plan cost?
+• Outlines the anticipated responses competitors will have to your entrance into the market, especially if
+your success depends upon these businesses losing customers to you
+◦ If your entry into the market will not be a threat to direct competitors, it is likely you must
+convince potential customers to spend their money with you rather than on what they had
+previously earmarked those dollars toward. In your business plan you must demonstrate an
+awareness of these issues.
+• Often maps out your promotional expenditures according to method used and time frame
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 52
+
+◦ Consider listing the promotional methods in rows on a spreadsheet with the columns
+representing weeks or months over probably about 18 months from the time of your first
+promotional expenditure. This can end up being a schedule that feeds the costs into your
+projected cash flow statement and from there into your projected income statements.
+◦ If you phone or visit newspapers, radio stations, or television stations seeking advertising
+costs, you must go only after you have figured out details like on which days you would like
+to advertise, at what times on those days, whether you want your print advertisements in
+color, and what size of print advertisements you want.
+◦ Carefully consider which promotional methods you will use. While using a medium like
+television may initially sound appealing, it is very expensive unless your ad runs during the
+non-prime times. If you think this type of medium might work for you, do a serious costbenefit analysis to be sure.
+◦ Some promotional plans are developed around newspaper ads, promotional pamphlets,
+printing business cards, and other more obvious mediums of promotion. Be certain to,
+include the costs of advertising in telephone directories, sponsoring a little league soccer
+team, producing personalized pens and other promotional client give-always, donating items
+to charity auctions, printing and mailing client Christmas cards, and doing the many things
+businesses find they do on-the-fly. Many businesses find it to be useful to join the local
+chamber of commerce and relevant trade organizations with which to network. Some find
+that setting a booth up at a trade fair helps launch their business.
+◦ If you are concerned you might have missed some of these promotional expenses, or if you
+want to have a buffer in place in case you feel some of these opportunities are worthwhile
+when they arise, you should add some discretionary money to your promotional budget. A
+problem some companies get into is planning out their promotions in advance only to
+reallocate some of their newspaper advertisement money, for example, toward some of these
+other surprise purposes resulting in less newspaper advertising than had been intended.
+Financial Plan
+• Contains financial statements
+• Also includes
+◦ Various funding options and exit strategies for potential investors
+◦ Business valuation (be cautious not to over value your business)
+◦ Break-even analysis
+Business Valuation
+There are a multitude of sophisticated business valuation methodologies. A rule of thumb for business valuations
+
+53 • LEE A. SWANSON
+
+is a multiple of its earnings. For example, if the chosen multiple is five and the business’ earnings before taxes
+are $55M, the business’ valuation would be approximately $275M.
+Break-Even Analysis
+Break-Even Point = FC/(P-VC)
+• FC = Fixed Costs
+• P = Unit Price
+• VC = Variable Cost
+Example: If the business’ total fixed costs are $1,000,000.00, it costs $5.00 to produce the widget, and the business
+sells the widget for $7.00, the break-even point is 500,000 widgets.
+• You will most certainly need to make monthly cash flow projections from business inception to
+possibly three years out. Your projections will show the months in which the activities shown on your
+fixed capital and working capital schedules will occur. This is nearly the only way to clearly estimate
+your working capital needs and, specifically, important things like the times when you will need to
+draw on or can pay down your operating loans and the months when you will need to take out longerterm loans with which to purchase your fixed assets. Without a tool like this you will be severely
+handicapped when talking with bankers about your expected needs. They will want to know how large
+of a line of credit you will need and when you anticipate needing to borrow longer-term money. It is
+only through doing cash flow projections that you will be able to answer these questions. This
+information is also needed to determine things like the changes to your required loan payments and
+when you can take owner draws or pay dividends.
+• Your projected cash flows are also used to develop your projected income statements and balance
+sheets.
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 54
+
+Overview
+Pro forma Cash Flow Statements
+Pro forma Income Statements
+Pro forma Balance Sheets
+Investment Analysis
+Projected Financial Ratios and Industry Standard Ratios
+Critical Success Factors (Sensitivity Analysis)
+References
+Appendices
+List of Items a Business May Need to Purchase
+Set-up
+• Business license
+• Registration for name, etc.
+• Domain name registration
+• Initial product inventory
+• Signage
+• All the little things like curtains/blinds, decorations, microwave for staff room, etc.
+• All the things needed to run the business from day #1 (like cutlery, plates, cooking pots, table settings
+etc. for restaurants; like towels, soap, etc. for gyms; like equipment and so on for manufacturing and
+service places)
+• Set-up and testing of new facilities—new factories and offices do not operate at peak efficiency for
+some time after start-up because it takes time for the new systems to kick into high gear
+• Professional services needed
+• Lawyer’s fees to make sure agreements are solid
+• Graphic designer or design company needed to develop visuals
+• Accounting firm needed to set up initial systems
+
+55 • LEE A. SWANSON
+
+• Insurance—maybe not a direct cost to this one to account for
+Office
+• Accounting system software
+• Computer, printer, other things needed like scanner
+• Office furniture
+• Initial office supplies—paper, pens, etc.
+• Telephones
+• Internet/wifi
+• Microwave and coffee maker and similar supplies for staff room or coffee room
+• Bank fees—business banking is normally not free—might also need to have business cheques
+Customer Interaction
+• Cash register
+• Loyalty cards/system
+Production/Operations
+• Safety equipment (fire extinguishers, AED)
+• First aid
+• Security systems
+• Equipment maintenance
+• Janitorial services and cleaning supplies
+• Bathroom supplies—toilet paper, soap, towels
+• Membership costs for various associations, including the local chamber of commerce, any professional
+associations for the relevant industry, etc.
+• Subscriptions for things like important trade publications, etc.
+• Shelving and storage systems
+• Even when not full restaurant, operations like coffee shops still require equipment like dishwasher
+Training
+• Safety—prior to start-up and ongoing and for new employees
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 56
+
+Hiring
+• Ads, travel expenses—flights, hotels, taxi rides, meal allowances, etc.—to recruit people through
+interviews, meeting meals, set up with real estate agents, etc.
+Promotions
+• Website development
+• Costs for setting up and managing social media (can take a lot of an employee’s time)
+• Grand opening costs
+Property
+• If buying, include property taxes and all utilities in cash flows and income statement and include
+building maintenance and maybe build up a reserve fund to pay for things like future roof repairs and
+needed renovations and upgrades
+• If renting/leasing, include rental/least cost and whatever utilities are not included in rental/lease
+payment
+Renovations
+• Construction
+• Plumbing
+• Electrical
+• Utility hookups
+• Inspections
+• Shelving
+• Interior signage
+• Fencing, parking lot, exterior lighting, other exterior things
+Risk Management
+• Insurance (need to choose the types needed)
+• Training costs
+• Things like snow removal, de-icing sidewalks, etc.
+
+57 • LEE A. SWANSON
+
+Chapter Summary
+This chapter described the basic elements of a comprehensive business plan.
+
+Chapter 5 – Making the Business Plan Realistic
+
+Learning Objectives
+
+After completing this chapter, you will be able to
+• Develop the second draft of the business plan by applying revision methods to improve the
+realism of the first draft
+
+Overview
+A first draft of a business plan will inevitably be unrealistic for a host of reasons. It is likely to include
+contradictions between sections of the written part. The financial and written parts will most likely not align, even
+though they must tell the same story, but in different terms. The sales projections might be unrealistic. The cash
+flow projections will probably be far from accurate. In general, work will be required to convert the first draft of
+the business plan into a realistic second draft.
+
+59 • LEE A. SWANSON
+
+Figure 10 – Making the Business Plan Realistic (Illustration by Lee A. Swanson)
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 60
+
+How to Make the Plan Realistic
+Replace Assumptions with Factual and Expert Information
+A first step is to replace the assumptions you included in your business plan and flagged with the distinct colored
+font (review the Writing the Draft Business Plan section) with information you got from a valid source. Of course,
+to establish your and your business plan’s credibility, always include the references to the sources you used.
+Review and Revise Sales Projections
+Business plan writers should critically review and revise their sales projections while using the strategies below
+to improve the realism of the projected financial statements.
+When reviewing, and possibly revising sales projections, business plan writers should consider both the sales
+projection model they used and the assumptions they fed into the model to generate the monthly sales figures.
+Additionally, it is important to compare the resulting projected sales with industry norms and any available
+comparative data with similar companies.
+Adjust Strategies to Make Projected Financial Statements Realistic
+If you used the financial spreadsheet templates as they are meant to be used, you will not have typed a single
+number into your projected cash flow statements, your projected income statement, and your projected balance
+sheet. You should have entered all of your numbers into a set of schedules that, in turn, automatically transfer the
+relevant numbers to the projected statements through formulas.
+The cash flow statement estimates all of the money flowing in and out of the venture in each month. The cash
+inflows include cash collected from cash sales during the month and accounts receivable collections resulting
+from sales made in previous months. They also include proceeds from any assets you sell, loan proceeds, and
+other cash investments made into your business.
+The cash outflows occur whenever something is purchased, an expense is paid (including loan payments and
+taxes), and cash is invested somewhere such that it is no longer available to be used to pay current obligations.
+The cash available at the end of each month is the previous month’s cash balance plus all cash inflows minus
+all cash outflows (the exception might be the first month when the initial investments—and, possibly, initial
+sales—are made, and possibly some expenses are incurred or purchases made). When you complete your first
+business plan draft, you will inevitably have unrealistic cash balances at the end of some, if not all months.
+You can never have a negative cash balance at the end of a month. If you are projecting negative balances, your
+planned venture cannot survive unless you do things like implement strategies to increase projected sales, seek
+new investments in your business, and reduce planned operating expenses.
+Likewise, an overly high end-of-month cash balance is a signal of possible poor cash management strategies or
+overly optimistic sales forecasting. Another consideration if your month ending cash balances are high is whether
+
+61 • LEE A. SWANSON
+
+you have applied realistic assumptions. After all, it is very rare to stumble upon a business opportunity that
+generates high amounts of excess cash. If such an opportunity existed, other entrepreneurs would have or will be
+poised to enter the market and reduce the appeal of the perceived opportunity.
+To eliminate negative cash balances and to manage cash so you don’t have negative or overly positive end-ofmonth cash balances,
+1. Determine what range of end-of-month cash balances is realistic for your type of business. For
+example, you might decide that, for your type of business, they should always be between $8,000 and
+$12,000.
+2. Work forward from the first month that the ending balance falls out of that range. To do that, decide
+how to best manage your cash. You have several options, including the following (but be certain to
+make your changes in the schedules rather than on the projected statements in your financial
+spreadsheet templates):
+◦ If you are short of cash, you might be able to increase cash inflows. For example, you could
+implement strategies (and, of course, include these in the written part of your plan) to
+increased projected sales at close to current planned prices, maintain projected sales levels
+while increasing prices, attract new investors to inject some cash in the business, use cash
+reserves to increase available cash, or to sell an asset that is no longer needed. Of course, you
+must be aware of the possible consequences from taking those actions. For example,
+increasing prices will lead to lower sales, and if the amount of the price increase is more than
+counterbalanced by the drop in sales, you might actually reduce the amount of cash you
+generate.
+◦ As just noted, new investors can inject cash into the business. For this stage of business plan
+development, it is often best to focus on making the business plan realistic without worrying
+too much about where to secure the investments you need to start your business beyond the
+funding you are reasonably certain that you can get through personal money and from
+friends, family, and other ready sources (see the section on Starting Capital). Use this stage
+of development to help you determine the amount of money that you will need to secure
+from other sources, but adjust your plans and strategies to ensure that the amount of
+additional financing that you will need is realistic. It is in the next stage of business
+development that you will more seriously consider from what sources you can get the
+financing that you determined that you needed while in this stage of development.
+◦ If you are short of cash, you might be able to decrease cash outflows by implementing costreduction strategies or reducing or deferring purchases. Again, all of these actions have
+consequences you must be aware of. For example, if you reduce your advertising expenses,
+you might suffer a large enough decline in sales to worsen your cash shortfall situation.
+◦ If your projections show high cash balances in some projected high-sales months, some of
+that cash can be transferred to a cash reserve, used to pay down loans, used to purchase
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 62
+
+needed assets or to acquire resources to benefit the business, used to prepay expenses, and
+paid to investors as dividends.
+◦ If projections show cash balances that are higher than is realistic, you should review your
+sales projections and your projected expenses and make any necessary adjustments to make
+them more realistic.
+If your projected financial spreadsheet templates are set up effectively, your schedules should feed your numbers
+into your projected cash flow statement. From there, your projected cash flow statements should automatically
+populate your projected income statement and balance sheet.
+Test the Realism of Projected Statements Using Financial Analysis Methods
+The first steps to improving overall realism is to make your projected cash flow statement more realistic by (1)
+replacing as many assumed numbers in your schedules as possible with actual numbers; (2) improving the realism
+of your planned strategies and sales and other projections, and (3) adjusting your strategies and plans such that all
+month-end cash balances are within a target range. After that, you need to apply financial analysis methods, like
+ratio analysis, on the numbers in all of your financial statements to assess the realism of your numbers against
+industry standards and similar companies for which financial statements are available. That analysis should lead
+to further strategy adjustments to improve the realism of the planned financial positions for your venture during
+its first five years of business.
+Synchronize the Written and Financial Parts of the Plan
+Finally, you will need to rewrite parts of your operations, human resources, and marketing plans—and possibly the
+written introduction to your financial plan—to reflect all of the changes you made and to ensure that the written
+part of your business plan tells exactly the same story as does the financial part.
+
+Chapter Summary
+This chapter addressed the issue of making the first draft of the business plan realistic. To do so, replace as many
+of your assumptions as possible with factual and expert information, all properly referenced from valid sources
+to build and maintain your and your plan’s credibility. After that, review and revise the original sales projections
+to make them more realistic as informed by industry data and available numbers from companies similar to what
+you want your venture to be. Revise your strategies until all of the monthly closing balances in your cash flow
+statement fall within a realistic, reasonable, and predetermined target range. Perform financial analysis techniques
+to test the realism of your projected financial situation. Finally, rewrite your business plan so that the written and
+financial sections tell exactly the same story—one using words and the other using numbers.
+
+Chapter 6 – Making the Plan Appeal to Stakeholders
+and Desirable to the Entrepreneur
+
+Learning Objectives
+
+After completing this chapter, you will be able to
+• Develop the third draft of the business plan by applying revision methods to further improve the
+realism of the second draft while also making it desirable to the entrepreneur and appealing to
+targeted investors
+• Describe the funding sources for start-ups
+
+Overview
+This chapter deals with adjusting the second business plan draft to retain, and hopefully improve, its realism, while
+also making it desirable to the entrepreneur and appealing to targeted investors. In some cases, a business plan
+should also be made to appeal to other targeted stakeholders, such as highly skilled employees who are needed,
+but who might not be easy to recruit unless they are offered a minority ownership position or receive reassurance
+from a well-written business plan.
+Securing needed financing is one of the most important functions related to starting a business. This chapter
+describes some of the sources of financing available to start-ups.
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 64
+
+Figure 11 – Making the Plan Appeal to Stakeholders and Desirable to the Entrepreneur (Illustration by Lee A. Swanson)
+
+65 • LEE A. SWANSON
+
+How to Make the Plan Appealing and Desirable
+The second draft of your business plan should include realistic financial projections based on the plans outlined
+in the plan. As part of that exercise, you should have projected how much money you will require to start your
+business and to operate it over its first five years.
+This stage of development focuses on the following tasks:
+1. Determine your medium- and longer-term goals for your business as they relate to what you want to
+get out of it. As you read through the following questions, consider that the answers you provide
+should guide the financing decisions you make now.
+◦ Do you want to start your business and rapidly grow its value so you can profit by selling it
+within a short period of time to an investor?
+◦ Do you plan to operate your business for the rest of your working life? If so, how long will
+that be, and what will you do with your business when you want to retire? Will you want to
+sell it to an investor for as high a price as you can? Will you want to pass control, and
+possibly ownership, to family members? Do you want to retain ownership and hire people to
+manage it for you? Might you want to offer ownership interests in your business to your
+employees over time so that they will be majority shareholders and will take control of its
+operations by the time you retire? What other plans do you have for your business when you
+retire?
+◦ Do you want to, or will you need to, offer ownership interests in your business to attract
+partners or other stakeholders whose help you will need to make it thrive?
+◦ What other decisions should you make now to help guide the financing and other choices
+you face?
+▪ Entrepreneurs must make the decisions required to make their ventures desirable
+to them. This includes choosing the right kinds of financing options.
+2. Based on your goals for your business and on the amount of financing you require, identify the most
+desired sources of financing for your venture. You must consider how much control of your business
+you are willing to give up (and when you are willing to give it up), whether you expect to have
+adequate cash flow to be able to handle set obligations like loan payments, what financing sources will
+enable the growth and value accumulation you desire, and a host of other factors you need to consider
+to determine what financing methods will be best for you.
+◦ An ideal business plan (1) is realistic in that it can be carried out, (2) clearly lays out plans
+that make the projected business outcomes desirable to the entrepreneur, and (3) is crafted
+to appeal to targeted investors so that they will provide the amount of money that is needed
+at the times it is needed.
+3. Incorporate the elements needed in your business plan to attract your targeted investors and make them
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 66
+
+want to invest in your company.
+◦ It is not enough to simply identify the most desirable kinds of financing. The planned
+business must be structured in a way that entices targeted investors to invest in the business
+when the investments are needed. If you are seeking a loan, you must include the loan
+payments in the cash flow statement, but you might also need to identify what assets you
+have to pledge as security for the loan. If instead you are hoping to attract an angel investor,
+you should do some research to identify potential investors who have invested in your kind
+of business. Your business plan should then acknowledge the need for an exit strategy for
+angel investors and project how that exit strategy can materialize.
+4. Identify and analyze your venture’s critical success factors by completing what-if analyses on your
+financial spreadsheets. Perform what-if analyses by making copies of your financial spreadsheets and
+changing some key numbers, like sales increase projections, to determine what happens if your
+projections are off. If your venture is particularly vulnerable to the potential effects of changes to
+critical success factors, make needed changes to your goals, strategies, and plans in your business plan
+to reduce your vulnerability to critical success factors changes. Or, adjust your goals, strategies, and
+plans to prepare for any changes that might occur to the critical success factors.
+5. As you do the above, simultaneously adjust your goals, strategies, and plans in the written and
+financial projection parts of your plan until (1) you are satisfied that you are prepared to deal with
+issues that will affect your critical success factors, and (2) your projected cash flow statements, income
+statements, and balance sheets are realistic, consistent with healthy industry norms, and meet realistic
+expectations and aspirations for a healthy business.
+6. Consider including three sets of projected financial statements in your business plan to reflect the
+following scenarios: most likely, optimistic, and pessimistic.
+
+Providing context is essential in making the business plan appeal to various stakeholders.
+
+Financing A Start-up
+Starting Capital
+Entrepreneurs almost always require starting capital to move their ideas forward to the point where they can start
+their ventures. Determining the amount of money that is actually needed is tricky because that requirement can
+change as plans evolve. Other challenges include actually securing the amount desired and getting it when it is
+needed. If an entrepreneur is unable to secure the required amount or cannot get the funding when needed, they
+must develop new plans.
+
+67 • LEE A. SWANSON
+
+Once a venture begins to make cash sales or it starts to receive the money earned through credit sales, it can use
+those resources to fund some of its activities. Until then, it must get the money it needs through other sources.
+Bootstrap financing is when entrepreneurs use their ingenuity to make their existing resources, including money
+and time, stretch as far as possible—usually out of necessity until they can transform their venture into one that
+outside investors will find appealing enough to invest in.
+Personal Money
+Entrepreneurs will almost always have to invest their own personal money into their start-up before others
+will give them any financial help. Sometimes entrepreneurs form businesses as partnerships or as multi-owner
+corporations with other entrepreneurs who also contribute their own personal funds to the venture.
+Love Money
+Love money refers to money provided by friends and family who want to support an entrepreneur, often when they
+have no other ready source of funding after using as much of their own personal money as possible to support
+their start-up.
+Grants and Start-up Prize Money
+In some cases grants that do not need to be repaid might be provided by government or other agencies to support
+new venture start-ups. Sometimes entrepreneurs can enter business planning or similar competitions in which they
+might win money and other benefits, like free office or retail space or free legal or accounting services for a set
+period of time.
+Debt Financing
+From an entrepreneur’s perspective, the cost of debt financing is the interest that they pay for the use of the money
+that they borrow. From an investor’s perspective, their reward, or return on debt financing, is the interest that they
+gain in addition to the return of the money that they lent to an entrepreneur or other borrower.
+To provide some protection for the investor (lender) to enable them to accept an interest rate that is also acceptable
+for the entrepreneur (borrower), the borrower must often pledge collateral so that, if they do not pay back the loan
+along with interest as arranged, the lender has a way to get all or some of the money they are owed. If a borrower
+defaults on a loan, the lender can become the owner of the property pledged as collateral. A key objective for an
+entrepreneur seeking debt financing is to provide sufficient collateral to get the loan, but to not pledge so much
+that they put essential property at risk.
+When entrepreneurs borrow money, they must paid it back subject to the terms of the loan. The loan terms include
+the specific interest rate that will be charged and the time period within which the loan needs to be repaid. There
+are several other terms or features of the loan that can be negotiated between lenders and borrowers. One such
+feature is whether the loan can be converted to equity at a particular point in time and according to certain criteria
+and subject to specific terms.
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 68
+
+Sometimes debt financing can be in the form of trade credit, where a supplier provides product to a business but
+does not require payment for a specific length of time, or perhaps even until the business has sold the product to a
+customer. Another form of debt financing is customer advances. This might involve a customer paying in advance
+for a product or service so that the business has those funds available to use to pay its suppliers.
+Advantages of Debt Financing
+One advantage of debt financing is that the entrepreneur does not sacrifice ownership when they take out a loan
+and lose some control of their venture.
+Another advantage of debt financing is the certainty of the payments the borrower needs to make during the term
+of the loan. If the borrower takes out a loan for $20,000 over a 5-year term at a fixed interest rate of 6.2% with a
+monthly payment schedule designed to pay off the entire loan by the end of its 5-year term, they know that each
+month they must pay $389 and that over the 5 years, they will have paid back the entire $20,000 loan amount plus
+a total of $3,340 in interest. With this certainty, the business can accurately budget its payback amount for this
+loan over the 5 years.
+Yet another advantage of debt financing is that it allows companies to trade on equity. Trading on equity enhances
+the rate of return on common shareholders’ equity by using debt to financing asset purchases or to take other
+measures that are expected to cost less than the earnings generated by the action taken. For example, if a company
+borrows $20,000 at 6.2% interest and uses that money to purchase a machine it will use to increase its return on
+equity by 20%, then it is trading on equity. In this case, the company is financially better off than it would be
+if it had not taken out the loan. Of course, the inherent risk involved with this strategy is lowered when income
+streams are relatively stable.
+Disadvantages of Debt Financing
+A disadvantage of borrowing money is the need to report to those from whom you borrowed the money. This
+might be particularly true when lenders, often bankers, have interests or are subject to incentives that might not
+fully align with those of the borrower. For example, a lender will want assurances that they will get all of the
+money back that they lent, plus all of the interest owed to them during the term of the loan. A start-up entrepreneur,
+however, might struggle to generate the cash flow necessary to pay back all of the money owed according to the
+terms of the agreement.
+Another disadvantage of borrowing is that the business’s ownership of the property it pledged as collateral for
+the loan is placed at risk. For many new ventures, a loan is only possible to acquire if the owner provides their
+personal guarantee that the money will be paid back as determined in the loan agreement, thus putting personal
+property at risk.
+The biggest disadvantage to debt financing for start-up entrepreneurs is that there are a limited number of lenders
+who are interested and able to provide loans to businesses during their early stages.
+
+69 • LEE A. SWANSON
+
+Equity Financing
+From an entrepreneur’s perspective, the cost of equity financing is the loss of some control over their venture as
+they must now share ownership of the business. From an investor’s perspective, their reward for purchasing an
+ownership interest in the business is the potential to share in the business’s anticipated future success by possibly
+receiving dividends (a portion of the profit that is distributed to owners) and by possibly being able to sell their
+ownership interest to another investor (or back to the entrepreneur) for more than the amount they purchased that
+ownership interest for originally.
+The protection for the investor, who might be a shareholder if the ownership interest is represented in the form
+of shares in the business, is in the influence they can exert in the company’s decision-making processes. This
+influence is normally proportionate to their share of the ownership in the overall business. Equity investors
+normally seek to earn a competitive return on their investment that is in line with the level of risk they assume by
+investing in the business. The riskier the investment, the higher the return the investor expects.
+The following are some potential sources of equity financing for start-up entrepreneurs.
+Equity Crowdfunding
+Equity crowdfunding is a relatively new way for entrepreneurs to raise capital. This involves using online methods
+to promote equity interests in ventures to potential investors.
+Angel Investors
+Angel investors are wealthy individuals who on their own or often along with other angel investors in a
+network—like the Saskatchewan Capital Network—invest in new ventures in exchange for an ownership interest
+in the business. Sometimes angels invest in companies in exchange for convertible debt, an investment that starts
+off as a loan, usually in the form of a bond, that they can exercise as an option to convert to an equity interest in
+the company at a particular point in time for a pre-determined number of shares. Angel investors are generally less
+restricted in what kinds of investments they will consider than are venture capitalists, who are using other people’s
+pooled money. Like venture capitalists, however, they normally undertake a rigorous due diligence process to
+determine whether to invest in the opportunities they are considering.
+Venture Capital
+Venture capital is raised when investors pool their money. The venture capital fund is then used to very carefully
+invest in existing but usually young companies that are expected to experience high growth. The venture capital
+company does not expect to invest for long and it expects to generate a large return. For example, it might expect
+to invest in an opportunity for a period of up to five years and then get out of the investment with five times the
+money it originally invested. Of course, only some investment opportunities will generate the returns hoped for
+and others will return far less than expected.
+Venture capitalists might exert some ownership control by influencing some business decisions in cases where
+they believe that by doing so they can protect their investment or cause the investment to produce greater returns,
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 70
+
+but they generally prefer to invest in companies that are going to be well-run and will not require them to be
+involved in decisions. Venture capitalists might also provide some assistance, such as business advice, to the
+companies in which they invest.
+A venture round refers to a phase of financing that institutional investors like venture capitalists provide to
+entrepreneurs. The first phase (sometimes following a seed round in which entrepreneurs themselves provide
+the start-up capital and then an angel round where angel investors invest in the company) is called Series A.
+Subsequent venture rounds are called Series B, Series C, and so on.
+In general, because venture capitalists normally invest money contributed by investors and have an obligation to
+assume a limited amount of risk, they usually do not invest in start-up companies.
+Due Diligence
+Investors follow due diligence processes to assess the risk and potential return associated with the investments
+they are considering. As such, entrepreneurs should maintain a due diligence file that they can quickly draw upon
+when a desirable potential investor expresses an interest in their venture.
+A due diligence file will include copies of many of the legal papers and other important documents that a
+venture has accumulated and that tell the story of the enterprise. These documents will include those related
+to incorporation, securities it has issued or is in the process of issuing, loans, important contracts, intellectual
+property documents, tax information, financial statements, and other important documentation.
+Advantages of Equity Financing
+One important benefit to equity financing is that it does not normally require a regular payback from cash flow.
+Unlike with debt financing, equity investments do not usually give rise to a regular encumbrance that can increase
+the difficulty a young company might have in meeting its regular monthly expenses.
+Second, when a firm uses equity financing, it does not need to pledge collateral, which means that the company’s
+assets are not placed at risk.
+Another potential advantage with equity financing is that, depending upon the form of financing and who the
+investors are, a firm might gain valued advisers. In addition, investors who exercise their ownership rights to
+have a say in the operations of the company, or who otherwise provide advice and mentorship to entrepreneurs
+starting ventures, are usually highly motivated to help the company succeed. Investors expect to benefit only
+when the companies they invest in succeed, meaning that their financing incentives are aligned with those of the
+entrepreneur and other owners.
+Disadvantages of Equity Financing
+Equity financing is often more difficult to raise than debt financing. Second, when they share ownership in
+exchange for investment into their business, entrepreneurs give up a portion of the value that they create. If things
+do not go as planned, entrepreneurs can lose control of their companies to their investors.
+
+71 • LEE A. SWANSON
+
+Overview of Potential Sources of Start-up Financing
+• Personal sources (savings and other income) contributed by the business founders
+• Extended personal sources (family, friends, employees, partners)
+• Strategic partners, including potential customers or potential suppliers who want to have access to a
+business like the one proposed (and therefore might fund part of its development). For example, a
+building owner (supplier) might help a business develop that it considers to be a desirable tenant.
+Another example is when a complementary business, like a hotel, invests in a start-up, like a spa
+located next door, that might attract more business.
+• Business Development Bank of Canada (BDC) and other institutions that specialize in supporting
+entrepreneurs
+◦ BDC calls itself “Canada’s business development bank and the only financial institution
+dedicated exclusively to entrepreneurs” (Business Development Bank of Canada, 2016, p.
+1).
+◦ Among the services provided by BDC is start-up financing for new ventures. They provide
+funding for the following:
+▪ Working capital to supplement an existing line of credit
+▪ Fixed assets
+▪ Fund marketing and start-up fees
+▪ A franchise purchase
+▪ Consulting services
+(Business Development Bank of Canada, 2016)
+• Angel investors
+• Customers (possibly)
+◦ They might place orders for services or products and pay for them up-front, thereby
+providing financing for the new business
+◦ They might want your business to succeed so it can support their business. For example, a
+general contractor (future customer) might help a new plumber get started if there is a
+shortage of plumbers affecting the building industry in the contractor’s community
+• Venture Capitalists (possibly)
+◦ These organizations acquire pools of money to invest, so they differ from angel investors in
+that those making the decisions are not investing their own money—this means they usually
+consider investment options that have shown some success already (which isn’t usually the
+case in the start-up phase)
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 72
+
+• Asset-Based Lenders (possibly)
+◦ Lend money secured by the assets of the borrower, like the plant and equipment
+◦ Sometimes this can be done quite creatively. For example, they might accept assets that will
+turn into money—like accounts receivable and inventories—as security to back up a loan.
+• Small Business Investment Companies (SBICs)
+◦ An American idea developed to bridge the gap between when small businesses need money
+and the time when venture capitalists might provide financing to small businesses
+◦ SBICs are privately owned companies in the United States that are licensed by the Small
+Business Administration (U.S. Government) to supply equity capital, longterm loans, and
+management assistance to qualifying small businesses
+◦ The Canadian equivalent is the Community Futures Corporations
+• Equipment Leasing Companies
+• Suppliers through Trade Credit (possibly)
+◦ The supplier provides product now without demanding immediate payment
+◦ This supplier will provide the product to the retailer on terms so the retailer does not need to
+pay the supplier for perhaps 30 or 60 or 90 days
+◦ The retailer then can sell the product and collect the money from the customer before the
+retailer needs to pay supplier for it
+• Factoring (possibly)
+◦ When a business sells its accounts receivable (its invoices) to a third party (called a factor) at
+a discount in exchange for immediate money
+◦ Differs from bank loan in three ways:
+▪ The factor is interested in the value of the receivables; a bank is interested in the
+firm’s credit worthiness
+▪ Factoring is not a loan: it is the purchase of a financial asset (the receivables)
+▪ A bank loan involves two parties (lender and borrower); factoring involves three
+(the business, the factor, and those who owe the money)
+
+Chapter Summary
+After developing a first draft of a business plan, an entrepreneur will inevitably need to make some major
+adjustments to the business model and to the plans they developed to make it realistic. After that, the entrepreneur
+needs to shift their attention to maintaining and potentially further improving the realism of the plan while making
+it desirable to the entrepreneur and appealing to targeted investors. Part of this exercise is deciding upon the best
+
+73 • LEE A. SWANSON
+
+type of financing that is available to the entrepreneur (if any) to ensure that they can meet their longer term goals
+for their business. This chapter also described some of the sources of financing available to start-ups.
+
+Chapter 7 – Finishing the Business Plan
+
+Learning Objectives
+
+After completing this chapter, you will be able to
+• Develop the final draft of the business plan
+
+Overview
+The previous stages of business plan development focused on helping the business plan writer (1) start on the plan,
+(2) develop a reasonably complete and comprehensive first draft of the plan by focusing on developing the initial
+story without obsessing about its realism, (3) convert that into a second draft by adding realism, and (4) develop
+a third draft by preserving the realism and making needed changes designed to make the plan appealing to the
+entrepreneur and desirable to targeted investors. This stage is where the business plan writer puts the finishing
+touches on the plan to prepare it for use.
+
+75 • LEE A. SWANSON
+
+Figure 12 – Finishing the Business Plan (Illustration by Lee A. Swanson)
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 76
+
+First Things Last
+Finalize Major Goals
+As contradictory as it might sound, it is only after the business plan is almost finished that the Major Goals section
+near the start of the plan should be completed. Replace the preliminary goals you have in that section with a
+limited set of goals, perhaps five to ten, which perfectly describe the outcomes you projected in certain sections of
+your plan. Write goals that will further improve the appeal of your plan for targeted investors and other important
+potential readers.
+Your major goals should be substantive and relevant. They should also be written using a format designed
+to maximize their impact for targeted readers. The RUMBA formula (realistic, understandable, measurable,
+believable, and achievable) provides a useful guideline for developing major goals. The following is an example
+of a relevant major goal that follows that formula:
+We will secure a $56,050 short-term loan in September, 2020, to finance inventory purchases needed to
+satisfy our projected increase in Christmas sales that year.
+Write your Executive Summary
+The last part of your business plan that you should write is the Executive Summary. Unlike most other types of
+documents, the executive summary at the start of a business plan can be up to about three pages in length.
+As the executive summary might be the first section that targeted readers go through, it must be written to appeal
+to them. It should provide those readers with information that will encourage them to seriously consider taking the
+desired action, like investing in the venture. If they are not interested by the contents of the executive summary,
+they will not likely read any other part of the plan, and they won’t act—usually by investing in the business—as
+the business plan writer hopes they will.
+
+Polish it Up!
+Thoroughly proofread the completed business plan and fix all errors before submitting it to anyone. It is usually
+best to have other people proofread your work as they will catch errors that you will miss.
+Never underestimate the negative consequences that can occur from distributing poor quality work.
+
+Write A Letter of Transmittal
+A letter of transmittal is to a business plan what a cover letter is to a resume. A letter of transmittal should briefly
+introduce the business plan accompanying it to the intended recipient and persuasively, but briefly, communicate
+the reasons why they should read it.
+
+77 • LEE A. SWANSON
+
+Chapter Summary
+After all of the hard work involved with developing a high-power business plan, it must be finished properly to
+have the intended impact with its targeted readers. Before distributing it to targeted investors and other recipients,
+a limited number of major goals should be included in the Major Goals section near the start of the plan. Those
+goals should be carefully crafted to appeal to intended readers. The final writing task is to develop an executive
+summary that will entice targeted readers to examine the rest of the plan in detail for the purpose of deciding
+whether to potentially take the action—usually to invest in the venture—desired by the business plan writer. After
+that, the plan should be thoroughly proofread and revised to ensure that all errors are eliminated before the plan is
+used. After writing a customizedletter of transmittal to introduce the plan, it can be put to use.
+
+Chapter 8 - The Business Plan Pitch
+
+Learning Objectives
+
+After completing this chapter, you will be able to
+• Deliver an effective business plan pitch
+
+Overview
+Writing a good business plan will only get an entrepreneur so far. To achieve their goals, they must be prepared
+to pitch their plan effectively to targeted investors and other potential stakeholders. These are sometimes called
+elevator pitches because an entrepreneur should be prepared to effectively deliver one in the length of time it
+takes to ride up a few floors in an elevator with a potential investor. The goal of a pitch is not to fully describe a
+business idea, but to be able to convince a potential investor in five minutes or less that they should meet with the
+entrepreneur further to learn more about the idea because they might want to invest in it.
+
+Your business plan pitch must be focused on what your targeted audience and business plan readers need to
+know. Usually your pitch will be designed to capture a potential investor’s interest so that they will want to talk to
+you about investing in your venture. In that case, your pitch should follow a process similar to the one described
+next.
+Avoid the trap of telling the potential investors too much about how your business works. Instead, spend your time
+telling them what they need to know to become interested enough to possibly invest in your venture. That means
+allocating your time almost equally on each of the following elements of your pitch script.
+1. Describe the market problem that your venture solves
+◦ The problem you solve should be for an identifiable group of people or organizations who
+recognize that they have a problem and are willing to spend their money for a solution to the
+
+79 • LEE A. SWANSON
+
+problem.
+2. Describe how your venture solves the problem
+◦ Your solution should be better than the alternative solutions offered by your competitors or
+by those who suffer from the problem. It should also be a solution that cannot or will not be
+readily copied by existing or new competitors.
+3. Explain how and why you and your venture are capable of solving the problem while also generating a
+profit
+◦ Your chances of being considered capable of delivering what you promise are enhanced if
+you have a strong team, relevant experience, or access to scarce or unique resources or
+networks.
+4. Explain why you need the financing and anything else you want from the potential investors, like their
+expertise or access to their networks
+◦ Your opportunities to get the financing you need improve when you can show that the money
+will increase your capacity to achieve what you promise.
+5. Describe why the investors should invest in your venture
+◦ Potential investors want to know how and when they will get their investment back and how
+much of a return they will earn on their money. You should be able provide them with an
+estimate of how much your venture is worth and will be worth in the future while telling
+them what that means for them.
+
+Solving a market problem is a winning formula, so demonstrate how the business solves a problem and makes
+money makes for a strong pitch.
+Providing context for individual investors and stakeholders is critical for their buy-in.
+
+Chapter Summary
+A simple five step business plan pitch format has five steps. When entrepreneurs have a chance to engage with
+targeted investors, they usually have a limited amount of time to convince those investors to consider their
+investment opportunity. The purpose of the business plan pitch is to capture the attention and interest of targeted
+investors within a very short time. A successful pitch should result in an invitation by the investor for the
+entrepreneur to provide more information about the business because they might want to invest in it.
+
+References
+
+Barney, J. B. (1997). Gaining and sustaining competitive advantage. Reading, MA: Addison-Wesley.
+Barney, J. B., & Hesterly, W. S. (2006). Strategic management and competitive advantage: Concepts and cases.
+Upper Saddle River, NJ: Pearson/Prentice Hall.
+Business Development Bank of Canada. (2016a). Start-up financing. Retrieved from https://www.bdc.ca/en/
+about/who-we-are/pages/default.aspx
+Business Development Bank of Canada. (2016b). Who we are. Retrieved from https://www.bdc.ca/en/about/
+who-we-are/pages/default.aspx
+Chatterjee, S. (2013). Simple rules for designing business models. California Management Review, 55(2),
+97-124.
+Hindle, K., & Mainprize, B. (2006). A systematic approach to writing and rating entrepreneurial business plans.
+The Journal of Private Equity, 9(3), 7-23.
+Magretta, J. (2002). Why business models matter. Harvard Business Review, 80(5), 86-92.
+Osterwalder, A., Pigneur, Y., & Clark, T. (2010). Business model generation: A handbook for visionaries, game
+changers, and challengers. Hoboken, NJ: Wiley.
+Porter, M. E. (1985). Competitive advantage: Creating and sustaining superior performance. New York: Free
+Press.
+Porter, M. E. (1996). What is strategy? Harvard Business Review, 74(6), 61-78.
+Ries, E. (2011). The lean startup: How today’s entrepreneurs use continuous innovation to create radically
+successful businesses. New York: Crown Business.
+Vesper, K. H. (1996). New venture experience (revised ed.). Seattle, WA: Vector Books.
+
+Appendix A – Business Plan Development Checklist
+and Project Planner
+
+Essential Initial Research
+Societal Level
+• Apply a PESTEL analysis to learn about the overall factors that might affect your business concept
+Industry Level
+• Apply a Porter’s (1985) Five Forces Model analysis to examine the particular industry in which you
+intend to operate
+Market Level
+• Apply a market-level analysis by answering a set of questions about the particular market within your
+chosen industry in which your business will reside
+Firm Level
+• Apply a SWOT Analysis/TOWS Matrix to formulate and evaluate potential strategies
+• Apply a VRIO Framework Analysis to analyze a firm’s strategy
+• Analyze founder fit with venture idea
+• To analyze financial attractiveness,
+◦ compare estimates for proposed venture to what is known about similar firms in the
+particular industry and market in which the venture will operate
+◦ analyze the firm’s projected margins (if possible)
+◦ do a break-even analysis (if possible)
+◦ do a pro forma analysis (if possible; requires pro forma financial statements)
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 82
+
+◦ do a sensitivity analysis (if possible)
+◦ do return-on-investment (ROI) projections (if possible)
+◦ determine the projected operating capacity of the venture and at how much of that capacity
+the firm will operate at certain time intervals until it reaches full capacity (if possible)
+◦ if possible and relevant, estimate the share of the market that the venture might capture and
+when it might reach various levels of market share
+▪ Note: projected operating capacity is often a more relevant concern than market
+share
+
+The Business Model
+• Use the Business Model Canvas or a similar tool to describe and analyze the proposed venture’s
+business model
+
+Initial Business Plan Draft
+Create Your Template
+• Prepare a template by using the business plan outline to create headings in Word from which to later
+automatically generate a table of contents
+Insert Work from Essential Initial Research and The Business Model into The Business Plan Draft
+There are two ways to include the results from your societal, industry, market, and firm-level analyses in your
+business plan. The best choice is usually to disburse the relevant parts of those analyses throughout the entire
+plan to support the decisions and strategies outlined in the plan. An alternative choice is to include the results
+from all or some of the relevant parts of those analyses as their own sections in the business plan. The first option
+tends to strengthen the business plan more than the second because it explicitly ties your analyses to the decisions
+influenced by those analyses.
+• Integrate the relevant and important results from your societal-, industry-, market-, and firm-level
+analyses into your plan, either as distinct sections of the plan or embedded into the other sections to
+support the outlined decisions and strategies
+• Ensure that all analyses are fully and properly referenced in the business plan to establish and ensure
+your and your plan’s credibility as an entrepreneur and to meet ethical requirements to cite the sources
+for the information used
+• Avoid harming your plan’s credibility by failing to indicate the sources for all of the information you
+include. Whenever you make an assumption that you should later replace with a factual or expertlybased statement or number, flag the assumption by using a distinctly coloured font.
+
+83 • LEE A. SWANSON
+
+During the second stage of business plan development, you develop your business model. As no separate section
+in a business plan specifically describes a business model, you need to incorporate your business model elements
+into the plan wherever they fit best. Where the business model elements fit into a business plan will usually be
+fairly self-evident. The important thing is to ensure that all of the elements of your business model are reflected
+in your business plan.
+• Include each element of your business model in the appropriate parts of your business plan
+Fill in All of the Sections of the Business Plan Draft
+Draft Introduction
+• Write the following sections:
+◦ a brief description of your business concept
+◦ a brief description of the purpose for your business idea
+◦ a brief history and description of the evolution of the business concept
+◦ a vision
+◦ a mission
+◦ a values statements
+◦ a first draft set of goals
+Draft Operations Plan
+• Write an operations plan
+• Ensure that all numbers included in the operations plan are
+◦ sourced so a reader knows from where it came,
+◦ explained so they know how it was calculated, or
+◦ flagged as being an estimate that will be replaced with a true number with a source
+Draft Human Resources Plan
+• Write a human resources plan
+• Ensure that you show how you will earn a living while starting the business
+• Ensure that all numbers included in the human resources plan are
+◦ sourced,
+◦ explained, or
+◦ flagged as being an estimate that will be replaced with a true number with a source
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 84
+
+Draft Marketing Plan
+• Write a marketing plan
+• Ensure that all numbers included in the marketing plan are
+◦ sourced,
+◦ explained, or
+◦ flagged as being an estimate that will be replaced with a true number with a source
+Draft Financial Plan
+• Plan how you will back up every number through one or both of the following:
+◦ Explanations in the body of your plan, maybe along with your schedules, or
+◦ Notes included with your financial statements
+• Only insert a number for a particular item once and flag this cell
+◦ Very few numbers in your projected financial statements should be input directly and each
+directly inputted number should be flagged using cell shading or another means so it is easier
+to fix any errors in the statements.
+• Whenever a number is required more than once, ensure it transfers forward by formula only
+• Prepare all of the following schedules (if applicable) that you will need to feed numbers into your
+projected cash flow statements:
+◦ Sales schedule, if you will sell more than one product
+◦ Project schedule
+◦ Cash from sales schedule, cash from receivables schedule, and accounts receivable schedule
+◦ Cash purchase schedule, credit purchase schedule, and accounts payable schedule
+◦ Credit card collections schedule, if you will need to calculate your costs for accepting credit
+card payments from customers (you can normally consider credit card payments as cash
+payments in your cash flow statement)
+◦ Inventory schedules
+◦ Start-up cost schedule
+◦ Capital cost allowance schedule or depreciation schedule
+◦ Payroll schedule
+◦ Operating loan schedule
+◦ Term loan schedule, especially if you may make extra payments toward it before the term
+expires
+
+85 • LEE A. SWANSON
+
+◦ Promotions schedule, if you expect to use several promotional methods
+◦ Prepayment schedule, if you expect to prepay insurance and similar expenses
+◦ Other schedules that are needed
+• Prepare projected cash flow statements
+• Input the numbers from your schedules by formula into the projected cash flow statements. You might
+also discover the need to develop a schedule after you have first tried inputting the numbers directly
+into the projected cash flow statements.
+• Ensure that the written part and the financial part tell exactly the same story using the exact same
+numbers and sources.
+◦ Note: you will almost certainly have to estimate some numbers while preparing the projected
+cash flows. Immediately upon estimating the numbers, go to the written part of your plan
+and include them there.
+• Prepare your projected income statements and projected balance sheets by formula only
+• Calculate your taxes owing and feed these back into your projected cash flow statement
+• Calculate your retained earnings
+• Correct your statements until your balance sheet balances
+
+Making the Business Plan Realistic
+At this stage, your projected financial statements in your draft business plan are almost guaranteed to be
+unrealistic and undesirable. Your projected cash balances and profit levels will be unrealistic, either too high or
+too low. The original amounts you had planned to invest in your business or to acquire through investors will
+probably be inadequate. In general, your draft plan will have many weak areas and many holes to fill, but it should
+provide you with a great foundation upon which to build a realistic and desirable business plan.
+The purpose of this stage is to make your business realistic. You do this by adjusting your proposed business
+model and your plans and strategies as presented in both the written and financial parts of your plan.
+• Replace as many of the assumptions (those items flagged with a distinctly coloured font) as possible
+with factual and expert information and numbers while always indicating the sources for the new
+information and numbers
+• Review and revise the sales projections to make them more realistic by comparing the projections to
+industry norms and available comparative data with similar companies. Review and revise as
+necessary both the sales projections model used and the assumptions fed into the model to generate the
+monthly sales figures.
+• Decide what the appropriate range of end-of-month cash balances is for your type of business
+• Eliminate any negative end-of-month cash balances by taking steps to turn each of these into positive
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 86
+
+numbers that fall within your target range by adjusting one or more of the following:
+◦ Planned loan amounts (operating and/or term loan amounts)
+◦ Planned owner investment amounts (or draw from built-up investment accounts)
+◦ Planned amounts in schedules (increase prices, increase sales amounts, decrease expenses)
+• An excessive cash balance at the end of a month indicates poor cash management practices. Eliminate
+any excessive end-of-month cash balances by reducing each of these numbers so they fall within your
+target range by doing one or more of the following:
+◦ Use the excess money to generate more profits (expand your business, purchase an asset you
+need, etc.)
+◦ Use the excess money to pay down operating loans (and possibly term loans)
+◦ Invest the excess money in financial investments
+◦ Distribute some of the cash as dividends or owner draws
+◦ Adjust planned amounts in schedules (decrease prices, decrease sales amounts, increase
+expenses)
+• Simultaneously adjust your goals, strategies, and plans in your written and financial projections of
+your plan to make your projected financial statements realistic
+• Analyze your projected financial statements and develop plans to correct the elements that are
+unrealistic and undesirable
+◦ For example, if your planned start-up financing is too high to be realistic, you might choose
+to downscale some elements
+▪ On the expense side, you might plan to start with a smaller facility, fewer
+employees, less inventory, and different advertising methods. On the revenue side,
+you might project lower sales because of your smaller facility, fewer employees,
+and so on.
+▪ You might also plan to finance some of your expansion through retained earnings
+rather than by taking out a large initial loan or by giving up a higher amount of
+ownership to an investor.
+• Continually adjust the written and financial sections of your draft plan to reflect your new goals,
+strategies, and plans. This will be an iterative process since everything is connected and each change
+will have a ripple effect throughout your plan.
+• Adjust the amounts in your schedules to reflect your planned changes (increase prices, increase sales
+amounts, decrease expenses)
+• Use a series of ratio analyses as you incorporate your new goals, strategies, and plans
+• Continually compare your ratios to industry average ratios
+
+87 • LEE A. SWANSON
+
+• Continually compare your ratios to what is expected and desirable for a business like yours
+• Continually adjust the written and the financial parts of your plan until your ratios are desirable and
+realistic relative to industry standards
+
+Making the Business Plan Appeal to Stakeholders and Desirable to the Entrepreneur
+You should now have a second full draft of your business plan. It should be much more realistic than your first
+draft, but is it unlikely to be desirable to you as an owner or appealing to your potential investors. The purpose of
+this stage is to retain, and possibly improve, the realism of your plan while making it desirable and appealing.
+• Determine your medium- and longer- term goals for your business as they relate to what you want to
+get out of it
+◦ Based on your goals and on the amount of financing you require, identify the most desired
+sources of financing for your venture and incorporate those into your plan to indicate how
+you will meet your financing needs
+• As you fulfill the following requirements, incorporate all of the needed elements in your business plan
+to attract your targeted investors and make them want to invest in your company
+• As you identify and analyze your critical success factors by completing what-if analyses on your
+financial spreadsheets, continue to simultaneously adjust your goals, strategies, and plans in your
+written and financial projections until
+◦ you are satisfied that you are prepared to deal with issues that will affect your critical success
+factors, and
+◦ your projected cash flow statements, income statements, and balance sheets are realistic,
+consistent with healthy industry norms, and meet realistic expectations and aspirations for a
+healthy business
+• Use a copy of your spreadsheets and change some key numbers to see what happens
+◦ For example, you might discover that you are particularly vulnerable if your sales end up
+being less than you had expected (and/or challenged if sales end up being higher than
+expected). Sales levels, then, is one critical success factor.
+• Determine what the impact would be on your business if the critical success factors are impacted in a
+way you had not planned on
+◦ For example, when you examine sales as a critical success factor, you might discover that if
+sales are 3% less than you had planned (maybe because of an economic downturn or the
+emergence of a new competitor), your entire profits evaporate
+◦ It might also be true that you will run into cash flow or capacity problems if your sales end
+up being higher than you are planning for
+• Decide whether you need to make adjustments to your goals, strategies, and plans in your business
+
+BUSINESS PLAN DEVELOPMENT GUIDE • 88
+
+plan to reduce your vulnerability to changes to the critical success factors, or whether you can instead
+adjust your goals, strategies, and plans to prepare for any changes that might occur to the critical
+success factors
+◦ For example, you might decide to change the pricing, distribution, and promotions strategies
+in your business plan so that you would still break even if your sales levels were 8% less
+than expected
+◦ Alternatively, instead of changing your marketing strategy in your plan, you could describe
+sales levels as a critical success factor and include a description of how and at what point
+you will implement another strategy if sales levels are not as expected, and describe what
+your strategy is
+• Decide how to present your analysis of your critical success factors
+• If appropriate for your business, you can include three sets of projected financial statements in your
+business plan: most likely, optimistic, and pessimistic
+
+Finishing the Business Plan
+• Revise your goals section to ensure the included goals will best meet your purposes and will resonate
+with your target readers
+◦ Note: your goals will have changed dramatically between when you first wrote them and
+how they should look once the plan is completed. Although not required, it can be effective
+to follow each goal with a note about where in the plan your strategies are located for
+achieving that goal.
+• Write your executive summary
+• Proofread to ensure that the written and financial parts of the plan are completely consistent
+• Proofread to remove spelling, grammar, formatting, calculation, or other errors
+◦ If required, have a skilled proofreader complete this task for you or with you
+• Write a letter of transmittal and later customize it for targeted readers
+
+Prepare to Pitch and Present your Business Plan
+• Prepare and practice your pitch. Be clear on why you are pitching your plan and customize it to meet
+those goals
+• Prepare a presentation using a tool like PowerPoint to use if you are asked to more formally present
+your plan
+• Always have business cards with you to give to those who express an interest in your business and
+who you want to connect with later
+
+Appendix B - Business Plan Template
+
+Click the following link to access the Business Plan Template. If it doesn’t open, please try another browser.
+Business Plan Template
+
+Appendix C - Business Plan Excel Template
+
+Click the following link to access the Business Plan Excel Template. If it doesn’t open, please try another browser.
+Business Plan Excel Template
+
+
