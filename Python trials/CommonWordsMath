@@ -15,11 +15,11 @@ for linea in fileinput.input(archivos, openhook=fileinput.hook_encoded("utf-8"))
         # Files name
         book = fileinput.filename()
 
-        Busi_1 = open(book, encoding="utf-8").read()
+        Soci_1 = open(book, encoding="utf-8").read()
 
-        Busi1 = nltk.word_tokenize(Busi_1)
+        Soci1 = nltk.word_tokenize(Soci_1)
 
-        Busi1=[w.lower() for w in Busi1 if w.isalpha()]
+        Soci1=[w.lower() for w in Soci1 if w.isalpha()]
 
         stop_words = set(stopwords.words('english'))
 
