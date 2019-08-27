@@ -18,7 +18,6 @@ def interseccion(lista) :
     inter = []
     for i in range(len(lista)) :
         inter = list(set(inter) & set(lista[i]))
-        print(inter)
     return inter
 
 # Toma cualquier nombre del libro con comienzo "Busi_" y terminación ".txt"
@@ -27,7 +26,7 @@ archivos.sort()
 training = []
 words_list = []
 for i in range(20) :
-    training.append(archivos[1])
+    training.append(archivos[i])
     
 for linea in fileinput.input(training, openhook=fileinput.hook_encoded("utf-8")):
     if fileinput.isfirstline():
@@ -59,11 +58,11 @@ for linea in fileinput.input(training, openhook=fileinput.hook_encoded("utf-8"))
         filtered_book = [w for w in filtered_book if not w in single_character]
 
         filtered_book_dist = nltk.FreqDist(w.lower() for w in filtered_book)
-        most_common_words = filtered_book_dist.most_common(10)
+        most_common_words = filtered_book_dist.most_common(100)
         
         words_list.append(most_common_words)
         #print(filtered_book, '\n')
-        print("\n\nLibro:", book, "Frecuentes:", most_common_words)
+        #print("\n\nLibro:", book, "Frecuentes:", most_common_words)
 
 #Separar las palabras mas frequentes sin tomar en cuenta sus distribuciones
 #La lista common_words_lists contiene las 20 listas de palabras (una por cada
@@ -71,7 +70,7 @@ for linea in fileinput.input(training, openhook=fileinput.hook_encoded("utf-8"))
 common_words_lists = []
 for i in range(20) :
     words = []
-    for j in range(10) :
+    for j in range(100) :
         words.append(words_list[i][j][0])
     
     common_words_lists.append(words)
