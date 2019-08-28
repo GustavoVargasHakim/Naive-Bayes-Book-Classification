@@ -20,7 +20,7 @@ def join(lista) :
         union = list(set(union).union(set(lista[i])))
     return union
 
-# Toma cualquier nombre del libro con comienzo "Busi_" y terminación ".txt"
+# Toma cualquier nombre del libro con comienzo "Math_" y terminación ".txt"
 archivos = glob.glob("../Math books/training/Math_*.txt")
 archivos.sort()
 training = []
