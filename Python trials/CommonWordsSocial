@@ -79,3 +79,14 @@ for i in range(20) :
 #Encontrar las uniones entre todas las listas de palabras mas frecuentes
 #entre los N libros considerados
 palabras = join(common_words_lists)
+
+#Se desean tomar unicamente las primeras 20 palabras 
+features = []
+for i in range(20) :
+    features.append(palabras[i])
+
+#Guardar la lista de features en un archivo de valores separados por comas (csv)
+with open('Social_features.csv', 'wt') as f:
+    csv_writer = csv.writer(f)
+ 
+    csv_writer.writerow(features)
