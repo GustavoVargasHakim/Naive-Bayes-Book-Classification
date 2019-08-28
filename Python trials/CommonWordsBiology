@@ -53,7 +53,7 @@ for linea in fileinput.input(training, openhook=fileinput.hook_encoded("utf-8"))
                               'ω', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N',
                               'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Ω', 'Ψ', 'Σ', 'Π',
                               'Ξ', 'Λ', 'Θ', 'Δ', 'Γ', 'aβ', 'aβj', 'βj', 'gf', 'pn', 'bp', 'zp',
-                              'bch', 'http://', 'http', 'xm','µx', 'also', 'url','ª', 'solu', 'equa')
+                              'bch', 'http://', 'http', 'xm','µx', 'also', 'url','ª', 'solu', 'equa', 'https')
 
         filtered_book = [w for w in filtered_book if not w in single_character]
 
@@ -78,3 +78,14 @@ for i in range(20) :
 #Encontrar las uniones entre todas las listas de palabras mas frecuentes
 #entre los N libros considerados
 palabras = join(common_words_lists)
+
+#Se desean tomar unicamente las primeras 20 palabras 
+features = []
+for i in range(20) :
+    features.append(palabras[i])
+
+#Guardar la lista de features en un archivo de valores separados por comas (csv)
+with open('biology_features.csv', 'wt') as f:
+    csv_writer = csv.writer(f)
+ 
+    csv_writer.writerow(features)
