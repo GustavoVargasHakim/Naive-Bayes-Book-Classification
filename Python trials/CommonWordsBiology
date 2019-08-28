@@ -20,7 +20,7 @@ def join(lista) :
         union = list(set(union).union(set(lista[i])))
     return union
 
-# Toma cualquier nombre del libro con comienzo "Busi_" y terminación ".txt"
+# Toma cualquier nombre del libro con comienzo "biology_" y terminación ".txt"
 archivos = glob.glob("../Biology/training/biology_*.txt")
 archivos.sort()
 training = []
@@ -33,15 +33,15 @@ for linea in fileinput.input(training, openhook=fileinput.hook_encoded("utf-8"))
         # Files name
         book = fileinput.filename()
 
-        Math_1 = open(book, encoding="utf-8").read()
+        Biology_1 = open(book, encoding="utf-8").read()
 
-        Math1 = nltk.word_tokenize(Math_1)
+        Biology1 = nltk.word_tokenize(Biology_1)
 
-        Math1=[w.lower() for w in Math1 if w.isalpha()]
+        Biology1=[w.lower() for w in Biology1 if w.isalpha()]
 
         stop_words = set(stopwords.words('english'))
 
-        filtered_book = [w for w in Math1 if not w in stop_words]
+        filtered_book = [w for w in Biology1 if not w in stop_words]
 
         single_character = ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'eg',
                               'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'y', 'z', 'σi', 'σn',
