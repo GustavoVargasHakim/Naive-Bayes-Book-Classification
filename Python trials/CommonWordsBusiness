@@ -12,6 +12,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
 import fileinput
 import glob
+import csv
 
 #Funcion para unir listas
 def join(lista) :
