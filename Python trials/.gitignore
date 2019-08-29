@@ -1,3 +1,4 @@
 # Ignora archivos .csv
 
+*.bat
 *.csv
