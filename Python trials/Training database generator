@@ -1,0 +1,227 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Aug 28 19:49:21 2019
+
+@author: gustavo + clemente
+"""
+import nltk
+import string
+from nltk.corpus import stopwords
+from nltk.tokenize import RegexpTokenizer
+import fileinput
+import glob
+import csv
+
+'''Preprocessing characteristics'''
+stop_words = set(stopwords.words('english'))
+delete_words = ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'eg',
+                'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'y', 'z', 'σi', 'σn',
+                'α', 'β', 'βn', 'xn', 'αv', 'ν', 'ϕ', 'ba', 'ip', 'fi', 'kr', 'fr', 'ij',
+                'bd', 'nj', 'ac', 'bd', 'hk', 'gc', 'xg', 'dn', 'bi', 'mn', 'αu', 'hg',
+                'zn', 'nth', 'mmc','gcd', 'cd', 'ub', 'di', 'ad', 'ab','gh', 'στ', 'σ', 'ai',
+                'cis', 'abab', 'aabb', 'id', 'sn', 'ax', 'bx', 'αn','px', 'acr', 'bcs', 'hn',
+                'kx', 'ζ', 'η', 'θ', 'κ', 'λ', 'μ', 'ξ', 'ρ', 'τ', 'φ', 'χ', 'ψ',
+                'ω', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N',
+                'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Ω', 'Ψ', 'Σ', 'Π',
+                'Ξ', 'Λ', 'Θ', 'Δ', 'Γ', 'aβ', 'aβj', 'βj', 'gf', 'pn', 'bp', 'zp',
+                'bch', 'http://', 'http', 'xm','µx', 'also', 'url','ª', 'solu', 'equa')
+
+'''Validation paths'''
+v_math_path = "../Math books/validation/Math_*.txt"
+v_t_bio_path = "../Biology books/validation/biology_*.txt"
+v_law_path = "../Law books/validation/Law_*.txt"
+v_busi_path = "../Management books/validation/Busi_*.txt"
+v_soci_path = "../Social Sciences books/validation/Soci_*.txt"
+v_lit_path = "../General literature books/validation/literature_*.txt"
+
+'''Training paths'''
+t_math_path = "../Math books/training/Math_*.txt"
+t_bio_path = "../Biology/training/biology_*.txt"
+t_law_path = "../Law books/training/Law_*.txt"
+t_busi_path = "../Management books/training/Busi_*.txt"
+t_soci_path = "../Social Sciences books/training/Soci_*.txt"
+t_lit_path = "../General literature books/training/literature_*.txt"
+
+'''Preprocessing the books'''
+
+#Reading training books
+math_t = glob.glob(t_math_path)
+bio_t = glob.glob(t_bio_path) 
+law_t = glob.glob(t_law_path)
+busi_t = glob.glob(t_busi_path)
+soci_t = glob.glob(t_soci_path)
+lit_t = glob.glob(t_lit_path)
+
+math_t.sort()
+bio_t.sort()
+law_t.sort()
+busi_t.sort()
+soci_t.sort()
+lit_t.sort()
+books = [math_t, bio_t, law_t, busi_t, soci_t, lit_t]
+
+#Cleansing books
+clean_math_t = []
+clean_bio_t = []
+clean_law_t = []
+clean_busi_t = []
+clean_soci_t = []
+clean_lit_t = []
+
+#Math books cleansing
+for line in fileinput.input(math_t, openhook=fileinput.hook_encoded("utf-8")):
+    if fileinput.isfirstline():
+        book = fileinput.filename()
+        Math_i = open(book, encoding="utf-8").read()
+        Math_i = nltk.word_tokenize(Math_i)
+        Math_i = [w.lower() for w in Math_i if w.isalpha()]
+        Math_i = [w for w in Math_i if not w in stop_words]
+        Math_i = [w for w in Math_i if not w in delete_words]
+        words_dist = nltk.FreqDist(w.lower() for w in Math_i)
+        most_common_words = words_dist.most_common(20)
+        clean_math_t.append(most_common_words)
+
+math_t_words = []
+for i in range(20) :
+    words = []
+    for j in range(20) :
+        words.append(clean_math_t[i][j][0])
+    
+    math_t_words.append(words) #Lists of main words of training math books
+
+#Biology books cleansing
+for line in fileinput.input(bio_t, openhook=fileinput.hook_encoded("utf-8")):
+    if fileinput.isfirstline():
+        book = fileinput.filename()
+        Bio_i = open(book, encoding="utf-8").read()
+        Bio_i = nltk.word_tokenize(Bio_i)
+        Bio_i = [w.lower() for w in Bio_i if w.isalpha()]
+        Bio_i = [w for w in Bio_i if not w in stop_words]
+        Bio_i = [w for w in Bio_i if not w in delete_words]
+        words_dist = nltk.FreqDist(w.lower() for w in Bio_i)
+        most_common_words = words_dist.most_common(20)
+        clean_bio_t.append(most_common_words)
+
+bio_t_words = []
+for i in range(20) :
+    words = []
+    for j in range(20) :
+        words.append(clean_bio_t[i][j][0])
+    
+    bio_t_words.append(words) #Lists of main words of training biology books
+
+#Law books cleansing
+for line in fileinput.input(law_t, openhook=fileinput.hook_encoded("utf-8")):
+    if fileinput.isfirstline():
+        book = fileinput.filename()
+        Law_i = open(book, encoding="utf-8").read()
+        Law_i = nltk.word_tokenize(Law_i)
+        Law_i = [w.lower() for w in Law_i if w.isalpha()]
+        Law_i = [w for w in Law_i if not w in stop_words]
+        Law_i = [w for w in Law_i if not w in delete_words]
+        words_dist = nltk.FreqDist(w.lower() for w in Law_i)
+        most_common_words = words_dist.most_common(20)
+        clean_law_t.append(most_common_words)
+
+law_t_words = []
+for i in range(20) :
+    words = []
+    for j in range(20) :
+        words.append(clean_law_t[i][j][0])
+    
+    law_t_words.append(words) #Lists of main words of training Law books
+
+#Management books cleansing
+for line in fileinput.input(busi_t, openhook=fileinput.hook_encoded("utf-8")):
+    if fileinput.isfirstline():
+        book = fileinput.filename()
+        Busi_i = open(book, encoding="utf-8").read()
+        Busi_i = nltk.word_tokenize(Busi_i)
+        Busi_i = [w.lower() for w in Busi_i if w.isalpha()]
+        Busi_i = [w for w in Busi_i if not w in stop_words]
+        Busi_i = [w for w in Busi_i if not w in delete_words]
+        words_dist = nltk.FreqDist(w.lower() for w in Busi_i)
+        most_common_words = words_dist.most_common(20)
+        clean_busi_t.append(most_common_words)
+
+busi_t_words = []
+for i in range(20) :
+    words = []
+    for j in range(20) :
+        words.append(clean_busi_t[i][j][0])
+    
+    busi_t_words.append(words) #Lists of main words of training management books
+
+#Social Sciences books cleansing
+for line in fileinput.input(soci_t, openhook=fileinput.hook_encoded("utf-8")):
+    if fileinput.isfirstline():
+        book = fileinput.filename()
+        Soci_i = open(book, encoding="utf-8").read()
+        Soci_i = nltk.word_tokenize(Soci_i)
+        Soci_i = [w.lower() for w in Soci_i if w.isalpha()]
+        Soci_i = [w for w in Soci_i if not w in stop_words]
+        Soci_i = [w for w in Soci_i if not w in delete_words]
+        words_dist = nltk.FreqDist(w.lower() for w in Soci_i)
+        most_common_words = words_dist.most_common(20)
+        clean_soci_t.append(most_common_words)
+
+soci_t_words = []
+for i in range(20) :
+    words = []
+    for j in range(20) :
+        words.append(clean_soci_t[i][j][0])
+    
+    soci_t_words.append(words) #Lists of main words of training social sciences books
+
+#General Literature books cleansing
+for line in fileinput.input(lit_t, openhook=fileinput.hook_encoded("utf-8")):
+    if fileinput.isfirstline():
+        book = fileinput.filename()
+        Lit_i = open(book, encoding="utf-8").read()
+        Lit_i = nltk.word_tokenize(Lit_i)
+        Lit_i = [w.lower() for w in Lit_i if w.isalpha()]
+        Lit_i = [w for w in Lit_i if not w in stop_words]
+        Lit_i = [w for w in Lit_i if not w in delete_words]
+        words_dist = nltk.FreqDist(w.lower() for w in Lit_i)
+        most_common_words = words_dist.most_common(20)
+        clean_lit_t.append(most_common_words)
+
+lit_t_words = []
+for i in range(20) :
+    words = []
+    for j in range(20) :
+        words.append(clean_lit_t[i][j][0])
+    
+    lit_t_words.append(words) #Lists of main words of training social sciences books
+
+'''Creating database'''
+#Adding a class to each word list:
+# 1 - Mathematics
+# 2 - Biology
+# 3 - Law
+# 4 - Management
+# 5 - Social Sciences
+# 6 - General Literature
+
+for i in range(20) :
+    math_t_words[i].append(1)
+    bio_t_words[i].append(2)
+    law_t_words[i].append(3)
+    busi_t_words[i].append(4)
+    soci_t_words[i].append(5)
+    lit_t_words[i].append(6)
+
+database = [math_t_words, bio_t_words, 
+            law_t_words, busi_t_words, 
+            soci_t_words, lit_t_words]
+#Saving the words in a csv file
+with open('training_books.csv', 'wt') as f:
+    csv_writer = csv.writer(f)
+    
+    for j in range(len(database)) :
+        for i in range(20) :
+            csv_writer.writerow(database[j][i])
+     
+
+        
