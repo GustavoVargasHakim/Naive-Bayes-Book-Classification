@@ -69,6 +69,7 @@ clean_busi_t = []
 clean_soci_t = []
 clean_lit_t = []
 
+print("Math")
 #Math books cleansing
 for line in fileinput.input(math_t, openhook=fileinput.hook_encoded("utf-8")):
     if fileinput.isfirstline():
@@ -90,6 +91,7 @@ for i in range(20) :
     
     math_t_words.append(words) #Lists of main words of training math books
 
+print("Biology")
 #Biology books cleansing
 for line in fileinput.input(bio_t, openhook=fileinput.hook_encoded("utf-8")):
     if fileinput.isfirstline():
@@ -111,6 +113,7 @@ for i in range(20) :
     
     bio_t_words.append(words) #Lists of main words of training biology books
 
+print("Law")
 #Law books cleansing
 for line in fileinput.input(law_t, openhook=fileinput.hook_encoded("utf-8")):
     if fileinput.isfirstline():
@@ -132,6 +135,7 @@ for i in range(20) :
     
     law_t_words.append(words) #Lists of main words of training Law books
 
+print("Management")
 #Management books cleansing
 for line in fileinput.input(busi_t, openhook=fileinput.hook_encoded("utf-8")):
     if fileinput.isfirstline():
@@ -153,6 +157,7 @@ for i in range(20) :
     
     busi_t_words.append(words) #Lists of main words of training management books
 
+print("Social Sciences")
 #Social Sciences books cleansing
 for line in fileinput.input(soci_t, openhook=fileinput.hook_encoded("utf-8")):
     if fileinput.isfirstline():
@@ -174,6 +179,7 @@ for i in range(20) :
     
     soci_t_words.append(words) #Lists of main words of training social sciences books
 
+print("General Literature")
 #General Literature books cleansing
 for line in fileinput.input(lit_t, openhook=fileinput.hook_encoded("utf-8")):
     if fileinput.isfirstline():
@@ -215,8 +221,10 @@ for i in range(20) :
 database = [math_t_words, bio_t_words, 
             law_t_words, busi_t_words, 
             soci_t_words, lit_t_words]
+
+print("Creating csv")
 #Saving the words in a csv file
-with open('training_books.csv', 'wt') as f:
+with open('training_books.csv', 'wt', encoding="utf-8") as f:
     csv_writer = csv.writer(f)
     
     for j in range(len(database)) :

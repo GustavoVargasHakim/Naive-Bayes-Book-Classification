@@ -1,1 +1,12 @@
-print("hola")
+import numpy as np
+import glob as g
+import csv
+
+p_a_priori = [.16, .16, .16, .16, .16, .16]
+
+with open('training_books.csv', newline='', encoding="utf-8") as File:  
+    reader = csv.reader(File)
+    for row in reader:
+    	if row:
+    		if row[len(row) - 1] == '1':
+    			print(row)
