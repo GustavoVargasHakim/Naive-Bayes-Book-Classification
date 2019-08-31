@@ -55,7 +55,7 @@ for linea in fileinput.input(training, openhook=fileinput.hook_encoded("utf-8"))
                               'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Ω', 'Ψ', 'Σ', 'Π',
                               'Ξ', 'Λ', 'Θ', 'Δ', 'Γ', 'aβ', 'aβj', 'βj', 'gf', 'pn', 'bp', 'zp',
                               'bch', 'http://', 'http', 'xm','µx', 'also', 'url','ª', 'solu', 'equa', 'https'
-                              , 'cc', 'pp')
+                              , 'cc', 'pp', 'may', 'one', 'two', 'see')
 
         filtered_book = [w for w in filtered_book if not w in single_character]
 
