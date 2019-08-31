@@ -24,9 +24,6 @@ with open('training_books.csv', newline='', encoding="utf-8") as File:
     new_soci_words = []
     new_lite_words = []
 
-    # 0's y 1's por cada género
-    oo_math = []
-
     # Toma cada vector de cada libro
     for row in reader:
         if row:
@@ -72,17 +69,22 @@ with open('training_books.csv', newline='', encoding="utf-8") as File:
                 for i in range(0,20):
                     new_lite_words.append(row[i])
 
+    # 0's y 1's por cada género
+    oo_math = []
+    oo_bio = []
+    oo_law = []
+    oo_manag = []
+    oo_soci = []
+    oo_lite = []
+
+    ##### PARA MATH #####
     # Saca la unión de las palabras de los libros Math
     words_dist = nltk.FreqDist(w for w in new_math_words)
-    print("Math Frecuencias:", words_dist.most_common(20))
 
     # Solo junta las palabras de los libros Math en un solo []
     only_math_words_dist = []
     for pair in words_dist.most_common(20):
         only_math_words_dist.append(pair[0])
-
-    print(only_math_words_dist)
-    print("Math:")
 
     # 1 si está, 0 si no está una palabra, por cada libro, dentro de only_math_words_list
     for r in new_math_rows:
@@ -96,21 +98,113 @@ with open('training_books.csv', newline='', encoding="utf-8") as File:
         oo_math.append(book)
 
     print(oo_math)
-    
-"""
-    words_dist = nltk.FreqDist(w for w in new_bio_words)
-    print("Bio Frecuencias:", words_dist.most_common(20))
 
+    ##### PARA BIO #####
+    # Saca la unión de las palabras de los libros Bio
+    words_dist = nltk.FreqDist(w for w in new_math_words)
+
+    # Solo junta las palabras de los libros Bio en un solo []
+    only_bio_words_dist = []
+    for pair in words_dist.most_common(20):
+        only_bio_words_dist.append(pair[0])
+
+    # 1 si está, 0 si no está una palabra, por cada libro, dentro de only_bio_words_list
+    for r in new_bio_rows:
+        book = []
+        for w in range(0, 20):
+            if r[w] in only_bio_words_dist:
+                book.append(1)
+            else:
+                book.append(0)
+
+        oo_bio.append(book)
+
+    print(oo_bio)
+
+    ##### PARA LAW #####
+    # Saca la unión de las palabras de los libros Law
     words_dist = nltk.FreqDist(w for w in new_law_words)
-    print("Law Frecuencias:", words_dist.most_common(20))
 
+    # Solo junta las palabras de los libros Law en un solo []
+    only_law_words_dist = []
+    for pair in words_dist.most_common(20):
+        only_law_words_dist.append(pair[0])
+
+    # 1 si está, 0 si no está una palabra, por cada libro, dentro de only_law_words_list
+    for r in new_law_rows:
+        book = []
+        for w in range(0, 20):
+            if r[w] in only_law_words_dist:
+                book.append(1)
+            else:
+                book.append(0)
+
+        oo_law.append(book)
+
+    print(oo_law)
+
+    ##### PARA MANAG #####
+    # Saca la unión de las palabras de los libros Manag
     words_dist = nltk.FreqDist(w for w in new_manag_words)
-    print("Manag Frecuencias:", words_dist.most_common(20))
 
+    # Solo junta las palabras de los libros Manag en un solo []
+    only_manag_words_dist = []
+    for pair in words_dist.most_common(20):
+        only_manag_words_dist.append(pair[0])
+
+    # 1 si está, 0 si no está una palabra, por cada libro, dentro de only_manag_words_list
+    for r in new_manag_rows:
+        book = []
+        for w in range(0, 20):
+            if r[w] in only_manag_words_dist:
+                book.append(1)
+            else:
+                book.append(0)
+
+        oo_manag.append(book)
+
+    print(oo_manag)
+
+    ##### PARA SOCI #####
+    # Saca la unión de las palabras de los libros Soci
     words_dist = nltk.FreqDist(w for w in new_soci_words)
-    print("Soci Frecuencias:", words_dist.most_common(20))
 
+    # Solo junta las palabras de los libros Soci en un solo []
+    only_soci_words_dist = []
+    for pair in words_dist.most_common(20):
+        only_soci_words_dist.append(pair[0])
+
+    # 1 si está, 0 si no está una palabra, por cada libro, dentro de only_soci_words_list
+    for r in new_soci_rows:
+        book = []
+        for w in range(0, 20):
+            if r[w] in only_soci_words_dist:
+                book.append(1)
+            else:
+                book.append(0)
+
+        oo_soci.append(book)
+
+    print(oo_soci)
+
+    ##### PARA LITE #####
+    # Saca la unión de las palabras de los libros Lite
     words_dist = nltk.FreqDist(w for w in new_lite_words)
-    print("Lite Frecuencias:", words_dist.most_common(20))
-"""
-# Sacar valores únicos
+
+    # Solo junta las palabras de los libros Lite en un solo []
+    only_lite_words_dist = []
+    for pair in words_dist.most_common(20):
+        only_lite_words_dist.append(pair[0])
+
+    # 1 si está, 0 si no está una palabra, por cada libro, dentro de only_lite_words_list
+    for r in new_soci_rows:
+        book = []
+        for w in range(0, 20):
+            if r[w] in only_lite_words_dist:
+                book.append(1)
+            else:
+                book.append(0)
+
+        oo_lite.append(book)
+
+    print(oo_lite)
