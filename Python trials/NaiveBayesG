@@ -106,7 +106,16 @@ with open('Social_features.csv', newline='', encoding="utf-8") as File:
 with open('literature_features.csv', newline='', encoding="utf-8") as File:
     reader = csv.reader(File)
     literature_features = list(reader)[0]
+
+binary = []
+for i in range(20) :
+    for word in features :
+        if word in new_math_rows[i] :
+            binary
     
+    
+    
+'''    
 ##### PASO 2: NORMALIZACIÓN #####
     ##### PARA MATH #####
     # 1 si está, 0 si no está una palabra, por cada libro, dentro de only_math_words_list
@@ -316,4 +325,4 @@ with open('literature_features.csv', newline='', encoding="utf-8") as File:
             p_math = class_math[i] * p_math
 
     print("Probabilidad de que sea Bio:", .16 * p_math)
-    
+    '''
