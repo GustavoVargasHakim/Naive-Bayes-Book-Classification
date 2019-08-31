@@ -8,62 +8,109 @@ p_a_priori = [.16, .16, .16, .16, .16, .16]
 with open('training_books.csv', newline='', encoding="utf-8") as File:
     reader = csv.reader(File)
     
-    new_math = []
-    new_bio = []
-    new_law = []
-    new_manag = []
-    new_soci = []
-    new_lite = []
+    # Palabras por cada libro
+    new_math_rows = []
+    new_bio_rows = []
+    new_law_rows = []
+    new_manag_rows = []
+    new_soci_rows = []
+    new_lite_rows = []
+
+    # Palabras de cada género
+    new_math_words = []
+    new_bio_words = []
+    new_law_words = []
+    new_manag_words = []
+    new_soci_words = []
+    new_lite_words = []
+
+    # 0's y 1's por cada género
+    oo_math = []
 
     # Toma cada vector de cada libro
     for row in reader:
         if row:
             # Toma libros solo de Math
             if row[len(row) - 1] == '1':
+                new_math_rows.append(row)
+
                 for i in range(0,20):
-                    new_math.append(row[i])
+                    new_math_words.append(row[i])
 
             # Toma libros solo de Bio
             if row[len(row) - 1] == '2':
+                new_bio_rows.append(row)
+
                 for i in range(0,20):
-                    new_bio.append(row[i])
+                    new_bio_words.append(row[i])
 
             # Toma libros solo de Law
             if row[len(row) - 1] == '3':
+                new_law_rows.append(row)
+
                 for i in range(0,20):
-                    new_law.append(row[i])
+                    new_law_words.append(row[i])
 
             # Toma libros solo de Manag
             if row[len(row) - 1] == '4':
+                new_manag_rows.append(row)
+
                 for i in range(0,20):
-                    new_manag.append(row[i])
+                    new_manag_words.append(row[i])
 
             # Toma libros solo de Soci
             if row[len(row) - 1] == '5':
+                new_soci_rows.append(row)
+
                 for i in range(0,20):
-                    new_soci.append(row[i])
+                    new_soci_words.append(row[i])
 
             # Toma libros solo de Lite
             if row[len(row) - 1] == '6':
-                for i in range(0,20):
-                    new_lite.append(row[i])
+                new_lite_rows.append(row)
 
-    words_dist = nltk.FreqDist(w for w in new_math)
+                for i in range(0,20):
+                    new_lite_words.append(row[i])
+
+    # Saca la unión de las palabras de los libros Math
+    words_dist = nltk.FreqDist(w for w in new_math_words)
     print("Math Frecuencias:", words_dist.most_common(20))
 
-    words_dist = nltk.FreqDist(w for w in new_bio)
+    # Solo junta las palabras de los libros Math en un solo []
+    only_math_words_dist = []
+    for pair in words_dist.most_common(20):
+        only_math_words_dist.append(pair[0])
+
+    print(only_math_words_dist)
+    print("Math:")
+
+    # 1 si está, 0 si no está una palabra, por cada libro, dentro de only_math_words_list
+    for r in new_math_rows:
+        book = []
+        for w in range(0, 20):
+            if r[w] in only_math_words_dist:
+                book.append(1)
+            else:
+                book.append(0)
+
+        oo_math.append(book)
+
+    print(oo_math)
+    
+"""
+    words_dist = nltk.FreqDist(w for w in new_bio_words)
     print("Bio Frecuencias:", words_dist.most_common(20))
 
-    words_dist = nltk.FreqDist(w for w in new_law)
+    words_dist = nltk.FreqDist(w for w in new_law_words)
     print("Law Frecuencias:", words_dist.most_common(20))
 
-    words_dist = nltk.FreqDist(w for w in new_manag)
+    words_dist = nltk.FreqDist(w for w in new_manag_words)
     print("Manag Frecuencias:", words_dist.most_common(20))
 
-    words_dist = nltk.FreqDist(w for w in new_soci)
+    words_dist = nltk.FreqDist(w for w in new_soci_words)
     print("Soci Frecuencias:", words_dist.most_common(20))
 
-    words_dist = nltk.FreqDist(w for w in new_lite)
+    words_dist = nltk.FreqDist(w for w in new_lite_words)
     print("Lite Frecuencias:", words_dist.most_common(20))
-
+"""
 # Sacar valores únicos
