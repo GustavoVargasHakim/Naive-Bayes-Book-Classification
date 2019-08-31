@@ -5,51 +5,65 @@ import nltk
 
 p_a_priori = [.16, .16, .16, .16, .16, .16]
 
-with open('training_books.csv', newline='', encoding="utf-8") as File:  
+with open('training_books.csv', newline='', encoding="utf-8") as File:
     reader = csv.reader(File)
+    
+    new_math = []
+    new_bio = []
+    new_law = []
+    new_manag = []
+    new_soci = []
+    new_lite = []
+
+    # Toma cada vector de cada libro
     for row in reader:
         if row:
-            new_math = []
+            # Toma libros solo de Math
             if row[len(row) - 1] == '1':
                 for i in range(0,20):
                     new_math.append(row[i])
 
-                print(len(new_math))
-
-            """
-            new_bio = []
+            # Toma libros solo de Bio
             if row[len(row) - 1] == '2':
                 for i in range(0,20):
                     new_bio.append(row[i])
 
-                print("Bio:", new_bio)
-
-            new_law = []
+            # Toma libros solo de Law
             if row[len(row) - 1] == '3':
                 for i in range(0,20):
                     new_law.append(row[i])
 
-                print("Law:",new_law)
-
-            new_manag = []
+            # Toma libros solo de Manag
             if row[len(row) - 1] == '4':
                 for i in range(0,20):
                     new_manag.append(row[i])
 
-                print("Manag:",new_manag)
-
-            new_soci = []
+            # Toma libros solo de Soci
             if row[len(row) - 1] == '5':
                 for i in range(0,20):
                     new_soci.append(row[i])
 
-                print("Soci:",new_soci)
-
-            new_lit = []
+            # Toma libros solo de Lite
             if row[len(row) - 1] == '6':
                 for i in range(0,20):
-                    new_lit.append(row[i])
+                    new_lite.append(row[i])
 
-                print("Lit:",new_lit)
-            """
+    words_dist = nltk.FreqDist(w for w in new_math)
+    print("Math FreqTam:", len(words_dist), "Frecuencias:", words_dist.most_common(len(words_dist)))
+
+    words_dist = nltk.FreqDist(w for w in new_bio)
+    print("Bio FreqTam:", len(words_dist), "Frecuencias:", words_dist.most_common(len(words_dist)))
+
+    words_dist = nltk.FreqDist(w for w in new_law)
+    print("Law FreqTam:", len(words_dist), "Frecuencias:", words_dist.most_common(len(words_dist)))
+
+    words_dist = nltk.FreqDist(w for w in new_manag)
+    print("Manag FreqTam:", len(words_dist), "Frecuencias:", words_dist.most_common(len(words_dist)))
+
+    words_dist = nltk.FreqDist(w for w in new_soci)
+    print("Soci FreqTam:", len(words_dist), "Frecuencias:", words_dist.most_common(len(words_dist)))
+
+    words_dist = nltk.FreqDist(w for w in new_lite)
+    print("Lite FreqTam:", len(words_dist), "Frecuencias:", words_dist.most_common(len(words_dist)))
+
 # Sacar valores únicos
