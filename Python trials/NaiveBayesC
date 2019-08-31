@@ -254,7 +254,7 @@ with open('training_books.csv', newline='', encoding="utf-8") as File:
 
     sum_lite = np.asarray(oo_lite)
     sum_lite = sum_lite.sum(axis=0)
-    
+
     # Solo palabras
     print("\nLite:")
     print("Palabras:",sum_lite)
@@ -300,7 +300,10 @@ with open('training_books.csv', newline='', encoding="utf-8") as File:
         if class_math[i] > 0:
             p_math = class_math[i] * p_math
 
-    print("Probabilidad de que sea Math:", .16 * p_math)
+    if p_math == 1:
+        print("Probabilidad de que sea Math:", 0)
+    else:
+        print("Probabilidad de que sea Math:", 0.16 * p_math)
 
     ## CALCULAR PROBABILIDADES PARA BIO
     # Calcular 0's y 1's para math1_test1
@@ -332,4 +335,42 @@ with open('training_books.csv', newline='', encoding="utf-8") as File:
         if class_math[i] > 0:
             p_math = class_math[i] * p_math
 
-    print("Probabilidad de que sea Bio:", .16 * p_math)
+    if p_math == 1:
+        print("Probabilidad de que sea Bio:", 0)
+    else:
+        print("Probabilidad de que sea Bio:", 0.16 * p_math)
+
+    ## CALCULAR PROBABILIDADES PARA LAW
+    # Calcular 0's y 1's para math1_test1
+    math1_test1_oo = []
+    # Tomar only_math_words_dist para comparar con math1_test1
+    for w in math1_test1:
+        if w in only_law_words_dist:
+            math1_test1_oo.append(1)
+        else:
+            math1_test1_oo.append(0)
+
+    print(np.asarray(math1_test1_oo))
+
+    # Calcular las probabilidades para cada clase
+    # Para la clase math, utilizar sum_law/sum_law.sum()
+    prob_math = sum_law/sum_law.sum()
+    print(prob_math)
+    class_math = []
+    for i in range(0, 20):
+        if math1_test1_oo[i] == 1:
+            class_math.append(prob_math[i])
+        else:
+            class_math.append(0)
+
+    #class_math = np.asarray(class_math)
+
+    p_math = 1
+    for i in range(0, 20):
+        if class_math[i] > 0:
+            p_math = class_math[i] * p_math
+
+    if p_math == 1:
+        print("Probabilidad de que sea Law:", 0)
+    else:
+        print("Probabilidad de que sea Law:", 0.16 * p_math)
