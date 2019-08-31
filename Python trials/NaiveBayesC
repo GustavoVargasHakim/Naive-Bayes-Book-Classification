@@ -49,21 +49,21 @@ with open('training_books.csv', newline='', encoding="utf-8") as File:
                     new_lite.append(row[i])
 
     words_dist = nltk.FreqDist(w for w in new_math)
-    print("Math FreqTam:", len(words_dist), "Frecuencias:", words_dist.most_common(len(words_dist)))
+    print("Math Frecuencias:", words_dist.most_common(20))
 
     words_dist = nltk.FreqDist(w for w in new_bio)
-    print("Bio FreqTam:", len(words_dist), "Frecuencias:", words_dist.most_common(len(words_dist)))
+    print("Bio Frecuencias:", words_dist.most_common(20))
 
     words_dist = nltk.FreqDist(w for w in new_law)
-    print("Law FreqTam:", len(words_dist), "Frecuencias:", words_dist.most_common(len(words_dist)))
+    print("Law Frecuencias:", words_dist.most_common(20))
 
     words_dist = nltk.FreqDist(w for w in new_manag)
-    print("Manag FreqTam:", len(words_dist), "Frecuencias:", words_dist.most_common(len(words_dist)))
+    print("Manag Frecuencias:", words_dist.most_common(20))
 
     words_dist = nltk.FreqDist(w for w in new_soci)
-    print("Soci FreqTam:", len(words_dist), "Frecuencias:", words_dist.most_common(len(words_dist)))
+    print("Soci Frecuencias:", words_dist.most_common(20))
 
     words_dist = nltk.FreqDist(w for w in new_lite)
-    print("Lite FreqTam:", len(words_dist), "Frecuencias:", words_dist.most_common(len(words_dist)))
+    print("Lite Frecuencias:", words_dist.most_common(20))
 
 # Sacar valores únicos
