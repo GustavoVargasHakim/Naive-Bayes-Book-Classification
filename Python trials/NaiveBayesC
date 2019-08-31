@@ -3,8 +3,6 @@ import glob as g
 import csv
 import nltk
 
-p_a_priori = [.16, .16, .16, .16, .16, .16]
-
 with open('training_books.csv', newline='', encoding="utf-8") as File:
     reader = csv.reader(File)
     
@@ -77,6 +75,7 @@ with open('training_books.csv', newline='', encoding="utf-8") as File:
     oo_soci = []
     oo_lite = []
 
+    ##### PASO 1: FRECUENCIAS #####
     # Saca la unión de las palabras de los libros Math
     words_dist = nltk.FreqDist(w for w in new_math_words)
 
@@ -125,6 +124,7 @@ with open('training_books.csv', newline='', encoding="utf-8") as File:
     for pair in words_dist.most_common(20):
         only_lite_words_dist.append(pair[0])
 
+    ##### PASO 2: NORMALIZACIÓN #####
     ##### PARA MATH #####
     # 1 si está, 0 si no está una palabra, por cada libro, dentro de only_math_words_list
     for r in new_math_rows:
@@ -262,3 +262,5 @@ with open('training_books.csv', newline='', encoding="utf-8") as File:
     print("Suma:",sum_lite.sum())
     # Probabilidades
     print("Probabilidades:",sum_lite/sum_lite.sum())
+
+    ##### PASO 3: TEST... #####
