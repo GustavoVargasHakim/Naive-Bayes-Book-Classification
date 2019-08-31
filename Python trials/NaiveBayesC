@@ -1,12 +1,55 @@
 import numpy as np
 import glob as g
 import csv
+import nltk
 
 p_a_priori = [.16, .16, .16, .16, .16, .16]
 
 with open('training_books.csv', newline='', encoding="utf-8") as File:  
     reader = csv.reader(File)
     for row in reader:
-    	if row:
-    		if row[len(row) - 1] == '1':
-    			print(row)
+        if row:
+            new_math = []
+            if row[len(row) - 1] == '1':
+                for i in range(0,20):
+                    new_math.append(row[i])
+
+                print(len(new_math))
+
+            """
+            new_bio = []
+            if row[len(row) - 1] == '2':
+                for i in range(0,20):
+                    new_bio.append(row[i])
+
+                print("Bio:", new_bio)
+
+            new_law = []
+            if row[len(row) - 1] == '3':
+                for i in range(0,20):
+                    new_law.append(row[i])
+
+                print("Law:",new_law)
+
+            new_manag = []
+            if row[len(row) - 1] == '4':
+                for i in range(0,20):
+                    new_manag.append(row[i])
+
+                print("Manag:",new_manag)
+
+            new_soci = []
+            if row[len(row) - 1] == '5':
+                for i in range(0,20):
+                    new_soci.append(row[i])
+
+                print("Soci:",new_soci)
+
+            new_lit = []
+            if row[len(row) - 1] == '6':
+                for i in range(0,20):
+                    new_lit.append(row[i])
+
+                print("Lit:",new_lit)
+            """
+# Sacar valores únicos
