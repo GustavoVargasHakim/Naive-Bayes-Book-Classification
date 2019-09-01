@@ -47,33 +47,33 @@ with open('training_books.csv', newline='', encoding="utf-8") as File:
                 for i in range(0,20):
                     new_bio_words.append(row[i])
     
-        # Toma libros solo de Law
-        if row[len(row) - 1] == '3':
-            new_law_rows.append(row)
+            # Toma libros solo de Law
+            if row[len(row) - 1] == '3':
+                new_law_rows.append(row)
     
-            for i in range(0,20):
-                new_law_words.append(row[i])
+                for i in range(0,20):
+                    new_law_words.append(row[i])
     
-        # Toma libros solo de Manag
-        if row[len(row) - 1] == '4':
-            new_manag_rows.append(row)
+            # Toma libros solo de Manag
+            if row[len(row) - 1] == '4':
+                new_manag_rows.append(row)
     
-            for i in range(0,20):
-                new_manag_words.append(row[i])
+                for i in range(0,20):
+                    new_manag_words.append(row[i])
     
-        # Toma libros solo de Soci
-        if row[len(row) - 1] == '5':
-            new_soci_rows.append(row)
+            # Toma libros solo de Soci
+            if row[len(row) - 1] == '5':
+                new_soci_rows.append(row)
     
-            for i in range(0,20):
-                new_soci_words.append(row[i])
+                for i in range(0,20):
+                    new_soci_words.append(row[i])
     
-        # Toma libros solo de Lite
-        if row[len(row) - 1] == '6':
-            new_lite_rows.append(row)
+            # Toma libros solo de Lite
+            if row[len(row) - 1] == '6':
+                new_lite_rows.append(row)
     
-            for i in range(0,20):
-                new_lite_words.append(row[i])
+                for i in range(0,20):
+                    new_lite_words.append(row[i])
 
 '''Leer las features para cada genero'''
              
