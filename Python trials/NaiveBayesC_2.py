@@ -912,4 +912,7 @@ with open('validation_books.csv', newline='', encoding="utf-8") as File:
             if row[len(row) - 1] == '6':
                 v_lite_rows.append(row)
 
-'''Clasificar libros de matematicas'''
+
+    
+
+
