@@ -877,7 +877,7 @@ p_lit_c2 = np.asarray([zeros_c2, ones_c2]) #Probabilidades de no ser de literatu
 with open('validation_books.csv', newline='', encoding="utf-8") as File:
     reader = csv.reader(File)
 
-# libros de cada género
+    # libros de cada género
     v_math_rows = []
     v_bio_rows = []
     v_law_rows = []
