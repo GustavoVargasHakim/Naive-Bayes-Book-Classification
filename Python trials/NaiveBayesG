@@ -912,4 +912,170 @@ with open('validation_books.csv', newline='', encoding="utf-8") as File:
             if row[len(row) - 1] == '6':
                 v_lite_rows.append(row)
 
-'''Clasificar libros de matematicas'''
+'''Clasificar libros de matematicas (validacion)'''
+##Probabilidad de que sea de matematicas
+#Obtener matriz binaria de cada libro de validacion
+math_binary = []
+for i in range(10) :
+    oo_math = []
+    for word in math_features :
+        if word in v_math_rows[i] :
+            oo_math.append(1)
+        else :
+            oo_math.append(0)
+    math_binary.append(oo_math)
+    
+#Calculando probabilidades para cada libro segun sus palabras clave
+math_prob_matrix = []
+for j in range(10) :
+    prob_math = p_c1
+    for i in range(20) :
+        if math_binary[j][i] == 1 :
+            prob_math = prob_math * p_math_c1[0][i]
+        
+        if math_binary[j][i] == 0 :
+            prob_math = prob_math * p_math_c1[1][i]
+            
+    math_prob_matrix.append(prob_math)
+    
+##Probabilidad de que sea de biologia
+#Obtener matriz binaria de cada libro de validacion
+math_binary = []
+for i in range(10) :
+    oo_math = []
+    for word in bio_features :
+        if word in v_math_rows[i] :
+            oo_math.append(1)
+        else :
+            oo_math.append(0)
+    math_binary.append(oo_math)
+    
+#Calculando probabilidades para cada libro segun sus palabras clave
+bio_prob_matrix = []
+for j in range(10) :
+    prob_bio = p_c1
+    for i in range(20) :
+        if math_binary[j][i] == 1 :
+            prob_bio = prob_bio * p_bio_c1[0][i]
+        
+        if math_binary[j][i] == 0 :
+            prob_bio = prob_bio * p_bio_c1[1][i]
+            
+    bio_prob_matrix.append(prob_bio)
+
+##Probabilidad de que sea de leyes
+#Obtener matriz binaria de cada libro de validacion
+math_binary = []
+for i in range(10) :
+    oo_math = []
+    for word in law_features :
+        if word in v_math_rows[i] :
+            oo_math.append(1)
+        else :
+            oo_math.append(0)
+    math_binary.append(oo_math)
+    
+#Calculando probabilidades para cada libro segun sus palabras clave
+law_prob_matrix = []
+for j in range(10) :
+    prob_law = p_c1
+    for i in range(20) :
+        if math_binary[j][i] == 1 :
+            prob_law = prob_law * p_law_c1[0][i]
+        
+        if math_binary[j][i] == 0 :
+            prob_law = prob_law * p_law_c1[1][i]
+            
+    law_prob_matrix.append(prob_law)
+
+##Probabilidad de que sea de negocios
+#Obtener matriz binaria de cada libro de validacion
+math_binary = []
+for i in range(10) :
+    oo_math = []
+    for word in busi_features :
+        if word in v_math_rows[i] :
+            oo_math.append(1)
+        else :
+            oo_math.append(0)
+    math_binary.append(oo_math)
+    
+#Calculando probabilidades para cada libro segun sus palabras clave
+busi_prob_matrix = []
+for j in range(10) :
+    prob_busi = p_c1
+    for i in range(20) :
+        if math_binary[j][i] == 1 :
+            prob_busi = prob_busi * p_busi_c1[0][i]
+        
+        if math_binary[j][i] == 0 :
+            prob_busi = prob_busi * p_busi_c1[1][i]
+            
+    busi_prob_matrix.append(prob_busi)
+
+##Probabilidad de que sea de ciencias sociales
+#Obtener matriz binaria de cada libro de validacion
+math_binary = []
+for i in range(10) :
+    oo_math = []
+    for word in soci_features :
+        if word in v_math_rows[i] :
+            oo_math.append(1)
+        else :
+            oo_math.append(0)
+    math_binary.append(oo_math)
+    
+#Calculando probabilidades para cada libro segun sus palabras clave
+soci_prob_matrix = []
+for j in range(10) :
+    prob_soci = p_c1
+    for i in range(20) :
+        if math_binary[j][i] == 1 :
+            prob_soci = prob_soci * p_soci_c1[0][i]
+        
+        if math_binary[j][i] == 0 :
+            prob_soci = prob_soci * p_soci_c1[1][i]
+            
+    soci_prob_matrix.append(prob_soci)
+
+##Probabilidad de que sea de literatura general
+#Obtener matriz binaria de cada libro de validacion
+math_binary = []
+for i in range(10) :
+    oo_math = []
+    for word in literature_features :
+        if word in v_math_rows[i] :
+            oo_math.append(1)
+        else :
+            oo_math.append(0)
+    math_binary.append(oo_math)
+    
+#Calculando probabilidades para cada libro segun sus palabras clave
+lit_prob_matrix = []
+for j in range(10) :
+    prob_lit = p_c1
+    for i in range(20) :
+        if math_binary[j][i] == 1 :
+            prob_lit = prob_lit * p_lit_c1[0][i]
+        
+        if math_binary[j][i] == 0 :
+            prob_lit = prob_lit * p_lit_c1[1][i]
+            
+    lit_prob_matrix.append(prob_lit)
+
+#Se tienen 6 vectores de probabilidades, cada uno tiene 10 probabilidades, para
+#los 10 libros de validacion.
+
+#Comparas cada columna de probabilidad (para cada libro)
+probabilities_math = [math_prob_matrix, bio_prob_matrix, law_prob_matrix,
+                      busi_prob_matrix, soci_prob_matrix, lit_prob_matrix]
+
+books_prob = []
+for i in range(10) :
+    winner = probabilities_math[0][0] #Partir de que se trata de matematicas
+    genre = 1
+    for j in range(6) :
+        if winner < probabilities_math[j][i] :
+            winner = probabilities_math[j][i]
+            genre = j + 1
+    books_prob.append(genre)
