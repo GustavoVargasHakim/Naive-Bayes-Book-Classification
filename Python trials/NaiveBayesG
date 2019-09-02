@@ -101,6 +101,8 @@ with open('literature_features.csv', newline='', encoding="utf-8") as File:
     reader = csv.reader(File)
     literature_features = list(reader)[0]
 
+features = math_features + bio_features + law_features + busi_features + soci_features + literature_features
+
 #Probabilidades a priori
 p_c1 = 20/120        
 p_c2 = 100/120
@@ -360,6 +362,7 @@ ones_c2 = ones_c2/sum_c2
 #Clasificador de matematicas entrenado
 p_bio_c1 = np.asarray([zeros_c1, ones_c1]) #Probabilidades de ser de biologia
 p_bio_c2 = np.asarray([zeros_c2, ones_c2]) #Probabilidades de no ser de biologia
+
 
 '''Clasificador 3 (leyes)'''
 
@@ -931,10 +934,10 @@ for j in range(10) :
     prob_math = p_c1
     for i in range(20) :
         if math_binary[j][i] == 1 :
-            prob_math = prob_math * p_math_c1[0][i]
+            prob_math = prob_math * p_math_c1[1][i]
         
         if math_binary[j][i] == 0 :
-            prob_math = prob_math * p_math_c1[1][i]
+            prob_math = prob_math * p_math_c1[0][i]
             
     mmath_prob_matrix.append(prob_math)
     
@@ -956,10 +959,10 @@ for j in range(10) :
     prob_bio = p_c1
     for i in range(20) :
         if math_binary[j][i] == 1 :
-            prob_bio = prob_bio * p_bio_c1[0][i]
+            prob_bio = prob_bio * p_bio_c1[1][i]
         
         if math_binary[j][i] == 0 :
-            prob_bio = prob_bio * p_bio_c1[1][i]
+            prob_bio = prob_bio * p_bio_c1[0][i]
             
     mbio_prob_matrix.append(prob_bio)
 
@@ -981,10 +984,10 @@ for j in range(10) :
     prob_law = p_c1
     for i in range(20) :
         if math_binary[j][i] == 1 :
-            prob_law = prob_law * p_law_c1[0][i]
+            prob_law = prob_law * p_law_c1[1][i]
         
         if math_binary[j][i] == 0 :
-            prob_law = prob_law * p_law_c1[1][i]
+            prob_law = prob_law * p_law_c1[0][i]
             
     mlaw_prob_matrix.append(prob_law)
 
@@ -1006,10 +1009,10 @@ for j in range(10) :
     prob_busi = p_c1
     for i in range(20) :
         if math_binary[j][i] == 1 :
-            prob_busi = prob_busi * p_busi_c1[0][i]
+            prob_busi = prob_busi * p_busi_c1[1][i]
         
         if math_binary[j][i] == 0 :
-            prob_busi = prob_busi * p_busi_c1[1][i]
+            prob_busi = prob_busi * p_busi_c1[0][i]
             
     mbusi_prob_matrix.append(prob_busi)
 
@@ -1031,10 +1034,10 @@ for j in range(10) :
     prob_soci = p_c1
     for i in range(20) :
         if math_binary[j][i] == 1 :
-            prob_soci = prob_soci * p_soci_c1[0][i]
+            prob_soci = prob_soci * p_soci_c1[1][i]
         
         if math_binary[j][i] == 0 :
-            prob_soci = prob_soci * p_soci_c1[1][i]
+            prob_soci = prob_soci * p_soci_c1[0][i]
             
     msoci_prob_matrix.append(prob_soci)
 
@@ -1056,10 +1059,10 @@ for j in range(10) :
     prob_lit = p_c1
     for i in range(20) :
         if math_binary[j][i] == 1 :
-            prob_lit = prob_lit * p_lit_c1[0][i]
+            prob_lit = prob_lit * p_lit_c1[1][i]
         
         if math_binary[j][i] == 0 :
-            prob_lit = prob_lit * p_lit_c1[1][i]
+            prob_lit = prob_lit * p_lit_c1[0][i]
             
     mlit_prob_matrix.append(prob_lit)
 
@@ -1072,7 +1075,7 @@ probabilities_math = [mmath_prob_matrix, mbio_prob_matrix, mlaw_prob_matrix,
 
 books_prob_math = []
 for i in range(10) :
-    winner = probabilities_math[0][0] #Partir de que se trata de matematicas
+    winner = probabilities_math[0][i] #Partir de que se trata de matematicas
     genre = 1
     for j in range(6) :
         if winner < probabilities_math[j][i] :
@@ -1101,10 +1104,10 @@ for j in range(10) :
     prob_math = p_c1
     for i in range(20) :
         if bio_binary[j][i] == 1 :
-            prob_math = prob_math * p_math_c1[0][i]
+            prob_math = prob_math * p_math_c1[1][i]
         
         if bio_binary[j][i] == 0 :
-            prob_math = prob_math * p_math_c1[1][i]
+            prob_math = prob_math * p_math_c1[0][i]
             
     bmath_prob_matrix.append(prob_math)
 
@@ -1126,10 +1129,10 @@ for j in range(10) :
     prob_bio = p_c1
     for i in range(20) :
         if bio_binary[j][i] == 1 :
-            prob_bio = prob_bio * p_bio_c1[0][i]
+            prob_bio = prob_bio * p_bio_c1[1][i]
         
         if bio_binary[j][i] == 0 :
-            prob_bio = prob_bio * p_bio_c1[1][i]
+            prob_bio = prob_bio * p_bio_c1[0][i]
             
     bbio_prob_matrix.append(prob_bio)
 
@@ -1151,10 +1154,10 @@ for j in range(10) :
     prob_law = p_c1
     for i in range(20) :
         if bio_binary[j][i] == 1 :
-            prob_law = prob_law * p_law_c1[0][i]
+            prob_law = prob_law * p_law_c1[1][i]
         
         if bio_binary[j][i] == 0 :
-            prob_law = prob_law * p_law_c1[1][i]
+            prob_law = prob_law * p_law_c1[0][i]
             
     blaw_prob_matrix.append(prob_law)
     
@@ -1176,10 +1179,10 @@ for j in range(10) :
     prob_busi = p_c1
     for i in range(20) :
         if bio_binary[j][i] == 1 :
-            prob_busi = prob_busi * p_busi_c1[0][i]
+            prob_busi = prob_busi * p_busi_c1[1][i]
         
         if bio_binary[j][i] == 0 :
-            prob_busi = prob_busi * p_busi_c1[1][i]
+            prob_busi = prob_busi * p_busi_c1[0][i]
             
     bbusi_prob_matrix.append(prob_busi)
 
@@ -1201,10 +1204,10 @@ for j in range(10) :
     prob_soci = p_c1
     for i in range(20) :
         if bio_binary[j][i] == 1 :
-            prob_soci = prob_soci * p_soci_c1[0][i]
+            prob_soci = prob_soci * p_soci_c1[1][i]
         
         if bio_binary[j][i] == 0 :
-            prob_soci = prob_soci * p_soci_c1[1][i]
+            prob_soci = prob_soci * p_soci_c1[0][i]
             
     bsoci_prob_matrix.append(prob_soci)
 
@@ -1226,10 +1229,10 @@ for j in range(10) :
     prob_lit = p_c1
     for i in range(20) :
         if bio_binary[j][i] == 1 :
-            prob_lit = prob_lit * p_lit_c1[0][i]
+            prob_lit = prob_lit * p_lit_c1[1][i]
         
         if bio_binary[j][i] == 0 :
-            prob_lit = prob_lit * p_lit_c1[1][i]
+            prob_lit = prob_lit * p_lit_c1[0][i]
             
     blit_prob_matrix.append(prob_lit)
 
@@ -1242,7 +1245,7 @@ probabilities_bio = [bmath_prob_matrix, bbio_prob_matrix, blaw_prob_matrix,
 
 books_prob_bio = []
 for i in range(10) :
-    winner = probabilities_bio[0][0] #Partir de que se trata de matematicas
+    winner = probabilities_bio[0][i] #Partir de que se trata de matematicas
     genre = 1
     for j in range(6) :
         if winner < probabilities_bio[j][i] :
@@ -1271,10 +1274,10 @@ for j in range(10) :
     prob_math = p_c1
     for i in range(20) :
         if law_binary[j][i] == 1 :
-            prob_math = prob_math * p_math_c1[0][i]
+            prob_math = prob_math * p_math_c1[1][i]
         
         if law_binary[j][i] == 0 :
-            prob_math = prob_math * p_math_c1[1][i]
+            prob_math = prob_math * p_math_c1[0][i]
             
     lmath_prob_matrix.append(prob_math)
 
@@ -1296,10 +1299,10 @@ for j in range(10) :
     prob_bio = p_c1
     for i in range(20) :
         if law_binary[j][i] == 1 :
-            prob_bio = prob_bio * p_bio_c1[0][i]
+            prob_bio = prob_bio * p_bio_c1[1][i]
         
         if law_binary[j][i] == 0 :
-            prob_bio = prob_bio * p_bio_c1[1][i]
+            prob_bio = prob_bio * p_bio_c1[0][i]
             
     lbio_prob_matrix.append(prob_bio)
 
@@ -1321,10 +1324,10 @@ for j in range(10) :
     prob_law = p_c1
     for i in range(20) :
         if law_binary[j][i] == 1 :
-            prob_law = prob_law * p_law_c1[0][i]
+            prob_law = prob_law * p_law_c1[1][i]
         
         if law_binary[j][i] == 0 :
-            prob_law = prob_law * p_law_c1[1][i]
+            prob_law = prob_law * p_law_c1[0][i]
             
     llaw_prob_matrix.append(prob_law)
     
@@ -1346,10 +1349,10 @@ for j in range(10) :
     prob_busi = p_c1
     for i in range(20) :
         if law_binary[j][i] == 1 :
-            prob_busi = prob_busi * p_busi_c1[0][i]
+            prob_busi = prob_busi * p_busi_c1[1][i]
         
         if law_binary[j][i] == 0 :
-            prob_busi = prob_busi * p_busi_c1[1][i]
+            prob_busi = prob_busi * p_busi_c1[0][i]
             
     lbusi_prob_matrix.append(prob_busi)
 
@@ -1371,10 +1374,10 @@ for j in range(10) :
     prob_soci = p_c1
     for i in range(20) :
         if law_binary[j][i] == 1 :
-            prob_soci = prob_soci * p_soci_c1[0][i]
+            prob_soci = prob_soci * p_soci_c1[1][i]
         
         if law_binary[j][i] == 0 :
-            prob_soci = prob_soci * p_soci_c1[1][i]
+            prob_soci = prob_soci * p_soci_c1[0][i]
             
     lsoci_prob_matrix.append(prob_soci)
 
@@ -1396,10 +1399,10 @@ for j in range(10) :
     prob_lit = p_c1
     for i in range(20) :
         if law_binary[j][i] == 1 :
-            prob_lit = prob_lit * p_lit_c1[0][i]
+            prob_lit = prob_lit * p_lit_c1[1][i]
         
         if law_binary[j][i] == 0 :
-            prob_lit = prob_lit * p_lit_c1[1][i]
+            prob_lit = prob_lit * p_lit_c1[0][i]
             
     llit_prob_matrix.append(prob_lit)
 
@@ -1412,7 +1415,7 @@ probabilities_law = [lmath_prob_matrix, lbio_prob_matrix, llaw_prob_matrix,
 
 books_prob_law = []
 for i in range(10) :
-    winner = probabilities_law[0][0] #Partir de que se trata de matematicas
+    winner = probabilities_law[0][i] #Partir de que se trata de matematicas
     genre = 1
     for j in range(6) :
         if winner < probabilities_law[j][i] :
@@ -1441,10 +1444,10 @@ for j in range(10) :
     prob_math = p_c1
     for i in range(20) :
         if busi_binary[j][i] == 1 :
-            prob_math = prob_math * p_math_c1[0][i]
+            prob_math = prob_math * p_math_c1[1][i]
         
         if busi_binary[j][i] == 0 :
-            prob_math = prob_math * p_math_c1[1][i]
+            prob_math = prob_math * p_math_c1[0][i]
             
     bumath_prob_matrix.append(prob_math)
     
@@ -1466,10 +1469,10 @@ for j in range(10) :
     prob_bio = p_c1
     for i in range(20) :
         if busi_binary[j][i] == 1 :
-            prob_bio = prob_bio * p_bio_c1[0][i]
+            prob_bio = prob_bio * p_bio_c1[1][i]
         
         if busi_binary[j][i] == 0 :
-            prob_bio = prob_bio * p_bio_c1[1][i]
+            prob_bio = prob_bio * p_bio_c1[0][i]
             
     bubio_prob_matrix.append(prob_bio)
 
@@ -1491,10 +1494,10 @@ for j in range(10) :
     prob_law = p_c1
     for i in range(20) :
         if busi_binary[j][i] == 1 :
-            prob_law = prob_law * p_law_c1[0][i]
+            prob_law = prob_law * p_law_c1[1][i]
         
         if busi_binary[j][i] == 0 :
-            prob_law = prob_law * p_law_c1[1][i]
+            prob_law = prob_law * p_law_c1[0][i]
             
     bulaw_prob_matrix.append(prob_law)
 
@@ -1516,10 +1519,10 @@ for j in range(10) :
     prob_busi = p_c1
     for i in range(20) :
         if busi_binary[j][i] == 1 :
-            prob_busi = prob_busi * p_busi_c1[0][i]
+            prob_busi = prob_busi * p_busi_c1[1][i]
         
         if busi_binary[j][i] == 0 :
-            prob_busi = prob_busi * p_busi_c1[1][i]
+            prob_busi = prob_busi * p_busi_c1[0][i]
             
     bubusi_prob_matrix.append(prob_busi)
 
@@ -1541,10 +1544,10 @@ for j in range(10) :
     prob_soci = p_c1
     for i in range(20) :
         if busi_binary[j][i] == 1 :
-            prob_soci = prob_soci * p_soci_c1[0][i]
+            prob_soci = prob_soci * p_soci_c1[1][i]
         
         if busi_binary[j][i] == 0 :
-            prob_soci = prob_soci * p_soci_c1[1][i]
+            prob_soci = prob_soci * p_soci_c1[0][i]
             
     busoci_prob_matrix.append(prob_soci)
 
@@ -1566,10 +1569,10 @@ for j in range(10) :
     prob_lit = p_c1
     for i in range(20) :
         if busi_binary[j][i] == 1 :
-            prob_lit = prob_lit * p_lit_c1[0][i]
+            prob_lit = prob_lit * p_lit_c1[1][i]
         
         if busi_binary[j][i] == 0 :
-            prob_lit = prob_lit * p_lit_c1[1][i]
+            prob_lit = prob_lit * p_lit_c1[0][i]
             
     bulit_prob_matrix.append(prob_lit)
 
@@ -1582,7 +1585,7 @@ probabilities_busi = [bumath_prob_matrix, bubio_prob_matrix, bulaw_prob_matrix,
 
 books_prob_busi = []
 for i in range(10) :
-    winner = probabilities_busi[0][0] #Partir de que se trata de matematicas
+    winner = probabilities_busi[0][i] #Partir de que se trata de matematicas
     genre = 1
     for j in range(6) :
         if winner < probabilities_busi[j][i] :
@@ -1611,11 +1614,11 @@ for j in range(10) :
     prob_math = p_c1
     for i in range(20) :
         if soci_binary[j][i] == 1 :
-            prob_math = prob_math * p_math_c1[0][i]
+            prob_math = prob_math * p_math_c1[1][i]
         
         if soci_binary[j][i] == 0 :
-            prob_math = prob_math * p_math_c1[1][i]
-            
+            prob_math = prob_math * p_math_c1[0][i]
+        
     smath_prob_matrix.append(prob_math)
     
 ##Probabilidad de que sea de biologia
@@ -1636,10 +1639,10 @@ for j in range(10) :
     prob_bio = p_c1
     for i in range(20) :
         if soci_binary[j][i] == 1 :
-            prob_bio = prob_bio * p_bio_c1[0][i]
+            prob_bio = prob_bio * p_bio_c1[1][i]
         
         if soci_binary[j][i] == 0 :
-            prob_bio = prob_bio * p_bio_c1[1][i]
+            prob_bio = prob_bio * p_bio_c1[0][i]
             
     sbio_prob_matrix.append(prob_bio)
 
@@ -1661,10 +1664,10 @@ for j in range(10) :
     prob_law = p_c1
     for i in range(20) :
         if soci_binary[j][i] == 1 :
-            prob_law = prob_law * p_law_c1[0][i]
+            prob_law = prob_law * p_law_c1[1][i]
         
         if soci_binary[j][i] == 0 :
-            prob_law = prob_law * p_law_c1[1][i]
+            prob_law = prob_law * p_law_c1[0][i]
             
     slaw_prob_matrix.append(prob_law)
 
@@ -1686,10 +1689,10 @@ for j in range(10) :
     prob_busi = p_c1
     for i in range(20) :
         if soci_binary[j][i] == 1 :
-            prob_busi = prob_busi * p_busi_c1[0][i]
+            prob_busi = prob_busi * p_busi_c1[1][i]
         
         if soci_binary[j][i] == 0 :
-            prob_busi = prob_busi * p_busi_c1[1][i]
+            prob_busi = prob_busi * p_busi_c1[0][i]
             
     sbusi_prob_matrix.append(prob_busi)
 
@@ -1711,10 +1714,10 @@ for j in range(10) :
     prob_soci = p_c1
     for i in range(20) :
         if soci_binary[j][i] == 1 :
-            prob_soci = prob_soci * p_soci_c1[0][i]
+            prob_soci = prob_soci * p_soci_c1[1][i]
         
         if soci_binary[j][i] == 0 :
-            prob_soci = prob_soci * p_soci_c1[1][i]
+            prob_soci = prob_soci * p_soci_c1[0][i]
             
     ssoci_prob_matrix.append(prob_soci)
 
@@ -1736,10 +1739,10 @@ for j in range(10) :
     prob_lit = p_c1
     for i in range(20) :
         if soci_binary[j][i] == 1 :
-            prob_lit = prob_lit * p_lit_c1[0][i]
+            prob_lit = prob_lit * p_lit_c1[1][i]
         
         if soci_binary[j][i] == 0 :
-            prob_lit = prob_lit * p_lit_c1[1][i]
+            prob_lit = prob_lit * p_lit_c1[0][i]
             
     slit_prob_matrix.append(prob_lit)
 
@@ -1752,7 +1755,7 @@ probabilities_soci = [smath_prob_matrix, sbio_prob_matrix, slaw_prob_matrix,
 
 books_prob_soci = []
 for i in range(10) :
-    winner = probabilities_soci[0][0] #Partir de que se trata de matematicas
+    winner = probabilities_soci[0][i] #Partir de que se trata de matematicas
     genre = 1
     for j in range(6) :
         if winner < probabilities_soci[j][i] :
@@ -1781,10 +1784,10 @@ for j in range(10) :
     prob_math = p_c1
     for i in range(20) :
         if lit_binary[j][i] == 1 :
-            prob_math = prob_math * p_math_c1[0][i]
+            prob_math = prob_math * p_math_c1[1][i]
         
         if lit_binary[j][i] == 0 :
-            prob_math = prob_math * p_math_c1[1][i]
+            prob_math = prob_math * p_math_c1[0][i]
             
     limath_prob_matrix.append(prob_math)
     
@@ -1806,10 +1809,10 @@ for j in range(10) :
     prob_bio = p_c1
     for i in range(20) :
         if lit_binary[j][i] == 1 :
-            prob_bio = prob_bio * p_bio_c1[0][i]
+            prob_bio = prob_bio * p_bio_c1[1][i]
         
         if lit_binary[j][i] == 0 :
-            prob_bio = prob_bio * p_bio_c1[1][i]
+            prob_bio = prob_bio * p_bio_c1[0][i]
             
     libio_prob_matrix.append(prob_bio)
 
@@ -1831,10 +1834,10 @@ for j in range(10) :
     prob_law = p_c1
     for i in range(20) :
         if lit_binary[j][i] == 1 :
-            prob_law = prob_law * p_law_c1[0][i]
+            prob_law = prob_law * p_law_c1[1][i]
         
         if lit_binary[j][i] == 0 :
-            prob_law = prob_law * p_law_c1[1][i]
+            prob_law = prob_law * p_law_c1[0][i]
             
     lilaw_prob_matrix.append(prob_law)
 
@@ -1856,10 +1859,10 @@ for j in range(10) :
     prob_busi = p_c1
     for i in range(20) :
         if lit_binary[j][i] == 1 :
-            prob_busi = prob_busi * p_busi_c1[0][i]
+            prob_busi = prob_busi * p_busi_c1[1][i]
         
         if lit_binary[j][i] == 0 :
-            prob_busi = prob_busi * p_busi_c1[1][i]
+            prob_busi = prob_busi * p_busi_c1[0][i]
             
     libusi_prob_matrix.append(prob_busi)
 
@@ -1881,10 +1884,10 @@ for j in range(10) :
     prob_soci = p_c1
     for i in range(20) :
         if lit_binary[j][i] == 1 :
-            prob_soci = prob_soci * p_soci_c1[0][i]
+            prob_soci = prob_soci * p_soci_c1[1][i]
         
         if lit_binary[j][i] == 0 :
-            prob_soci = prob_soci * p_soci_c1[1][i]
+            prob_soci = prob_soci * p_soci_c1[0][i]
             
     lisoci_prob_matrix.append(prob_soci)
 
@@ -1906,10 +1909,10 @@ for j in range(10) :
     prob_lit = p_c1
     for i in range(20) :
         if lit_binary[j][i] == 1 :
-            prob_lit = prob_lit * p_lit_c1[0][i]
+            prob_lit = prob_lit * p_lit_c1[1][i]
         
         if lit_binary[j][i] == 0 :
-            prob_lit = prob_lit * p_lit_c1[1][i]
+            prob_lit = prob_lit * p_lit_c1[0][i]
             
     lilit_prob_matrix.append(prob_lit)
 
@@ -1922,7 +1925,7 @@ probabilities_lit = [limath_prob_matrix, libio_prob_matrix, lilaw_prob_matrix,
 
 books_prob_lit = []
 for i in range(10) :
-    winner = probabilities_soci[0][0] #Partir de que se trata de matematicas
+    winner = probabilities_lit[0][i] #Partir de que se trata de matematicas
     genre = 1
     for j in range(6) :
         if winner < probabilities_lit[j][i] :
