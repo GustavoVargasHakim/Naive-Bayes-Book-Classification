@@ -116,7 +116,7 @@ c2 = [new_bio_rows, new_law_rows, new_manag_rows, new_soci_rows, new_lite_rows] 
 binary_matrix = []
 for i in range(20) :
     oo_math = []
-    for word in math_features :
+    for word in features :
         if word in c1[0][i] :
             oo_math.append(1)
         else :
@@ -126,7 +126,7 @@ for i in range(20) :
 other1 = c2[0]
 for i in range(20) :
     oo_math = []
-    for word in math_features :
+    for word in features :
         if word in other1[0][i] :
             oo_math.append(1)
         else :
@@ -136,7 +136,7 @@ for i in range(20) :
 other2 = c2[1]
 for i in range(20) :
     oo_math = []
-    for word in math_features :
+    for word in features :
         if word in other2[0][i] :
             oo_math.append(1)
         else :
@@ -146,7 +146,7 @@ for i in range(20) :
 other3 = c2[2]
 for i in range(20) :
     oo_math = []
-    for word in math_features :
+    for word in features :
         if word in other3[0][i] :
             oo_math.append(1)
         else :
@@ -156,7 +156,7 @@ for i in range(20) :
 other4 = c2[3]
 for i in range(20) :
     oo_math = []
-    for word in math_features :
+    for word in features :
         if word in other4[0][i] :
             oo_math.append(1)
         else :
@@ -166,7 +166,7 @@ for i in range(20) :
 other5 = c2[4]
 for i in range(20) :
     oo_math = []
-    for word in math_features :
+    for word in features :
         if word in other5[0][i] :
             oo_math.append(1)
         else :
@@ -186,7 +186,7 @@ binary_c2 = np.asarray(binary_c2)
 
 zeros_c1 = []
 ones_c1 = []
-for i in range(20) :
+for i in range(120) :
     z = 0
     o = 0
     for j in range(20) :
@@ -199,7 +199,7 @@ for i in range(20) :
 
 zeros_c2 = []
 ones_c2 = []
-for i in range(20) :
+for i in range(120) :
     z = 0
     o = 0
     for j in range(100) :
@@ -244,7 +244,7 @@ c2 = [new_math_rows, new_law_rows, new_manag_rows, new_soci_rows, new_lite_rows]
 binary_matrix = []
 for i in range(20) :
     oo_bio = []
-    for word in bio_features :
+    for word in features :
         if word in c1[0][i] :
             oo_bio.append(1)
         else :
@@ -254,7 +254,7 @@ for i in range(20) :
 other1 = c2[0]
 for i in range(20) :
     oo_bio = []
-    for word in bio_features :
+    for word in features :
         if word in other1[0][i] :
             oo_bio.append(1)
         else :
@@ -264,7 +264,7 @@ for i in range(20) :
 other2 = c2[1]
 for i in range(20) :
     oo_bio = []
-    for word in bio_features :
+    for word in features :
         if word in other2[0][i] :
             oo_bio.append(1)
         else :
@@ -274,7 +274,7 @@ for i in range(20) :
 other3 = c2[2]
 for i in range(20) :
     oo_bio = []
-    for word in bio_features :
+    for word in features :
         if word in other3[0][i] :
             oo_bio.append(1)
         else :
@@ -284,7 +284,7 @@ for i in range(20) :
 other4 = c2[3]
 for i in range(20) :
     oo_bio = []
-    for word in bio_features :
+    for word in features :
         if word in other4[0][i] :
             oo_bio.append(1)
         else :
@@ -294,13 +294,13 @@ for i in range(20) :
 other5 = c2[4]
 for i in range(20) :
     oo_bio = []
-    for word in bio_features :
+    for word in features :
         if word in other5[0][i] :
             oo_bio.append(1)
         else :
             oo_bio.append(0)
     binary_matrix.append(oo_bio)
-    
+
 #Tablas de frecuencias para ambas clases
 binary_c1 = []
 binary_c2 = []
@@ -314,7 +314,7 @@ binary_c2 = np.asarray(binary_c2)
 
 zeros_c1 = []
 ones_c1 = []
-for i in range(20) :
+for i in range(120) :
     z = 0
     o = 0
     for j in range(20) :
@@ -327,7 +327,7 @@ for i in range(20) :
 
 zeros_c2 = []
 ones_c2 = []
-for i in range(20) :
+for i in range(120) :
     z = 0
     o = 0
     for j in range(100) :
@@ -373,7 +373,7 @@ c2 = [new_math_rows, new_bio_rows, new_manag_rows, new_soci_rows, new_lite_rows]
 binary_matrix = []
 for i in range(20) :
     oo_law = []
-    for word in law_features :
+    for word in features :
         if word in c1[0][i] :
             oo_law.append(1)
         else :
@@ -383,7 +383,7 @@ for i in range(20) :
 other1 = c2[0]
 for i in range(20) :
     oo_law = []
-    for word in law_features :
+    for word in features :
         if word in other1[0][i] :
             oo_law.append(1)
         else :
@@ -393,7 +393,7 @@ for i in range(20) :
 other2 = c2[1]
 for i in range(20) :
     oo_law = []
-    for word in law_features :
+    for word in features :
         if word in other2[0][i] :
             oo_law.append(1)
         else :
@@ -403,7 +403,7 @@ for i in range(20) :
 other3 = c2[2]
 for i in range(20) :
     oo_law = []
-    for word in law_features :
+    for word in features :
         if word in other3[0][i] :
             oo_law.append(1)
         else :
@@ -413,7 +413,7 @@ for i in range(20) :
 other4 = c2[3]
 for i in range(20) :
     oo_law = []
-    for word in law_features :
+    for word in features :
         if word in other4[0][i] :
             oo_law.append(1)
         else :
@@ -423,13 +423,14 @@ for i in range(20) :
 other5 = c2[4]
 for i in range(20) :
     oo_law = []
-    for word in law_features :
+    for word in features :
         if word in other5[0][i] :
             oo_law.append(1)
         else :
             oo_law.append(0)
     binary_matrix.append(oo_law)
-    
+
+
 #Tablas de frecuencias para ambas clases
 binary_c1 = []
 binary_c2 = []
@@ -443,7 +444,7 @@ binary_c2 = np.asarray(binary_c2)
 
 zeros_c1 = []
 ones_c1 = []
-for i in range(20) :
+for i in range(120) :
     z = 0
     o = 0
     for j in range(20) :
@@ -456,7 +457,7 @@ for i in range(20) :
 
 zeros_c2 = []
 ones_c2 = []
-for i in range(20) :
+for i in range(120) :
     z = 0
     o = 0
     for j in range(100) :
@@ -501,7 +502,7 @@ c2 = [new_math_rows, new_bio_rows, new_law_rows, new_soci_rows, new_lite_rows] #
 binary_matrix = []
 for i in range(20) :
     oo_busi = []
-    for word in busi_features :
+    for word in features :
         if word in c1[0][i] :
             oo_busi.append(1)
         else :
@@ -511,7 +512,7 @@ for i in range(20) :
 other1 = c2[0]
 for i in range(20) :
     oo_busi = []
-    for word in busi_features :
+    for word in features :
         if word in other1[0][i] :
             oo_busi.append(1)
         else :
@@ -521,7 +522,7 @@ for i in range(20) :
 other2 = c2[1]
 for i in range(20) :
     oo_busi = []
-    for word in busi_features :
+    for word in features :
         if word in other2[0][i] :
             oo_busi.append(1)
         else :
@@ -531,7 +532,7 @@ for i in range(20) :
 other3 = c2[2]
 for i in range(20) :
     oo_busi = []
-    for word in busi_features :
+    for word in features :
         if word in other3[0][i] :
             oo_busi.append(1)
         else :
@@ -541,7 +542,7 @@ for i in range(20) :
 other4 = c2[3]
 for i in range(20) :
     oo_busi = []
-    for word in busi_features :
+    for word in features :
         if word in other4[0][i] :
             oo_busi.append(1)
         else :
@@ -551,7 +552,7 @@ for i in range(20) :
 other5 = c2[4]
 for i in range(20) :
     oo_busi = []
-    for word in busi_features :
+    for word in features :
         if word in other5[0][i] :
             oo_busi.append(1)
         else :
@@ -561,7 +562,7 @@ for i in range(20) :
 #Tablas de frecuencias para ambas clases
 binary_c1 = []
 binary_c2 = []
-for i in range(20) :
+for i in range(120) :
     binary_c1.append(binary_matrix[i])
 binary_c1 = np.asarray(binary_c1)
 
@@ -571,7 +572,7 @@ binary_c2 = np.asarray(binary_c2)
 
 zeros_c1 = []
 ones_c1 = []
-for i in range(20) :
+for i in range(120) :
     z = 0
     o = 0
     for j in range(20) :
@@ -629,7 +630,7 @@ c2 = [new_math_rows, new_bio_rows, new_law_rows, new_manag_rows, new_lite_rows] 
 binary_matrix = []
 for i in range(20) :
     oo_soci = []
-    for word in soci_features :
+    for word in features :
         if word in c1[0][i] :
             oo_soci.append(1)
         else :
@@ -639,7 +640,7 @@ for i in range(20) :
 other1 = c2[0]
 for i in range(20) :
     oo_soci = []
-    for word in soci_features :
+    for word in features :
         if word in other1[0][i] :
             oo_soci.append(1)
         else :
@@ -649,7 +650,7 @@ for i in range(20) :
 other2 = c2[1]
 for i in range(20) :
     oo_soci = []
-    for word in soci_features :
+    for word in features :
         if word in other2[0][i] :
             oo_soci.append(1)
         else :
@@ -659,7 +660,7 @@ for i in range(20) :
 other3 = c2[2]
 for i in range(20) :
     oo_soci = []
-    for word in soci_features :
+    for word in features :
         if word in other3[0][i] :
             oo_soci.append(1)
         else :
@@ -669,7 +670,7 @@ for i in range(20) :
 other4 = c2[3]
 for i in range(20) :
     oo_soci = []
-    for word in soci_features :
+    for word in features :
         if word in other4[0][i] :
             oo_soci.append(1)
         else :
@@ -679,7 +680,7 @@ for i in range(20) :
 other5 = c2[4]
 for i in range(20) :
     oo_soci = []
-    for word in soci_features :
+    for word in features :
         if word in other5[0][i] :
             oo_soci.append(1)
         else :
@@ -699,7 +700,7 @@ binary_c2 = np.asarray(binary_c2)
 
 zeros_c1 = []
 ones_c1 = []
-for i in range(20) :
+for i in range(120) :
     z = 0
     o = 0
     for j in range(20) :
@@ -712,7 +713,7 @@ for i in range(20) :
 
 zeros_c2 = []
 ones_c2 = []
-for i in range(20) :
+for i in range(120) :
     z = 0
     o = 0
     for j in range(100) :
@@ -757,7 +758,7 @@ c2 = [new_math_rows, new_bio_rows, new_law_rows, new_manag_rows, new_soci_rows] 
 binary_matrix = []
 for i in range(20) :
     oo_lit = []
-    for word in literature_features :
+    for word in features :
         if word in c1[0][i] :
             oo_lit.append(1)
         else :
@@ -767,7 +768,7 @@ for i in range(20) :
 other1 = c2[0]
 for i in range(20) :
     oo_lit = []
-    for word in literature_features :
+    for word in features :
         if word in other1[0][i] :
             oo_lit.append(1)
         else :
@@ -777,7 +778,7 @@ for i in range(20) :
 other2 = c2[1]
 for i in range(20) :
     oo_lit = []
-    for word in literature_features :
+    for word in features :
         if word in other2[0][i] :
             oo_lit.append(1)
         else :
@@ -787,7 +788,7 @@ for i in range(20) :
 other3 = c2[2]
 for i in range(20) :
     oo_lit = []
-    for word in literature_features :
+    for word in features :
         if word in other3[0][i] :
             oo_lit.append(1)
         else :
@@ -797,7 +798,7 @@ for i in range(20) :
 other4 = c2[3]
 for i in range(20) :
     oo_lit = []
-    for word in literature_features :
+    for word in features :
         if word in other4[0][i] :
             oo_lit.append(1)
         else :
@@ -807,7 +808,7 @@ for i in range(20) :
 other5 = c2[4]
 for i in range(20) :
     oo_lit = []
-    for word in literature_features :
+    for word in features :
         if word in other5[0][i] :
             oo_lit.append(1)
         else :
@@ -827,7 +828,7 @@ binary_c2 = np.asarray(binary_c2)
 
 zeros_c1 = []
 ones_c1 = []
-for i in range(20) :
+for i in range(120) :
     z = 0
     o = 0
     for j in range(20) :
@@ -840,7 +841,7 @@ for i in range(20) :
 
 zeros_c2 = []
 ones_c2 = []
-for i in range(20) :
+for i in range(120) :
     z = 0
     o = 0
     for j in range(100) :
@@ -921,18 +922,18 @@ with open('validation_books.csv', newline='', encoding="utf-8") as File:
 math_binary = []
 for i in range(10) :
     oo_math = []
-    for word in math_features :
+    for word in features :
         if word in v_math_rows[i] :
             oo_math.append(1)
         else :
             oo_math.append(0)
     math_binary.append(oo_math)
-    
+
 #Calculando probabilidades para cada libro segun sus palabras clave
 mmath_prob_matrix = []
 for j in range(10) :
     prob_math = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if math_binary[j][i] == 1 :
             prob_math = prob_math * p_math_c1[1][i]
         
@@ -946,7 +947,7 @@ for j in range(10) :
 math_binary = []
 for i in range(10) :
     oo_math = []
-    for word in bio_features :
+    for word in features :
         if word in v_math_rows[i] :
             oo_math.append(1)
         else :
@@ -957,7 +958,7 @@ for i in range(10) :
 mbio_prob_matrix = []
 for j in range(10) :
     prob_bio = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if math_binary[j][i] == 1 :
             prob_bio = prob_bio * p_bio_c1[1][i]
         
@@ -971,7 +972,7 @@ for j in range(10) :
 math_binary = []
 for i in range(10) :
     oo_math = []
-    for word in law_features :
+    for word in features :
         if word in v_math_rows[i] :
             oo_math.append(1)
         else :
@@ -982,7 +983,7 @@ for i in range(10) :
 mlaw_prob_matrix = []
 for j in range(10) :
     prob_law = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if math_binary[j][i] == 1 :
             prob_law = prob_law * p_law_c1[1][i]
         
@@ -996,7 +997,7 @@ for j in range(10) :
 math_binary = []
 for i in range(10) :
     oo_math = []
-    for word in busi_features :
+    for word in features :
         if word in v_math_rows[i] :
             oo_math.append(1)
         else :
@@ -1007,7 +1008,7 @@ for i in range(10) :
 mbusi_prob_matrix = []
 for j in range(10) :
     prob_busi = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if math_binary[j][i] == 1 :
             prob_busi = prob_busi * p_busi_c1[1][i]
         
@@ -1021,7 +1022,7 @@ for j in range(10) :
 math_binary = []
 for i in range(10) :
     oo_math = []
-    for word in soci_features :
+    for word in features :
         if word in v_math_rows[i] :
             oo_math.append(1)
         else :
@@ -1032,7 +1033,7 @@ for i in range(10) :
 msoci_prob_matrix = []
 for j in range(10) :
     prob_soci = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if math_binary[j][i] == 1 :
             prob_soci = prob_soci * p_soci_c1[1][i]
         
@@ -1046,7 +1047,7 @@ for j in range(10) :
 math_binary = []
 for i in range(10) :
     oo_math = []
-    for word in literature_features :
+    for word in features :
         if word in v_math_rows[i] :
             oo_math.append(1)
         else :
@@ -1057,7 +1058,7 @@ for i in range(10) :
 mlit_prob_matrix = []
 for j in range(10) :
     prob_lit = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if math_binary[j][i] == 1 :
             prob_lit = prob_lit * p_lit_c1[1][i]
         
@@ -1091,7 +1092,7 @@ print(books_prob_math)
 bio_binary = []
 for i in range(10) :
     oo_bio = []
-    for word in math_features :
+    for word in features :
         if word in v_bio_rows[i] :
             oo_bio.append(1)
         else :
@@ -1102,7 +1103,7 @@ for i in range(10) :
 bmath_prob_matrix = []
 for j in range(10) :
     prob_math = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if bio_binary[j][i] == 1 :
             prob_math = prob_math * p_math_c1[1][i]
         
@@ -1116,7 +1117,7 @@ for j in range(10) :
 bio_binary = []
 for i in range(10) :
     oo_bio = []
-    for word in bio_features :
+    for word in features :
         if word in v_bio_rows[i] :
             oo_bio.append(1)
         else :
@@ -1127,7 +1128,7 @@ for i in range(10) :
 bbio_prob_matrix = []
 for j in range(10) :
     prob_bio = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if bio_binary[j][i] == 1 :
             prob_bio = prob_bio * p_bio_c1[1][i]
         
@@ -1141,7 +1142,7 @@ for j in range(10) :
 bio_binary = []
 for i in range(10) :
     oo_bio = []
-    for word in law_features :
+    for word in features :
         if word in v_bio_rows[i] :
             oo_bio.append(1)
         else :
@@ -1152,7 +1153,7 @@ for i in range(10) :
 blaw_prob_matrix = []
 for j in range(10) :
     prob_law = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if bio_binary[j][i] == 1 :
             prob_law = prob_law * p_law_c1[1][i]
         
@@ -1166,7 +1167,7 @@ for j in range(10) :
 bio_binary = []
 for i in range(10) :
     oo_bio = []
-    for word in busi_features :
+    for word in features :
         if word in v_bio_rows[i] :
             oo_bio.append(1)
         else :
@@ -1177,7 +1178,7 @@ for i in range(10) :
 bbusi_prob_matrix = []
 for j in range(10) :
     prob_busi = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if bio_binary[j][i] == 1 :
             prob_busi = prob_busi * p_busi_c1[1][i]
         
@@ -1191,7 +1192,7 @@ for j in range(10) :
 bio_binary = []
 for i in range(10) :
     oo_bio = []
-    for word in soci_features :
+    for word in features :
         if word in v_bio_rows[i] :
             oo_bio.append(1)
         else :
@@ -1202,7 +1203,7 @@ for i in range(10) :
 bsoci_prob_matrix = []
 for j in range(10) :
     prob_soci = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if bio_binary[j][i] == 1 :
             prob_soci = prob_soci * p_soci_c1[1][i]
         
@@ -1216,7 +1217,7 @@ for j in range(10) :
 bio_binary = []
 for i in range(10) :
     oo_bio = []
-    for word in literature_features :
+    for word in features :
         if word in v_bio_rows[i] :
             oo_bio.append(1)
         else :
@@ -1227,7 +1228,7 @@ for i in range(10) :
 blit_prob_matrix = []
 for j in range(10) :
     prob_lit = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if bio_binary[j][i] == 1 :
             prob_lit = prob_lit * p_lit_c1[1][i]
         
@@ -1261,7 +1262,7 @@ print(books_prob_bio)
 law_binary = []
 for i in range(10) :
     oo_law = []
-    for word in math_features :
+    for word in features :
         if word in v_law_rows[i] :
             oo_law.append(1)
         else :
@@ -1272,7 +1273,7 @@ for i in range(10) :
 lmath_prob_matrix = []
 for j in range(10) :
     prob_math = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if law_binary[j][i] == 1 :
             prob_math = prob_math * p_math_c1[1][i]
         
@@ -1286,7 +1287,7 @@ for j in range(10) :
 law_binary = []
 for i in range(10) :
     oo_law = []
-    for word in bio_features :
+    for word in features :
         if word in v_law_rows[i] :
             oo_law.append(1)
         else :
@@ -1297,7 +1298,7 @@ for i in range(10) :
 lbio_prob_matrix = []
 for j in range(10) :
     prob_bio = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if law_binary[j][i] == 1 :
             prob_bio = prob_bio * p_bio_c1[1][i]
         
@@ -1311,7 +1312,7 @@ for j in range(10) :
 law_binary = []
 for i in range(10) :
     oo_law = []
-    for word in law_features :
+    for word in features :
         if word in v_law_rows[i] :
             oo_law.append(1)
         else :
@@ -1322,7 +1323,7 @@ for i in range(10) :
 llaw_prob_matrix = []
 for j in range(10) :
     prob_law = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if law_binary[j][i] == 1 :
             prob_law = prob_law * p_law_c1[1][i]
         
@@ -1336,7 +1337,7 @@ for j in range(10) :
 law_binary = []
 for i in range(10) :
     oo_law = []
-    for word in busi_features :
+    for word in features :
         if word in v_law_rows[i] :
             oo_law.append(1)
         else :
@@ -1347,7 +1348,7 @@ for i in range(10) :
 lbusi_prob_matrix = []
 for j in range(10) :
     prob_busi = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if law_binary[j][i] == 1 :
             prob_busi = prob_busi * p_busi_c1[1][i]
         
@@ -1361,7 +1362,7 @@ for j in range(10) :
 law_binary = []
 for i in range(10) :
     oo_law = []
-    for word in soci_features :
+    for word in features :
         if word in v_law_rows[i] :
             oo_law.append(1)
         else :
@@ -1372,7 +1373,7 @@ for i in range(10) :
 lsoci_prob_matrix = []
 for j in range(10) :
     prob_soci = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if law_binary[j][i] == 1 :
             prob_soci = prob_soci * p_soci_c1[1][i]
         
@@ -1386,7 +1387,7 @@ for j in range(10) :
 law_binary = []
 for i in range(10) :
     oo_law = []
-    for word in literature_features :
+    for word in features :
         if word in v_law_rows[i] :
             oo_law.append(1)
         else :
@@ -1397,7 +1398,7 @@ for i in range(10) :
 llit_prob_matrix = []
 for j in range(10) :
     prob_lit = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if law_binary[j][i] == 1 :
             prob_lit = prob_lit * p_lit_c1[1][i]
         
@@ -1431,7 +1432,7 @@ print(books_prob_law)
 busi_binary = []
 for i in range(10) :
     oo_busi = []
-    for word in math_features :
+    for word in features :
         if word in v_manag_rows[i] :
             oo_busi.append(1)
         else :
@@ -1442,7 +1443,7 @@ for i in range(10) :
 bumath_prob_matrix = []
 for j in range(10) :
     prob_math = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if busi_binary[j][i] == 1 :
             prob_math = prob_math * p_math_c1[1][i]
         
@@ -1456,7 +1457,7 @@ for j in range(10) :
 busi_binary = []
 for i in range(10) :
     oo_busi= []
-    for word in bio_features :
+    for word in features :
         if word in v_manag_rows[i] :
             oo_busi.append(1)
         else :
@@ -1467,7 +1468,7 @@ for i in range(10) :
 bubio_prob_matrix = []
 for j in range(10) :
     prob_bio = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if busi_binary[j][i] == 1 :
             prob_bio = prob_bio * p_bio_c1[1][i]
         
@@ -1481,7 +1482,7 @@ for j in range(10) :
 busi_binary = []
 for i in range(10) :
     oo_busi = []
-    for word in law_features :
+    for word in features :
         if word in v_manag_rows[i] :
             oo_busi.append(1)
         else :
@@ -1492,7 +1493,7 @@ for i in range(10) :
 bulaw_prob_matrix = []
 for j in range(10) :
     prob_law = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if busi_binary[j][i] == 1 :
             prob_law = prob_law * p_law_c1[1][i]
         
@@ -1506,7 +1507,7 @@ for j in range(10) :
 busi_binary = []
 for i in range(10) :
     oo_busi = []
-    for word in busi_features :
+    for word in features :
         if word in v_manag_rows[i] :
             oo_busi.append(1)
         else :
@@ -1517,7 +1518,7 @@ for i in range(10) :
 bubusi_prob_matrix = []
 for j in range(10) :
     prob_busi = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if busi_binary[j][i] == 1 :
             prob_busi = prob_busi * p_busi_c1[1][i]
         
@@ -1531,7 +1532,7 @@ for j in range(10) :
 busoci_binary = []
 for i in range(10) :
     oo_busi = []
-    for word in soci_features :
+    for word in features :
         if word in v_manag_rows[i] :
             oo_busi.append(1)
         else :
@@ -1542,7 +1543,7 @@ for i in range(10) :
 busoci_prob_matrix = []
 for j in range(10) :
     prob_soci = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if busi_binary[j][i] == 1 :
             prob_soci = prob_soci * p_soci_c1[1][i]
         
@@ -1556,7 +1557,7 @@ for j in range(10) :
 busi_binary = []
 for i in range(10) :
     oo_busi = []
-    for word in literature_features :
+    for word in features :
         if word in v_manag_rows[i] :
             oo_busi.append(1)
         else :
@@ -1567,7 +1568,7 @@ for i in range(10) :
 bulit_prob_matrix = []
 for j in range(10) :
     prob_lit = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if busi_binary[j][i] == 1 :
             prob_lit = prob_lit * p_lit_c1[1][i]
         
@@ -1601,7 +1602,7 @@ print(books_prob_busi)
 soci_binary = []
 for i in range(10) :
     oo_soci = []
-    for word in math_features :
+    for word in features :
         if word in v_soci_rows[i] :
             oo_soci.append(1)
         else :
@@ -1612,7 +1613,7 @@ for i in range(10) :
 smath_prob_matrix = []
 for j in range(10) :
     prob_math = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if soci_binary[j][i] == 1 :
             prob_math = prob_math * p_math_c1[1][i]
         
@@ -1626,7 +1627,7 @@ for j in range(10) :
 soci_binary = []
 for i in range(10) :
     oo_soci= []
-    for word in bio_features :
+    for word in features :
         if word in v_soci_rows[i] :
             oo_soci.append(1)
         else :
@@ -1637,7 +1638,7 @@ for i in range(10) :
 sbio_prob_matrix = []
 for j in range(10) :
     prob_bio = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if soci_binary[j][i] == 1 :
             prob_bio = prob_bio * p_bio_c1[1][i]
         
@@ -1651,7 +1652,7 @@ for j in range(10) :
 soci_binary = []
 for i in range(10) :
     oo_soci = []
-    for word in law_features :
+    for word in features :
         if word in v_soci_rows[i] :
             oo_soci.append(1)
         else :
@@ -1662,7 +1663,7 @@ for i in range(10) :
 slaw_prob_matrix = []
 for j in range(10) :
     prob_law = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if soci_binary[j][i] == 1 :
             prob_law = prob_law * p_law_c1[1][i]
         
@@ -1676,7 +1677,7 @@ for j in range(10) :
 soci_binary = []
 for i in range(10) :
     oo_soci = []
-    for word in soci_features :
+    for word in features :
         if word in v_soci_rows[i] :
             oo_soci.append(1)
         else :
@@ -1687,7 +1688,7 @@ for i in range(10) :
 sbusi_prob_matrix = []
 for j in range(10) :
     prob_busi = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if soci_binary[j][i] == 1 :
             prob_busi = prob_busi * p_busi_c1[1][i]
         
@@ -1701,7 +1702,7 @@ for j in range(10) :
 soci_binary = []
 for i in range(10) :
     oo_soci = []
-    for word in soci_features :
+    for word in features :
         if word in v_soci_rows[i] :
             oo_soci.append(1)
         else :
@@ -1712,7 +1713,7 @@ for i in range(10) :
 ssoci_prob_matrix = []
 for j in range(10) :
     prob_soci = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if soci_binary[j][i] == 1 :
             prob_soci = prob_soci * p_soci_c1[1][i]
         
@@ -1726,7 +1727,7 @@ for j in range(10) :
 soci_binary = []
 for i in range(10) :
     oo_soci = []
-    for word in literature_features :
+    for word in features :
         if word in v_soci_rows[i] :
             oo_soci.append(1)
         else :
@@ -1737,7 +1738,7 @@ for i in range(10) :
 slit_prob_matrix = []
 for j in range(10) :
     prob_lit = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if soci_binary[j][i] == 1 :
             prob_lit = prob_lit * p_lit_c1[1][i]
         
@@ -1771,7 +1772,7 @@ print(books_prob_soci)
 lit_binary = []
 for i in range(10) :
     oo_lit = []
-    for word in math_features :
+    for word in features :
         if word in v_lite_rows[i] :
             oo_lit.append(1)
         else :
@@ -1782,7 +1783,7 @@ for i in range(10) :
 limath_prob_matrix = []
 for j in range(10) :
     prob_math = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if lit_binary[j][i] == 1 :
             prob_math = prob_math * p_math_c1[1][i]
         
@@ -1796,7 +1797,7 @@ for j in range(10) :
 lit_binary = []
 for i in range(10) :
     oo_lit= []
-    for word in bio_features :
+    for word in features :
         if word in v_lite_rows[i] :
             oo_lit.append(1)
         else :
@@ -1807,7 +1808,7 @@ for i in range(10) :
 libio_prob_matrix = []
 for j in range(10) :
     prob_bio = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if lit_binary[j][i] == 1 :
             prob_bio = prob_bio * p_bio_c1[1][i]
         
@@ -1821,7 +1822,7 @@ for j in range(10) :
 lit_binary = []
 for i in range(10) :
     oo_lit = []
-    for word in law_features :
+    for word in features :
         if word in v_lite_rows[i] :
             oo_lit.append(1)
         else :
@@ -1832,7 +1833,7 @@ for i in range(10) :
 lilaw_prob_matrix = []
 for j in range(10) :
     prob_law = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if lit_binary[j][i] == 1 :
             prob_law = prob_law * p_law_c1[1][i]
         
@@ -1846,7 +1847,7 @@ for j in range(10) :
 lit_binary = []
 for i in range(10) :
     oo_lit = []
-    for word in soci_features :
+    for word in features :
         if word in v_lite_rows[i] :
             oo_lit.append(1)
         else :
@@ -1857,7 +1858,7 @@ for i in range(10) :
 libusi_prob_matrix = []
 for j in range(10) :
     prob_busi = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if lit_binary[j][i] == 1 :
             prob_busi = prob_busi * p_busi_c1[1][i]
         
@@ -1871,7 +1872,7 @@ for j in range(10) :
 lit_binary = []
 for i in range(10) :
     oo_lit = []
-    for word in soci_features :
+    for word in features :
         if word in v_lite_rows[i] :
             oo_lit.append(1)
         else :
@@ -1882,7 +1883,7 @@ for i in range(10) :
 lisoci_prob_matrix = []
 for j in range(10) :
     prob_soci = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if lit_binary[j][i] == 1 :
             prob_soci = prob_soci * p_soci_c1[1][i]
         
@@ -1896,7 +1897,7 @@ for j in range(10) :
 lit_binary = []
 for i in range(10) :
     oo_lit = []
-    for word in literature_features :
+    for word in features :
         if word in v_lite_rows[i] :
             oo_lit.append(1)
         else :
@@ -1907,7 +1908,7 @@ for i in range(10) :
 lilit_prob_matrix = []
 for j in range(10) :
     prob_lit = p_c1
-    for i in range(20) :
+    for i in range(120) :
         if lit_binary[j][i] == 1 :
             prob_lit = prob_lit * p_lit_c1[1][i]
         
