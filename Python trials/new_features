@@ -1,0 +1,330 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Sep  2 16:41:19 2019
+
+@author: gustavo
+"""
+
+import nltk
+import string
+from nltk.corpus import stopwords
+from nltk.tokenize import RegexpTokenizer
+import fileinput
+import glob
+import csv
+
+'''Preprocessing characteristics'''
+stop_words = set(stopwords.words('english'))
+delete_words = ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'eg',
+                'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'y', 'z', 'σi', 'σn',
+                'α', 'β', 'βn', 'xn', 'αv', 'ν', 'ϕ', 'ba', 'ip', 'fi', 'kr', 'fr', 'ij',
+                'bd', 'nj', 'ac', 'bd', 'hk', 'gc', 'xg', 'dn', 'bi', 'mn', 'αu', 'hg',
+                'zn', 'nth', 'mmc','gcd', 'cd', 'ub', 'di', 'ad', 'ab','gh', 'στ', 'σ', 'ai',
+                'cis', 'abab', 'aabb', 'id', 'sn', 'ax', 'bx', 'αn','px', 'acr', 'bcs', 'hn',
+                'kx', 'ζ', 'η', 'θ', 'κ', 'λ', 'μ', 'ξ', 'ρ', 'τ', 'φ', 'χ', 'ψ',
+                'ω', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N',
+                'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Ω', 'Ψ', 'Σ', 'Π',
+                'Ξ', 'Λ', 'Θ', 'Δ', 'Γ', 'aβ', 'aβj', 'βj', 'gf', 'pn', 'bp', 'zp',
+                'bch', 'http://', 'http', 'xm','µx', 'also', 'url','ª', 'solu', 'equa', 'one', 
+                'two', 'https', 'may', 'see')
+
+'''Validation paths'''
+v_math_path = "../Math books/validation/Math_*.txt"
+v_t_bio_path = "../Biology books/validation/biology_*.txt"
+v_law_path = "../Law books/validation/Law_*.txt"
+v_busi_path = "../Management books/validation/Busi_*.txt"
+v_soci_path = "../Social Sciences books/validation/Soci_*.txt"
+v_lit_path = "../General literature books/validation/literature_*.txt"
+
+'''Training paths'''
+t_math_path = "../Math books/training/Math_*.txt"
+t_bio_path = "../Biology/training/biology_*.txt"
+t_law_path = "../Law books/training/Law_*.txt"
+t_busi_path = "../Management books/training/Busi_*.txt"
+t_soci_path = "../Social Sciences books/training/Soci_*.txt"
+t_lit_path = "../General literature books/training/literature_*.txt"
+
+'''Preprocessing the books'''
+
+#Reading training books
+math_t = glob.glob(t_math_path)
+bio_t = glob.glob(t_bio_path) 
+law_t = glob.glob(t_law_path)
+busi_t = glob.glob(t_busi_path)
+soci_t = glob.glob(t_soci_path)
+lit_t = glob.glob(t_lit_path)
+
+math_t.sort()
+bio_t.sort()
+law_t.sort()
+busi_t.sort()
+soci_t.sort()
+lit_t.sort()
+books = [math_t, bio_t, law_t, busi_t, soci_t, lit_t]
+
+#Cleansing books
+clean_math_t = []
+clean_bio_t = []
+clean_law_t = []
+clean_busi_t = []
+clean_soci_t = []
+clean_lit_t = []
+
+print("Math")
+#Math books cleansing
+for line in fileinput.input(math_t, openhook=fileinput.hook_encoded("utf-8")):
+    if fileinput.isfirstline():
+        book = fileinput.filename()
+        Math_i = open(book, encoding="utf-8").read()
+        Math_i = nltk.word_tokenize(Math_i)
+        Math_i = [w.lower() for w in Math_i if w.isalpha()]
+        Math_i = [w for w in Math_i if not w in stop_words]
+        Math_i = [w for w in Math_i if not w in delete_words]
+        words_dist = nltk.FreqDist(w.lower() for w in Math_i)
+        most_common_words = words_dist.most_common(200)
+        clean_math_t.append(most_common_words)
+
+math_t_words = []
+for i in range(20) :
+    words = []
+    for j in range(200) :
+        words.append(clean_math_t[i][j][0])
+    
+    math_t_words.append(words) #Lists of main words of training math books
+
+print("Biology")
+#Biology books cleansing
+for line in fileinput.input(bio_t, openhook=fileinput.hook_encoded("utf-8")):
+    if fileinput.isfirstline():
+        book = fileinput.filename()
+        Bio_i = open(book, encoding="utf-8").read()
+        Bio_i = nltk.word_tokenize(Bio_i)
+        Bio_i = [w.lower() for w in Bio_i if w.isalpha()]
+        Bio_i = [w for w in Bio_i if not w in stop_words]
+        Bio_i = [w for w in Bio_i if not w in delete_words]
+        words_dist = nltk.FreqDist(w.lower() for w in Bio_i)
+        most_common_words = words_dist.most_common(200)
+        clean_bio_t.append(most_common_words)
+
+bio_t_words = []
+for i in range(20) :
+    words = []
+    for j in range(200) :
+        words.append(clean_bio_t[i][j][0])
+    
+    bio_t_words.append(words) #Lists of main words of training biology books
+
+print("Law")
+#Law books cleansing
+for line in fileinput.input(law_t, openhook=fileinput.hook_encoded("utf-8")):
+    if fileinput.isfirstline():
+        book = fileinput.filename()
+        Law_i = open(book, encoding="utf-8").read()
+        Law_i = nltk.word_tokenize(Law_i)
+        Law_i = [w.lower() for w in Law_i if w.isalpha()]
+        Law_i = [w for w in Law_i if not w in stop_words]
+        Law_i = [w for w in Law_i if not w in delete_words]
+        words_dist = nltk.FreqDist(w.lower() for w in Law_i)
+        most_common_words = words_dist.most_common(200)
+        clean_law_t.append(most_common_words)
+
+law_t_words = []
+for i in range(20) :
+    words = []
+    for j in range(20) :
+        words.append(clean_law_t[i][j][0])
+    
+    law_t_words.append(words) #Lists of main words of training Law books
+
+print("Management")
+#Management books cleansing
+for line in fileinput.input(busi_t, openhook=fileinput.hook_encoded("utf-8")):
+    if fileinput.isfirstline():
+        book = fileinput.filename()
+        Busi_i = open(book, encoding="utf-8").read()
+        Busi_i = nltk.word_tokenize(Busi_i)
+        Busi_i = [w.lower() for w in Busi_i if w.isalpha()]
+        Busi_i = [w for w in Busi_i if not w in stop_words]
+        Busi_i = [w for w in Busi_i if not w in delete_words]
+        words_dist = nltk.FreqDist(w.lower() for w in Busi_i)
+        most_common_words = words_dist.most_common(200)
+        clean_busi_t.append(most_common_words)
+
+busi_t_words = []
+for i in range(20) :
+    words = []
+    for j in range(200) :
+        words.append(clean_busi_t[i][j][0])
+    
+    busi_t_words.append(words) #Lists of main words of training management books
+
+print("Social Sciences")
+#Social Sciences books cleansing
+for line in fileinput.input(soci_t, openhook=fileinput.hook_encoded("utf-8")):
+    if fileinput.isfirstline():
+        book = fileinput.filename()
+        Soci_i = open(book, encoding="utf-8").read()
+        Soci_i = nltk.word_tokenize(Soci_i)
+        Soci_i = [w.lower() for w in Soci_i if w.isalpha()]
+        Soci_i = [w for w in Soci_i if not w in stop_words]
+        Soci_i = [w for w in Soci_i if not w in delete_words]
+        words_dist = nltk.FreqDist(w.lower() for w in Soci_i)
+        most_common_words = words_dist.most_common(200)
+        clean_soci_t.append(most_common_words)
+
+soci_t_words = []
+for i in range(20) :
+    words = []
+    for j in range(20) :
+        words.append(clean_soci_t[i][j][0])
+    
+    soci_t_words.append(words) #Lists of main words of training social sciences books
+
+print("General Literature")
+#General Literature books cleansing
+for line in fileinput.input(lit_t, openhook=fileinput.hook_encoded("utf-8")):
+    if fileinput.isfirstline():
+        book = fileinput.filename()
+        Lit_i = open(book, encoding="utf-8").read()
+        Lit_i = nltk.word_tokenize(Lit_i)
+        Lit_i = [w.lower() for w in Lit_i if w.isalpha()]
+        Lit_i = [w for w in Lit_i if not w in stop_words]
+        Lit_i = [w for w in Lit_i if not w in delete_words]
+        words_dist = nltk.FreqDist(w.lower() for w in Lit_i)
+        most_common_words = words_dist.most_common(200)
+        clean_lit_t.append(most_common_words)
+
+lit_t_words = []
+for i in range(20) :
+    words = []
+    for j in range(200) :
+        words.append(clean_lit_t[i][j][0])
+    
+    lit_t_words.append(words) #Lists of main words of training social sciences books
+
+math_words = []
+for i in range(len(math_t_words)) :
+    for j in range(len(math_t_words[i])) :
+        math_words.append(math_t_words[i][j])
+bio_words = []
+for i in range(len(bio_t_words)) :
+    for j in range(len(bio_t_words[i])) :
+        bio_words.append(bio_t_words[i][j])
+
+law_words = []
+for i in range(len(law_t_words)) :
+    for j in range(len(law_t_words[i])) :
+        law_words.append(law_t_words[i][j])
+
+busi_words = []
+for i in range(len(busi_t_words)) :
+    for j in range(len(busi_t_words[i])) :
+        busi_words.append(busi_t_words[i][j])
+
+soci_words = []
+for i in range(len(soci_t_words)) :
+    for j in range(len(soci_t_words[i])) :
+        soci_words.append(soci_t_words[i][j])
+
+lit_words = []
+for i in range(len(lit_t_words)) :
+    for j in range(len(lit_t_words[i])) :
+        lit_words.append(lit_t_words[i][j])
+    
+
+math_keys = []
+no_math = bio_words + law_words + busi_words + soci_words + lit_words
+
+bio_keys = []
+no_bio = math_words + law_words + busi_words + soci_words + lit_words
+
+law_keys = []
+no_law = math_words + bio_words + busi_words + soci_words + lit_words
+
+busi_keys = []
+no_busi = math_words + bio_words + law_words + soci_words + lit_words
+
+soci_keys = []
+no_soci = math_words + bio_words + law_words + busi_words + lit_words
+
+lit_keys = []
+no_lit = math_words + bio_words + law_words + busi_words + soci_words 
+
+for w in math_words :
+    if w not in no_math :
+        math_keys.append(w)
+
+for w in bio_words :
+    if w not in no_bio :
+        bio_keys.append(w)
+
+for w in law_words :
+    if w not in no_law :
+        law_keys.append(w)
+
+for w in busi_words :
+    if w not in no_busi :
+        busi_keys.append(w)
+
+for w in soci_words :
+    if w not in no_soci :
+        soci_keys.append(w)
+
+for w in lit_words :
+    if w not in no_lit :
+        lit_keys.append(w)
+
+math_features = []
+for i in range(20) :
+    math_features.append(math_keys[i])
+
+bio_features = []
+for i in range(20) :
+    bio_features.append(bio_keys[i])
+
+law_features = []
+for i in range(20) :
+    law_features.append(law_keys[i])
+
+busi_features = []
+for i in range(20) :
+    busi_features.append(busi_keys[i])
+
+soci_features = []
+for i in range(20) :
+    soci_features.append(soci_keys[i])
+
+lit_features = []
+for i in range(20) :
+    lit_features.append(lit_keys[i])
+     
+with open('math_features_2.csv', 'wt') as f:
+    csv_writer = csv.writer(f)
+ 
+    csv_writer.writerow(math_features)
+
+with open('bio_features_2.csv', 'wt') as f:
+    csv_writer = csv.writer(f)
+ 
+    csv_writer.writerow(bio_features)
+
+with open('law_features_2.csv', 'wt') as f:
+    csv_writer = csv.writer(f)
+ 
+    csv_writer.writerow(law_features)
+
+with open('busi_features_2.csv', 'wt') as f:
+    csv_writer = csv.writer(f)
+ 
+    csv_writer.writerow(busi_features)
+
+with open('soci_features_2.csv', 'wt') as f:
+    csv_writer = csv.writer(f)
+ 
+    csv_writer.writerow(soci_features)
+
+with open('lit_features_2.csv', 'wt') as f:
+    csv_writer = csv.writer(f)
+ 
+    csv_writer.writerow(lit_features)
